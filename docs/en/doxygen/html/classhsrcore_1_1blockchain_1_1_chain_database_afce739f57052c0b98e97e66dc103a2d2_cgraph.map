@@ -1,0 +1,8 @@
+<map id="hsrcore::blockchain::ChainDatabase::GetNextTargetRequired" name="hsrcore::blockchain::ChainDatabase::GetNextTargetRequired">
+<area shape="rect" id="node2" href="$class_c_big_num.html#aa874461cf2cfb497f2c9f20e66106d0b" title="CBigNum::GetCompact" alt="" coords="266,5,425,32"/>
+<area shape="rect" id="node3" href="$classhsrcore_1_1blockchain_1_1_chain_database.html#a433024c11b618290cf8035fa9a589654" title="hsrcore::blockchain\l::ChainDatabase::get\l_block_header" alt="" coords="273,56,417,112"/>
+<area shape="rect" id="node5" href="$class_c_big_num.html#a27e3ca82a40ae0c34ac4c059e4d0d66c" title="CBigNum::SetCompact" alt="" coords="267,136,424,163"/>
+<area shape="rect" id="node6" href="$classhsrcore_1_1blockchain_1_1_chain_interface.html#aa42c74de64649e82f2bfd6a232d894ae" title="hsrcore::blockchain\l::ChainInterface::get\l_current_production_info" alt="" coords="264,187,427,243"/>
+<area shape="rect" id="node4" href="$classhsrcore_1_1blockchain_1_1_chain_database.html#a0658aee2ff36f9d0fd34237e02e265ed" title="hsrcore::blockchain\l::ChainDatabase::get_block" alt="" coords="475,63,657,105"/>
+<area shape="rect" id="node7" href="$classhsrcore_1_1blockchain_1_1_chain_interface.html#a8210d2d3d2c07977058f4ee1fe3005bf" title="hsrcore::blockchain\l::ChainInterface::get\l_property_entry" alt="" coords="497,187,635,243"/>
+</map>

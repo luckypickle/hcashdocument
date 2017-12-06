@@ -1,0 +1,5 @@
+<map id="hsrcore::net::detail::NodeImpl::is_item_in_any_peers_inventory" name="hsrcore::net::detail::NodeImpl::is_item_in_any_peers_inventory">
+<area shape="rect" id="node2" href="$classhsrcore_1_1net_1_1detail_1_1_node_impl.html#affba7c44eef2684ebcba5ecc1646df97" title="hsrcore::net::detail\l::NodeImpl::on_item_not\l_available_message" alt="" coords="211,5,373,61"/>
+<area shape="rect" id="node4" href="$classhsrcore_1_1net_1_1detail_1_1_node_impl.html#ac178afcc3cf7fa1c1d1c47be6289de51" title="hsrcore::net::detail\l::NodeImpl::on_connection\l_closed" alt="" coords="204,85,380,141"/>
+<area shape="rect" id="node3" href="$classhsrcore_1_1net_1_1detail_1_1_node_impl.html#acf681683f9b0feee4994854571cbf65b" title="hsrcore::net::detail\l::NodeImpl::on_message" alt="" coords="428,13,595,54"/>
+</map>

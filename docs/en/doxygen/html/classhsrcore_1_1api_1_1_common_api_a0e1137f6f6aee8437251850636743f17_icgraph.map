@@ -1,0 +1,7 @@
+<map id="hsrcore::api::CommonApi::get_mining_info" name="hsrcore::api::CommonApi::get_mining_info">
+<area shape="rect" id="node2" href="$classhsrcore_1_1rpc__stubs_1_1_common_api_client.html#ac76bc415883ae522372df23d395109f1" title="hsrcore::rpc_stubs\l::CommonApiClient::get\l_mining_info" alt="" coords="234,5,394,61"/>
+<area shape="rect" id="node3" href="$classhsrcore_1_1rpc__stubs_1_1_common_api_rpc_server.html#ab829e6764976d7ae522b479f162f68ba" title="hsrcore::rpc_stubs\l::CommonApiRpcServer\l::get_mining_info_positional" alt="" coords="223,165,405,221"/>
+<area shape="rect" id="node6" href="$classhsrcore_1_1rpc__stubs_1_1_common_api_rpc_server.html#ab31a7769258bbde5a620e85718f1c7a0" title="hsrcore::rpc_stubs\l::CommonApiRpcServer\l::get_mining_info_named" alt="" coords="231,85,397,141"/>
+<area shape="rect" id="node4" href="$classhsrcore_1_1rpc__stubs_1_1_common_api_rpc_server.html#a45cf3aafd35992db4c663115daeeb234" title="hsrcore::rpc_stubs\l::CommonApiRpcServer\l::register_common_api\l_methods" alt="" coords="457,78,617,149"/>
+<area shape="rect" id="node5" href="$classhsrcore_1_1rpc__stubs_1_1_common_api_rpc_server.html#a0188b049d81ec379e3b00e02f4153dc2" title="hsrcore::rpc_stubs\l::CommonApiRpcServer\l::direct_invoke_positional\l_method" alt="" coords="453,173,620,243"/>
+</map>

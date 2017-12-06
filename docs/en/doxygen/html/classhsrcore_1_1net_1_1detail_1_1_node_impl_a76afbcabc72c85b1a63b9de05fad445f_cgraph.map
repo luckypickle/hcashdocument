@@ -1,0 +1,9 @@
+<map id="hsrcore::net::detail::NodeImpl::on_get_current_connections_request_message" name="hsrcore::net::detail::NodeImpl::on_get_current_connections_request_message">
+<area shape="rect" id="node2" href="$namespacehsrcore_1_1blockchain.html#a2d604a90c34e5cfbc5252d1596314373" title="hsrcore::blockchain::now" alt="" coords="979,36,1145,63"/>
+<area shape="rect" id="node5" href="$classhsrcore_1_1net_1_1_peer_connection.html#a7df3085418a209bb7dd08e092b7cd2de" title="hsrcore::net::PeerConnection\l::send_message" alt="" coords="263,42,453,83"/>
+<area shape="rect" id="node3" href="$namespacehsrcore_1_1blockchain.html#a6ab2a224374df515fe76b3799ed648fb" title="hsrcore::blockchain\l::ntp_time" alt="" coords="1193,29,1328,70"/>
+<area shape="rect" id="node4" href="$namespacehsrcore_1_1blockchain_1_1detail.html#ae5c17ca96b07a1f76c62bc6fd564759c" title="hsrcore::blockchain\l::detail::ntp_service" alt="" coords="1376,29,1511,70"/>
+<area shape="rect" id="node6" href="$classhsrcore_1_1net_1_1_peer_connection.html#aebb2b5496e61f6b891ba94f59b825eaf" title="hsrcore::net::PeerConnection\l::get_remote_endpoint" alt="" coords="501,42,692,83"/>
+<area shape="rect" id="node7" href="$classhsrcore_1_1net_1_1_peer_connection.html#aef3ea55a755e36cda5805bd337bde8cf" title="hsrcore::net::PeerConnection\l::send_queueable_message" alt="" coords="501,107,692,149"/>
+<area shape="rect" id="node8" href="$classhsrcore_1_1net_1_1_peer_connection.html#a40a9f7d3da42af0bd307f564b070205a" title="hsrcore::net::PeerConnection\l::close_connection" alt="" coords="740,74,931,115"/>
+</map>

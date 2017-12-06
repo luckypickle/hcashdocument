@@ -1,0 +1,6 @@
+<map id="hsrcore::wallet::Wallet::update_asset" name="hsrcore::wallet::Wallet::update_asset">
+<area shape="rect" id="node2" href="$classhsrcore_1_1wallet_1_1_wallet.html#a5fa9d05b99389e596dadae3ddfb4cdf8" title="hsrcore::wallet::Wallet\l::is_open" alt="" coords="633,19,784,61"/>
+<area shape="rect" id="node3" href="$classhsrcore_1_1wallet_1_1_wallet.html#a519c123db91699c6d1432008896c8b23" title="hsrcore::wallet::Wallet\l::is_unlocked" alt="" coords="220,27,371,69"/>
+<area shape="rect" id="node5" href="$classhsrcore_1_1wallet_1_1_wallet.html#aeea71f72f57033d24485188d94eb4d43" title="hsrcore::wallet::Wallet\l::create_transaction_builder" alt="" coords="204,93,387,134"/>
+<area shape="rect" id="node4" href="$classhsrcore_1_1wallet_1_1_wallet.html#a6e0016a17a8a09a506c9dfa7bbbb5f5d" title="hsrcore::wallet::Wallet\l::is_locked" alt="" coords="435,78,585,119"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="hsrcore::blockchain::ChainDatabase::calculate_supply" name="hsrcore::blockchain::ChainDatabase::calculate_supply">
+<area shape="rect" id="node2" href="$classhsrcore_1_1blockchain_1_1_chain_interface.html#aabf398a48e2ee054a89b53c976b3248e" title="hsrcore::blockchain\l::ChainInterface::get\l_asset_entry" alt="" coords="245,5,384,61"/>
+<area shape="rect" id="node3" href="$structhsrcore_1_1blockchain_1_1_balance_entry.html#a4e8cf78d45872ab47df00b84539a708d" title="hsrcore::blockchain\l::BalanceEntry::asset_id" alt="" coords="232,86,397,127"/>
+</map>

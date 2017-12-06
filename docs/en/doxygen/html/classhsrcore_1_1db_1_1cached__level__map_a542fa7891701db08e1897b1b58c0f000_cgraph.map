@@ -1,0 +1,8 @@
+<map id="hsrcore::db::cached_level_map::set_write_through" name="hsrcore::db::cached_level_map::set_write_through">
+<area shape="rect" id="node2" href="$classhsrcore_1_1db_1_1cached__level__map.html#a60327fe5412d46f70182c8cce3bf541a" title="hsrcore::db::cached\l_level_map::flush" alt="" coords="200,90,337,131"/>
+<area shape="rect" id="node3" href="$_common_api_overrides_8ipp.html#abbf4b51acacc4e987dae885efde3edc6" title="batch" alt="" coords="433,5,487,32"/>
+<area shape="rect" id="node4" href="$classhsrcore_1_1db_1_1_level_map_1_1write__batch.html#a276455737a0fbdf83c4921498eec3c50" title="hsrcore::db::LevelMap\l::write_batch::store" alt="" coords="385,57,535,98"/>
+<area shape="rect" id="node5" href="$classhsrcore_1_1db_1_1_level_map_1_1write__batch.html#accff5d52a213838ab3756833aa7dea7d" title="hsrcore::db::LevelMap\l::write_batch::remove" alt="" coords="385,122,535,163"/>
+<area shape="rect" id="node6" href="$classhsrcore_1_1db_1_1_level_map_1_1write__batch.html#ac3c2bc2ea4dd168e636ac8e43c9ad814" title="hsrcore::db::LevelMap\l::write_batch::commit" alt="" coords="385,187,535,229"/>
+<area shape="rect" id="node7" href="$classhsrcore_1_1db_1_1_level_map.html#ac3ee49ee0e73e3ce1d30cad69d424c91" title="hsrcore::db::LevelMap\l::is_open" alt="" coords="583,187,732,229"/>
+</map>

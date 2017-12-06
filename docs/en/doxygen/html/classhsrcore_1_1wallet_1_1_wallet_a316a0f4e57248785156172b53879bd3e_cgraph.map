@@ -1,0 +1,6 @@
+<map id="hsrcore::wallet::Wallet::CheckWork" name="hsrcore::wallet::Wallet::CheckWork">
+<area shape="rect" id="node2" href="$structhsrcore_1_1blockchain_1_1_signed_block_header.html#af524cbb5fd071ad8b20477d6686793c1" title="hsrcore::blockchain\l::SignedBlockHeader::id" alt="" coords="219,5,381,47"/>
+<area shape="rect" id="node3" href="$structhsrcore_1_1blockchain_1_1_block_header.html#ad81811d3941771d4573c83cf2b239927" title="hsrcore::blockchain\l::BlockHeader::GetPoWHash" alt="" coords="204,71,396,112"/>
+<area shape="rect" id="node4" href="$class_c_big_num.html#a27e3ca82a40ae0c34ac4c059e4d0d66c" title="CBigNum::SetCompact" alt="" coords="221,137,379,163"/>
+<area shape="rect" id="node5" href="$class_c_big_num.html#a0acdf0ee722fe320e961863b792bf609" title="CBigNum::getuint256" alt="" coords="227,187,373,214"/>
+</map>

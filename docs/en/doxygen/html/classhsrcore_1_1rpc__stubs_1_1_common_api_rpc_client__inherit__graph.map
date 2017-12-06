@@ -1,0 +1,5 @@
+<map id="hsrcore::rpc_stubs::CommonApiRpcClient" name="hsrcore::rpc_stubs::CommonApiRpcClient">
+<area shape="rect" id="node3" href="$classhsrcore_1_1rpc_1_1detail_1_1_rpc_client_impl.html" title="{hsrcore::rpc::detail\l::RpcClientImpl\n|+ _json_connection\l+ _json_exec_loop_complete\l|+ get_json_connection()\l+ connect_to()\l+ login()\l}" alt="" coords="5,762,196,898"/>
+<area shape="rect" id="node4" href="$classhsrcore_1_1rpc_1_1_rpc_client.html" title="{hsrcore::rpc::RpcClient\n||+ RpcClient()\l+ ~RpcClient()\l+ connect_to()\l+ login()\l+ get_json_connection()\l+ reset_json_connection()\l}" alt="" coords="220,755,392,905"/>
+<area shape="rect" id="node2" href="$classhsrcore_1_1api_1_1_common_api.html" title="{hsrcore::api::CommonApi\n||+ blockchain_get_info()\l+ blockchain_generate\l_snapshot()\l+ blockchain_get_hsr\l_account_balance_entry()\l+ blockchain_generate\l_issuance_map()\l+ blockchain_calculate\l_supply()\l+ blockchain_is_synced()\l+ blockchain_get_block\l_count()\l+ blockchain_get_security\l_state()\l+ blockchain_list_accounts()\l+ blockchain_list_recently\l_updated_accounts()\land 249 more...\l}" alt="" coords="109,5,297,332"/>
+</map>

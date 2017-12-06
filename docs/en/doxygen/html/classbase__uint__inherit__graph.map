@@ -1,0 +1,5 @@
+<map id="base_uint&lt; BITS &gt;" name="base_uint&lt; BITS &gt;">
+<area shape="rect" id="node2" href="$classuint160.html" title="{uint160\&lt; 160 \&gt;\n||+ uint160()\l+ uint160()\l+ operator=()\l+ uint160()\l+ operator=()\l+ uint160()\l+ uint160()\l}" alt="" coords="5,285,115,450"/>
+<area shape="rect" id="node3" href="$classuint256.html" title="{uint256\&lt; 256 \&gt;\n||+ uint256()\l+ uint256()\l+ operator=()\l+ uint256()\l+ operator=()\l+ uint256()\l+ uint256()\l}" alt="" coords="139,285,248,450"/>
+<area shape="rect" id="node4" href="$classuint512.html" title="{uint512\&lt; 512 \&gt;\n||+ uint512()\l+ uint512()\l+ operator=()\l+ uint512()\l+ operator=()\l+ uint512()\l+ uint512()\l+ trim256()\l}" alt="" coords="272,277,381,457"/>
+</map>

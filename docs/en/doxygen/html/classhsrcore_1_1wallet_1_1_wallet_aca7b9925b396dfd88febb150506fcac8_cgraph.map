@@ -1,0 +1,7 @@
+<map id="hsrcore::wallet::Wallet::start_scan" name="hsrcore::wallet::Wallet::start_scan">
+<area shape="rect" id="node2" href="$classhsrcore_1_1wallet_1_1_wallet.html#a5fa9d05b99389e596dadae3ddfb4cdf8" title="hsrcore::wallet::Wallet\l::is_open" alt="" coords="629,29,780,70"/>
+<area shape="rect" id="node3" href="$classhsrcore_1_1wallet_1_1_wallet.html#a519c123db91699c6d1432008896c8b23" title="hsrcore::wallet::Wallet\l::is_unlocked" alt="" coords="218,30,369,72"/>
+<area shape="rect" id="node5" href="$classhsrcore_1_1wallet_1_1_wallet.html#a5d81f31f6f15669d7771cce693224f6d" title="hsrcore::wallet::Wallet\l::get_transaction_scanning" alt="" coords="204,117,383,158"/>
+<area shape="rect" id="node4" href="$classhsrcore_1_1wallet_1_1_wallet.html#a6e0016a17a8a09a506c9dfa7bbbb5f5d" title="hsrcore::wallet::Wallet\l::is_locked" alt="" coords="431,58,581,100"/>
+<area shape="rect" id="node6" href="$classhsrcore_1_1wallet_1_1_wallet.html#a04e91229d8b9dfb9f7fcede847eba954" title="hsrcore::wallet::Wallet\l::list_my_accounts" alt="" coords="431,176,581,217"/>
+</map>

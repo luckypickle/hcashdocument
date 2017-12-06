@@ -1,0 +1,5 @@
+<map id="hsrcore::blockchain::ChainDatabase::unclaimed_genesis" name="hsrcore::blockchain::ChainDatabase::unclaimed_genesis">
+<area shape="rect" id="node2" href="$classhsrcore_1_1blockchain_1_1_chain_interface.html#a3ba82619a0abe8162941ccc766a2b575" title="hsrcore::blockchain\l::ChainInterface::get\l_genesis_timestamp" alt="" coords="245,5,387,61"/>
+<area shape="rect" id="node4" href="$classhsrcore_1_1blockchain_1_1_chain_database.html#a349493f73cf33cb6912f0e90f74ff76b" title="hsrcore::blockchain\l::ChainDatabase::scan\l_balances" alt="" coords="239,85,393,141"/>
+<area shape="rect" id="node3" href="$classhsrcore_1_1blockchain_1_1_chain_interface.html#aabf398a48e2ee054a89b53c976b3248e" title="hsrcore::blockchain\l::ChainInterface::get\l_asset_entry" alt="" coords="441,5,580,61"/>
+</map>

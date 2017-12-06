@@ -1,0 +1,4 @@
+<map id="hsrcore::net::PeerConnection::clear_old_inventory" name="hsrcore::net::PeerConnection::clear_old_inventory">
+<area shape="rect" id="node2" href="$classhsrcore_1_1net_1_1detail_1_1_node_impl.html#ae1015da31d7748ac05a85e1b5ac0a0aa" title="hsrcore::net::detail\l::NodeImpl::on_item_ids\l_inventory_message" alt="" coords="244,5,407,61"/>
+<area shape="rect" id="node3" href="$classhsrcore_1_1net_1_1detail_1_1_node_impl.html#acf681683f9b0feee4994854571cbf65b" title="hsrcore::net::detail\l::NodeImpl::on_message" alt="" coords="455,13,621,54"/>
+</map>

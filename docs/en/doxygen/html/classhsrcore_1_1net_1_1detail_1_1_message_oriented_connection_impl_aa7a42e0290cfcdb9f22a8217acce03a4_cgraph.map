@@ -1,0 +1,14 @@
+<map id="hsrcore::net::detail::MessageOrientedConnectionImpl::send_message" name="hsrcore::net::detail::MessageOrientedConnectionImpl::send_message">
+<area shape="rect" id="node2" href="$classhsrcore_1_1net_1_1_stcp_socket.html#a73a5bb7f6550d25145127a9e48a0a141" title="hsrcore::net::StcpSocket\l::get_socket" alt="" coords="251,260,417,301"/>
+<area shape="rect" id="node11" href="$namespacehsrcore_1_1blockchain.html#a2d604a90c34e5cfbc5252d1596314373" title="hsrcore::blockchain::now" alt="" coords="251,423,417,450"/>
+<area shape="rect" id="node3" href="$classhsrcore_1_1net_1_1_stcp_socket.html#a17e671f982bc56fd078913d78fac9172" title="hsrcore::net::StcpSocket\l::accept" alt="" coords="478,5,645,47"/>
+<area shape="rect" id="node4" href="$classhsrcore_1_1net_1_1_stcp_socket.html#aa1d3b016d77fe22a05cebb29d23c5f03" title="hsrcore::net::StcpSocket\l::connect_to" alt="" coords="478,71,645,112"/>
+<area shape="rect" id="node5" href="$classhsrcore_1_1net_1_1_stcp_socket.html#a2dc50ab60bf2a493714a067466a3e696" title="hsrcore::net::StcpSocket\l::bind" alt="" coords="478,136,645,177"/>
+<area shape="rect" id="node6" href="$classhsrcore_1_1net_1_1_stcp_socket.html#ae2380b8457e985f3fe81e5746d522718" title="hsrcore::net::StcpSocket\l::readsome" alt="" coords="478,201,645,243"/>
+<area shape="rect" id="node7" href="$classhsrcore_1_1net_1_1_stcp_socket.html#add7e993b05fe2495277f9b3910f0e6fe" title="hsrcore::net::StcpSocket::eof" alt="" coords="465,267,657,294"/>
+<area shape="rect" id="node8" href="$classhsrcore_1_1net_1_1_stcp_socket.html#a127049574383849cb16cc0c35d3218d0" title="hsrcore::net::StcpSocket\l::writesome" alt="" coords="478,319,645,360"/>
+<area shape="rect" id="node9" href="$classhsrcore_1_1net_1_1_stcp_socket.html#a4cb4d3a4fd940c7d6b77f681f07279d8" title="hsrcore::net::StcpSocket\l::flush" alt="" coords="478,384,645,425"/>
+<area shape="rect" id="node10" href="$classhsrcore_1_1net_1_1_stcp_socket.html#a3cee3478038a5d01e2a3f9f281fccfd8" title="hsrcore::net::StcpSocket\l::close" alt="" coords="478,449,645,491"/>
+<area shape="rect" id="node12" href="$namespacehsrcore_1_1blockchain.html#a6ab2a224374df515fe76b3799ed648fb" title="hsrcore::blockchain\l::ntp_time" alt="" coords="494,515,629,556"/>
+<area shape="rect" id="node13" href="$namespacehsrcore_1_1blockchain_1_1detail.html#ae5c17ca96b07a1f76c62bc6fd564759c" title="hsrcore::blockchain\l::detail::ntp_service" alt="" coords="705,515,840,556"/>
+</map>

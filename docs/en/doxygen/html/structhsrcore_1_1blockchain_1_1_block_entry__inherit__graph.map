@@ -1,0 +1,5 @@
+<map id="hsrcore::blockchain::BlockEntry" name="hsrcore::blockchain::BlockEntry">
+<area shape="rect" id="node2" href="$structhsrcore_1_1blockchain_1_1_digest_block.html" title="{hsrcore::blockchain\l::DigestBlock\n|+ user_transaction_ids\l|+ DigestBlock()\l+ DigestBlock()\l+ calculate_transaction\l_digest()\l+ validate_digest()\l+ validate_unique()\l}" alt="" coords="10,549,167,715"/>
+<area shape="rect" id="node3" href="$structhsrcore_1_1blockchain_1_1_signed_block_header.html" title="{hsrcore::blockchain\l::SignedBlockHeader\n|+ delegate_signature\l|+ id()\l+ validate_signee()\l+ signee()\l+ sign()\l}" alt="" coords="17,365,161,501"/>
+<area shape="rect" id="node4" href="$structhsrcore_1_1blockchain_1_1_block_header.html" title="{hsrcore::blockchain\l::BlockHeader\n|+ previous\l+ block_num\l+ transaction_digest\l+ coin_base\l+ is_coinstake\l+ is_multisig_account\l+ reserver_data\l+ nbits\l+ sbits\l+ reserver_data1\l+ timestamp\l+ nNonce\l+ extra_nonce\l+ reserver_data2\l|+ digest()\l+ GetPoWHash()\l+ GetNoNonceHash()\l}" alt="" coords="14,5,163,317"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="hsrcore::blockchain::ChainInterface::transfer_asset_from_contract" name="hsrcore::blockchain::ChainInterface::transfer_asset_from_contract">
+<area shape="rect" id="node2" href="$classhsrcore_1_1blockchain_1_1_chain_interface.html#aabf398a48e2ee054a89b53c976b3248e" title="hsrcore::blockchain\l::ChainInterface::get\l_asset_entry" alt="" coords="232,43,371,99"/>
+<area shape="rect" id="node3" href="$classhsrcore_1_1blockchain_1_1_chain_interface.html#a9b32d979772be384eeb170b7eea43fc3" title="hsrcore::blockchain\l::ChainInterface::withdraw\l_from_contract" alt="" coords="216,123,387,179"/>
+<area shape="rect" id="node8" href="$structhsrcore_1_1blockchain_1_1_transaction.html#a05e74860977524eadf522c0b68c1c60c" title="hsrcore::blockchain\l::Transaction::deposit" alt="" coords="228,203,375,245"/>
+<area shape="rect" id="node4" href="$classhsrcore_1_1blockchain_1_1_chain_interface.html#ae5dec79b0bca48bf7580645ec03c1b05" title="hsrcore::blockchain\l::ChainInterface::get\l_balanceid" alt="" coords="443,5,581,61"/>
+<area shape="rect" id="node5" href="$classhsrcore_1_1blockchain_1_1_chain_interface.html#a05369dec99193ba95800a39ff349ad00" title="hsrcore::blockchain\l::ChainInterface::get\l_balance_entry" alt="" coords="443,85,581,141"/>
+<area shape="rect" id="node6" href="$classhsrcore_1_1blockchain_1_1_chain_interface.html#a55ff4009828e6fe471fce6890197e711" title="hsrcore::blockchain\l::ChainInterface::now" alt="" coords="441,166,583,207"/>
+<area shape="rect" id="node7" href="$structhsrcore_1_1blockchain_1_1_transaction.html#a15029daad0dfc57e6c9461e49600d759" title="hsrcore::blockchain\l::Transaction::withdraw\l_from_contract" alt="" coords="435,232,589,288"/>
+</map>

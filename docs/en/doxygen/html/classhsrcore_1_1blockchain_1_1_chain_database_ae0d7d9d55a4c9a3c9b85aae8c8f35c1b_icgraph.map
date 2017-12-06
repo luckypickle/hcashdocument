@@ -1,0 +1,7 @@
+<map id="hsrcore::blockchain::ChainDatabase::now" name="hsrcore::blockchain::ChainDatabase::now">
+<area shape="rect" id="node2" href="$classhsrcore_1_1blockchain_1_1detail_1_1_chain_database_impl.html#a584330f5e8e4358ae24e2e1f6b59c455" title="hsrcore::blockchain\l::detail::ChainDatabaseImpl\l::populate_indexes" alt="" coords="215,5,397,61"/>
+<area shape="rect" id="node3" href="$classhsrcore_1_1blockchain_1_1_chain_database.html#ab246d830a0f6583a9ce84789bf6a3784" title="hsrcore::blockchain\l::ChainDatabase::open" alt="" coords="229,86,383,127"/>
+<area shape="rect" id="node4" href="$classhsrcore_1_1blockchain_1_1_chain_database.html#ac7ec52eb5e5a4bd75ed6ca78db2f7099" title="hsrcore::blockchain\l::ChainDatabase::get\l_next_producible_block\l_timestamp" alt="" coords="227,151,385,222"/>
+<area shape="rect" id="node5" href="$classhsrcore_1_1blockchain_1_1_chain_database.html#accd4980c2c2889d2f71a4f00c21064c3" title="hsrcore::blockchain\l::ChainDatabase::get\l_average_delegate_participation" alt="" coords="203,247,409,303"/>
+<area shape="rect" id="node6" href="$classhsrcore_1_1blockchain_1_1_chain_database.html#a4f9cd217fa3b090c1203fe0e7cdb90de" title="hsrcore::blockchain\l::ChainDatabase::generate\l_snapshot" alt="" coords="218,327,394,383"/>
+</map>

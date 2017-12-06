@@ -1,0 +1,6 @@
+<map id="hsrcore::wallet::detail::WalletImpl::scan_ondestroycontract_deposit" name="hsrcore::wallet::detail::WalletImpl::scan_ondestroycontract_deposit">
+<area shape="rect" id="node2" href="$classhsrcore_1_1wallet_1_1_wallet_db.html#acbe42b782b40f0582dee7229c029282b" title="hsrcore::wallet::WalletDb\l::get_id_contract_map" alt="" coords="292,5,459,47"/>
+<area shape="rect" id="node3" href="$classhsrcore_1_1wallet_1_1_wallet_db.html#aeb573b26f823b0f3409bd46e2ea56c62" title="hsrcore::wallet::WalletDb\l::lookup_key" alt="" coords="292,71,459,112"/>
+<area shape="rect" id="node5" href="$structhsrcore_1_1blockchain_1_1_transaction.html#a3262dc909af7f9395dccefb23e85cd99" title="hsrcore::blockchain\l::Transaction::is_cancel" alt="" coords="295,136,455,177"/>
+<area shape="rect" id="node4" href="$classhsrcore_1_1wallet_1_1_wallet_db.html#ada4c95e346f51d0f8c58ed28f76d7862" title="hsrcore::wallet::WalletDb\l::is_open" alt="" coords="507,71,673,112"/>
+</map>

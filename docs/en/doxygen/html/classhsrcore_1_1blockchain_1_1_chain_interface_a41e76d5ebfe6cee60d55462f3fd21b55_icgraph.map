@@ -1,0 +1,4 @@
+<map id="hsrcore::blockchain::ChainInterface::get_current_random_seed" name="hsrcore::blockchain::ChainInterface::get_current_random_seed">
+<area shape="rect" id="node2" href="$classhsrcore_1_1lua_1_1api_1_1_glua_chain_api.html#aeb0266991671fc1410d257cb5f004c68" title="hsrcore::lua::api::\lGluaChainApi::get_chain\l_random" alt="" coords="231,5,396,61"/>
+<area shape="rect" id="node3" href="$classhsrcore_1_1blockchain_1_1_chain_interface.html#ab3941f5c9d2d0a3f84879b8140d83d1e" title="hsrcore::blockchain\l::ChainInterface::~ChainInterface" alt="" coords="208,86,419,127"/>
+</map>

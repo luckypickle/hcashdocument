@@ -1,0 +1,6 @@
+<map id="hsrcore::net::PeerDatabase::begin" name="hsrcore::net::PeerDatabase::begin">
+<area shape="rect" id="node2" href="$classhsrcore_1_1net_1_1detail_1_1_node_impl.html#a5c200113467e2b8133750516808f3e2a" title="hsrcore::net::detail\l::NodeImpl::p2p_network\l_connect_loop" alt="" coords="255,5,420,61"/>
+<area shape="rect" id="node4" href="$classhsrcore_1_1net_1_1detail_1_1_node_impl.html#aebfce4d4b7bcb4deb9ed9ba84cebdc5f" title="hsrcore::net::detail\l::NodeImpl::load_configuration" alt="" coords="239,86,435,127"/>
+<area shape="rect" id="node5" href="$classhsrcore_1_1net_1_1detail_1_1_node_impl.html#a6c31cabb7c115c1b6508ec76aa7deff3" title="hsrcore::net::detail\l::NodeImpl::get_potential_peers" alt="" coords="235,151,440,193"/>
+<area shape="rect" id="node3" href="$classhsrcore_1_1net_1_1detail_1_1_node_impl.html#a3f9901a46e1b09275b84862c10b3c59a" title="hsrcore::net::detail\l::NodeImpl::connect_to\l_p2p_network" alt="" coords="488,5,644,61"/>
+</map>

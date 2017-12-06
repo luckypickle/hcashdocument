@@ -1,0 +1,10 @@
+<map id="hsrcore::blockchain::TransactionCreationState::deposit" name="hsrcore::blockchain::TransactionCreationState::deposit">
+<area shape="rect" id="node2" href="$structhsrcore_1_1blockchain_1_1_transaction.html#a05e74860977524eadf522c0b68c1c60c" title="hsrcore::blockchain\l::Transaction::deposit" alt="" coords="249,5,396,47"/>
+<area shape="rect" id="node3" href="$structhsrcore_1_1blockchain_1_1_withdraw_with_signature.html#add22d4e565a203199258efc6746d50cf" title="hsrcore::blockchain\l::WithdrawWithSignature\l::encrypt_memo_data" alt="" coords="239,71,406,127"/>
+<area shape="rect" id="node6" href="$classhsrcore_1_1blockchain_1_1_transaction_evaluation_state.html#ad5ed8d71329d60a43adfccb1b460fdc8" title="hsrcore::blockchain\l::TransactionEvaluationState\l::evaluate_operation" alt="" coords="229,151,416,207"/>
+<area shape="rect" id="node4" href="$structhsrcore_1_1blockchain_1_1_memo_data.html#a8157c22b9af2512a8594d45b70839f3f" title="hsrcore::blockchain\l::MemoData::set_message" alt="" coords="464,5,643,47"/>
+<area shape="rect" id="node5" href="$structhsrcore_1_1blockchain_1_1_extended_memo_data.html#a1b0fe5f212706b3bb1ce5523a876de92" title="hsrcore::blockchain\l::ExtendedMemoData::\lset_message" alt="" coords="475,71,631,127"/>
+<area shape="rect" id="node7" href="$classhsrcore_1_1blockchain_1_1_operation_factory.html#ae416b500fbce1ab48397ea6d81c8d7d8" title="hsrcore::blockchain\l::OperationFactory::\linstance" alt="" coords="484,151,623,207"/>
+<area shape="rect" id="node8" href="$classhsrcore_1_1blockchain_1_1_operation_factory.html#a2e7931c6c6f847ccd81e0194a54b3324" title="hsrcore::blockchain\l::OperationFactory::\levaluate" alt="" coords="484,231,623,287"/>
+<area shape="rect" id="node9" href="$classhsrcore_1_1blockchain_1_1_operation_factory_1_1_operation_converter_base.html#af27174d9b001a2dc025a2289424de310" title="hsrcore::blockchain\l::OperationFactory::\lOperationConverterBase\l::to_variant" alt="" coords="691,224,853,295"/>
+</map>

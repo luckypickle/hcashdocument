@@ -1,0 +1,8 @@
+<map id="hsrcore::blockchain::get_amount_sum" name="hsrcore::blockchain::get_amount_sum">
+<area shape="rect" id="node2" href="$namespacehsrcore_1_1blockchain.html#a915fe11c68cb92de345511063bc29b50" title="hsrcore::blockchain\l::check_balances" alt="" coords="188,147,323,189"/>
+<area shape="rect" id="node3" href="$structhsrcore_1_1blockchain_1_1_upgrade_contract_operation.html#a5833f1adf224fcac4b4a5ea326aa3434" title="hsrcore::blockchain\l::UpgradeContractOperation\l::evaluate" alt="" coords="371,5,553,61"/>
+<area shape="rect" id="node4" href="$structhsrcore_1_1blockchain_1_1_destroy_contract_operation.html#a481bca0c0e42de1f510e2833149eb6ef" title="hsrcore::blockchain\l::DestroyContractOperation\l::evaluate" alt="" coords="372,85,552,141"/>
+<area shape="rect" id="node5" href="$structhsrcore_1_1blockchain_1_1_register_contract_operation.html#a5204bdd08e19b1a191bc40a244674779" title="hsrcore::blockchain\l::RegisterContractOperation\l::evaluate" alt="" coords="371,165,553,221"/>
+<area shape="rect" id="node6" href="$structhsrcore_1_1blockchain_1_1_call_contract_operation.html#abf1992522005d7f8cbcd4f6c23e8b7c4" title="hsrcore::blockchain\l::CallContractOperation\l::evaluate" alt="" coords="383,245,541,301"/>
+<area shape="rect" id="node7" href="$structhsrcore_1_1blockchain_1_1_transfer_contract_operation.html#ad2c0cd001bb3508d2efbe1a20d8131d5" title="hsrcore::blockchain\l::TransferContractOperation\l::evaluate" alt="" coords="371,325,553,381"/>
+</map>

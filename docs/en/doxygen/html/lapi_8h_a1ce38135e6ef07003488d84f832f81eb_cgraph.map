@@ -1,0 +1,6 @@
+<map id="luaL_get_global_variables" name="luaL_get_global_variables">
+<area shape="rect" id="node2" href="$lapi_8cpp.html#a8185a9c46d5930205f95beee4991e9f0" title="lua_getglobal" alt="" coords="223,5,321,32"/>
+<area shape="rect" id="node3" href="$lapi_8cpp.html#afbb08ecb69421875494105d4de68e5bf" title="lua_gettop" alt="" coords="231,56,313,83"/>
+<area shape="rect" id="node4" href="$lapi_8cpp.html#a1b4cd0d80f51e5545a97ca6c28c03c50" title="lua_pushnil" alt="" coords="229,107,315,133"/>
+<area shape="rect" id="node5" href="$lapi_8cpp.html#aa8bf464b98335a075732200ad91ce1de" title="lua_next" alt="" coords="237,157,307,184"/>
+</map>

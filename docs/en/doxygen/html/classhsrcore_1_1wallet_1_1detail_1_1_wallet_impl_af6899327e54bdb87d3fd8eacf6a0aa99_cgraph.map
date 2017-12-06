@@ -1,0 +1,20 @@
+<map id="hsrcore::wallet::detail::WalletImpl::open_file" name="hsrcore::wallet::detail::WalletImpl::open_file">
+<area shape="rect" id="node2" href="$classhsrcore_1_1wallet_1_1_wallet.html#aee63cbfc461a5948e6361c85f5504929" title="hsrcore::wallet::Wallet\l::is_enabled" alt="" coords="212,5,363,47"/>
+<area shape="rect" id="node3" href="$classhsrcore_1_1wallet_1_1_wallet.html#a5fa9d05b99389e596dadae3ddfb4cdf8" title="hsrcore::wallet::Wallet\l::is_open" alt="" coords="671,57,822,99"/>
+<area shape="rect" id="node4" href="$classhsrcore_1_1wallet_1_1_wallet_db.html#af9473597493534391d8649ce4ceb9094" title="hsrcore::wallet::WalletDb\l::open" alt="" coords="204,400,371,441"/>
+<area shape="rect" id="node6" href="$classhsrcore_1_1wallet_1_1detail_1_1_wallet_impl.html#a0089b1c8889648e19537f332efa6384d" title="hsrcore::wallet::detail\l::WalletImpl::upgrade\l_version" alt="" coords="215,233,360,289"/>
+<area shape="rect" id="node5" href="$classhsrcore_1_1wallet_1_1_wallet_db.html#adc96b81256c757fd596501d611c24fef" title="hsrcore::wallet::WalletDb\l::close" alt="" coords="429,488,595,529"/>
+<area shape="rect" id="node7" href="$classhsrcore_1_1wallet_1_1_wallet.html#ab22cd55bc0cbd037a764e1e77f658a14" title="hsrcore::wallet::Wallet\l::get_my_delegates" alt="" coords="437,123,587,164"/>
+<area shape="rect" id="node9" href="$structhsrcore_1_1blockchain_1_1_balance_entry.html#a83d0a06306b467b86b457c256337bd4e" title="hsrcore::blockchain\l::BalanceEntry::id" alt="" coords="445,240,579,281"/>
+<area shape="rect" id="node10" href="$classhsrcore_1_1wallet_1_1_wallet_db.html#a6b9749ff427a2dbde80fab0ae21b1458" title="hsrcore::wallet::WalletDb\l::lookup_transaction" alt="" coords="888,292,1055,333"/>
+<area shape="rect" id="node12" href="$classhsrcore_1_1wallet_1_1_wallet_db.html#adb8f2f8322bd3c05dfa427bbd9cfa250" title="hsrcore::wallet::WalletDb\l::remove_transaction" alt="" coords="663,240,830,281"/>
+<area shape="rect" id="node13" href="$classhsrcore_1_1wallet_1_1detail_1_1_wallet_impl.html#a0a1d47d0d6c21dcc689f88c486fae920" title="hsrcore::wallet::detail\l::WalletImpl::scan_balances" alt="" coords="419,357,605,399"/>
+<area shape="rect" id="node19" href="$classhsrcore_1_1wallet_1_1_wallet_db.html#ab85a2b671d765e74307877436ab81860" title="hsrcore::wallet::WalletDb\l::get_transactions" alt="" coords="429,423,595,464"/>
+<area shape="rect" id="node8" href="$classhsrcore_1_1wallet_1_1_wallet.html#a04e91229d8b9dfb9f7fcede847eba954" title="hsrcore::wallet::Wallet\l::list_my_accounts" alt="" coords="671,123,822,164"/>
+<area shape="rect" id="node11" href="$classhsrcore_1_1wallet_1_1_wallet_db.html#ada4c95e346f51d0f8c58ed28f76d7862" title="hsrcore::wallet::WalletDb\l::is_open" alt="" coords="1103,416,1269,457"/>
+<area shape="rect" id="node14" href="$classhsrcore_1_1wallet_1_1detail_1_1_wallet_impl.html#a923fa522665213dfd88fb41756c66d92" title="hsrcore::wallet::detail\l::WalletImpl::scan_balances\l_experimental" alt="" coords="653,489,840,545"/>
+<area shape="rect" id="node15" href="$classhsrcore_1_1wallet_1_1_wallet_db.html#aeb573b26f823b0f3409bd46e2ea56c62" title="hsrcore::wallet::WalletDb\l::lookup_key" alt="" coords="888,496,1055,537"/>
+<area shape="rect" id="node16" href="$classhsrcore_1_1wallet_1_1_wallet_db.html#a6cf9ac7566a34101d7b12ebb8a394216" title="hsrcore::wallet::WalletDb\l::store_transaction" alt="" coords="663,357,830,399"/>
+<area shape="rect" id="node18" href="$classhsrcore_1_1wallet_1_1_wallet.html#a7dd60a23a9cd3697d75873fe47f948ab" title="hsrcore::wallet::Wallet\l::get_key_label" alt="" coords="671,423,822,464"/>
+<area shape="rect" id="node17" href="$structhsrcore_1_1blockchain_1_1_signed_transaction.html#a1d3e482ad287dbfb537b525c41760cda" title="hsrcore::blockchain\l::SignedTransaction::id" alt="" coords="894,357,1049,399"/>
+</map>

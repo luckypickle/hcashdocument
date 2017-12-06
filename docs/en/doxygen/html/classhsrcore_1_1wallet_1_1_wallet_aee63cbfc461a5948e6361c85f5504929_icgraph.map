@@ -1,0 +1,8 @@
+<map id="hsrcore::wallet::Wallet::is_enabled" name="hsrcore::wallet::Wallet::is_enabled">
+<area shape="rect" id="node2" href="$classhsrcore_1_1wallet_1_1detail_1_1_wallet_impl.html#a05f967ea31abb347548cda78f6056dfc" title="hsrcore::wallet::detail\l::WalletImpl::create_file" alt="" coords="204,5,363,47"/>
+<area shape="rect" id="node3" href="$classhsrcore_1_1wallet_1_1detail_1_1_wallet_impl.html#af6899327e54bdb87d3fd8eacf6a0aa99" title="hsrcore::wallet::detail\l::WalletImpl::open_file" alt="" coords="208,71,359,112"/>
+<area shape="rect" id="node4" href="$classhsrcore_1_1wallet_1_1_wallet.html#ac8da99e30c2f28181f8e6a3b88d02df0" title="hsrcore::wallet::Wallet\l::create" alt="" coords="411,188,561,229"/>
+<area shape="rect" id="node5" href="$classhsrcore_1_1wallet_1_1_wallet.html#aff87db7aefd1713b911dd6b586e9df04" title="hsrcore::wallet::Wallet\l::create_from_json" alt="" coords="609,188,760,229"/>
+<area shape="rect" id="node6" href="$classhsrcore_1_1wallet_1_1_wallet.html#a8a814ea549ed3e87e208cf495e55e282" title="hsrcore::wallet::Wallet\l::open" alt="" coords="208,239,359,280"/>
+<area shape="rect" id="node7" href="$classhsrcore_1_1wallet_1_1_wallet.html#a102a7247b7ab89ad0592f74566d4799a" title="hsrcore::wallet::Wallet\l::list" alt="" coords="208,304,359,345"/>
+</map>

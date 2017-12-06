@@ -1,0 +1,5 @@
+<map id="hsrcore::lua::api::IGluaChainApi::get_bytestream_from_code" name="hsrcore::lua::api::IGluaChainApi::get_bytestream_from_code">
+<area shape="rect" id="node2" href="$classglua_1_1_glua_contract_engine.html#a107994ffb47138135b0b9729d1842784" title="glua::GluaContractEngine\l::get_bytestream_from_code" alt="" coords="256,5,443,47"/>
+<area shape="rect" id="node3" href="$classhsrcore_1_1wallet_1_1detail_1_1_wallet_impl.html#aebd3446471b9421f05ea0b9da814cfc5" title="hsrcore::wallet::detail\l::WalletImpl::handle_events" alt="" coords="259,71,440,112"/>
+<area shape="rect" id="node4" href="$classhsrcore_1_1wallet_1_1detail_1_1_wallet_impl.html#a01e97eae283e573ce5b3dd7b7130ff06" title="hsrcore::wallet::detail\l::WalletImpl::block_applied" alt="" coords="491,71,669,112"/>
+</map>

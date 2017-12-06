@@ -1,0 +1,10 @@
+<map id="hsrcore::net::StcpSocket::get_socket" name="hsrcore::net::StcpSocket::get_socket">
+<area shape="rect" id="node2" href="$classhsrcore_1_1net_1_1_stcp_socket.html#a17e671f982bc56fd078913d78fac9172" title="hsrcore::net::StcpSocket\l::accept" alt="" coords="233,5,399,47"/>
+<area shape="rect" id="node3" href="$classhsrcore_1_1net_1_1_stcp_socket.html#aa1d3b016d77fe22a05cebb29d23c5f03" title="hsrcore::net::StcpSocket\l::connect_to" alt="" coords="233,71,399,112"/>
+<area shape="rect" id="node4" href="$classhsrcore_1_1net_1_1_stcp_socket.html#a2dc50ab60bf2a493714a067466a3e696" title="hsrcore::net::StcpSocket\l::bind" alt="" coords="233,136,399,177"/>
+<area shape="rect" id="node5" href="$classhsrcore_1_1net_1_1_stcp_socket.html#ae2380b8457e985f3fe81e5746d522718" title="hsrcore::net::StcpSocket\l::readsome" alt="" coords="233,201,399,243"/>
+<area shape="rect" id="node6" href="$classhsrcore_1_1net_1_1_stcp_socket.html#add7e993b05fe2495277f9b3910f0e6fe" title="hsrcore::net::StcpSocket::eof" alt="" coords="220,267,412,294"/>
+<area shape="rect" id="node7" href="$classhsrcore_1_1net_1_1_stcp_socket.html#a127049574383849cb16cc0c35d3218d0" title="hsrcore::net::StcpSocket\l::writesome" alt="" coords="233,319,399,360"/>
+<area shape="rect" id="node8" href="$classhsrcore_1_1net_1_1_stcp_socket.html#a4cb4d3a4fd940c7d6b77f681f07279d8" title="hsrcore::net::StcpSocket\l::flush" alt="" coords="233,384,399,425"/>
+<area shape="rect" id="node9" href="$classhsrcore_1_1net_1_1_stcp_socket.html#a3cee3478038a5d01e2a3f9f281fccfd8" title="hsrcore::net::StcpSocket\l::close" alt="" coords="233,449,399,491"/>
+</map>

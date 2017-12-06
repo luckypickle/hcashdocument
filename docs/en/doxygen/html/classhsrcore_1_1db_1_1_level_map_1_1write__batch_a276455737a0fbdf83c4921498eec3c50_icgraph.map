@@ -1,0 +1,5 @@
+<map id="hsrcore::db::LevelMap::write_batch::store" name="hsrcore::db::LevelMap::write_batch::store">
+<area shape="rect" id="node2" href="$classhsrcore_1_1db_1_1cached__level__map.html#a60327fe5412d46f70182c8cce3bf541a" title="hsrcore::db::cached\l_level_map::flush" alt="" coords="203,43,340,84"/>
+<area shape="rect" id="node3" href="$classhsrcore_1_1db_1_1cached__level__map.html#a71cf9f2d7e61c1851a237fd6212d3cae" title="hsrcore::db::cached\l_level_map::close" alt="" coords="393,5,530,47"/>
+<area shape="rect" id="node4" href="$classhsrcore_1_1db_1_1cached__level__map.html#a542fa7891701db08e1897b1b58c0f000" title="hsrcore::db::cached\l_level_map::set_write\l_through" alt="" coords="388,71,535,127"/>
+</map>

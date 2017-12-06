@@ -1,0 +1,5 @@
+<map id="glua::parser::GluaTokenParser::eof" name="glua::parser::GluaTokenParser::eof">
+<area shape="rect" id="node2" href="$classglua_1_1parser_1_1_glua_token_parser.html#aa67baa22d99462c8f86af42e3ffc3cf0" title="glua::parser::GluaTokenParser\l::current" alt="" coords="276,5,475,47"/>
+<area shape="rect" id="node3" href="$classglua_1_1parser_1_1_input.html#a790dab87b6b6a77adf266c39ed6a3bc0" title="glua::parser::Input\l::lookahead_tokens" alt="" coords="308,71,443,112"/>
+<area shape="rect" id="node4" href="$classglua_1_1parser_1_1_union_parser_functor.html#a3d405c83fc52baea5cff198cbf0e1b98" title="glua::parser::UnionParser\lFunctor::tryParse" alt="" coords="523,71,692,112"/>
+</map>

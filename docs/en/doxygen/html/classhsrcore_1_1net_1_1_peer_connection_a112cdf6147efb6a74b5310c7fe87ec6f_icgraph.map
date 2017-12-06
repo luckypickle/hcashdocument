@@ -1,0 +1,7 @@
+<map id="hsrcore::net::PeerConnection::get_socket" name="hsrcore::net::PeerConnection::get_socket">
+<area shape="rect" id="node2" href="$classhsrcore_1_1net_1_1detail_1_1_node_impl.html#a47a530a107211a7e2c136bac295a142d" title="hsrcore::net::detail\l::NodeImpl::on_hello\l_message" alt="" coords="262,5,402,61"/>
+<area shape="rect" id="node4" href="$classhsrcore_1_1net_1_1detail_1_1_node_impl.html#a3a75eaaea82fedccca4c3bd6b81a98b6" title="hsrcore::net::detail\l::NodeImpl::on_connection\l_rejected_message" alt="" coords="244,85,420,141"/>
+<area shape="rect" id="node5" href="$classhsrcore_1_1net_1_1detail_1_1_node_impl.html#ac178afcc3cf7fa1c1d1c47be6289de51" title="hsrcore::net::detail\l::NodeImpl::on_connection\l_closed" alt="" coords="244,165,420,221"/>
+<area shape="rect" id="node6" href="$classhsrcore_1_1net_1_1detail_1_1_node_impl.html#a4c5b3463f90c2e27d13df2cc4e2de76f" title="hsrcore::net::detail\l::NodeImpl::on_check\l_firewall_message" alt="" coords="258,245,406,301"/>
+<area shape="rect" id="node3" href="$classhsrcore_1_1net_1_1detail_1_1_node_impl.html#acf681683f9b0feee4994854571cbf65b" title="hsrcore::net::detail\l::NodeImpl::on_message" alt="" coords="468,93,635,134"/>
+</map>

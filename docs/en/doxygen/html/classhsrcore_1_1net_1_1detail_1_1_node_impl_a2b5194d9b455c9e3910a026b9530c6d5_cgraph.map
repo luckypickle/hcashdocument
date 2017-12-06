@@ -1,0 +1,7 @@
+<map id="hsrcore::net::detail::NodeImpl::dump_node_status_task" name="hsrcore::net::detail::NodeImpl::dump_node_status_task">
+<area shape="rect" id="node2" href="$classhsrcore_1_1net_1_1detail_1_1_node_impl.html#ac2b9dd3e8928928bd523c659056179b8" title="hsrcore::net::detail\l::NodeImpl::dump_node\l_status" alt="" coords="216,5,375,61"/>
+<area shape="rect" id="node4" href="$namespacehsrcore_1_1blockchain.html#a2d604a90c34e5cfbc5252d1596314373" title="hsrcore::blockchain::now" alt="" coords="212,85,379,112"/>
+<area shape="rect" id="node3" href="$classhsrcore_1_1net_1_1detail_1_1_blockchain_tied_message_cache.html#a33bae2351b6284a2c6c3ef683eee6f39" title="hsrcore::net::detail\l::BlockchainTiedMessageCache::size" alt="" coords="427,13,667,54"/>
+<area shape="rect" id="node5" href="$namespacehsrcore_1_1blockchain.html#a6ab2a224374df515fe76b3799ed648fb" title="hsrcore::blockchain\l::ntp_time" alt="" coords="479,78,614,119"/>
+<area shape="rect" id="node6" href="$namespacehsrcore_1_1blockchain_1_1detail.html#ae5c17ca96b07a1f76c62bc6fd564759c" title="hsrcore::blockchain\l::detail::ntp_service" alt="" coords="715,78,849,119"/>
+</map>

@@ -1,0 +1,3 @@
+<map id="hsrcore::rpc_stubs::CommonApiClient" name="hsrcore::rpc_stubs::CommonApiClient">
+<area shape="rect" id="node2" href="$classhsrcore_1_1api_1_1_common_api.html" title="{hsrcore::api::CommonApi\n||+ blockchain_get_info()\l+ blockchain_generate\l_snapshot()\l+ blockchain_get_hsr\l_account_balance_entry()\l+ blockchain_generate\l_issuance_map()\l+ blockchain_calculate\l_supply()\l+ blockchain_is_synced()\l+ blockchain_get_block\l_count()\l+ blockchain_get_security\l_state()\l+ blockchain_list_accounts()\l+ blockchain_list_recently\l_updated_accounts()\land 249 more...\l}" alt="" coords="5,5,193,332"/>
+</map>

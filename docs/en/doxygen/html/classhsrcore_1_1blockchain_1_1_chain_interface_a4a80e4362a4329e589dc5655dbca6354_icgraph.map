@@ -1,0 +1,5 @@
+<map id="hsrcore::blockchain::ChainInterface::get_imessage_need_fee" name="hsrcore::blockchain::ChainInterface::get_imessage_need_fee">
+<area shape="rect" id="node2" href="$structhsrcore_1_1blockchain_1_1_imessage_memo_operation.html#ab3353c2ce650e90a917c477a4ea52733" title="hsrcore::blockchain\l::ImessageMemoOperation\l::evaluate" alt="" coords="213,5,392,61"/>
+<area shape="rect" id="node4" href="$classhsrcore_1_1blockchain_1_1_chain_interface.html#ab3941f5c9d2d0a3f84879b8140d83d1e" title="hsrcore::blockchain\l::ChainInterface::~ChainInterface" alt="" coords="197,86,408,127"/>
+<area shape="rect" id="node3" href="$structhsrcore_1_1blockchain_1_1_imessage_memo_operation.html#a3488026067faebd67e86e1cdd52e0354" title="hsrcore::blockchain\l::ImessageMemoOperation\l::ImessageMemoOperation" alt="" coords="456,5,635,61"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="hsrcore::blockchain::BlockHeader" name="hsrcore::blockchain::BlockHeader">
+<area shape="rect" id="node2" href="$structhsrcore_1_1blockchain_1_1_signed_block_header.html" title="{hsrcore::blockchain\l::SignedBlockHeader\n|+ delegate_signature\l|+ id()\l+ validate_signee()\l+ signee()\l+ sign()\l}" alt="" coords="102,365,246,501"/>
+<area shape="rect" id="node3" href="$structhsrcore_1_1blockchain_1_1_digest_block.html" title="{hsrcore::blockchain\l::DigestBlock\n|+ user_transaction_ids\l|+ DigestBlock()\l+ DigestBlock()\l+ calculate_transaction\l_digest()\l+ validate_digest()\l+ validate_unique()\l}" alt="" coords="10,549,167,715"/>
+<area shape="rect" id="node5" href="$structhsrcore_1_1blockchain_1_1_full_block.html" title="{hsrcore::blockchain\l::FullBlock\n|+ user_transactions\l|+ block_size()\l}" alt="" coords="192,586,329,678"/>
+<area shape="rect" id="node4" href="$structhsrcore_1_1blockchain_1_1_block_entry.html" title="{hsrcore::blockchain\l::BlockEntry\n|+ id\l+ block_size\l+ latency\l+ signee_shares_issued\l+ signee_fees_collected\l+ signee_fees_destroyed\l+ random_seed\l+ processing_time\l|}" alt="" coords="5,763,172,957"/>
+</map>

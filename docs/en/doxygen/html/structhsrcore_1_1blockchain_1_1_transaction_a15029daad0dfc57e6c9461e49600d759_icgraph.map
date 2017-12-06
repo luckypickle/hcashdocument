@@ -1,0 +1,5 @@
+<map id="hsrcore::blockchain::Transaction::withdraw_from_contract" name="hsrcore::blockchain::Transaction::withdraw_from_contract">
+<area shape="rect" id="node2" href="$classhsrcore_1_1blockchain_1_1_chain_interface.html#a9b32d979772be384eeb170b7eea43fc3" title="hsrcore::blockchain\l::ChainInterface::withdraw\l_from_contract" alt="" coords="208,43,379,99"/>
+<area shape="rect" id="node3" href="$classhsrcore_1_1blockchain_1_1_chain_interface.html#ab12db6dd8bc007dfbfa7d594be03696d" title="hsrcore::blockchain\l::ChainInterface::transfer\l_asset_from_contract" alt="" coords="451,5,613,61"/>
+<area shape="rect" id="node4" href="$classhsrcore_1_1blockchain_1_1_chain_interface.html#ab3941f5c9d2d0a3f84879b8140d83d1e" title="hsrcore::blockchain\l::ChainInterface::~ChainInterface" alt="" coords="427,86,637,127"/>
+</map>

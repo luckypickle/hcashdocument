@@ -1,0 +1,7 @@
+<map id="hsrcore::wallet::Wallet::get_private_key" name="hsrcore::wallet::Wallet::get_private_key">
+<area shape="rect" id="node2" href="$classhsrcore_1_1wallet_1_1detail_1_1_wallet_impl.html#ad5a7cb846821ac51d7cc22f3ec262312" title="hsrcore::wallet::detail\l::WalletImpl::sign_transaction" alt="" coords="204,5,399,47"/>
+<area shape="rect" id="node3" href="$classhsrcore_1_1wallet_1_1_wallet.html#a2a4e8f13aa67cfb6dc548839348c751e" title="hsrcore::wallet::Wallet\l::friendly_import_private_key" alt="" coords="208,71,395,112"/>
+<area shape="rect" id="node4" href="$classhsrcore_1_1wallet_1_1_wallet.html#a15aeb2a3d3d3f77b886a5f414ec31eb2" title="hsrcore::wallet::Wallet\l::sign_hash" alt="" coords="226,136,377,177"/>
+<area shape="rect" id="node5" href="$classhsrcore_1_1wallet_1_1_wallet.html#a4281be3cd63a250f718809c50399b360" title="hsrcore::wallet::Wallet\l::pow_sign_block" alt="" coords="226,201,377,243"/>
+<area shape="rect" id="node6" href="$classhsrcore_1_1wallet_1_1_wallet.html#a162d04b50ccf050fdd93d401943c19a8" title="hsrcore::wallet::Wallet\l::collect_account_balances" alt="" coords="211,267,391,308"/>
+</map>

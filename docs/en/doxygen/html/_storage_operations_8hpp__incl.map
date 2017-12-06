@@ -1,0 +1,23 @@
+<map id="F:/hshare_org/Hcash/libraries/include/blockchain/StorageOperations.hpp" name="F:/hshare_org/Hcash/libraries/include/blockchain/StorageOperations.hpp">
+<area shape="rect" id="node2" href="$_contract_entry_8hpp.html" title="blockchain/ContractEntry.hpp" alt="" coords="1806,109,1999,136"/>
+<area shape="rect" id="node48" href="$_operations_8hpp.html" title="blockchain/Operations.hpp" alt="" coords="2459,184,2635,211"/>
+<area shape="rect" id="node3" href="$_types_8hpp.html" title="blockchain/Types.hpp" alt="" coords="2251,333,2399,360"/>
+<area shape="rect" id="node15" href="$_storage_types_8hpp.html" title="blockchain/StorageTypes.hpp" alt="" coords="1997,184,2190,211"/>
+<area shape="rect" id="node45" href="$_withdraw_types_8hpp.html" title="blockchain/WithdrawTypes.hpp" alt="" coords="2232,184,2435,211"/>
+<area shape="rect" id="node4" href="$_address_8hpp.html" title="blockchain/Address.hpp" alt="" coords="2099,408,2261,435"/>
+<area shape="rect" id="node5" href="$blockchain_2_config_8hpp.html" title="blockchain/Config.hpp" alt="" coords="2539,483,2688,509"/>
+<area shape="rect" id="node7" href="$_pts_address_8hpp.html" title="blockchain/PtsAddress.hpp" alt="" coords="1776,483,1957,509"/>
+<area shape="rect" id="node16" href="$_asset_8hpp.html" title="blockchain/Asset.hpp" alt="" coords="2003,259,2149,285"/>
+<area shape="rect" id="node20" href="$hsrcore__lua__api_8h.html" title="glua/hsrcore_lua_api.h" alt="" coords="475,408,627,435"/>
+<area shape="rect" id="node34" href="$luaconf_8h.html" title="glua/luaconf.h" alt="" coords="1361,707,1463,733"/>
+<area shape="rect" id="node36" href="$hsrcore__lua__lib_8h.html" title="glua/hsrcore_lua_lib.h" alt="" coords="737,259,885,285"/>
+<area shape="rect" id="node21" href="$lprefix_8h.html" title="glua/lprefix.h" alt="" coords="778,483,873,509"/>
+<area shape="rect" id="node31" href="$lua_8h.html" title="glua/lua.h" alt="" coords="1262,632,1341,659"/>
+<area shape="rect" id="node38" href="$lhashmap_8h.html" title="glua/lhashmap.h" alt="" coords="752,408,869,435"/>
+<area shape="rect" id="node39" href="$lstate_8h.html" title="glua/lstate.h" alt="" coords="1113,333,1207,360"/>
+<area shape="rect" id="node40" href="$lobject_8h.html" title="glua/lobject.h" alt="" coords="1389,483,1488,509"/>
+<area shape="rect" id="node41" href="$llimits_8h.html" title="glua/llimits.h" alt="" coords="1067,557,1162,584"/>
+<area shape="rect" id="node42" href="$ltm_8h.html" title="glua/ltm.h" alt="" coords="1406,408,1485,435"/>
+<area shape="rect" id="node43" href="$lzio_8h.html" title="glua/lzio.h" alt="" coords="1198,408,1279,435"/>
+<area shape="rect" id="node44" href="$lmem_8h.html" title="lmem.h" alt="" coords="1198,483,1263,509"/>
+</map>

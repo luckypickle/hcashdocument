@@ -1,0 +1,5 @@
+<map id="hsrcore::blockchain::ChainInterface::get_active_delegates" name="hsrcore::blockchain::ChainInterface::get_active_delegates">
+<area shape="rect" id="node2" href="$classhsrcore_1_1blockchain_1_1_chain_database.html#ac7ec52eb5e5a4bd75ed6ca78db2f7099" title="hsrcore::blockchain\l::ChainDatabase::get\l_next_producible_block\l_timestamp" alt="" coords="192,5,351,76"/>
+<area shape="rect" id="node3" href="$classhsrcore_1_1blockchain_1_1_chain_interface.html#ac7cec07f2147937fa752db56d93d9c5c" title="hsrcore::blockchain\l::ChainInterface::is\l_active_delegate" alt="" coords="204,101,339,157"/>
+<area shape="rect" id="node4" href="$classhsrcore_1_1blockchain_1_1_chain_interface.html#ab3941f5c9d2d0a3f84879b8140d83d1e" title="hsrcore::blockchain\l::ChainInterface::~ChainInterface" alt="" coords="399,141,609,183"/>
+</map>

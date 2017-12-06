@@ -1,0 +1,5 @@
+<map id="UnitTest::TestReporter::ReportTestFinish" name="UnitTest::TestReporter::ReportTestFinish">
+<area shape="rect" id="node2" href="$class_unit_test_1_1_test_results.html#a0b35af87ce16d6064bc3cef5b6d85d0f" title="UnitTest::TestResults\l::OnTestFinish" alt="" coords="233,5,380,47"/>
+<area shape="rect" id="node4" href="$class_unit_test_1_1_throwing_test_reporter.html#a486471a71f2eb1e4c6cb6da06c05c399" title="UnitTest::ThrowingTestReporter\l::ReportTestFinish" alt="" coords="205,71,408,112"/>
+<area shape="rect" id="node3" href="$class_unit_test_1_1_test_runner.html#ad2309a825bc2bd7c023a86ce6fe25558" title="UnitTest::TestRunner\l::GetTestResults" alt="" coords="456,5,600,47"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="hsrcore::net::detail::ChainServerImpl::kill_worker" name="hsrcore::net::detail::ChainServerImpl::kill_worker">
+<area shape="rect" id="node2" href="$classhsrcore_1_1net_1_1detail_1_1_chain_server_impl.html#ac7b0871ef39806e556e521f3c564a0f3" title="hsrcore::net::detail\l::ChainServerImpl::~ChainServerImpl" alt="" coords="200,5,432,47"/>
+<area shape="rect" id="node3" href="$classhsrcore_1_1net_1_1detail_1_1_chain_server_impl.html#ab977c1f6fa02f0b5c9c83e494ee7ffc5" title="hsrcore::net::detail\l::ChainServerImpl::accept_loop" alt="" coords="215,71,417,112"/>
+<area shape="rect" id="node4" href="$classhsrcore_1_1net_1_1detail_1_1_chain_server_impl.html#a9b81c4c3cabab5f814e39a7f66a7f7da" title="hsrcore::net::detail\l::ChainServerImpl::ChainServerImpl" alt="" coords="480,71,704,112"/>
+</map>

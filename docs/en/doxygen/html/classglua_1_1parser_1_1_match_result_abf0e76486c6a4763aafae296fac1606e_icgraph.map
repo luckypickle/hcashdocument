@@ -1,0 +1,4 @@
+<map id="glua::parser::MatchResult::linenumber_after_end" name="glua::parser::MatchResult::linenumber_after_end">
+<area shape="rect" id="node2" href="$classglua_1_1parser_1_1_glua_type_checker.html#a413e556b913b2f22d857fb7b2204d152" title="glua::parser::GluaTypeChecker\l::set_in_repl" alt="" coords="224,5,425,47"/>
+<area shape="rect" id="node3" href="$classglua_1_1parser_1_1_glua_ast_node.html#a078c1ef61397624b9c7c230cbb2ab9af" title="glua::parser::GluaAstNode\l::linenumber_after_end" alt="" coords="237,71,412,112"/>
+</map>

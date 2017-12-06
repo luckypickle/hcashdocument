@@ -1,0 +1,21 @@
+<map id="hsrcore::blockchain::RegisterContractOperation::evaluate" name="hsrcore::blockchain::RegisterContractOperation::evaluate">
+<area shape="rect" id="node2" href="$classhsrcore_1_1blockchain_1_1_chain_interface.html#a64afd7438006cfd0f9c797ae949e0c85" title="hsrcore::blockchain\l::ChainInterface::get\l_contract_entry" alt="" coords="269,5,407,61"/>
+<area shape="rect" id="node3" href="$classhsrcore_1_1blockchain_1_1_transaction_evaluation_state.html#ac2f347b449c83eb18f2f2258e77cf110" title="hsrcore::blockchain\l::TransactionEvaluationState\l::check_signature" alt="" coords="723,121,909,177"/>
+<area shape="rect" id="node4" href="$namespacehsrcore_1_1blockchain.html#a915fe11c68cb92de345511063bc29b50" title="hsrcore::blockchain\l::check_balances" alt="" coords="271,267,405,309"/>
+<area shape="rect" id="node9" href="$namespacehsrcore_1_1blockchain.html#a775fd7ddc1298e8ebf51ad8a3bf0fde8" title="hsrcore::blockchain\l::get_amount_sum" alt="" coords="514,494,649,535"/>
+<area shape="rect" id="node10" href="$classhsrcore_1_1blockchain_1_1_chain_interface.html#ad689dfd6985739692e3e66c9118a3e7f" title="hsrcore::blockchain\l::ChainInterface::get\l_default_margin" alt="" coords="269,384,407,440"/>
+<area shape="rect" id="node11" href="$classhsrcore_1_1blockchain_1_1_chain_interface.html#a16e742490f0eadeb918e10eeeba9e9ec" title="hsrcore::blockchain\l::ChainInterface::get\l_contract_register_fee" alt="" coords="263,464,413,520"/>
+<area shape="rect" id="node12" href="$structhsrcore_1_1blockchain_1_1_signed_transaction.html#a1d3e482ad287dbfb537b525c41760cda" title="hsrcore::blockchain\l::SignedTransaction::id" alt="" coords="261,545,415,586"/>
+<area shape="rect" id="node13" href="$classhsrcore_1_1blockchain_1_1_chain_interface.html#ab771453fa336d65001e3b7acf58daa36" title="hsrcore::blockchain\l::ChainInterface::store\l_contract_entry" alt="" coords="263,611,413,667"/>
+<area shape="rect" id="node15" href="$classblockchain_1_1contract__engine_1_1_contract_engine_builder.html#a8e31a4d0da2bac91323eabe38a7782d0" title="blockchain::contract\l_engine::ContractEngineBuilder\l::build" alt="" coords="236,691,440,747"/>
+<area shape="rect" id="node16" href="$classhsrcore_1_1blockchain_1_1_chain_interface.html#aeacb98070aa9e1cecc56f78c099cae78" title="hsrcore::blockchain\l::ChainInterface::get_limit" alt="" coords="253,771,423,813"/>
+<area shape="rect" id="node17" href="$structhsrcore_1_1blockchain_1_1_signed_transaction.html#a2c4161711d2d0dec597a8f085dbbc47c" title="hsrcore::blockchain\l::SignedTransaction\l::push_transaction" alt="" coords="269,837,407,893"/>
+<area shape="rect" id="node18" href="$classhsrcore_1_1blockchain_1_1_chain_interface.html#a04d6f310971c4220e1ac3d07a1db508d" title="hsrcore::blockchain\l::ChainInterface::get\l_amount" alt="" coords="269,917,407,973"/>
+<area shape="rect" id="node19" href="$namespacehsrcore_1_1blockchain.html#a172a0bed2aa5d9c4e0039d5983b7b7c6" title="hsrcore::blockchain\l::withdraw_enough_balances" alt="" coords="244,998,432,1039"/>
+<area shape="rect" id="node20" href="$classhsrcore_1_1blockchain_1_1_chain_interface.html#ae4c6bf1da70c29eaafc8255e1c3714aa" title="hsrcore::blockchain\l::ChainInterface::remove\l_contract_entry" alt="" coords="257,1064,419,1120"/>
+<area shape="rect" id="node5" href="$classhsrcore_1_1blockchain_1_1_chain_interface.html#a05369dec99193ba95800a39ff349ad00" title="hsrcore::blockchain\l::ChainInterface::get\l_balance_entry" alt="" coords="512,187,651,243"/>
+<area shape="rect" id="node6" href="$classhsrcore_1_1blockchain_1_1_chain_interface.html#a55ff4009828e6fe471fce6890197e711" title="hsrcore::blockchain\l::ChainInterface::now" alt="" coords="510,267,653,309"/>
+<area shape="rect" id="node7" href="$classhsrcore_1_1blockchain_1_1_chain_interface.html#aabf398a48e2ee054a89b53c976b3248e" title="hsrcore::blockchain\l::ChainInterface::get\l_asset_entry" alt="" coords="512,333,651,389"/>
+<area shape="rect" id="node8" href="$classhsrcore_1_1blockchain_1_1_transaction_evaluation_state.html#abf766ab90b7c62f3799014b3b7682b09" title="hsrcore::blockchain\l::TransactionEvaluationState\l::verify_authority" alt="" coords="488,413,675,469"/>
+<area shape="rect" id="node14" href="$classhsrcore_1_1blockchain_1_1_chain_interface.html#aa2b96ebb8448dceb430ea0fbb61ca6c4" title="hsrcore::blockchain\l::ChainInterface::store" alt="" coords="507,618,656,659"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="hsrcore::blockchain::Transaction::upgrade_contract" name="hsrcore::blockchain::Transaction::upgrade_contract">
+<area shape="rect" id="node2" href="$classhsrcore_1_1wallet_1_1_wallet.html#a4e6ab7c03ba9cec47961502941214cdd" title="hsrcore::wallet::Wallet\l::upgrade_contract" alt="" coords="218,5,369,47"/>
+<area shape="rect" id="node4" href="$classhsrcore_1_1wallet_1_1_wallet.html#a961fd01dc15317976c178d4342a4226a" title="hsrcore::wallet::Wallet\l::upgrade_contract_without\l_signature" alt="" coords="204,71,383,127"/>
+<area shape="rect" id="node3" href="$classhsrcore_1_1wallet_1_1_wallet.html#acd60b122647c69a9f40cf62897bad11d" title="hsrcore::wallet::Wallet\l::upgrade_contract_testing" alt="" coords="431,5,607,47"/>
+</map>

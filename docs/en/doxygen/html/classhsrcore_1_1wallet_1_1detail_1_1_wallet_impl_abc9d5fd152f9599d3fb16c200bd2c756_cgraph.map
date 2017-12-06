@@ -1,0 +1,9 @@
+<map id="hsrcore::wallet::detail::WalletImpl::reschedule_relocker" name="hsrcore::wallet::detail::WalletImpl::reschedule_relocker">
+<area shape="rect" id="node2" href="$classhsrcore_1_1wallet_1_1detail_1_1_wallet_impl.html#a43f93fa2a425ca0a67da38367d72b301" title="hsrcore::wallet::detail\l::WalletImpl::relocker" alt="" coords="216,40,361,81"/>
+<area shape="rect" id="node3" href="$namespacehsrcore_1_1blockchain.html#a2d604a90c34e5cfbc5252d1596314373" title="hsrcore::blockchain::now" alt="" coords="409,17,576,43"/>
+<area shape="rect" id="node6" href="$classhsrcore_1_1wallet_1_1_wallet.html#ab22cd55bc0cbd037a764e1e77f658a14" title="hsrcore::wallet::Wallet\l::get_my_delegates" alt="" coords="417,71,568,112"/>
+<area shape="rect" id="node4" href="$namespacehsrcore_1_1blockchain.html#a6ab2a224374df515fe76b3799ed648fb" title="hsrcore::blockchain\l::ntp_time" alt="" coords="632,5,767,47"/>
+<area shape="rect" id="node5" href="$namespacehsrcore_1_1blockchain_1_1detail.html#ae5c17ca96b07a1f76c62bc6fd564759c" title="hsrcore::blockchain\l::detail::ntp_service" alt="" coords="823,5,957,47"/>
+<area shape="rect" id="node7" href="$classhsrcore_1_1wallet_1_1_wallet.html#a5fa9d05b99389e596dadae3ddfb4cdf8" title="hsrcore::wallet::Wallet\l::is_open" alt="" coords="624,71,775,112"/>
+<area shape="rect" id="node8" href="$classhsrcore_1_1wallet_1_1_wallet.html#a04e91229d8b9dfb9f7fcede847eba954" title="hsrcore::wallet::Wallet\l::list_my_accounts" alt="" coords="624,136,775,177"/>
+</map>

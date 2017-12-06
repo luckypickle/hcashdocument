@@ -1,0 +1,11 @@
+<map id="hsrcore::blockchain::FullBlock::block_size" name="hsrcore::blockchain::FullBlock::block_size">
+<area shape="rect" id="node2" href="$classhsrcore_1_1blockchain_1_1detail_1_1_chain_database_impl.html#a52366df8646e6e98455acd6d0c60945a" title="hsrcore::blockchain\l::detail::ChainDatabaseImpl\l::store_and_index" alt="" coords="225,5,406,61"/>
+<area shape="rect" id="node3" href="$classhsrcore_1_1blockchain_1_1_chain_database.html#a5510511c1719b150002a88ec0c4f6c51" title="hsrcore::blockchain\l::ChainDatabase::get\l_block_entry" alt="" coords="243,85,387,141"/>
+<area shape="rect" id="node5" href="$classhsrcore_1_1blockchain_1_1_chain_database.html#a6ebfaeaaf8cd5bb9b7315b310347bf2f" title="hsrcore::blockchain\l::ChainDatabase::generate_block" alt="" coords="208,166,423,207"/>
+<area shape="rect" id="node6" href="$classhsrcore_1_1client_1_1detail_1_1_client_impl.html#a053fc270374b23de2f20fcb1ed81a4a1" title="hsrcore::client::detail\l::ClientImpl::handle_message" alt="" coords="219,231,412,273"/>
+<area shape="rect" id="node7" href="$namespacehsrcore_1_1client_1_1detail.html#aa6e5e8c2f19ad844838194aa68459e68" title="hsrcore::client::detail\l::ThreadStakeMiner" alt="" coords="244,297,387,338"/>
+<area shape="rect" id="node9" href="$classhsrcore_1_1net_1_1detail_1_1_node_impl.html#a8c8cae7883811251c7a435de4d914d7d" title="hsrcore::net::detail\l::NodeImpl::process_block\l_message" alt="" coords="227,363,403,419"/>
+<area shape="rect" id="node4" href="$classhsrcore_1_1blockchain_1_1_chain_database.html#af642665daaa729d71ae2f1087a8c5761" title="hsrcore::blockchain\l::ChainDatabase::get\l_block_entry" alt="" coords="493,85,637,141"/>
+<area shape="rect" id="node8" href="$classhsrcore_1_1client_1_1detail_1_1_client_impl.html#afce88a14a09f444dd1ce966157c33e03" title="hsrcore::client::detail\l::ClientImpl::GenerateStakes" alt="" coords="471,297,660,338"/>
+<area shape="rect" id="node10" href="$classhsrcore_1_1net_1_1detail_1_1_node_impl.html#acf681683f9b0feee4994854571cbf65b" title="hsrcore::net::detail\l::NodeImpl::on_message" alt="" coords="482,370,649,411"/>
+</map>

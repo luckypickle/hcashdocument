@@ -1,0 +1,4 @@
+<map id="hsrcore::blockchain::AccountEntry::is_titan_account" name="hsrcore::blockchain::AccountEntry::is_titan_account">
+<area shape="rect" id="node2" href="$group__builders.html#gae18befef77c3cc52efa80a4a084d6844" title="Transfer funds from payer to recipient. " alt="" coords="236,5,417,47"/>
+<area shape="rect" id="node3" href="$group__builders.html#gae151a12bdcf83bb49157d4f7b0d851cd" title="hsrcore::wallet::Transaction\lBuilder::deposit_asset_with_escrow" alt="" coords="212,71,441,112"/>
+</map>

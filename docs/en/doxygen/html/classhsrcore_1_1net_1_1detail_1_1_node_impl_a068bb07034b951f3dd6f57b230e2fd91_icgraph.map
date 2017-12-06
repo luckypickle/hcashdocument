@@ -1,0 +1,14 @@
+<map id="hsrcore::net::detail::NodeImpl::get_number_of_connections" name="hsrcore::net::detail::NodeImpl::get_number_of_connections">
+<area shape="rect" id="node2" href="$classhsrcore_1_1net_1_1detail_1_1_node_impl.html#a4bb43d29572faeca18b9c5c53169e32b" title="hsrcore::net::detail\l::NodeImpl::is_accepting\l_new_connections" alt="" coords="221,41,386,97"/>
+<area shape="rect" id="node5" href="$classhsrcore_1_1net_1_1detail_1_1_node_impl.html#ae0ddba369c9da535b4f316c9b0c57102" title="hsrcore::net::detail\l::NodeImpl::is_wanting\l_new_connections" alt="" coords="459,281,612,337"/>
+<area shape="rect" id="node8" href="$classhsrcore_1_1net_1_1detail_1_1_node_impl.html#a4778810842311ef350655e0ba9d1cff2" title="hsrcore::net::detail\l::NodeImpl::display_current\l_connections" alt="" coords="213,151,393,207"/>
+<area shape="rect" id="node3" href="$classhsrcore_1_1net_1_1detail_1_1_node_impl.html#a47a530a107211a7e2c136bac295a142d" title="hsrcore::net::detail\l::NodeImpl::on_hello\l_message" alt="" coords="677,5,817,61"/>
+<area shape="rect" id="node4" href="$classhsrcore_1_1net_1_1detail_1_1_node_impl.html#acf681683f9b0feee4994854571cbf65b" title="hsrcore::net::detail\l::NodeImpl::on_message" alt="" coords="1069,46,1236,87"/>
+<area shape="rect" id="node6" href="$classhsrcore_1_1net_1_1detail_1_1_node_impl.html#a5c200113467e2b8133750516808f3e2a" title="hsrcore::net::detail\l::NodeImpl::p2p_network\l_connect_loop" alt="" coords="1070,216,1235,272"/>
+<area shape="rect" id="node7" href="$classhsrcore_1_1net_1_1detail_1_1_node_impl.html#a3f9901a46e1b09275b84862c10b3c59a" title="hsrcore::net::detail\l::NodeImpl::connect_to\l_p2p_network" alt="" coords="1284,216,1440,272"/>
+<area shape="rect" id="node9" href="$classhsrcore_1_1net_1_1detail_1_1_node_impl.html#ac178afcc3cf7fa1c1d1c47be6289de51" title="hsrcore::net::detail\l::NodeImpl::on_connection\l_closed" alt="" coords="447,151,623,207"/>
+<area shape="rect" id="node10" href="$classhsrcore_1_1net_1_1detail_1_1_node_impl.html#a51a3303e2df3aae88c795c9ef99f936f" title="hsrcore::net::detail\l::NodeImpl::connect_to_task" alt="" coords="441,85,629,126"/>
+<area shape="rect" id="node11" href="$classhsrcore_1_1net_1_1detail_1_1_node_impl.html#a3110e4b9c26d0313f5f2d403950e7b22" title="hsrcore::net::detail\l::NodeImpl::initiate\l_connect_to" alt="" coords="682,85,813,141"/>
+<area shape="rect" id="node12" href="$classhsrcore_1_1net_1_1detail_1_1_node_impl.html#a4c5b3463f90c2e27d13df2cc4e2de76f" title="hsrcore::net::detail\l::NodeImpl::on_check\l_firewall_message" alt="" coords="869,71,1017,127"/>
+<area shape="rect" id="node13" href="$classhsrcore_1_1net_1_1detail_1_1_node_impl.html#a4767b21f6f0512150d7fe8190ab63d59" title="hsrcore::net::detail\l::NodeImpl::connect_to\l_endpoint" alt="" coords="865,151,1021,207"/>
+</map>

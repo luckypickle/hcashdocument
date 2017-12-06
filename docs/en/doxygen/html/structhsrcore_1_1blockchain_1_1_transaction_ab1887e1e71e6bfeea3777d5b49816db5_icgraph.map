@@ -1,0 +1,5 @@
+<map id="hsrcore::blockchain::Transaction::destroy_contract" name="hsrcore::blockchain::Transaction::destroy_contract">
+<area shape="rect" id="node2" href="$classhsrcore_1_1wallet_1_1_wallet.html#a916f082791eeb72056c6a8af7d83267e" title="hsrcore::wallet::Wallet\l::destroy_contract" alt="" coords="213,5,364,47"/>
+<area shape="rect" id="node4" href="$classhsrcore_1_1wallet_1_1_wallet.html#a5f131b419e6dade4256734ab40fae34a" title="hsrcore::wallet::Wallet\l::destroy_contract_without\l_signatrue" alt="" coords="201,71,376,127"/>
+<area shape="rect" id="node3" href="$classhsrcore_1_1wallet_1_1_wallet.html#a0769ae202a4952ad1a603ee85aa5903f" title="hsrcore::wallet::Wallet\l::destroy_contract_testing" alt="" coords="424,5,597,47"/>
+</map>

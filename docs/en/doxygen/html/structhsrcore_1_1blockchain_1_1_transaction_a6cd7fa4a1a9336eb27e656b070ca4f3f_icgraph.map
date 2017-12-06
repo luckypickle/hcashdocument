@@ -1,0 +1,5 @@
+<map id="hsrcore::blockchain::Transaction::call_contract" name="hsrcore::blockchain::Transaction::call_contract">
+<area shape="rect" id="node2" href="$classhsrcore_1_1wallet_1_1_wallet.html#a8c21e6956ba506be20e1b039c9d892bb" title="hsrcore::wallet::Wallet\l::call_contract" alt="" coords="189,5,339,47"/>
+<area shape="rect" id="node4" href="$classhsrcore_1_1wallet_1_1_wallet.html#ad2c6a739e6ddc9c95f57a2594f4be899" title="hsrcore::wallet::Wallet\l::call_contract_without\l_signature" alt="" coords="188,71,340,127"/>
+<area shape="rect" id="node3" href="$classhsrcore_1_1wallet_1_1_wallet.html#aff3d2d26c620b0ffaf5f31ddce06366f" title="hsrcore::wallet::Wallet\l::call_contract_testing" alt="" coords="388,5,539,47"/>
+</map>

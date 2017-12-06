@@ -1,0 +1,6 @@
+<map id="hsrcore::blockchain::ChainDatabase::get_head_block_num" name="hsrcore::blockchain::ChainDatabase::get_head_block_num">
+<area shape="rect" id="node2" href="$classhsrcore_1_1blockchain_1_1_chain_database.html#aa6121c12f5311ec56cb08c33fd5503f1" title="hsrcore::blockchain\l::ChainDatabase::find\l_block_num" alt="" coords="227,5,374,61"/>
+<area shape="rect" id="node3" href="$classhsrcore_1_1blockchain_1_1_chain_database.html#a0f23d5b78aaef58ad33f5b85db3f6749" title="hsrcore::blockchain\l::ChainDatabase::push_block" alt="" coords="205,86,397,127"/>
+<area shape="rect" id="node4" href="$classhsrcore_1_1blockchain_1_1_chain_database.html#accd4980c2c2889d2f71a4f00c21064c3" title="hsrcore::blockchain\l::ChainDatabase::get\l_average_delegate_participation" alt="" coords="197,152,404,208"/>
+<area shape="rect" id="node5" href="$classhsrcore_1_1blockchain_1_1_chain_database.html#a19aa9e6640d2fb86e1635a1c2b5b3f42" title="hsrcore::blockchain\l::ChainDatabase::get\l_delegate_slot_entrys" alt="" coords="226,232,375,288"/>
+</map>

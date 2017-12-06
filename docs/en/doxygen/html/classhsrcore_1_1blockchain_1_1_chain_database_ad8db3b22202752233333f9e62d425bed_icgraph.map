@@ -1,0 +1,7 @@
+<map id="hsrcore::blockchain::ChainDatabase::get_head_block_modify" name="hsrcore::blockchain::ChainDatabase::get_head_block_modify">
+<area shape="rect" id="node2" href="$classhsrcore_1_1blockchain_1_1_chain_database.html#a7fb843c292298254229f2551b4f0e94e" title="hsrcore::blockchain\l::ChainDatabase::CheckProof\lOfStake" alt="" coords="197,43,391,99"/>
+<area shape="rect" id="node3" href="$classhsrcore_1_1blockchain_1_1detail_1_1_chain_database_impl.html#a55121094e325ebd325c4641bb37b9aa8" title="hsrcore::blockchain\l::detail::ChainDatabaseImpl\l::verify_header" alt="" coords="447,5,628,61"/>
+<area shape="rect" id="node6" href="$classhsrcore_1_1blockchain_1_1_chain_database.html#a917efa83b8dc0d56fa722c3138d132f2" title="hsrcore::blockchain\l::ChainDatabase::CheckStake" alt="" coords="439,86,636,127"/>
+<area shape="rect" id="node4" href="$classhsrcore_1_1blockchain_1_1detail_1_1_chain_database_impl.html#aeeffbabd2ac37bed5c061837beb8f8c1" title="hsrcore::blockchain\l::detail::ChainDatabaseImpl\l::extend_chain" alt="" coords="684,5,865,61"/>
+<area shape="rect" id="node5" href="$classhsrcore_1_1blockchain_1_1detail_1_1_chain_database_impl.html#afbdbe1d423c95c2fd6f44814300fffe3" title="hsrcore::blockchain\l::detail::ChainDatabaseImpl\l::switch_to_fork" alt="" coords="913,5,1095,61"/>
+</map>

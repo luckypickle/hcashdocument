@@ -1,0 +1,16 @@
+<map id="hsrcore::lua::api::GluaChainApi::throw_exception" name="hsrcore::lua::api::GluaChainApi::throw_exception">
+<area shape="rect" id="node2" href="$lstate_8cpp.html#ab0ae0115b908649bce78d3bce998dcfc" title="lua_malloc" alt="" coords="1947,5,2031,32"/>
+<area shape="rect" id="node3" href="$ldebug_8cpp.html#a51e03f630da57ed47f36a48d4a0be81c" title="lua_set_compile_error" alt="" coords="193,199,343,225"/>
+<area shape="rect" id="node4" href="$namespacehsrcore_1_1lua_1_1lib.html#a783f5aeadf6a71cc8d4f73ca6d9c3fe0" title="hsrcore::lua::lib::\lget_lua_state_value" alt="" coords="200,250,336,291"/>
+<area shape="rect" id="node7" href="$namespacehsrcore_1_1lua_1_1lib.html#a2355fef8258fe97d37be4223ee04bf10" title="hsrcore::lua::lib::\lset_lua_state_value" alt="" coords="2359,271,2495,313"/>
+<area shape="rect" id="node5" href="$namespacehsrcore_1_1lua_1_1lib.html#a90ae78316a1c85d4ffbe6f541458691a" title="hsrcore::lua::lib::\lget_lua_state_value_node" alt="" coords="1672,385,1843,426"/>
+<area shape="rect" id="node6" href="$namespacehsrcore_1_1lua_1_1lib.html#a1e56255a6a49e9421752ec65ca869999" title="hsrcore::lua::lib::\lset_lua_state_instructions_limit" alt="" coords="391,439,596,481"/>
+<area shape="rect" id="node8" href="$namespacehsrcore_1_1lua_1_1lib.html#abe0abb597e45493d293248f32f34ba7e" title="hsrcore::lua::lib::\lget_lua_state_instructions_limit" alt="" coords="644,309,849,350"/>
+<area shape="rect" id="node9" href="$namespacehsrcore_1_1lua_1_1lib.html#ae3dccaa56e15d3621c35e3aa4508cb07" title="hsrcore::lua::lib::\lget_lua_state_instructions\l_executed_count" alt="" coords="897,289,1072,345"/>
+<area shape="rect" id="node10" href="$namespacehsrcore_1_1lua_1_1lib.html#aed75c0ce8a6d0026f59cf4365bc0778e" title="hsrcore::lua::lib::\lenter_lua_sandbox" alt="" coords="1120,297,1251,338"/>
+<area shape="rect" id="node11" href="$namespacehsrcore_1_1lua_1_1lib.html#a82319e63dbce89260538b5636e3ec496" title="hsrcore::lua::lib::\lexit_lua_sandbox" alt="" coords="1299,275,1421,317"/>
+<area shape="rect" id="node12" href="$namespacehsrcore_1_1lua_1_1lib.html#aaee7e35c4545f2f521ff7c8b26ccfb7d" title="hsrcore::lua::lib::\lcheck_in_lua_sandbox" alt="" coords="1469,275,1624,317"/>
+<area shape="rect" id="node13" href="$namespacehsrcore_1_1lua_1_1lib.html#a576aa58d1d3c68b9dcf48b3f8784ca8e" title="hsrcore::lua::lib::\lnotify_lua_state_stop" alt="" coords="1685,57,1830,98"/>
+<area shape="rect" id="node14" href="$namespacehsrcore_1_1lua_1_1lib.html#a0e1203ff5aed9e4678320632358c4ca5" title="hsrcore::lua::lib::\lcheck_lua_state_notified_stop" alt="" coords="1891,107,2088,149"/>
+<area shape="rect" id="node15" href="$namespacehsrcore_1_1lua_1_1lib.html#a9c3c6106d8bbe8d10980632b43d7728e" title="hsrcore::lua::lib::\lresume_lua_state_running" alt="" coords="2136,158,2311,199"/>
+</map>

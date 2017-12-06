@@ -1,0 +1,8 @@
+<map id="hsrcore::wallet::Wallet::auto_backup" name="hsrcore::wallet::Wallet::auto_backup">
+<area shape="rect" id="node2" href="$classhsrcore_1_1wallet_1_1_wallet.html#a6d712641c7b2b59317c219e41a07f2b0" title="hsrcore::wallet::Wallet\l::get_automatic_backups" alt="" coords="204,5,372,47"/>
+<area shape="rect" id="node4" href="$namespacehsrcore_1_1blockchain.html#a2d604a90c34e5cfbc5252d1596314373" title="hsrcore::blockchain::now" alt="" coords="205,137,371,163"/>
+<area shape="rect" id="node7" href="$classhsrcore_1_1wallet_1_1_wallet.html#ad9d5bbbf24d07f0bed5328b843d23038" title="hsrcore::wallet::Wallet\l::export_to_json" alt="" coords="213,71,363,112"/>
+<area shape="rect" id="node3" href="$classhsrcore_1_1wallet_1_1_wallet.html#a5fa9d05b99389e596dadae3ddfb4cdf8" title="hsrcore::wallet::Wallet\l::is_open" alt="" coords="420,35,571,76"/>
+<area shape="rect" id="node5" href="$namespacehsrcore_1_1blockchain.html#a6ab2a224374df515fe76b3799ed648fb" title="hsrcore::blockchain\l::ntp_time" alt="" coords="428,129,563,171"/>
+<area shape="rect" id="node6" href="$namespacehsrcore_1_1blockchain_1_1detail.html#ae5c17ca96b07a1f76c62bc6fd564759c" title="hsrcore::blockchain\l::detail::ntp_service" alt="" coords="619,129,753,171"/>
+</map>

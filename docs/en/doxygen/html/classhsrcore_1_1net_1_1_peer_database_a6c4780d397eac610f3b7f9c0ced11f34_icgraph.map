@@ -1,0 +1,8 @@
+<map id="hsrcore::net::PeerDatabase::lookup_entry_for_endpoint" name="hsrcore::net::PeerDatabase::lookup_entry_for_endpoint">
+<area shape="rect" id="node2" href="$classhsrcore_1_1net_1_1detail_1_1_node_impl.html#a17d3f1a7f91e45765d3240e87ebce895" title="hsrcore::net::detail\l::NodeImpl::~NodeImpl" alt="" coords="245,5,400,47"/>
+<area shape="rect" id="node3" href="$classhsrcore_1_1net_1_1detail_1_1_node_impl.html#a3a75eaaea82fedccca4c3bd6b81a98b6" title="hsrcore::net::detail\l::NodeImpl::on_connection\l_rejected_message" alt="" coords="235,71,411,127"/>
+<area shape="rect" id="node5" href="$classhsrcore_1_1net_1_1detail_1_1_node_impl.html#a88d58481bc004723d0897a00a511ba8a" title="hsrcore::net::detail\l::NodeImpl::on_address\l_request_message" alt="" coords="243,151,402,207"/>
+<area shape="rect" id="node6" href="$classhsrcore_1_1net_1_1detail_1_1_node_impl.html#ac7ae27fc3e5700d4c7aecb422dac174e" title="hsrcore::net::detail\l::NodeImpl::on_address\l_message" alt="" coords="243,231,402,287"/>
+<area shape="rect" id="node7" href="$classhsrcore_1_1net_1_1detail_1_1_node_impl.html#ac178afcc3cf7fa1c1d1c47be6289de51" title="hsrcore::net::detail\l::NodeImpl::on_connection\l_closed" alt="" coords="235,311,411,367"/>
+<area shape="rect" id="node4" href="$classhsrcore_1_1net_1_1detail_1_1_node_impl.html#acf681683f9b0feee4994854571cbf65b" title="hsrcore::net::detail\l::NodeImpl::on_message" alt="" coords="459,159,625,200"/>
+</map>

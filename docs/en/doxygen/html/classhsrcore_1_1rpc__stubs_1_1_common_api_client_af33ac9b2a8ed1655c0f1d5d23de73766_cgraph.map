@@ -1,0 +1,7 @@
+<map id="hsrcore::rpc_stubs::CommonApiClient::wallet_transfer_to_address" name="hsrcore::rpc_stubs::CommonApiClient::wallet_transfer_to_address">
+<area shape="rect" id="node2" href="$namespacehsrcore_1_1blockchain.html#a2d604a90c34e5cfbc5252d1596314373" title="hsrcore::blockchain::now" alt="" coords="240,13,407,39"/>
+<area shape="rect" id="node5" href="$classhsrcore_1_1rpc__stubs_1_1_common_api_client.html#a0aba9e3b82d49360ff4a71df43516abb" title="hsrcore::rpc_stubs\l::CommonApiClient::get_impl" alt="" coords="228,64,419,105"/>
+<area shape="rect" id="node6" href="$classhsrcore_1_1api_1_1_common_api.html#a740a6eefc1b193c203f9d6e0a616e4d2" title="hsrcore::api::CommonApi\l::wallet_transfer_to_address" alt="" coords="231,129,415,171"/>
+<area shape="rect" id="node3" href="$namespacehsrcore_1_1blockchain.html#a6ab2a224374df515fe76b3799ed648fb" title="hsrcore::blockchain\l::ntp_time" alt="" coords="467,5,601,47"/>
+<area shape="rect" id="node4" href="$namespacehsrcore_1_1blockchain_1_1detail.html#ae5c17ca96b07a1f76c62bc6fd564759c" title="hsrcore::blockchain\l::detail::ntp_service" alt="" coords="649,5,784,47"/>
+</map>

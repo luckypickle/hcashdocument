@@ -1,0 +1,8 @@
+<map id="hsrcore::net::detail::NodeImpl::fetch_items_loop" name="hsrcore::net::detail::NodeImpl::fetch_items_loop">
+<area shape="rect" id="node2" href="$namespacehsrcore_1_1blockchain.html#a2d604a90c34e5cfbc5252d1596314373" title="hsrcore::blockchain::now" alt="" coords="244,13,411,39"/>
+<area shape="rect" id="node5" href="$namespacehsrcore_1_1blockchain.html#ab854731f0ba4a3d4c81e07973383ea62" title="hsrcore::blockchain\l::operator\&lt;" alt="" coords="260,64,395,105"/>
+<area shape="rect" id="node3" href="$namespacehsrcore_1_1blockchain.html#a6ab2a224374df515fe76b3799ed648fb" title="hsrcore::blockchain\l::ntp_time" alt="" coords="459,5,593,47"/>
+<area shape="rect" id="node4" href="$namespacehsrcore_1_1blockchain_1_1detail.html#ae5c17ca96b07a1f76c62bc6fd564759c" title="hsrcore::blockchain\l::detail::ntp_service" alt="" coords="641,5,776,47"/>
+<area shape="rect" id="node6" href="$namespacefc.html#a02aaf527df0b2ab15deb909cac17cb6b" title="fc::to_variant" alt="" coords="479,71,573,98"/>
+<area shape="rect" id="node7" href="$namespacefc.html#ad90b458007a917da722f8088c3a6e50b" title="fc::from_variant" alt="" coords="471,122,581,149"/>
+</map>

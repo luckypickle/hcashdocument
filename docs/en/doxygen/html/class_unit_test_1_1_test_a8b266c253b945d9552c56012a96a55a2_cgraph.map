@@ -1,0 +1,10 @@
+<map id="UnitTest::Test::Run" name="UnitTest::Test::Run">
+<area shape="rect" id="node2" href="$namespace_unit_test.html#a192e777864b15dad1189fa0953146942" title="UnitTest::ExecuteTest" alt="" coords="188,111,339,138"/>
+<area shape="rect" id="node3" href="$namespace_unit_test_1_1_current_test.html#acc95c3abe1309706099ed4ba6e96215a" title="UnitTest::CurrentTest\l::Details" alt="" coords="408,5,553,47"/>
+<area shape="rect" id="node4" href="$namespace_unit_test_1_1_current_test.html#a13d86ce0711035003f650247323291f0" title="UnitTest::CurrentTest\l::Results" alt="" coords="408,71,553,112"/>
+<area shape="rect" id="node5" href="$class_unit_test_1_1_test_results.html#a37dbb0baa9ba978238a4ba7c2a89b53c" title="UnitTest::TestResults\l::OnTestFailure" alt="" coords="407,136,554,177"/>
+<area shape="rect" id="node7" href="$class_unit_test_1_1_memory_out_stream.html#ad1b647ead0264b56de981a460f1ccfd7" title="UnitTest::MemoryOutStream\l::GetText" alt="" coords="387,201,575,243"/>
+<area shape="rect" id="node6" href="$class_unit_test_1_1_test_reporter.html#a55195826cc03302f7a54f728c79102d5" title="UnitTest::TestReporter\l::ReportFailure" alt="" coords="623,136,775,177"/>
+<area shape="rect" id="node8" href="$bignum_8hpp.html#a86b058302c849275feacf293a83ee8be" title="operator\&lt;\&lt;" alt="" coords="656,209,741,235"/>
+<area shape="rect" id="node9" href="$classbignum__error.html#a500a3bab949914c4d3202cbb9241f10f" title="bignum_error::bignum\l_error" alt="" coords="823,201,969,243"/>
+</map>

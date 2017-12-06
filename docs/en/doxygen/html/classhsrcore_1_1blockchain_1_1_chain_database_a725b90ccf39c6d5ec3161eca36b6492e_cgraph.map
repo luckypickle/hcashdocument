@@ -1,0 +1,5 @@
+<map id="hsrcore::blockchain::ChainDatabase::get_block_digest" name="hsrcore::blockchain::ChainDatabase::get_block_digest">
+<area shape="rect" id="node2" href="$classhsrcore_1_1blockchain_1_1_chain_database.html#a8a23c20432b8265b28fb0d3a81aec751" title="hsrcore::blockchain\l::ChainDatabase::get\l_block_digest" alt="" coords="197,5,341,61"/>
+<area shape="rect" id="node4" href="$classhsrcore_1_1blockchain_1_1_chain_database.html#a474285545c30560f055c6d2415430de0" title="hsrcore::blockchain\l::ChainDatabase::get\l_block_id" alt="" coords="197,85,341,141"/>
+<area shape="rect" id="node3" href="$classhsrcore_1_1blockchain_1_1_chain_database.html#a0658aee2ff36f9d0fd34237e02e265ed" title="hsrcore::blockchain\l::ChainDatabase::get_block" alt="" coords="389,13,572,54"/>
+</map>

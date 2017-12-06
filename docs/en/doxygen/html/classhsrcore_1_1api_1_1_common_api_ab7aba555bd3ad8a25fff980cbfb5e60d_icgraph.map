@@ -1,0 +1,8 @@
+<map id="hsrcore::api::CommonApi::get_staking_info" name="hsrcore::api::CommonApi::get_staking_info">
+<area shape="rect" id="node2" href="$namespacehsrcore_1_1client_1_1detail.html#aef590a52729f6e22b6cff8c9b75d4d89" title="hsrcore::client::detail\l::hex2bin" alt="" coords="245,5,387,47"/>
+<area shape="rect" id="node3" href="$classhsrcore_1_1rpc__stubs_1_1_common_api_client.html#a3cb88e50df10f0cef4a98f86de252911" title="hsrcore::rpc_stubs\l::CommonApiClient::get\l_staking_info" alt="" coords="236,71,396,127"/>
+<area shape="rect" id="node4" href="$classhsrcore_1_1rpc__stubs_1_1_common_api_rpc_server.html#ad8cb7358d108f77fb8a8425f014beb2d" title="hsrcore::rpc_stubs\l::CommonApiRpcServer\l::get_staking_info_positional" alt="" coords="223,231,409,287"/>
+<area shape="rect" id="node7" href="$classhsrcore_1_1rpc__stubs_1_1_common_api_rpc_server.html#aaae8f4c96249d8591a401f6e6e832704" title="hsrcore::rpc_stubs\l::CommonApiRpcServer\l::get_staking_info_named" alt="" coords="231,151,401,207"/>
+<area shape="rect" id="node5" href="$classhsrcore_1_1rpc__stubs_1_1_common_api_rpc_server.html#a45cf3aafd35992db4c663115daeeb234" title="hsrcore::rpc_stubs\l::CommonApiRpcServer\l::register_common_api\l_methods" alt="" coords="461,144,621,215"/>
+<area shape="rect" id="node6" href="$classhsrcore_1_1rpc__stubs_1_1_common_api_rpc_server.html#a0188b049d81ec379e3b00e02f4153dc2" title="hsrcore::rpc_stubs\l::CommonApiRpcServer\l::direct_invoke_positional\l_method" alt="" coords="457,239,624,309"/>
+</map>

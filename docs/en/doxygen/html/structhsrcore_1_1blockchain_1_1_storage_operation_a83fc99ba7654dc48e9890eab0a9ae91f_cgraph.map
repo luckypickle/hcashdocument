@@ -1,0 +1,7 @@
+<map id="hsrcore::blockchain::StorageOperation::evaluate" name="hsrcore::blockchain::StorageOperation::evaluate">
+<area shape="rect" id="node2" href="$classhsrcore_1_1blockchain_1_1_chain_interface.html#ac5daa2da0299bd8448e61ac9ff8ff327" title="hsrcore::blockchain\l::ChainInterface::get\l_contractstorage_entry" alt="" coords="201,5,355,61"/>
+<area shape="rect" id="node3" href="$structhsrcore_1_1blockchain_1_1_storage_operation.html#a11b112063fb2a4310f5e82eed0c1c451" title="hsrcore::blockchain\l::StorageOperation::\lupdate_contract_storages" alt="" coords="192,85,364,141"/>
+<area shape="rect" id="node5" href="$classhsrcore_1_1blockchain_1_1_chain_interface.html#afc51ad517a1b3527b9c30b422965be99" title="hsrcore::blockchain\l::ChainInterface::store\l_contractstorage_entry" alt="" coords="201,165,355,221"/>
+<area shape="rect" id="node4" href="$namespacehsrcore_1_1blockchain.html#ad36479ab24e45da621c058f12b5b6436" title="hsrcore::blockchain\l::is_any_base_storage\l_value_type" alt="" coords="412,85,565,141"/>
+<area shape="rect" id="node6" href="$classhsrcore_1_1blockchain_1_1_chain_interface.html#aa2b96ebb8448dceb430ea0fbb61ca6c4" title="hsrcore::blockchain\l::ChainInterface::store" alt="" coords="414,173,563,214"/>
+</map>

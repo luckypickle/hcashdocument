@@ -1,0 +1,6 @@
+<map id="hsrcore::rpc_stubs::CommonApiRpcServer::wallet_list_my_accounts_named" name="hsrcore::rpc_stubs::CommonApiRpcServer::wallet_list_my_accounts_named">
+<area shape="rect" id="node2" href="$classhsrcore_1_1rpc__stubs_1_1_common_api_rpc_server.html#a1dd3f241a3ecc519ef20ff9425ba22fc" title="hsrcore::rpc_stubs\l::CommonApiRpcServer\l::verify_json_connection\l_is_authenticated" alt="" coords="278,5,438,76"/>
+<area shape="rect" id="node3" href="$classhsrcore_1_1rpc__stubs_1_1_common_api_rpc_server.html#afa081104615903324ae8c9f447197032" title="hsrcore::rpc_stubs\l::CommonApiRpcServer\l::verify_wallet_is_open" alt="" coords="278,101,438,157"/>
+<area shape="rect" id="node4" href="$classhsrcore_1_1rpc__stubs_1_1_common_api_rpc_server.html#aeccf0f28cc2af78b93119aacca7ace3c" title="hsrcore::rpc_stubs\l::CommonApiRpcServer\l::get_client" alt="" coords="278,181,438,237"/>
+<area shape="rect" id="node5" href="$classhsrcore_1_1api_1_1_common_api.html#a4a7dc86c9a9c18bd784fd440b5babdaf" title="hsrcore::api::CommonApi\l::wallet_list_my_accounts" alt="" coords="272,261,444,303"/>
+</map>

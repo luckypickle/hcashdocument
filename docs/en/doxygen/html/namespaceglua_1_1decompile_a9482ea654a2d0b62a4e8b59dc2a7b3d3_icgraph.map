@@ -1,0 +1,5 @@
+<map id="glua::decompile::ClearVarListItem" name="glua::decompile::ClearVarListItem">
+<area shape="rect" id="node2" href="$namespaceglua_1_1decompile.html#afda3eda7e703fb7de65ff0cb8562ee7f" title="glua::decompile::DeleteFunction" alt="" coords="238,5,446,32"/>
+<area shape="rect" id="node3" href="$namespaceglua_1_1decompile.html#ab37e2d19fc80802c653ac46eec805dc7" title="glua::decompile::OutputAssignments" alt="" coords="224,56,460,83"/>
+<area shape="rect" id="node4" href="$structglua_1_1decompile_1_1_var_list_item__.html#a954715746302ccd65bd82671dc6eef6d" title="glua::decompile::VarList\lItem_::VarListItem_" alt="" coords="261,107,423,149"/>
+</map>

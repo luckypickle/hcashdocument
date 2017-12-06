@@ -1,0 +1,5 @@
+<map id="std::hash&lt; hsrcore::blockchain::PtsAddress &gt;::operator()" name="std::hash&lt; hsrcore::blockchain::PtsAddress &gt;::operator()">
+<area shape="rect" id="node2" href="$_asset_8hpp.html#ac7901e0a8396a50c202943149e03dc36" title="FC_REFLECT" alt="" coords="224,5,328,32"/>
+<area shape="rect" id="node3" href="$namespacefc.html#a02aaf527df0b2ab15deb909cac17cb6b" title="fc::to_variant" alt="" coords="229,56,323,83"/>
+<area shape="rect" id="node4" href="$namespacefc.html#ad90b458007a917da722f8088c3a6e50b" title="fc::from_variant" alt="" coords="221,107,331,133"/>
+</map>

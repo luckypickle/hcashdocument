@@ -1,0 +1,4 @@
+<map id="hsrcore::rpc_stubs::CommonApiRpcServer::blockchain_is_synced_named" name="hsrcore::rpc_stubs::CommonApiRpcServer::blockchain_is_synced_named">
+<area shape="rect" id="node2" href="$classhsrcore_1_1rpc__stubs_1_1_common_api_rpc_server.html#aeccf0f28cc2af78b93119aacca7ace3c" title="hsrcore::rpc_stubs\l::CommonApiRpcServer\l::get_client" alt="" coords="262,5,422,61"/>
+<area shape="rect" id="node3" href="$classhsrcore_1_1api_1_1_common_api.html#aba6c679b8bf9f0b0a6cb96968a28539c" title="hsrcore::api::CommonApi\l::blockchain_is_synced" alt="" coords="257,86,427,127"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="UnitTest::TestReporter" name="UnitTest::TestReporter">
+<area shape="rect" id="node2" href="$class_unit_test_1_1_composite_test_reporter.html" title="{UnitTest::CompositeTestReporter\n||+ CompositeTestReporter()\l+ GetReporterCount()\l+ AddReporter()\l+ RemoveReporter()\l+ ReportTestStart()\l+ ReportFailure()\l+ ReportTestFinish()\l+ ReportSummary()\l}" alt="" coords="5,189,220,369"/>
+<area shape="rect" id="node3" href="$class_unit_test_1_1_deferred_test_reporter.html" title="{UnitTest::DeferredTestReporter\n||+ ReportTestStart()\l+ ReportFailure()\l+ ReportTestFinish()\l+ GetResults()\l}" alt="" coords="245,219,445,340"/>
+<area shape="rect" id="node5" href="$class_unit_test_1_1_test_reporter_stdout.html" title="{UnitTest::TestReporterStdout\n||}" alt="" coords="469,241,660,318"/>
+<area shape="rect" id="node6" href="$class_unit_test_1_1_throwing_test_reporter.html" title="{UnitTest::ThrowingTestReporter\n||+ ThrowingTestReporter()\l+ ~ThrowingTestReporter()\l+ ReportTestStart()\l+ ReportFailure()\l+ ReportTestFinish()\l+ ReportSummary()\l}" alt="" coords="685,204,887,355"/>
+<area shape="rect" id="node4" href="$class_unit_test_1_1_xml_test_reporter.html" title="{UnitTest::XmlTestReporter\n||+ XmlTestReporter()\l+ ReportSummary()\l}" alt="" coords="258,417,431,509"/>
+</map>

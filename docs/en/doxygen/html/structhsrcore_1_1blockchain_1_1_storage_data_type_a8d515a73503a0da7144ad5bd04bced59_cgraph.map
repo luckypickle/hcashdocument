@@ -1,0 +1,6 @@
+<map id="hsrcore::blockchain::StorageDataType::get_storage_data_from_lua_storage" name="hsrcore::blockchain::StorageDataType::get_storage_data_from_lua_storage">
+<area shape="rect" id="node2" href="$structhsrcore_1_1blockchain_1_1_storage_data_type.html#a6e57a08e6c8d1e0126c38b62c4b49bc3" title="hsrcore::blockchain\l::StorageDataType::Storage\lDataType" alt="" coords="213,5,396,61"/>
+<area shape="rect" id="node3" href="$namespacehsrcore_1_1blockchain.html#a8aa763351882fb7d02b2624d62615aaf" title="hsrcore::blockchain\l::is_any_array_storage\l_value_type" alt="" coords="227,85,382,141"/>
+<area shape="rect" id="node4" href="$namespacehsrcore_1_1blockchain.html#a89aeb271cf9936ea9b406ec519c1ead4" title="hsrcore::blockchain\l::is_any_table_storage\l_value_type" alt="" coords="228,165,381,221"/>
+<area shape="rect" id="node5" href="$namespacehsrcore_1_1blockchain.html#a65a664ecb6ebc78d9803d61a5cada483" title="hsrcore::blockchain\l::get_storage_base_type" alt="" coords="222,246,387,287"/>
+</map>

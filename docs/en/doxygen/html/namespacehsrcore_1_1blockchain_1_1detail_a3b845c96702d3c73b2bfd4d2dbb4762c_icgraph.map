@@ -1,0 +1,11 @@
+<map id="hsrcore::blockchain::detail::initialize_fork_version_data_if_necessary" name="hsrcore::blockchain::detail::initialize_fork_version_data_if_necessary">
+<area shape="rect" id="node2" href="$namespacehsrcore_1_1blockchain.html#adaed6ece3bd7e8e877b5e6ece617f698" title="hsrcore::blockchain\l::estimate_last_known\l_fork_from_git_revision\l_timestamp" alt="" coords="197,151,350,221"/>
+<area shape="rect" id="node7" href="$namespacehsrcore_1_1blockchain.html#a8eea44bf7eae1835680e671512be038f" title="hsrcore::blockchain\l::get_list_of_fork_block\l_numbers" alt="" coords="196,282,351,338"/>
+<area shape="rect" id="node3" href="$classhsrcore_1_1client_1_1detail_1_1_client_impl.html#a7bb7e5f5a11a63f55307358b4e781324" title="hsrcore::client::detail\l::ClientImpl::estimate\l_last_known_fork_from_git\l_revision_timestamp" alt="" coords="451,5,625,76"/>
+<area shape="rect" id="node4" href="$classhsrcore_1_1client_1_1detail_1_1_client_impl.html#a47a1f77573ac408180559281e762855e" title="hsrcore::client::detail\l::ClientImpl::get_chain_id" alt="" coords="454,100,622,141"/>
+<area shape="rect" id="node5" href="$classhsrcore_1_1net_1_1_node_delegate.html#aa5677ce39ed87b641587231e0c9dfc18" title="hsrcore::net::NodeDelegate\l::~NodeDelegate" alt="" coords="448,165,628,207"/>
+<area shape="rect" id="node6" href="$classhsrcore_1_1net_1_1detail_1_1_statistics_gathering_node_delegate_wrapper.html#a51cf7bae84dace9c06c50605750d7031" title="hsrcore::net::detail\l::StatisticsGatheringNodeDelegate\lWrapper::~StatisticsGatheringNodeDelegate\lWrapper" alt="" coords="399,231,677,301"/>
+<area shape="rect" id="node8" href="$classhsrcore_1_1client_1_1_client.html#a926b26049f57aa698741178afbd332d0" title="hsrcore::client::Client\l::connect_to_p2p_network" alt="" coords="451,325,625,367"/>
+<area shape="rect" id="node9" href="$classhsrcore_1_1client_1_1_client.html#a6bab1fa988e6aa7cdbf321f457c466f4" title="hsrcore::client::Client\l::start_networking" alt="" coords="725,325,871,367"/>
+<area shape="rect" id="node10" href="$classhsrcore_1_1client_1_1_client.html#a83d52fbeca46b51b83a51218730769da" title="hsrcore::client::Client\l::configure_from_command_line" alt="" coords="919,325,1124,367"/>
+</map>

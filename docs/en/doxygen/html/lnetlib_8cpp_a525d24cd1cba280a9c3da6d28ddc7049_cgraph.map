@@ -1,0 +1,6 @@
+<map id="lualib_net_read_impl" name="lualib_net_read_impl">
+<area shape="rect" id="node2" href="$lapi_8cpp.html#a2c325311534c23450cdf11931a8db0ae" title="lua_pushlstring" alt="" coords="195,31,305,57"/>
+<area shape="rect" id="node5" href="$lapi_8cpp.html#adcec46ff05dfee9a3c4c05828b40c213" title="lua_pushinteger" alt="" coords="193,81,307,108"/>
+<area shape="rect" id="node3" href="$lstring_8cpp.html#a6d47e53be6b8e58202bb927752f4824b" title="luaS_new" alt="" coords="355,5,433,32"/>
+<area shape="rect" id="node4" href="$lstring_8cpp.html#ab41fb084ce3ea5e2779f6659ccc2484d" title="luaS_newlstr" alt="" coords="481,31,577,57"/>
+</map>

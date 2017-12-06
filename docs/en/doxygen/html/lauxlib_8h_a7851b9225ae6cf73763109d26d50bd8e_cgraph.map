@@ -1,0 +1,36 @@
+<map id="lua_type_to_storage_value_type_with_nested" name="lua_type_to_storage_value_type_with_nested">
+<area shape="rect" id="node2" href="$lapi_8cpp.html#afbb08ecb69421875494105d4de68e5bf" title="lua_gettop" alt="" coords="927,368,1009,395"/>
+<area shape="rect" id="node3" href="$lapi_8cpp.html#a652b273947f0656686f998d8e90cd3ea" title="lua_type" alt="" coords="933,789,1003,816"/>
+<area shape="rect" id="node4" href="$lapi_8cpp.html#a444aee9aa56b0b06175ee3c7bcf7927c" title="lua_toboolean" alt="" coords="917,891,1019,917"/>
+<area shape="rect" id="node5" href="$lapi_8cpp.html#aba53e83eb1fff94b5ed96203bb52d8ae" title="lua_isinteger" alt="" coords="921,520,1015,547"/>
+<area shape="rect" id="node6" href="$lapi_8cpp.html#a28bdc8c01771ec2524b329a409a08040" title="lua_len" alt="" coords="937,259,999,285"/>
+<area shape="rect" id="node7" href="$lapi_8cpp.html#af81c9a68425546e1f8c6354728c95170" title="lua_tointegerx" alt="" coords="917,309,1019,336"/>
+<area shape="rect" id="node8" href="$lauxlib_8cpp.html#a38961f6198adc507c3d12cc6957780fe" title="lua_table_to_map_with\l_nested" alt="" coords="220,627,375,669"/>
+<area shape="rect" id="node34" href="$lapi_8cpp.html#a0444ddf13e5618bca969e4b3b47bc0cc" title="lua_touserdata" alt="" coords="915,951,1021,977"/>
+<area shape="rect" id="node35" href="$classhsrcore_1_1lua_1_1api_1_1_i_glua_chain_api.html#a904db40de78c8f9d08502ac23cfcc592" title="hsrcore::lua::api::\lIGluaChainApi::is_object\l_in_pool" alt="" coords="886,1019,1050,1075"/>
+<area shape="rect" id="node9" href="$lauxlib_8cpp.html#ab0d31435098d75662d00cfce8b5599e5" title="luaL_create_lua_table\l_map_in_memory_pool" alt="" coords="435,1166,591,1207"/>
+<area shape="rect" id="node24" href="$lapi_8cpp.html#a4c4638e137973041d85575bbd697ddf1" title="luaL_traverse_table\l_with_nested" alt="" coords="667,150,801,191"/>
+<area shape="rect" id="node30" href="$lauxlib_8cpp.html#a76ac75dc8280dcaae24fc75e5b6e774a" title="lua_table_to_map_traverser\l_with_nested" alt="" coords="423,627,603,669"/>
+<area shape="rect" id="node10" href="$namespacehsrcore_1_1lua_1_1lib.html#a783f5aeadf6a71cc8d4f73ca6d9c3fe0" title="hsrcore::lua::lib::\lget_lua_state_value" alt="" coords="666,1371,802,1413"/>
+<area shape="rect" id="node13" href="$namespacehsrcore_1_1lua_1_1lib.html#a2355fef8258fe97d37be4223ee04bf10" title="hsrcore::lua::lib::\lset_lua_state_value" alt="" coords="2833,1511,2969,1553"/>
+<area shape="rect" id="node19" href="$namespacehsrcore_1_1lua_1_1lib.html#a576aa58d1d3c68b9dcf48b3f8784ca8e" title="hsrcore::lua::lib::\lnotify_lua_state_stop" alt="" coords="2159,1205,2305,1246"/>
+<area shape="rect" id="node23" href="$classhsrcore_1_1lua_1_1api_1_1_i_glua_chain_api.html#aef0b7d9697425c46f53bfd7b9af56d05" title="hsrcore::lua::api::\lIGluaChainApi::throw\l_exception" alt="" coords="663,1093,805,1149"/>
+<area shape="rect" id="node11" href="$namespacehsrcore_1_1lua_1_1lib.html#a90ae78316a1c85d4ffbe6f541458691a" title="hsrcore::lua::lib::\lget_lua_state_value_node" alt="" coords="2147,1402,2317,1443"/>
+<area shape="rect" id="node12" href="$namespacehsrcore_1_1lua_1_1lib.html#a1e56255a6a49e9421752ec65ca869999" title="hsrcore::lua::lib::\lset_lua_state_instructions_limit" alt="" coords="865,1482,1071,1523"/>
+<area shape="rect" id="node14" href="$namespacehsrcore_1_1lua_1_1lib.html#abe0abb597e45493d293248f32f34ba7e" title="hsrcore::lua::lib::\lget_lua_state_instructions_limit" alt="" coords="1119,1537,1324,1578"/>
+<area shape="rect" id="node15" href="$namespacehsrcore_1_1lua_1_1lib.html#ae3dccaa56e15d3621c35e3aa4508cb07" title="hsrcore::lua::lib::\lget_lua_state_instructions\l_executed_count" alt="" coords="1372,1555,1547,1611"/>
+<area shape="rect" id="node16" href="$namespacehsrcore_1_1lua_1_1lib.html#aed75c0ce8a6d0026f59cf4365bc0778e" title="hsrcore::lua::lib::\lenter_lua_sandbox" alt="" coords="1595,1562,1725,1603"/>
+<area shape="rect" id="node17" href="$namespacehsrcore_1_1lua_1_1lib.html#a82319e63dbce89260538b5636e3ec496" title="hsrcore::lua::lib::\lexit_lua_sandbox" alt="" coords="1773,1537,1896,1578"/>
+<area shape="rect" id="node18" href="$namespacehsrcore_1_1lua_1_1lib.html#aaee7e35c4545f2f521ff7c8b26ccfb7d" title="hsrcore::lua::lib::\lcheck_in_lua_sandbox" alt="" coords="1944,1377,2099,1418"/>
+<area shape="rect" id="node20" href="$lstate_8cpp.html#ab0ae0115b908649bce78d3bce998dcfc" title="lua_malloc" alt="" coords="2422,915,2506,941"/>
+<area shape="rect" id="node21" href="$namespacehsrcore_1_1lua_1_1lib.html#a0e1203ff5aed9e4678320632358c4ca5" title="hsrcore::lua::lib::\lcheck_lua_state_notified_stop" alt="" coords="2365,1259,2563,1301"/>
+<area shape="rect" id="node22" href="$namespacehsrcore_1_1lua_1_1lib.html#a9c3c6106d8bbe8d10980632b43d7728e" title="hsrcore::lua::lib::\lresume_lua_state_running" alt="" coords="2611,1318,2785,1359"/>
+<area shape="rect" id="node25" href="$lapi_8cpp.html#adcec46ff05dfee9a3c4c05828b40c213" title="lua_pushinteger" alt="" coords="911,157,1025,184"/>
+<area shape="rect" id="node26" href="$lapi_8cpp.html#a631ebda324b6a0f382ab6b9314917384" title="lua_geti" alt="" coords="935,208,1001,235"/>
+<area shape="rect" id="node27" href="$lapi_8cpp.html#a602f61a9b583d69dc1c72c8970bd65e8" title="lua_pushvalue" alt="" coords="917,5,1019,32"/>
+<area shape="rect" id="node28" href="$lapi_8cpp.html#a1b4cd0d80f51e5545a97ca6c28c03c50" title="lua_pushnil" alt="" coords="925,56,1011,83"/>
+<area shape="rect" id="node29" href="$lapi_8cpp.html#aa8bf464b98335a075732200ad91ce1de" title="lua_next" alt="" coords="933,107,1003,133"/>
+<area shape="rect" id="node31" href="$lapi_8cpp.html#a9f20233199a414b04c1c4b43f5d040f3" title="lua_isstring" alt="" coords="690,520,778,547"/>
+<area shape="rect" id="node32" href="$lapi_8cpp.html#a5b533fe96cb52b5415896d41daad374a" title="lua_topointer" alt="" coords="686,571,782,597"/>
+<area shape="rect" id="node33" href="$lauxlib_8cpp.html#af1d00ce6afd25927d6c8749e88db7e86" title="lua_type_to_storage\l_value_type_with_nested" alt="" coords="651,723,817,765"/>
+</map>

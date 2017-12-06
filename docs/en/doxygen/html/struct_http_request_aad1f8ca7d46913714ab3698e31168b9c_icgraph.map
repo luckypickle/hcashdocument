@@ -1,0 +1,4 @@
+<map id="HttpRequest::get_header" name="HttpRequest::get_header">
+<area shape="rect" id="node2" href="$struct_http_request.html#a9c9b368258dd3f71af74f04a3dcc82e7" title="HttpRequest::get_int\l_header" alt="" coords="225,5,366,47"/>
+<area shape="rect" id="node3" href="$struct_http_response.html#aa9fe331ea10628b2cc3225ff2ac2fac0" title="HttpResponse::get_int\l_header" alt="" coords="220,71,371,112"/>
+</map>

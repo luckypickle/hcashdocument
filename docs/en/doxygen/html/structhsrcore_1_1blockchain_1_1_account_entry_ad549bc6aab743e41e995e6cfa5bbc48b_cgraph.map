@@ -1,0 +1,12 @@
+<map id="hsrcore::blockchain::AccountEntry::store" name="hsrcore::blockchain::AccountEntry::store">
+<area shape="rect" id="node2" href="$classhsrcore_1_1blockchain_1_1_chain_interface.html#a70bd3873f1f23b23bb8015da16b99069" title="hsrcore::blockchain\l::ChainInterface::lookup" alt="" coords="214,5,373,47"/>
+<area shape="rect" id="node3" href="$structhsrcore_1_1blockchain_1_1_account_entry.html#ab80a0641036f0c14db5e804b98f4b653" title="hsrcore::blockchain\l::AccountEntry::owner\l_address" alt="" coords="218,71,369,127"/>
+<area shape="rect" id="node7" href="$structhsrcore_1_1blockchain_1_1_account_entry.html#a079abdecddd8f03081eea5c20ef0c0a3" title="hsrcore::blockchain\l::AccountEntry::active_key" alt="" coords="437,173,615,215"/>
+<area shape="rect" id="node8" href="$structhsrcore_1_1blockchain_1_1_account_entry.html#a7571728f24f60177b26680e46f4b4bd2" title="hsrcore::blockchain\l::AccountEntry::is_delegate" alt="" coords="435,320,617,361"/>
+<area shape="rect" id="node9" href="$structhsrcore_1_1blockchain_1_1_account_entry.html#ae2733529d834bb3f9b31180032ab7b34" title="hsrcore::blockchain\l::AccountEntry::signing_key" alt="" coords="200,320,387,361"/>
+<area shape="rect" id="node10" href="$structhsrcore_1_1blockchain_1_1_account_entry.html#a7bc3452b3ddbe55f24ea23c1dec36ea5" title="hsrcore::blockchain\l::AccountEntry::is_retracted" alt="" coords="201,203,386,244"/>
+<area shape="rect" id="node11" href="$structhsrcore_1_1blockchain_1_1_account_entry.html#a9893c62dc82b1a93f1fff133aca21ff7" title="hsrcore::blockchain\l::AccountEntry::net_votes" alt="" coords="207,385,379,427"/>
+<area shape="rect" id="node4" href="$namespacehsrcore_1_1blockchain.html#a2d604a90c34e5cfbc5252d1596314373" title="hsrcore::blockchain::now" alt="" coords="443,86,609,113"/>
+<area shape="rect" id="node5" href="$namespacehsrcore_1_1blockchain.html#a6ab2a224374df515fe76b3799ed648fb" title="hsrcore::blockchain\l::ntp_time" alt="" coords="665,79,800,120"/>
+<area shape="rect" id="node6" href="$namespacehsrcore_1_1blockchain_1_1detail.html#ae5c17ca96b07a1f76c62bc6fd564759c" title="hsrcore::blockchain\l::detail::ntp_service" alt="" coords="848,79,983,120"/>
+</map>

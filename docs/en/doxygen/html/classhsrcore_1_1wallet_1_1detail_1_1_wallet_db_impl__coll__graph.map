@@ -1,0 +1,4 @@
+<map id="hsrcore::wallet::detail::WalletDbImpl" name="hsrcore::wallet::detail::WalletDbImpl">
+<area shape="rect" id="node2" href="$classhsrcore_1_1db_1_1_level_map.html" title="{hsrcore::db::LevelMap\l\&lt; int32_t, hsrcore::wallet\l::GenericWalletEntry \&gt;\n||+ open()\l+ is_open()\l+ close()\l+ fetch_optional()\l+ fetch()\l+ begin()\l+ find()\l+ lower_bound()\l+ last()\l+ last()\land 6 more...\l}" alt="" coords="5,175,171,428"/>
+<area shape="rect" id="node3" href="$classhsrcore_1_1wallet_1_1_wallet_db.html" title="{hsrcore::wallet::WalletDb\n||+ WalletDb()\l+ ~WalletDb()\l+ open()\l+ close()\l+ is_open()\l+ new_wallet_entry_index()\l+ set_property()\l+ get_property()\l+ get_last_wallet_child\l_key_index()\l+ set_last_wallet_child\l_key_index()\land 51 more...\l}" alt="" coords="195,175,373,428"/>
+</map>

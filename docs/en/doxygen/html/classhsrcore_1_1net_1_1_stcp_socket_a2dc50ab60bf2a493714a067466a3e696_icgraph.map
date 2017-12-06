@@ -1,0 +1,6 @@
+<map id="hsrcore::net::StcpSocket::bind" name="hsrcore::net::StcpSocket::bind">
+<area shape="rect" id="node2" href="$classhsrcore_1_1net_1_1_stcp_socket.html#a73a5bb7f6550d25145127a9e48a0a141" title="hsrcore::net::StcpSocket\l::get_socket" alt="" coords="235,53,402,94"/>
+<area shape="rect" id="node5" href="$classhsrcore_1_1net_1_1detail_1_1_message_oriented_connection_impl.html#a15bb0e61d2ff8ade58c5f5377f25efe5" title="hsrcore::net::detail\l::MessageOrientedConnection\lImpl::bind" alt="" coords="220,119,417,175"/>
+<area shape="rect" id="node3" href="$classhsrcore_1_1net_1_1detail_1_1_message_oriented_connection_impl.html#a2ba68bcec25817c97fe26fc6ea4e5b5b" title="hsrcore::net::detail\l::MessageOrientedConnection\lImpl::get_socket" alt="" coords="465,5,663,61"/>
+<area shape="rect" id="node4" href="$classhsrcore_1_1net_1_1detail_1_1_message_oriented_connection_impl.html#aa7a42e0290cfcdb9f22a8217acce03a4" title="hsrcore::net::detail\l::MessageOrientedConnection\lImpl::send_message" alt="" coords="465,85,663,141"/>
+</map>

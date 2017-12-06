@@ -1,0 +1,26 @@
+<map id="F:/hshare_org/Hcash/libraries/include/blockchain/TransactionOperations.hpp" name="F:/hshare_org/Hcash/libraries/include/blockchain/TransactionOperations.hpp">
+<area shape="rect" id="node2" href="$_transaction_entry_8hpp.html" title="blockchain/TransactionEntry.hpp" alt="" coords="1747,109,1957,136"/>
+<area shape="rect" id="node23" href="$_operations_8hpp.html" title="blockchain/Operations.hpp" alt="" coords="1611,423,1787,449"/>
+<area shape="rect" id="node3" href="$_transaction_evaluation_state_8hpp.html" title="blockchain/TransactionEvaluation\lState.hpp" alt="" coords="2125,184,2339,225"/>
+<area shape="rect" id="node4" href="$_condition_8hpp.html" title="blockchain/Condition.hpp" alt="" coords="2437,273,2603,300"/>
+<area shape="rect" id="node5" href="$_types_8hpp.html" title="blockchain/Types.hpp" alt="" coords="1970,647,2118,673"/>
+<area shape="rect" id="node17" href="$_transaction_8hpp.html" title="blockchain/Transaction.hpp" alt="" coords="1681,273,1861,300"/>
+<area shape="rect" id="node46" href="$_event_operations_8hpp.html" title="blockchain/EventOperations.hpp" alt="" coords="2011,348,2219,375"/>
+<area shape="rect" id="node50" href="$_balance_entry_8hpp.html" title="blockchain/BalanceEntry.hpp" alt="" coords="2170,423,2361,449"/>
+<area shape="rect" id="node6" href="$_address_8hpp.html" title="blockchain/Address.hpp" alt="" coords="2065,721,2226,748"/>
+<area shape="rect" id="node7" href="$blockchain_2_config_8hpp.html" title="blockchain/Config.hpp" alt="" coords="1135,796,1284,823"/>
+<area shape="rect" id="node9" href="$_pts_address_8hpp.html" title="blockchain/PtsAddress.hpp" alt="" coords="1977,796,2159,823"/>
+<area shape="rect" id="node18" href="$_account_entry_8hpp.html" title="blockchain/AccountEntry.hpp" alt="" coords="1524,497,1716,524"/>
+<area shape="rect" id="node25" href="$_storage_operations_8hpp.html" title="blockchain/StorageOperations.hpp" alt="" coords="1076,348,1297,375"/>
+<area shape="rect" id="node43" href="$_withdraw_types_8hpp.html" title="blockchain/WithdrawTypes.hpp" alt="" coords="1841,497,2044,524"/>
+<area shape="rect" id="node47" href="$_balance_operations_8hpp.html" title="blockchain/BalanceOperations.hpp" alt="" coords="1585,348,1807,375"/>
+<area shape="rect" id="node48" href="$_slate_entry_8hpp.html" title="blockchain/SlateEntry.hpp" alt="" coords="1919,423,2094,449"/>
+<area shape="rect" id="node19" href="$_asset_8hpp.html" title="blockchain/Asset.hpp" alt="" coords="1351,572,1497,599"/>
+<area shape="rect" id="node26" href="$_contract_entry_8hpp.html" title="blockchain/ContractEntry.hpp" alt="" coords="1023,423,1217,449"/>
+<area shape="rect" id="node27" href="$_storage_types_8hpp.html" title="blockchain/StorageTypes.hpp" alt="" coords="1023,497,1217,524"/>
+<area shape="rect" id="node28" href="$hsrcore__lua__api_8h.html" title="glua/hsrcore_lua_api.h" alt="" coords="481,647,633,673"/>
+<area shape="rect" id="node40" href="$luaconf_8h.html" title="glua/luaconf.h" alt="" coords="1007,796,1110,823"/>
+<area shape="rect" id="node41" href="$hsrcore__lua__lib_8h.html" title="glua/hsrcore_lua_lib.h" alt="" coords="647,572,795,599"/>
+<area shape="rect" id="node29" href="$lprefix_8h.html" title="glua/lprefix.h" alt="" coords="1029,721,1123,748"/>
+<area shape="rect" id="node39" href="$lua_8h.html" title="glua/lua.h" alt="" coords="550,721,629,748"/>
+</map>

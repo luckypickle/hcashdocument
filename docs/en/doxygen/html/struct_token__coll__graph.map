@@ -1,0 +1,4 @@
+<map id="Token" name="Token">
+<area shape="rect" id="node2" href="$union_sem_info.html" title="{SemInfo\n|+ r\l+ i\l|}" alt="" coords="34,219,103,311"/>
+<area shape="rect" id="node3" href="$struct_t_string.html" title="{TString\n|+ CommonHeader\l+ extra\l+ shrlen\l+ hash\l+ lnglen\l+ u\l|}" alt="" coords="5,5,132,156"/>
+</map>

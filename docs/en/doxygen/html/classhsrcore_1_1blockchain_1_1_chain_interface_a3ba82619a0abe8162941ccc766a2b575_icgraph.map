@@ -1,0 +1,5 @@
+<map id="hsrcore::blockchain::ChainInterface::get_genesis_timestamp" name="hsrcore::blockchain::ChainInterface::get_genesis_timestamp">
+<area shape="rect" id="node2" href="$classhsrcore_1_1blockchain_1_1_chain_database.html#ab246d830a0f6583a9ce84789bf6a3784" title="hsrcore::blockchain\l::ChainDatabase::open" alt="" coords="224,5,379,47"/>
+<area shape="rect" id="node3" href="$classhsrcore_1_1blockchain_1_1_chain_database.html#a849d4794a450727571839e1142fd241b" title="hsrcore::blockchain\l::ChainDatabase::unclaimed\l_genesis" alt="" coords="209,71,394,127"/>
+<area shape="rect" id="node4" href="$classhsrcore_1_1blockchain_1_1_chain_interface.html#ab3941f5c9d2d0a3f84879b8140d83d1e" title="hsrcore::blockchain\l::ChainInterface::~ChainInterface" alt="" coords="196,152,407,193"/>
+</map>

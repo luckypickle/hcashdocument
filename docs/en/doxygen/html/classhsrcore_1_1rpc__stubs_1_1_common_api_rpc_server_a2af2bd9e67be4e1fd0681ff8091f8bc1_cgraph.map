@@ -1,0 +1,4 @@
+<map id="hsrcore::rpc_stubs::CommonApiRpcServer::blockchain_list_missing_block_delegates_positional" name="hsrcore::rpc_stubs::CommonApiRpcServer::blockchain_list_missing_block_delegates_positional">
+<area shape="rect" id="node2" href="$classhsrcore_1_1rpc__stubs_1_1_common_api_rpc_server.html#aeccf0f28cc2af78b93119aacca7ace3c" title="hsrcore::rpc_stubs\l::CommonApiRpcServer\l::get_client" alt="" coords="243,5,403,61"/>
+<area shape="rect" id="node3" href="$classhsrcore_1_1api_1_1_common_api.html#a1a7ff2e23bbe0827af30f3176ebcd0be" title="hsrcore::api::CommonApi\l::blockchain_list_missing\l_block_delegates" alt="" coords="239,85,408,141"/>
+</map>

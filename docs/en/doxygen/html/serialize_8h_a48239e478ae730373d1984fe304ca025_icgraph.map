@@ -1,0 +1,5 @@
+<map id="GetSerializeSize" name="GetSerializeSize">
+<area shape="rect" id="node2" href="$serialize_8h.html#a9cd643cfa4ca2da679b6f9843bf319aa" title="SerReadWrite" alt="" coords="223,5,326,32"/>
+<area shape="rect" id="node3" href="$class_c_data_stream.html#aaf2b9e953793ce5a4fc438a7ecb00dc2" title="CDataStream::GetSerializeSize" alt="" coords="172,56,377,83"/>
+<area shape="rect" id="node4" href="$class_c_auto_file.html#a883a261f0d7d0320f72152ff2167fd24" title="CAutoFile::GetSerializeSize" alt="" coords="183,107,367,133"/>
+</map>

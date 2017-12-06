@@ -1,0 +1,4 @@
+<map id="glua::debugger::LRemoteDebugger::shutdown" name="glua::debugger::LRemoteDebugger::shutdown">
+<area shape="rect" id="node2" href="$classglua_1_1debugger_1_1_l_remote_debugger.html#aaddc16627eee4995fd4f271e2071bade" title="glua::debugger::LRemoteDebugger\l::~LRemoteDebugger" alt="" coords="276,5,499,47"/>
+<area shape="rect" id="node3" href="$classglua_1_1debugger_1_1_l_remote_debugger.html#ad9ace2f0384f7d527ce268b69bba91a3" title="glua::debugger::LRemoteDebugger\l::set_pausing_lvm" alt="" coords="276,71,499,112"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="hsrcore::wallet::Wallet::get_transaction_scanning" name="hsrcore::wallet::Wallet::get_transaction_scanning">
+<area shape="rect" id="node2" href="$classhsrcore_1_1wallet_1_1detail_1_1_wallet_impl.html#a01e97eae283e573ce5b3dd7b7130ff06" title="hsrcore::wallet::detail\l::WalletImpl::block_applied" alt="" coords="232,39,411,80"/>
+<area shape="rect" id="node3" href="$classhsrcore_1_1wallet_1_1_wallet.html#aca7b9925b396dfd88febb150506fcac8" title="hsrcore::wallet::Wallet\l::start_scan" alt="" coords="246,104,397,145"/>
+<area shape="rect" id="node8" href="$classhsrcore_1_1wallet_1_1_wallet.html#ad2d7b3722567f5cbb321a28696627ebc" title="hsrcore::wallet::Wallet\l::get_info" alt="" coords="246,169,397,211"/>
+<area shape="rect" id="node4" href="$classhsrcore_1_1wallet_1_1_wallet.html#a7c7140007c1d6e6899da09d07891892c" title="hsrcore::wallet::Wallet\l::delete_account" alt="" coords="459,5,609,47"/>
+<area shape="rect" id="node5" href="$classhsrcore_1_1wallet_1_1_wallet.html#a6097a6f104dad1b5ba755ad29ddffacf" title="hsrcore::wallet::Wallet\l::repair_entrys" alt="" coords="459,71,609,112"/>
+<area shape="rect" id="node6" href="$classhsrcore_1_1wallet_1_1_wallet.html#a9179c5ddfbe9def6b728f37c3f3932ca" title="hsrcore::wallet::Wallet\l::regenerate_keys" alt="" coords="459,136,609,177"/>
+<area shape="rect" id="node7" href="$classhsrcore_1_1wallet_1_1_wallet.html#a2bc84a4b084923f0643e66f03b319711" title="hsrcore::wallet::Wallet\l::recover_accounts" alt="" coords="459,201,609,243"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="hsrcore::wallet::ScriptEntry" name="hsrcore::wallet::ScriptEntry">
+<area shape="rect" id="node2" href="$structhsrcore_1_1blockchain_1_1_code.html" title="{hsrcore::blockchain\l::Code\n|+ abi\l+ offline_abi\l+ events\l+ storage_properties\l+ byte_code\l|+ Code()\l+ Code()\l+ SetApis()\l+ valid()\l+ GetHash()\l}" alt="" coords="123,160,264,369"/>
+<area shape="rect" id="node5" href="$classhsrcore_1_1blockchain_1_1_address.html" title="a 160 bit hash of a public key " alt="" coords="423,145,574,384"/>
+</map>

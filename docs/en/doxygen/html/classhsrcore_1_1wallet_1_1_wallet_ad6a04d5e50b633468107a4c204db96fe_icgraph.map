@@ -1,0 +1,7 @@
+<map id="hsrcore::wallet::Wallet::get_enough_balances_by_address" name="hsrcore::wallet::Wallet::get_enough_balances_by_address">
+<area shape="rect" id="node2" href="$classhsrcore_1_1wallet_1_1_wallet.html#a0944dfd25088f9c0e08e4b13ec05fde0" title="hsrcore::wallet::Wallet\l::register_contract_without\l_signature" alt="" coords="214,5,389,61"/>
+<area shape="rect" id="node3" href="$classhsrcore_1_1wallet_1_1_wallet.html#ad2c6a739e6ddc9c95f57a2594f4be899" title="hsrcore::wallet::Wallet\l::call_contract_without\l_signature" alt="" coords="225,85,377,141"/>
+<area shape="rect" id="node4" href="$classhsrcore_1_1wallet_1_1_wallet.html#a0313c46a37a77a2bdaa87fbfe5d1b788" title="hsrcore::wallet::Wallet\l::transfer_asset_to_contract\l_without_signature" alt="" coords="209,165,393,221"/>
+<area shape="rect" id="node5" href="$classhsrcore_1_1wallet_1_1_wallet.html#a961fd01dc15317976c178d4342a4226a" title="hsrcore::wallet::Wallet\l::upgrade_contract_without\l_signature" alt="" coords="212,245,391,301"/>
+<area shape="rect" id="node6" href="$classhsrcore_1_1wallet_1_1_wallet.html#a5f131b419e6dade4256734ab40fae34a" title="hsrcore::wallet::Wallet\l::destroy_contract_without\l_signatrue" alt="" coords="214,325,389,381"/>
+</map>

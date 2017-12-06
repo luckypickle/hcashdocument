@@ -1,0 +1,9 @@
+<map id="hsrcore::wallet::WalletDb::store_transaction" name="hsrcore::wallet::WalletDb::store_transaction">
+<area shape="rect" id="node2" href="$classhsrcore_1_1wallet_1_1detail_1_1_wallet_impl.html#a0a1d47d0d6c21dcc689f88c486fae920" title="hsrcore::wallet::detail\l::WalletImpl::scan_balances" alt="" coords="226,49,413,90"/>
+<area shape="rect" id="node6" href="$classhsrcore_1_1wallet_1_1detail_1_1_wallet_impl.html#ad6841db3acb81a5addd9a10e9f711ec0" title="hsrcore::wallet::detail\l::WalletImpl::scan_block" alt="" coords="467,137,632,178"/>
+<area shape="rect" id="node7" href="$classhsrcore_1_1wallet_1_1detail_1_1_wallet_impl.html#a4d7e2657125be56c63e00d7848ba7ccd" title="hsrcore::wallet::detail\l::WalletImpl::scan_transaction" alt="" coords="220,166,419,207"/>
+<area shape="rect" id="node8" href="$classhsrcore_1_1wallet_1_1_wallet_db.html#a59c58be375cc0beaa14008697637dcc8" title="hsrcore::wallet::WalletDb\l::repair_entrys" alt="" coords="236,231,403,273"/>
+<area shape="rect" id="node3" href="$classhsrcore_1_1wallet_1_1detail_1_1_wallet_impl.html#a3e00e30ab93eea32fb4fe5f6ab85fcba" title="hsrcore::wallet::detail\l::WalletImpl::start_scan_task" alt="" coords="680,107,872,149"/>
+<area shape="rect" id="node4" href="$classhsrcore_1_1wallet_1_1detail_1_1_wallet_impl.html#a0089b1c8889648e19537f332efa6384d" title="hsrcore::wallet::detail\l::WalletImpl::upgrade\l_version" alt="" coords="477,5,622,61"/>
+<area shape="rect" id="node5" href="$classhsrcore_1_1wallet_1_1detail_1_1_wallet_impl.html#af6899327e54bdb87d3fd8eacf6a0aa99" title="hsrcore::wallet::detail\l::WalletImpl::open_file" alt="" coords="701,13,851,54"/>
+</map>

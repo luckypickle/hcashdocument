@@ -1,0 +1,8 @@
+<map id="hsrcore::api::CommonApi::sandbox_upgrade_contract_testing" name="hsrcore::api::CommonApi::sandbox_upgrade_contract_testing">
+<area shape="rect" id="node2" href="$classhsrcore_1_1client_1_1detail_1_1_client_impl.html#a25c30b8c84686886409e5db40b326396" title="hsrcore::client::detail\l::ClientImpl::sandbox\l_get_contract_address" alt="" coords="258,5,413,61"/>
+<area shape="rect" id="node3" href="$classhsrcore_1_1rpc__stubs_1_1_common_api_client.html#a5aa1437927b6c885c50cfb13989979b2" title="hsrcore::rpc_stubs\l::CommonApiClient::sandbox\l_upgrade_contract_testing" alt="" coords="240,85,431,141"/>
+<area shape="rect" id="node4" href="$classhsrcore_1_1rpc__stubs_1_1_common_api_rpc_server.html#a2f0d140f6311ae19b0f417d9fe581976" title="hsrcore::rpc_stubs\l::CommonApiRpcServer\l::sandbox_upgrade_contract\l_testing_positional" alt="" coords="242,261,429,331"/>
+<area shape="rect" id="node7" href="$classhsrcore_1_1rpc__stubs_1_1_common_api_rpc_server.html#a36f66f1f80bc93936e23de803f779efd" title="hsrcore::rpc_stubs\l::CommonApiRpcServer\l::sandbox_upgrade_contract\l_testing_named" alt="" coords="242,166,429,237"/>
+<area shape="rect" id="node5" href="$classhsrcore_1_1rpc__stubs_1_1_common_api_rpc_server.html#a45cf3aafd35992db4c663115daeeb234" title="hsrcore::rpc_stubs\l::CommonApiRpcServer\l::register_common_api\l_methods" alt="" coords="482,166,642,237"/>
+<area shape="rect" id="node6" href="$classhsrcore_1_1rpc__stubs_1_1_common_api_rpc_server.html#a0188b049d81ec379e3b00e02f4153dc2" title="hsrcore::rpc_stubs\l::CommonApiRpcServer\l::direct_invoke_positional\l_method" alt="" coords="479,261,645,331"/>
+</map>

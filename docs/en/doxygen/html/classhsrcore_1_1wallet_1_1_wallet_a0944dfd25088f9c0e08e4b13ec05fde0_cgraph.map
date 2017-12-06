@@ -1,0 +1,15 @@
+<map id="hsrcore::wallet::Wallet::register_contract_without_signature" name="hsrcore::wallet::Wallet::register_contract_without_signature">
+<area shape="rect" id="node2" href="$classhsrcore_1_1wallet_1_1_wallet.html#a74b73f380c8b8989185c1e0efdd7ff00" title="hsrcore::wallet::Wallet\l::get_correct_state_ptr" alt="" coords="235,5,388,47"/>
+<area shape="rect" id="node3" href="$classhsrcore_1_1wallet_1_1_wallet.html#a5fa9d05b99389e596dadae3ddfb4cdf8" title="hsrcore::wallet::Wallet\l::is_open" alt="" coords="673,232,824,273"/>
+<area shape="rect" id="node4" href="$classhsrcore_1_1wallet_1_1_wallet.html#a519c123db91699c6d1432008896c8b23" title="hsrcore::wallet::Wallet\l::is_unlocked" alt="" coords="236,451,387,492"/>
+<area shape="rect" id="node6" href="$namespacehsrcore_1_1blockchain.html#abd0a1f9b224dbcf62deed7db89521f73" title="hsrcore::blockchain\l::to_asset" alt="" coords="244,173,379,215"/>
+<area shape="rect" id="node7" href="$classhsrcore_1_1wallet_1_1_wallet.html#a642e63013a2ff7de99c6dadda4e1e0bf" title="hsrcore::wallet::Wallet\l::get_transaction_fee" alt="" coords="459,76,609,117"/>
+<area shape="rect" id="node8" href="$classhsrcore_1_1wallet_1_1_wallet.html#ad6a04d5e50b633468107a4c204db96fe" title="hsrcore::wallet::Wallet\l::get_enough_balances\l_by_address" alt="" coords="233,290,389,346"/>
+<area shape="rect" id="node9" href="$structhsrcore_1_1blockchain_1_1_transaction.html#ac03cd40aa39c727ad94dec0deac71fe1" title="hsrcore::blockchain\l::Transaction::register\l_contract" alt="" coords="237,370,385,426"/>
+<area shape="rect" id="node11" href="$namespacehsrcore_1_1blockchain.html#a2d604a90c34e5cfbc5252d1596314373" title="hsrcore::blockchain::now" alt="" coords="228,517,395,543"/>
+<area shape="rect" id="node14" href="$classhsrcore_1_1wallet_1_1_wallet.html#a6a506bd3f08711f6fbd0f2bee59b5c2a" title="hsrcore::wallet::Wallet\l::get_transaction_expiration" alt="" coords="443,152,625,193"/>
+<area shape="rect" id="node5" href="$classhsrcore_1_1wallet_1_1_wallet.html#a6e0016a17a8a09a506c9dfa7bbbb5f5d" title="hsrcore::wallet::Wallet\l::is_locked" alt="" coords="459,392,609,433"/>
+<area shape="rect" id="node10" href="$structhsrcore_1_1blockchain_1_1_register_contract_operation.html#afdeaed1384a02be4706b85869ff2a4e4" title="hsrcore::blockchain\l::RegisterContractOperation\l::get_contract_id" alt="" coords="443,311,625,367"/>
+<area shape="rect" id="node12" href="$namespacehsrcore_1_1blockchain.html#a6ab2a224374df515fe76b3799ed648fb" title="hsrcore::blockchain\l::ntp_time" alt="" coords="467,509,601,551"/>
+<area shape="rect" id="node13" href="$namespacehsrcore_1_1blockchain_1_1detail.html#ae5c17ca96b07a1f76c62bc6fd564759c" title="hsrcore::blockchain\l::detail::ntp_service" alt="" coords="681,509,816,551"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="hsrcore::wallet::TransactionBuilder::deposit_asset_with_escrow" name="hsrcore::wallet::TransactionBuilder::deposit_asset_with_escrow">
+<area shape="rect" id="node2" href="$structhsrcore_1_1blockchain_1_1_account_entry.html#a7bc3452b3ddbe55f24ea23c1dec36ea5" title="hsrcore::blockchain\l::AccountEntry::is_retracted" alt="" coords="283,5,468,47"/>
+<area shape="rect" id="node3" href="$structhsrcore_1_1blockchain_1_1_account_entry.html#a079abdecddd8f03081eea5c20ef0c0a3" title="hsrcore::blockchain\l::AccountEntry::active_key" alt="" coords="516,35,695,76"/>
+<area shape="rect" id="node4" href="$structhsrcore_1_1blockchain_1_1_account_entry.html#aa47aab43e872ffe222454f6ddd2564ef" title="hsrcore::blockchain\l::AccountEntry::is_titan\l_account" alt="" coords="296,122,455,178"/>
+<area shape="rect" id="node5" href="$structhsrcore_1_1blockchain_1_1_account_entry.html#ab80a0641036f0c14db5e804b98f4b653" title="hsrcore::blockchain\l::AccountEntry::owner\l_address" alt="" coords="300,202,451,258"/>
+<area shape="rect" id="node6" href="$namespacehsrcore_1_1blockchain.html#a2d604a90c34e5cfbc5252d1596314373" title="hsrcore::blockchain::now" alt="" coords="522,217,689,243"/>
+<area shape="rect" id="node7" href="$namespacehsrcore_1_1blockchain.html#a6ab2a224374df515fe76b3799ed648fb" title="hsrcore::blockchain\l::ntp_time" alt="" coords="743,209,877,251"/>
+<area shape="rect" id="node8" href="$namespacehsrcore_1_1blockchain_1_1detail.html#ae5c17ca96b07a1f76c62bc6fd564759c" title="hsrcore::blockchain\l::detail::ntp_service" alt="" coords="925,209,1060,251"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="hsrcore::wallet::PrettyContractTransaction" name="hsrcore::wallet::PrettyContractTransaction">
+<area shape="rect" id="node2" href="$structhsrcore_1_1wallet_1_1_pretty_contract_ledger_entry.html" title="{hsrcore::wallet::PrettyContract\lLedgerEntry\n||}" alt="" coords="64,447,263,539"/>
+<area shape="rect" id="node3" href="$structhsrcore_1_1blockchain_1_1_asset.html" title="{hsrcore::blockchain\l::Asset\n|+ amount\l|+ Asset()\l+ Asset()\l+ operator+=()\l+ operator&#45;=()\l+ operator/()\l+ operator&#45;()\l+ operator std::string()\l}" alt="" coords="5,145,156,325"/>
+</map>

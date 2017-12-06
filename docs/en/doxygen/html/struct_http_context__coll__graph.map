@@ -1,0 +1,4 @@
+<map id="HttpContext" name="HttpContext">
+<area shape="rect" id="node2" href="$struct_http_request.html" title="{HttpRequest\n|+ headers\l+ body\l|+ get_header()\l+ get_int_header()\l}" alt="" coords="5,204,132,311"/>
+<area shape="rect" id="node4" href="$struct_http_response.html" title="{HttpResponse\n|+ status_code\l+ headers\l+ body\l|+ HttpResponse()\l+ get_header()\l+ get_int_header()\l}" alt="" coords="156,189,283,325"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="hsrcore::net::detail::NodeImpl::close" name="hsrcore::net::detail::NodeImpl::close">
+<area shape="rect" id="node2" href="$classhsrcore_1_1db_1_1_level_map.html#a72936f304d982fda0503e2c3768920b9" title="hsrcore::db::LevelMap\l::close" alt="" coords="203,5,352,47"/>
+<area shape="rect" id="node3" href="$classhsrcore_1_1net_1_1detail_1_1_node_impl.html#a917de3c0d52918c7273aab68054f7c8a" title="hsrcore::net::detail\l::NodeImpl::trigger_p2p\l_network_connect_loop" alt="" coords="198,71,357,127"/>
+<area shape="rect" id="node4" href="$classhsrcore_1_1net_1_1detail_1_1_node_impl.html#ab3d64c39165a970e7663ae3a0051d259" title="hsrcore::net::detail\l::NodeImpl::trigger_fetch\l_sync_items_loop" alt="" coords="196,151,359,207"/>
+<area shape="rect" id="node5" href="$classhsrcore_1_1net_1_1detail_1_1_node_impl.html#a65ae5ac12d0cf697bf9c9cab385ea1e8" title="hsrcore::net::detail\l::NodeImpl::trigger_fetch\l_items_loop" alt="" coords="196,231,359,287"/>
+<area shape="rect" id="node6" href="$classhsrcore_1_1net_1_1detail_1_1_node_impl.html#a8ddb880322e2f7239743888ecc01a703" title="hsrcore::net::detail\l::NodeImpl::trigger_advertise\l_inventory_loop" alt="" coords="184,311,371,367"/>
+</map>

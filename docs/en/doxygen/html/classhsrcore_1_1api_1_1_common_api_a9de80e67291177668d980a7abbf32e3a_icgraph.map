@@ -1,0 +1,9 @@
+<map id="hsrcore::api::CommonApi::wallet_balance_set_vote_info" name="hsrcore::api::CommonApi::wallet_balance_set_vote_info">
+<area shape="rect" id="node2" href="$classhsrcore_1_1client_1_1detail_1_1_client_impl.html#a25245303c5dac7772552c61c81b0dfe2" title="hsrcore::client::detail\l::ClientImpl::wallet_http\l_callback" alt="" coords="259,5,417,61"/>
+<area shape="rect" id="node4" href="$classhsrcore_1_1rpc__stubs_1_1_common_api_client.html#af691cafed973d903e190eb4b7e84ec85" title="hsrcore::rpc_stubs\l::CommonApiClient::wallet\l_balance_set_vote_info" alt="" coords="251,85,425,141"/>
+<area shape="rect" id="node5" href="$classhsrcore_1_1rpc__stubs_1_1_common_api_rpc_server.html#afefa5efe24155c6b6c243905174f19f5" title="hsrcore::rpc_stubs\l::CommonApiRpcServer\l::wallet_balance_set\l_vote_info_positional" alt="" coords="258,261,418,331"/>
+<area shape="rect" id="node8" href="$classhsrcore_1_1rpc__stubs_1_1_common_api_rpc_server.html#ad82358ba508caae110e5a7a31598bb27" title="hsrcore::rpc_stubs\l::CommonApiRpcServer\l::wallet_balance_set\l_vote_info_named" alt="" coords="258,166,418,237"/>
+<area shape="rect" id="node3" href="$namespacehsrcore_1_1client_1_1detail.html#ab8ded1be359af6f93d0e8927c6572929" title="hsrcore::client::detail\l::read_keys" alt="" coords="485,13,628,54"/>
+<area shape="rect" id="node6" href="$classhsrcore_1_1rpc__stubs_1_1_common_api_rpc_server.html#a45cf3aafd35992db4c663115daeeb234" title="hsrcore::rpc_stubs\l::CommonApiRpcServer\l::register_common_api\l_methods" alt="" coords="477,166,637,237"/>
+<area shape="rect" id="node7" href="$classhsrcore_1_1rpc__stubs_1_1_common_api_rpc_server.html#a0188b049d81ec379e3b00e02f4153dc2" title="hsrcore::rpc_stubs\l::CommonApiRpcServer\l::direct_invoke_positional\l_method" alt="" coords="473,261,640,331"/>
+</map>

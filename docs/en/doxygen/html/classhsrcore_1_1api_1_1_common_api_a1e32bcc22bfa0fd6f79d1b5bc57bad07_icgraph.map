@@ -1,0 +1,8 @@
+<map id="hsrcore::api::CommonApi::network_get_upnp_info" name="hsrcore::api::CommonApi::network_get_upnp_info">
+<area shape="rect" id="node2" href="$classhsrcore_1_1client_1_1detail_1_1_client_impl.html#abcd060447e76463b400bab714ee13f74" title="hsrcore::client::detail\l::ClientImpl::network\l_broadcast_transactions" alt="" coords="245,5,409,61"/>
+<area shape="rect" id="node3" href="$classhsrcore_1_1rpc__stubs_1_1_common_api_client.html#a9de3e2bd15fc3a0d3daa608f4422a38f" title="hsrcore::rpc_stubs\l::CommonApiClient::network\l_get_upnp_info" alt="" coords="233,85,420,141"/>
+<area shape="rect" id="node4" href="$classhsrcore_1_1rpc__stubs_1_1_common_api_rpc_server.html#a98d04bac4377a100383a4f214edd5cca" title="hsrcore::rpc_stubs\l::CommonApiRpcServer\l::network_get_upnp_info\l_positional" alt="" coords="245,246,408,317"/>
+<area shape="rect" id="node7" href="$classhsrcore_1_1rpc__stubs_1_1_common_api_rpc_server.html#a8b888e49247f24df7d2137ade3daf3d3" title="hsrcore::rpc_stubs\l::CommonApiRpcServer\l::network_get_upnp_info_named" alt="" coords="223,165,431,221"/>
+<area shape="rect" id="node5" href="$classhsrcore_1_1rpc__stubs_1_1_common_api_rpc_server.html#a45cf3aafd35992db4c663115daeeb234" title="hsrcore::rpc_stubs\l::CommonApiRpcServer\l::register_common_api\l_methods" alt="" coords="482,158,642,229"/>
+<area shape="rect" id="node6" href="$classhsrcore_1_1rpc__stubs_1_1_common_api_rpc_server.html#a0188b049d81ec379e3b00e02f4153dc2" title="hsrcore::rpc_stubs\l::CommonApiRpcServer\l::direct_invoke_positional\l_method" alt="" coords="479,253,645,323"/>
+</map>

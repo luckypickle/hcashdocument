@@ -1,0 +1,11 @@
+<map id="hsrcore::blockchain::UpdateSigningKeyOperation::evaluate" name="hsrcore::blockchain::UpdateSigningKeyOperation::evaluate">
+<area shape="rect" id="node2" href="$classhsrcore_1_1blockchain_1_1_chain_interface.html#a5be84057c877f3ad9648480dafec0144" title="hsrcore::blockchain\l::ChainInterface::get\l_account_entry" alt="" coords="271,5,409,61"/>
+<area shape="rect" id="node3" href="$classhsrcore_1_1blockchain_1_1_transaction_evaluation_state.html#ac2f347b449c83eb18f2f2258e77cf110" title="hsrcore::blockchain\l::TransactionEvaluationState\l::check_signature" alt="" coords="481,67,668,123"/>
+<area shape="rect" id="node4" href="$classhsrcore_1_1blockchain_1_1_transaction_evaluation_state.html#aa243f8a057c2d0c1f826d48323dc7a80" title="hsrcore::blockchain\l::TransactionEvaluationState\l::account_has_signed" alt="" coords="247,136,433,192"/>
+<area shape="rect" id="node7" href="$classhsrcore_1_1blockchain_1_1_chain_interface.html#a4fd4884c3c0f0e3971c9f34e120c702c" title="hsrcore::blockchain\l::ChainInterface::get\l_head_block_num" alt="" coords="271,216,409,272"/>
+<area shape="rect" id="node8" href="$classhsrcore_1_1blockchain_1_1_chain_interface.html#a55ff4009828e6fe471fce6890197e711" title="hsrcore::blockchain\l::ChainInterface::now" alt="" coords="269,297,411,338"/>
+<area shape="rect" id="node9" href="$classhsrcore_1_1blockchain_1_1_chain_interface.html#ac6bf041244d446172a5ff07b512444f5" title="hsrcore::blockchain\l::ChainInterface::store\l_account_entry" alt="" coords="265,363,415,419"/>
+<area shape="rect" id="node5" href="$structhsrcore_1_1blockchain_1_1_account_entry.html#a7bc3452b3ddbe55f24ea23c1dec36ea5" title="hsrcore::blockchain\l::AccountEntry::is_retracted" alt="" coords="482,147,667,189"/>
+<area shape="rect" id="node6" href="$structhsrcore_1_1blockchain_1_1_account_entry.html#a079abdecddd8f03081eea5c20ef0c0a3" title="hsrcore::blockchain\l::AccountEntry::active_key" alt="" coords="716,177,895,218"/>
+<area shape="rect" id="node10" href="$classhsrcore_1_1blockchain_1_1_chain_interface.html#aa2b96ebb8448dceb430ea0fbb61ca6c4" title="hsrcore::blockchain\l::ChainInterface::store" alt="" coords="500,370,649,411"/>
+</map>

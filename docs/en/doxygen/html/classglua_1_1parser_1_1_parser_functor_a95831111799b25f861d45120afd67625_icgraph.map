@@ -1,0 +1,6 @@
+<map id="glua::parser::ParserFunctor::can_take_first_token" name="glua::parser::ParserFunctor::can_take_first_token">
+<area shape="rect" id="node2" href="$classglua_1_1parser_1_1_subtraction_parser_functor.html#a0033ddef6d1461827ed1e16881a5e22b" title="glua::parser::Subtraction\lParserFunctor::can_take\l_first_token" alt="" coords="248,5,413,61"/>
+<area shape="rect" id="node3" href="$classglua_1_1parser_1_1_repeat_star_parser_functor.html#a02d430090a578b97255aa40b6ac181d7" title="glua::parser::RepeatStar\lParserFunctor::can_take\l_first_token" alt="" coords="248,85,413,141"/>
+<area shape="rect" id="node4" href="$classglua_1_1parser_1_1_repeat_count_parser_functor.html#a292edf38f36c041f9f3000ca1cb74bf9" title="glua::parser::RepeatCount\lParserFunctor::can_take\l_first_token" alt="" coords="244,165,417,221"/>
+<area shape="rect" id="node5" href="$classglua_1_1parser_1_1_cached_parser_functor.html#a5342bc473f19efe3844bccea2dbcbc8f" title="glua::parser::CachedParser\lFunctor::can_take_first_token" alt="" coords="233,246,428,287"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="hsrcore::blockchain::ChainDatabase::push_block" name="hsrcore::blockchain::ChainDatabase::push_block">
+<area shape="rect" id="node2" href="$classhsrcore_1_1blockchain_1_1_chain_database.html#a7b3d99e927eb51121c69b8d58b33f5c3" title="hsrcore::blockchain\l::ChainDatabase::get\l_head_block_num" alt="" coords="259,5,403,61"/>
+<area shape="rect" id="node3" href="$structhsrcore_1_1blockchain_1_1_signed_block_header.html#af524cbb5fd071ad8b20477d6686793c1" title="hsrcore::blockchain\l::SignedBlockHeader::id" alt="" coords="250,86,413,127"/>
+<area shape="rect" id="node4" href="$classhsrcore_1_1blockchain_1_1_chain_database.html#a066b860a85765e3032e129781e1ba12f" title="hsrcore::blockchain\l::ChainDatabase::get\l_block_fork_data" alt="" coords="259,152,403,208"/>
+<area shape="rect" id="node5" href="$structhsrcore_1_1blockchain_1_1_block_fork_data.html#ae899fbf799f2cbc57f0819375af89360" title="hsrcore::blockchain\l::BlockForkData::can_link" alt="" coords="245,233,417,274"/>
+<area shape="rect" id="node6" href="$namespacehsrcore_1_1blockchain.html#a6ab2a224374df515fe76b3799ed648fb" title="hsrcore::blockchain\l::ntp_time" alt="" coords="264,298,399,339"/>
+<area shape="rect" id="node7" href="$namespacehsrcore_1_1blockchain_1_1detail.html#ae5c17ca96b07a1f76c62bc6fd564759c" title="hsrcore::blockchain\l::detail::ntp_service" alt="" coords="465,298,600,339"/>
+</map>

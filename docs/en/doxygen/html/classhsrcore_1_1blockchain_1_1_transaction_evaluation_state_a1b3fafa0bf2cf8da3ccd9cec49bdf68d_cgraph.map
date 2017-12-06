@@ -1,0 +1,4 @@
+<map id="hsrcore::blockchain::TransactionEvaluationState::transaction_entry_analy" name="hsrcore::blockchain::TransactionEvaluationState::transaction_entry_analy">
+<area shape="rect" id="node2" href="$classhsrcore_1_1blockchain_1_1_chain_interface.html#a05369dec99193ba95800a39ff349ad00" title="hsrcore::blockchain\l::ChainInterface::get\l_balance_entry" alt="" coords="240,5,379,61"/>
+<area shape="rect" id="node3" href="$classhsrcore_1_1blockchain_1_1_chain_interface.html#a5be84057c877f3ad9648480dafec0144" title="hsrcore::blockchain\l::ChainInterface::get\l_account_entry" alt="" coords="240,85,379,141"/>
+</map>

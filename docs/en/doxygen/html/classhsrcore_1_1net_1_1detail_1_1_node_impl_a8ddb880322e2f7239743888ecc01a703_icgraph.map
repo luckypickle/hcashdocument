@@ -1,0 +1,9 @@
+<map id="hsrcore::net::detail::NodeImpl::trigger_advertise_inventory_loop" name="hsrcore::net::detail::NodeImpl::trigger_advertise_inventory_loop">
+<area shape="rect" id="node2" href="$classhsrcore_1_1net_1_1detail_1_1_node_impl.html#ac4ba7321e21a7abb097a578285ce73c6" title="called after a peer finishes handshaking, kicks off syncing " alt="" coords="249,9,380,51"/>
+<area shape="rect" id="node4" href="$classhsrcore_1_1net_1_1detail_1_1_node_impl.html#ac4f61e7284b275a45736fa19328499e1" title="hsrcore::net::detail\l::NodeImpl::broadcast" alt="" coords="240,79,389,120"/>
+<area shape="rect" id="node3" href="$classhsrcore_1_1net_1_1detail_1_1_node_impl.html#a17d3f1a7f91e45765d3240e87ebce895" title="hsrcore::net::detail\l::NodeImpl::~NodeImpl" alt="" coords="448,5,603,47"/>
+<area shape="rect" id="node5" href="$classhsrcore_1_1net_1_1detail_1_1_node_impl.html#ae5b9723ab46a9c62b510958206749361" title="hsrcore::net::detail\l::NodeImpl::process_block\l_during_normal_operation" alt="" coords="437,71,613,127"/>
+<area shape="rect" id="node8" href="$classhsrcore_1_1net_1_1detail_1_1_node_impl.html#ae81b1433d9628507dd37249e3241d816" title="hsrcore::net::detail\l::NodeImpl::broadcast" alt="" coords="451,152,600,193"/>
+<area shape="rect" id="node6" href="$classhsrcore_1_1net_1_1detail_1_1_node_impl.html#a8c8cae7883811251c7a435de4d914d7d" title="hsrcore::net::detail\l::NodeImpl::process_block\l_message" alt="" coords="661,71,837,127"/>
+<area shape="rect" id="node7" href="$classhsrcore_1_1net_1_1detail_1_1_node_impl.html#acf681683f9b0feee4994854571cbf65b" title="hsrcore::net::detail\l::NodeImpl::on_message" alt="" coords="885,79,1052,120"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="hsrcore::blockchain::ChainInterface::is_temporary_contract" name="hsrcore::blockchain::ChainInterface::is_temporary_contract">
+<area shape="rect" id="node2" href="$structhsrcore_1_1blockchain_1_1_upgrade_contract_operation.html#a5833f1adf224fcac4b4a5ea326aa3434" title="hsrcore::blockchain\l::UpgradeContractOperation\l::evaluate" alt="" coords="209,5,391,61"/>
+<area shape="rect" id="node3" href="$structhsrcore_1_1blockchain_1_1_destroy_contract_operation.html#a481bca0c0e42de1f510e2833149eb6ef" title="hsrcore::blockchain\l::DestroyContractOperation\l::evaluate" alt="" coords="210,85,390,141"/>
+<area shape="rect" id="node4" href="$classhsrcore_1_1blockchain_1_1_chain_interface.html#ab3941f5c9d2d0a3f84879b8140d83d1e" title="hsrcore::blockchain\l::ChainInterface::~ChainInterface" alt="" coords="195,166,405,207"/>
+</map>

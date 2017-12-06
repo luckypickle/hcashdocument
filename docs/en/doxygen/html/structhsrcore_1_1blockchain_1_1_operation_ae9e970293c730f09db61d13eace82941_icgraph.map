@@ -1,0 +1,10 @@
+<map id="hsrcore::blockchain::Operation::as" name="hsrcore::blockchain::Operation::as">
+<area shape="rect" id="node2" href="$structhsrcore_1_1blockchain_1_1_transaction.html#a2ffe9aab8c21a4f346aecebd5726ce9f" title="hsrcore::blockchain\l::Transaction::set_slates" alt="" coords="199,5,364,47"/>
+<area shape="rect" id="node4" href="$classhsrcore_1_1blockchain_1_1_transaction_evaluation_state.html#af320254ff558d7461d0bbbab72581705" title="hsrcore::blockchain\l::TransactionEvaluationState\l::scan_addresses" alt="" coords="188,71,375,127"/>
+<area shape="rect" id="node6" href="$classhsrcore_1_1blockchain_1_1_transaction_evaluation_state.html#a25b13c0bb9e56632bf4bb1e315ad7c04" title="hsrcore::blockchain\l::TransactionEvaluationState\l::is_contract_op_same" alt="" coords="188,151,375,207"/>
+<area shape="rect" id="node9" href="$classhsrcore_1_1blockchain_1_1_operation_factory_1_1operation__converter.html#a21e6eacd9ac41388562c1202b7a655c1" title="hsrcore::blockchain\l::OperationFactory::\loperation_converter::\levaluate" alt="" coords="210,232,353,303"/>
+<area shape="rect" id="node3" href="$classhsrcore_1_1wallet_1_1detail_1_1_wallet_impl.html#a7b0a69860c201d46d4958ad9a061a988" title="hsrcore::wallet::detail\l::WalletImpl::set_delegate_slate" alt="" coords="423,5,631,47"/>
+<area shape="rect" id="node5" href="$classhsrcore_1_1blockchain_1_1_chain_database.html#a917efa83b8dc0d56fa722c3138d132f2" title="hsrcore::blockchain\l::ChainDatabase::CheckStake" alt="" coords="428,79,625,120"/>
+<area shape="rect" id="node7" href="$classhsrcore_1_1blockchain_1_1_transaction_evaluation_state.html#a172dcb3922ba53ea52b83ab424d39955" title="hsrcore::blockchain\l::TransactionEvaluationState\l::is_contract_trxs_same" alt="" coords="433,151,620,207"/>
+<area shape="rect" id="node8" href="$classhsrcore_1_1blockchain_1_1_transaction_evaluation_state.html#ac81f3319c03f8a4106700d97353581a8" title="hsrcore::blockchain\l::TransactionEvaluationState\l::sandbox_evaluate" alt="" coords="679,151,865,207"/>
+</map>

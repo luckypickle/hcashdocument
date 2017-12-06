@@ -1,0 +1,4 @@
+<map id="hsrcore::rpc_stubs::CommonApiRpcServer::blockchain_get_forever_contracts_named" name="hsrcore::rpc_stubs::CommonApiRpcServer::blockchain_get_forever_contracts_named">
+<area shape="rect" id="node2" href="$classhsrcore_1_1rpc__stubs_1_1_common_api_rpc_server.html#aeccf0f28cc2af78b93119aacca7ace3c" title="hsrcore::rpc_stubs\l::CommonApiRpcServer\l::get_client" alt="" coords="219,5,379,61"/>
+<area shape="rect" id="node3" href="$classhsrcore_1_1api_1_1_common_api.html#ad1259406a5c598b599156aeceb95d78e" title="hsrcore::api::CommonApi\l::blockchain_get_forever\l_contracts" alt="" coords="215,85,384,141"/>
+</map>

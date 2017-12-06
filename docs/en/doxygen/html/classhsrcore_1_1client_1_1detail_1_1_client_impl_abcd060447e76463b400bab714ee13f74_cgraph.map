@@ -1,0 +1,15 @@
+<map id="hsrcore::client::detail::ClientImpl::network_broadcast_transactions" name="hsrcore::client::detail::ClientImpl::network_broadcast_transactions">
+<area shape="rect" id="node2" href="$classhsrcore_1_1api_1_1_common_api.html#a7c9db0ed9bfbdff2ba611b43ac3d5e1b" title="hsrcore::api::CommonApi\l::network_broadcast_transaction" alt="" coords="234,5,445,47"/>
+<area shape="rect" id="node3" href="$structhsrcore_1_1blockchain_1_1_signed_transaction.html#a1d3e482ad287dbfb537b525c41760cda" title="hsrcore::blockchain\l::SignedTransaction::id" alt="" coords="262,71,417,112"/>
+<area shape="rect" id="node4" href="$classhsrcore_1_1api_1_1_common_api.html#a4a54bc4d3d92cd20776d16b3ca1fa7ae" title="hsrcore::api::CommonApi\l::network_get_peer_info" alt="" coords="255,136,424,177"/>
+<area shape="rect" id="node5" href="$classhsrcore_1_1api_1_1_common_api.html#ac11fbde973e62889312dff4d605efb18" title="hsrcore::api::CommonApi\l::network_set_advanced\l_node_parameters" alt="" coords="255,202,424,258"/>
+<area shape="rect" id="node6" href="$classhsrcore_1_1api_1_1_common_api.html#a6df6d4739c393f579f0cb75dbb3bb0d4" title="hsrcore::api::CommonApi\l::network_get_advanced\l_node_parameters" alt="" coords="255,282,424,338"/>
+<area shape="rect" id="node7" href="$classhsrcore_1_1api_1_1_common_api.html#a007b2fe7b9abef6eb536a696238391d1" title="hsrcore::api::CommonApi\l::network_add_node" alt="" coords="255,363,424,404"/>
+<area shape="rect" id="node8" href="$classhsrcore_1_1api_1_1_common_api.html#a6a3445bd5c05d5e6431574cdaab26fe1" title="hsrcore::api::CommonApi\l::network_get_connection_count" alt="" coords="235,428,444,469"/>
+<area shape="rect" id="node9" href="$classhsrcore_1_1api_1_1_common_api.html#a10f497f5a08bd376783660643c5a05c2" title="hsrcore::api::CommonApi\l::network_get_transaction\l_propagation_data" alt="" coords="254,494,425,550"/>
+<area shape="rect" id="node10" href="$classhsrcore_1_1api_1_1_common_api.html#a23ae8a110eaf0e6a6eccb150628f5ed2" title="hsrcore::api::CommonApi\l::network_get_block_propagation_data" alt="" coords="217,575,461,616"/>
+<area shape="rect" id="node11" href="$classhsrcore_1_1api_1_1_common_api.html#aecbac3e70f276003ee8ce0e86255a6bf" title="hsrcore::api::CommonApi\l::network_get_info" alt="" coords="255,640,424,681"/>
+<area shape="rect" id="node12" href="$classhsrcore_1_1api_1_1_common_api.html#a13310433909d6151bc1a5cffc2f8da50" title="hsrcore::api::CommonApi\l::network_list_potential_peers" alt="" coords="242,705,437,747"/>
+<area shape="rect" id="node13" href="$classhsrcore_1_1api_1_1_common_api.html#a1e32bcc22bfa0fd6f79d1b5bc57bad07" title="hsrcore::api::CommonApi\l::network_get_upnp_info" alt="" coords="255,771,424,812"/>
+<area shape="rect" id="node14" href="$classhsrcore_1_1api_1_1_common_api.html#a6b7d55203cc010237e7a5b8367327f71" title="hsrcore::api::CommonApi\l::network_get_blocked_ips" alt="" coords="251,836,427,877"/>
+</map>

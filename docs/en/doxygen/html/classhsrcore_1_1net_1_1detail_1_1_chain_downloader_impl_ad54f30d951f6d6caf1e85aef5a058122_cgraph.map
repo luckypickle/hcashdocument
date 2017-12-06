@@ -1,0 +1,6 @@
+<map id="hsrcore::net::detail::ChainDownloaderImpl::get_all_blocks" name="hsrcore::net::detail::ChainDownloaderImpl::get_all_blocks">
+<area shape="rect" id="node2" href="$namespacehsrcore_1_1blockchain.html#a2d604a90c34e5cfbc5252d1596314373" title="hsrcore::blockchain::now" alt="" coords="211,13,378,39"/>
+<area shape="rect" id="node5" href="$classhsrcore_1_1net_1_1detail_1_1_chain_downloader_impl.html#adabf00d86409e211072d1b6523db717d" title="hsrcore::net::detail\l::ChainDownloaderImpl\l::connect_to_chain_server" alt="" coords="208,63,381,119"/>
+<area shape="rect" id="node3" href="$namespacehsrcore_1_1blockchain.html#a6ab2a224374df515fe76b3799ed648fb" title="hsrcore::blockchain\l::ntp_time" alt="" coords="429,5,564,47"/>
+<area shape="rect" id="node4" href="$namespacehsrcore_1_1blockchain_1_1detail.html#ae5c17ca96b07a1f76c62bc6fd564759c" title="hsrcore::blockchain\l::detail::ntp_service" alt="" coords="612,5,747,47"/>
+</map>

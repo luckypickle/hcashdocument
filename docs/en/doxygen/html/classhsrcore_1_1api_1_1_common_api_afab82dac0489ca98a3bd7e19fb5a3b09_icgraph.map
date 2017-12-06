@@ -1,0 +1,7 @@
+<map id="hsrcore::api::CommonApi::get_info" name="hsrcore::api::CommonApi::get_info">
+<area shape="rect" id="node2" href="$classhsrcore_1_1rpc__stubs_1_1_common_api_client.html#a0c043601d87c75c1e97d16842d43fb0a" title="hsrcore::rpc_stubs\l::CommonApiClient::get_info" alt="" coords="223,5,409,47"/>
+<area shape="rect" id="node3" href="$classhsrcore_1_1rpc__stubs_1_1_common_api_rpc_server.html#a9bb68b761d472fca57cb59af21c419c5" title="hsrcore::rpc_stubs\l::CommonApiRpcServer\l::get_info_positional" alt="" coords="236,151,396,207"/>
+<area shape="rect" id="node6" href="$classhsrcore_1_1rpc__stubs_1_1_common_api_rpc_server.html#af78ce626ca001724d47e84e979112586" title="hsrcore::rpc_stubs\l::CommonApiRpcServer\l::get_info_named" alt="" coords="236,71,396,127"/>
+<area shape="rect" id="node4" href="$classhsrcore_1_1rpc__stubs_1_1_common_api_rpc_server.html#a45cf3aafd35992db4c663115daeeb234" title="hsrcore::rpc_stubs\l::CommonApiRpcServer\l::register_common_api\l_methods" alt="" coords="461,64,621,135"/>
+<area shape="rect" id="node5" href="$classhsrcore_1_1rpc__stubs_1_1_common_api_rpc_server.html#a0188b049d81ec379e3b00e02f4153dc2" title="hsrcore::rpc_stubs\l::CommonApiRpcServer\l::direct_invoke_positional\l_method" alt="" coords="457,159,624,229"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="hsrcore::api::CommonApi::get_contract_registered_in_transaction" name="hsrcore::api::CommonApi::get_contract_registered_in_transaction">
+<area shape="rect" id="node2" href="$classhsrcore_1_1client_1_1detail_1_1_client_impl.html#a8bb9012ff7b7366ee4d16f9840d0b509" title="hsrcore::client::detail\l::ClientImpl::compile\l_contract_helper" alt="" coords="237,5,380,61"/>
+<area shape="rect" id="node4" href="$classhsrcore_1_1rpc__stubs_1_1_common_api_client.html#ac1b678d62c782a3ce0af37ddd7656f66" title="hsrcore::rpc_stubs\l::CommonApiClient::get\l_contract_registered_in\l_transaction" alt="" coords="229,86,389,157"/>
+<area shape="rect" id="node5" href="$classhsrcore_1_1rpc__stubs_1_1_common_api_rpc_server.html#a70f83fcefafd49be98630d8bcc32c41c" title="hsrcore::rpc_stubs\l::CommonApiRpcServer\l::get_contract_registered\l_in_transaction_positional" alt="" coords="223,275,395,346"/>
+<area shape="rect" id="node8" href="$classhsrcore_1_1rpc__stubs_1_1_common_api_rpc_server.html#a598925dd9b862f0f435077fdedb9b02f" title="hsrcore::rpc_stubs\l::CommonApiRpcServer\l::get_contract_registered\l_in_transaction_named" alt="" coords="225,181,392,251"/>
+<area shape="rect" id="node3" href="$classhsrcore_1_1client_1_1detail_1_1_client_impl.html#a25c30b8c84686886409e5db40b326396" title="hsrcore::client::detail\l::ClientImpl::sandbox\l_get_contract_address" alt="" coords="449,5,603,61"/>
+<area shape="rect" id="node6" href="$classhsrcore_1_1rpc__stubs_1_1_common_api_rpc_server.html#a45cf3aafd35992db4c663115daeeb234" title="hsrcore::rpc_stubs\l::CommonApiRpcServer\l::register_common_api\l_methods" alt="" coords="446,181,606,251"/>
+<area shape="rect" id="node7" href="$classhsrcore_1_1rpc__stubs_1_1_common_api_rpc_server.html#a0188b049d81ec379e3b00e02f4153dc2" title="hsrcore::rpc_stubs\l::CommonApiRpcServer\l::direct_invoke_positional\l_method" alt="" coords="443,275,609,346"/>
+</map>

@@ -1,0 +1,31 @@
+<map id="F:/hshare_org/Hcash/libraries/include/cli/PrintResult.hpp" name="F:/hshare_org/Hcash/libraries/include/cli/PrintResult.hpp">
+<area shape="rect" id="node2" href="$cli_2_pretty_8hpp.html" title="cli/Pretty.hpp" alt="" coords="1844,109,1943,136"/>
+<area shape="rect" id="node3" href="$_account_entry_8hpp.html" title="blockchain/AccountEntry.hpp" alt="" coords="677,647,869,673"/>
+<area shape="rect" id="node5" href="$_types_8hpp.html" title="blockchain/Types.hpp" alt="" coords="1478,945,1626,972"/>
+<area shape="rect" id="node14" href="$_asset_entry_8hpp.html" title="blockchain/AssetEntry.hpp" alt="" coords="1720,490,1899,517"/>
+<area shape="rect" id="node18" href="$_contract_entry_8hpp.html" title="blockchain/ContractEntry.hpp" alt="" coords="1923,721,2117,748"/>
+<area shape="rect" id="node28" href="$_block_entry_8hpp.html" title="blockchain/BlockEntry.hpp" alt="" coords="1370,408,1547,435"/>
+<area shape="rect" id="node30" href="$_imessage_operations_8hpp.html" title="blockchain/ImessageOperations.hpp" alt="" coords="2024,647,2256,673"/>
+<area shape="rect" id="node31" href="$_client_8hpp.html" title="client/Client.hpp" alt="" coords="985,184,1100,211"/>
+<area shape="rect" id="node35" href="$wallet_2_pretty_8hpp.html" title="wallet/Pretty.hpp" alt="" coords="1526,490,1645,517"/>
+<area shape="rect" id="node37" href="$_wallet_8hpp.html" title="wallet/Wallet.hpp" alt="" coords="573,408,694,435"/>
+<area shape="rect" id="node4" href="$_asset_8hpp.html" title="blockchain/Asset.hpp" alt="" coords="1011,871,1157,897"/>
+<area shape="rect" id="node6" href="$_address_8hpp.html" title="blockchain/Address.hpp" alt="" coords="887,1020,1049,1047"/>
+<area shape="rect" id="node15" href="$_transaction_8hpp.html" title="blockchain/Transaction.hpp" alt="" coords="1307,572,1487,599"/>
+<area shape="rect" id="node20" href="$_withdraw_types_8hpp.html" title="blockchain/WithdrawTypes.hpp" alt="" coords="1309,796,1512,823"/>
+<area shape="rect" id="node16" href="$_operations_8hpp.html" title="blockchain/Operations.hpp" alt="" coords="1144,721,1320,748"/>
+<area shape="rect" id="node17" href="$_storage_operations_8hpp.html" title="blockchain/StorageOperations.hpp" alt="" coords="1525,647,1747,673"/>
+<area shape="rect" id="node26" href="$_event_operations_8hpp.html" title="blockchain/EventOperations.hpp" alt="" coords="1293,647,1501,673"/>
+<area shape="rect" id="node27" href="$_balance_operations_8hpp.html" title="blockchain/BalanceOperations.hpp" alt="" coords="945,647,1167,673"/>
+<area shape="rect" id="node19" href="$_storage_types_8hpp.html" title="blockchain/StorageTypes.hpp" alt="" coords="1667,796,1861,823"/>
+<area shape="rect" id="node29" href="$_block_8hpp.html" title="blockchain/Block.hpp" alt="" coords="1355,490,1501,517"/>
+<area shape="rect" id="node32" href="$api_2_common_api_8hpp.html" title="api/CommonApi.hpp" alt="" coords="1212,333,1351,360"/>
+<area shape="rect" id="node33" href="$_chain_database_8hpp.html" title="blockchain/ChainDatabase.hpp" alt="" coords="195,490,397,517"/>
+<area shape="rect" id="node34" href="$_node_8hpp.html" title="net/Node.hpp" alt="" coords="987,408,1085,435"/>
+<area shape="rect" id="node41" href="$_seed_nodes_8hpp.html" title="client/SeedNodes.hpp" alt="" coords="1431,259,1580,285"/>
+<area shape="rect" id="node42" href="$_rpc_client_api_8hpp.html" title="rpc/RpcClientApi.hpp" alt="" coords="721,259,865,285"/>
+<area shape="rect" id="node44" href="$_common_api_client_8hpp.html" title="rpc_stubs/CommonApiClient.hpp" alt="" coords="1194,259,1406,285"/>
+<area shape="rect" id="node36" href="$_transaction_builder_8hpp.html" title="wallet/TransactionBuilder.hpp" alt="" coords="1038,490,1229,517"/>
+<area shape="rect" id="node38" href="$_transaction_creation_state_8hpp.html" title="blockchain/TransactionCreation\lState.hpp" alt="" coords="709,483,912,524"/>
+<area shape="rect" id="node39" href="$_wallet_db_8hpp.html" title="wallet/WalletDb.hpp" alt="" coords="421,490,558,517"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="Labellist" name="Labellist">
+<area shape="rect" id="node2" href="$struct_labeldesc.html" title="{Labeldesc\n|+ pc\l+ line\l+ nactvar\l|}" alt="" coords="28,219,109,325"/>
+<area shape="rect" id="node3" href="$struct_t_string.html" title="{TString\n|+ CommonHeader\l+ extra\l+ shrlen\l+ hash\l+ lnglen\l+ u\l|}" alt="" coords="5,5,132,156"/>
+</map>

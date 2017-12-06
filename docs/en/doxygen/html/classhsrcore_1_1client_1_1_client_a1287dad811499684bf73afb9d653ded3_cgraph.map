@@ -1,0 +1,5 @@
+<map id="hsrcore::client::Client::get_delegate_config" name="hsrcore::client::Client::get_delegate_config">
+<area shape="rect" id="node2" href="$_common_api_overrides_8ipp.html#a36ed36628f605d73724850627d462105" title="execute_script" alt="" coords="231,5,338,32"/>
+<area shape="rect" id="node3" href="$namespacehsrcore_1_1client.html#a421bf26d819770cfe7b207c80874bb29" title="hsrcore::client::extract\l_commands_from_log_file" alt="" coords="199,57,371,98"/>
+<area shape="rect" id="node4" href="$namespacehsrcore_1_1client.html#a91e66380b072426a90bfe81117a96818" title="hsrcore::client::extract\l_commands_from_log_stream" alt="" coords="419,57,615,98"/>
+</map>

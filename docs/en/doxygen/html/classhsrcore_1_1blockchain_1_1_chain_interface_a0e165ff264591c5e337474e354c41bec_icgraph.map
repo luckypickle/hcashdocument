@@ -1,0 +1,10 @@
+<map id="hsrcore::blockchain::ChainInterface::get_slate_entry" name="hsrcore::blockchain::ChainInterface::get_slate_entry">
+<area shape="rect" id="node2" href="$structhsrcore_1_1blockchain_1_1_define_slate_operation.html#ad4f06d336a5bdb35b215f78fb7676acd" title="hsrcore::blockchain\l::DefineSlateOperation\l::evaluate" alt="" coords="221,85,373,141"/>
+<area shape="rect" id="node3" href="$classhsrcore_1_1blockchain_1_1_transaction_evaluation_state.html#aa3f65b0d470d8fcacb057b2421c3e121" title="hsrcore::blockchain\l::TransactionEvaluationState\l::adjust_vote" alt="" coords="204,165,391,221"/>
+<area shape="rect" id="node9" href="$classhsrcore_1_1blockchain_1_1_chain_interface.html#ab3941f5c9d2d0a3f84879b8140d83d1e" title="hsrcore::blockchain\l::ChainInterface::~ChainInterface" alt="" coords="192,246,403,287"/>
+<area shape="rect" id="node4" href="$structhsrcore_1_1blockchain_1_1_deposit_operation.html#a7f16f5537699f04d6ec6e86f031e3c87" title="hsrcore::blockchain\l::DepositOperation::\levaluate" alt="" coords="482,5,621,61"/>
+<area shape="rect" id="node5" href="$structhsrcore_1_1blockchain_1_1_withdraw_operation.html#a1d8249361f93d4b38403fea5d0aa571c" title="hsrcore::blockchain\l::WithdrawOperation\l::evaluate" alt="" coords="481,85,621,141"/>
+<area shape="rect" id="node6" href="$structhsrcore_1_1blockchain_1_1_balances_withdraw_operation.html#a9b759e1a70ce69c53d92d25ef5a04543" title="hsrcore::blockchain\l::BalancesWithdrawOperation\l::evaluate" alt="" coords="454,165,649,221"/>
+<area shape="rect" id="node7" href="$structhsrcore_1_1blockchain_1_1_update_balance_vote_operation.html#aa94bf04f71c4116211d001d5bd6211c1" title="hsrcore::blockchain\l::UpdateBalanceVoteOperation\l::evaluate" alt="" coords="451,245,652,301"/>
+<area shape="rect" id="node8" href="$structhsrcore_1_1blockchain_1_1_deposit_contract_operation.html#a47b159f8d2fa27d51df9e9a45239b2a7" title="hsrcore::blockchain\l::DepositContractOperation\l::evaluate" alt="" coords="462,325,641,381"/>
+</map>

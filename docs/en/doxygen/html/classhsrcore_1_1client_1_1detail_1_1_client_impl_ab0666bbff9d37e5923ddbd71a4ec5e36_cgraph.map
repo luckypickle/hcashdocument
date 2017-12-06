@@ -1,0 +1,10 @@
+<map id="hsrcore::client::detail::ClientImpl::delegate_loop" name="hsrcore::client::detail::ClientImpl::delegate_loop">
+<area shape="rect" id="node2" href="$namespacehsrcore_1_1blockchain.html#a2d604a90c34e5cfbc5252d1596314373" title="hsrcore::blockchain::now" alt="" coords="439,82,605,108"/>
+<area shape="rect" id="node3" href="$namespacehsrcore_1_1blockchain.html#a6ab2a224374df515fe76b3799ed648fb" title="hsrcore::blockchain\l::ntp_time" alt="" coords="653,74,788,116"/>
+<area shape="rect" id="node5" href="$_common_api_overrides_8ipp.html#a5d775d2e2536ae47b825ad25c0ad7298" title="network_get_connection\l_count" alt="" coords="228,66,391,108"/>
+<area shape="rect" id="node6" href="$structhsrcore_1_1blockchain_1_1_signed_block_header.html#af524cbb5fd071ad8b20477d6686793c1" title="hsrcore::blockchain\l::SignedBlockHeader::id" alt="" coords="228,132,391,173"/>
+<area shape="rect" id="node7" href="$namespacehsrcore_1_1blockchain.html#aa780b0043275aa87d818bcbbae28a74a" title="hsrcore::blockchain\l::get_slot_number" alt="" coords="242,197,377,238"/>
+<area shape="rect" id="node8" href="$namespacehsrcore_1_1blockchain.html#a838ee5059f02f5226428d886b74c56c5" title="hsrcore::blockchain\l::get_slot_start_time" alt="" coords="239,262,380,304"/>
+<area shape="rect" id="node9" href="$namespacehsrcore_1_1blockchain.html#aefaa1cf30168eb26063a70920624aedd" title="hsrcore::blockchain\l::ntp_error" alt="" coords="242,328,377,369"/>
+<area shape="rect" id="node4" href="$namespacehsrcore_1_1blockchain_1_1detail.html#ae5c17ca96b07a1f76c62bc6fd564759c" title="hsrcore::blockchain\l::detail::ntp_service" alt="" coords="836,74,971,116"/>
+</map>

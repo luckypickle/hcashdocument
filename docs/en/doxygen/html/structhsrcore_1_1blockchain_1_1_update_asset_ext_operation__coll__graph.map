@@ -1,0 +1,4 @@
+<map id="hsrcore::blockchain::UpdateAssetExtOperation" name="hsrcore::blockchain::UpdateAssetExtOperation">
+<area shape="rect" id="node2" href="$structhsrcore_1_1blockchain_1_1_update_asset_operation.html" title="{hsrcore::blockchain\l::UpdateAssetOperation\n|+ type\l|+ evaluate()\l}" alt="" coords="383,175,545,267"/>
+<area shape="rect" id="node8" href="$structhsrcore_1_1blockchain_1_1_multisig_meta_info.html" title="{hsrcore::blockchain\l::MultisigMetaInfo\n|+ required\l+ owners\l+ type\l|}" alt="" coords="923,160,1058,281"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="hsrcore::rpc::RpcServer::~RpcServer" name="hsrcore::rpc::RpcServer::~RpcServer">
+<area shape="rect" id="node2" href="$classhsrcore_1_1rpc_1_1_rpc_server.html#a9627dda9fc80fa597a2f6f9b2331a5ae" title="hsrcore::rpc::RpcServer\l::shutdown_rpc_server" alt="" coords="212,5,371,47"/>
+<area shape="rect" id="node3" href="$classhsrcore_1_1rpc_1_1_rpc_server.html#aa6026ba200a7a86d01bf18e8ff9d3283" title="hsrcore::rpc::RpcServer\l::wait_till_rpc_server\l_shutdown" alt="" coords="212,71,371,127"/>
+</map>

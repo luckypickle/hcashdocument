@@ -1,0 +1,5 @@
+<map id="hsrcore::blockchain::ChainInterface::get_current_production_info" name="hsrcore::blockchain::ChainInterface::get_current_production_info">
+<area shape="rect" id="node2" href="$classhsrcore_1_1blockchain_1_1_chain_database.html#afce739f57052c0b98e97e66dc103a2d2" title="hsrcore::blockchain\l::ChainDatabase::GetNextTarget\lRequired" alt="" coords="216,5,427,61"/>
+<area shape="rect" id="node4" href="$classhsrcore_1_1blockchain_1_1_chain_interface.html#ab3941f5c9d2d0a3f84879b8140d83d1e" title="hsrcore::blockchain\l::ChainInterface::~ChainInterface" alt="" coords="216,86,427,127"/>
+<area shape="rect" id="node3" href="$classhsrcore_1_1blockchain_1_1_chain_database.html#a6ebfaeaaf8cd5bb9b7315b310347bf2f" title="hsrcore::blockchain\l::ChainDatabase::generate_block" alt="" coords="475,13,689,54"/>
+</map>

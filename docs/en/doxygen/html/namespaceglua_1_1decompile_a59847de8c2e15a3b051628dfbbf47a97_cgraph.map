@@ -1,0 +1,7 @@
+<map id="glua::decompile::FixLocalNames" name="glua::decompile::FixLocalNames">
+<area shape="rect" id="node2" href="$lstring_8cpp.html#a6d47e53be6b8e58202bb927752f4824b" title="luaS_new" alt="" coords="274,9,353,36"/>
+<area shape="rect" id="node4" href="$namespaceglua_1_1decompile.html#abc1754bc0e21b8975af5aa17899bbe2e" title="glua::decompile::isIdentifier" alt="" coords="224,64,403,91"/>
+<area shape="rect" id="node3" href="$lstring_8cpp.html#ab41fb084ce3ea5e2779f6659ccc2484d" title="luaS_newlstr" alt="" coords="482,5,578,32"/>
+<area shape="rect" id="node5" href="$namespaceglua_1_1decompile.html#a3aa3ee60e8617eecade5e55c2065ec40" title="glua::decompile::luadec\l_ishsrha" alt="" coords="451,57,609,98"/>
+<area shape="rect" id="node6" href="$namespaceglua_1_1decompile.html#a2780ff968e6f7162512791f0adf51b3e" title="glua::decompile::luadec\l_isalnum" alt="" coords="451,122,609,163"/>
+</map>

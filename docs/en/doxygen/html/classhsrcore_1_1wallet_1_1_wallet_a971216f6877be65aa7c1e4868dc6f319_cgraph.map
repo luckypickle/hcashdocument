@@ -1,0 +1,14 @@
+<map id="hsrcore::wallet::Wallet::publish_version" name="hsrcore::wallet::Wallet::publish_version">
+<area shape="rect" id="node2" href="$classhsrcore_1_1wallet_1_1_wallet.html#a5fa9d05b99389e596dadae3ddfb4cdf8" title="hsrcore::wallet::Wallet\l::is_open" alt="" coords="665,152,816,193"/>
+<area shape="rect" id="node3" href="$classhsrcore_1_1wallet_1_1_wallet.html#a519c123db91699c6d1432008896c8b23" title="hsrcore::wallet::Wallet\l::is_unlocked" alt="" coords="220,152,371,193"/>
+<area shape="rect" id="node5" href="$namespacehsrcore_1_1blockchain.html#a2d604a90c34e5cfbc5252d1596314373" title="hsrcore::blockchain::now" alt="" coords="212,450,379,477"/>
+<area shape="rect" id="node8" href="$classhsrcore_1_1wallet_1_1_wallet.html#a6a506bd3f08711f6fbd0f2bee59b5c2a" title="hsrcore::wallet::Wallet\l::get_transaction_expiration" alt="" coords="435,240,617,281"/>
+<area shape="rect" id="node9" href="$classhsrcore_1_1wallet_1_1_wallet.html#a7ed6a25339e20ddac90e836c3aa866ec" title="hsrcore::wallet::Wallet\l::get_owner_public_key" alt="" coords="447,305,605,347"/>
+<area shape="rect" id="node10" href="$namespacehsrcore_1_1client.html#ab3a6e7d16dcb188db0efad3face78d60" title="hsrcore::client::version_info" alt="" coords="206,319,385,346"/>
+<area shape="rect" id="node11" href="$structhsrcore_1_1blockchain_1_1_transaction.html#ad224cbfe898c252aecdffce37e01cce4" title="hsrcore::blockchain\l::Transaction::update\l_account" alt="" coords="223,370,367,426"/>
+<area shape="rect" id="node12" href="$classhsrcore_1_1wallet_1_1_wallet.html#a642e63013a2ff7de99c6dadda4e1e0bf" title="hsrcore::wallet::Wallet\l::get_transaction_fee" alt="" coords="451,5,601,47"/>
+<area shape="rect" id="node13" href="$structhsrcore_1_1blockchain_1_1_transaction.html#a41237e82dae57ead601173273e5485de" title="hsrcore::blockchain\l::Transaction::withdraw_pay" alt="" coords="204,501,387,543"/>
+<area shape="rect" id="node4" href="$classhsrcore_1_1wallet_1_1_wallet.html#a6e0016a17a8a09a506c9dfa7bbbb5f5d" title="hsrcore::wallet::Wallet\l::is_locked" alt="" coords="451,123,601,164"/>
+<area shape="rect" id="node6" href="$namespacehsrcore_1_1blockchain.html#a6ab2a224374df515fe76b3799ed648fb" title="hsrcore::blockchain\l::ntp_time" alt="" coords="459,443,593,484"/>
+<area shape="rect" id="node7" href="$namespacehsrcore_1_1blockchain_1_1detail.html#ae5c17ca96b07a1f76c62bc6fd564759c" title="hsrcore::blockchain\l::detail::ntp_service" alt="" coords="673,443,808,484"/>
+</map>

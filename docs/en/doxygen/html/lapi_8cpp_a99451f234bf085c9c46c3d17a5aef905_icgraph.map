@@ -1,0 +1,5 @@
+<map id="lua_isnumber" name="lua_isnumber">
+<area shape="rect" id="node2" href="$lnetlib_8h.html#aefe21b2a0f67ed490726b96c81b54149" title="lualib_net_listen" alt="" coords="160,5,275,32"/>
+<area shape="rect" id="node4" href="$lnetlib_8h.html#acbccb6e16e1f36f38b723a49746da7dc" title="lualib_net_connect" alt="" coords="152,56,283,83"/>
+<area shape="rect" id="node3" href="$structglua_1_1net_1_1_uri.html#a0c7fecf529dd057d09676afdb73be1cf" title="glua::net::Uri::query\l_string_str" alt="" coords="331,23,467,65"/>
+</map>

@@ -1,0 +1,33 @@
+<map id="F:/hshare_org/Hcash/libraries/blockchain/SlateOperations.cpp" name="F:/hshare_org/Hcash/libraries/blockchain/SlateOperations.cpp">
+<area shape="rect" id="node2" href="$blockchain_2_exceptions_8hpp.html" title="blockchain/Exceptions.hpp" alt="" coords="5,109,184,136"/>
+<area shape="rect" id="node4" href="$_pending_chain_state_8hpp.html" title="blockchain/PendingChainState.hpp" alt="" coords="1203,109,1427,136"/>
+<area shape="rect" id="node49" href="$_slate_operations_8hpp.html" title="blockchain/SlateOperations.hpp" alt="" coords="259,109,466,136"/>
+<area shape="rect" id="node50" href="$_fork_blocks_8hpp.html" title="blockchain/ForkBlocks.hpp" alt="" coords="132,796,311,823"/>
+<area shape="rect" id="node5" href="$_chain_interface_8hpp.html" title="blockchain/ChainInterface.hpp" alt="" coords="1777,184,1972,211"/>
+<area shape="rect" id="node6" href="$_account_entry_8hpp.html" title="blockchain/AccountEntry.hpp" alt="" coords="1943,497,2135,524"/>
+<area shape="rect" id="node8" href="$_types_8hpp.html" title="blockchain/Types.hpp" alt="" coords="2059,796,2207,823"/>
+<area shape="rect" id="node19" href="$_asset_entry_8hpp.html" title="blockchain/AssetEntry.hpp" alt="" coords="1675,341,1853,367"/>
+<area shape="rect" id="node24" href="$_contract_entry_8hpp.html" title="blockchain/ContractEntry.hpp" alt="" coords="749,572,942,599"/>
+<area shape="rect" id="node32" href="$_withdraw_types_8hpp.html" title="blockchain/WithdrawTypes.hpp" alt="" coords="1555,647,1757,673"/>
+<area shape="rect" id="node37" href="$_slate_entry_8hpp.html" title="blockchain/SlateEntry.hpp" alt="" coords="602,497,777,524"/>
+<area shape="rect" id="node39" href="$_balance_entry_8hpp.html" title="blockchain/BalanceEntry.hpp" alt="" coords="1994,423,2185,449"/>
+<area shape="rect" id="node40" href="$_block_entry_8hpp.html" title="blockchain/BlockEntry.hpp" alt="" coords="845,259,1022,285"/>
+<area shape="rect" id="node43" href="$_condition_8hpp.html" title="blockchain/Condition.hpp" alt="" coords="2362,423,2529,449"/>
+<area shape="rect" id="node44" href="$_property_entry_8hpp.html" title="blockchain/PropertyEntry.hpp" alt="" coords="2605,259,2798,285"/>
+<area shape="rect" id="node45" href="$_slot_entry_8hpp.html" title="blockchain/SlotEntry.hpp" alt="" coords="2311,497,2478,524"/>
+<area shape="rect" id="node46" href="$_transaction_entry_8hpp.html" title="blockchain/TransactionEntry.hpp" alt="" coords="1860,259,2071,285"/>
+<area shape="rect" id="node7" href="$_asset_8hpp.html" title="blockchain/Asset.hpp" alt="" coords="1623,721,1769,748"/>
+<area shape="rect" id="node9" href="$_address_8hpp.html" title="blockchain/Address.hpp" alt="" coords="1895,871,2057,897"/>
+<area shape="rect" id="node10" href="$blockchain_2_config_8hpp.html" title="blockchain/Config.hpp" alt="" coords="1539,945,1688,972"/>
+<area shape="rect" id="node20" href="$_transaction_8hpp.html" title="blockchain/Transaction.hpp" alt="" coords="1245,423,1425,449"/>
+<area shape="rect" id="node21" href="$_operations_8hpp.html" title="blockchain/Operations.hpp" alt="" coords="1071,572,1247,599"/>
+<area shape="rect" id="node23" href="$_storage_operations_8hpp.html" title="blockchain/StorageOperations.hpp" alt="" coords="801,497,1023,524"/>
+<area shape="rect" id="node35" href="$_event_operations_8hpp.html" title="blockchain/EventOperations.hpp" alt="" coords="1609,497,1817,524"/>
+<area shape="rect" id="node36" href="$_balance_operations_8hpp.html" title="blockchain/BalanceOperations.hpp" alt="" coords="1149,497,1371,524"/>
+<area shape="rect" id="node25" href="$_storage_types_8hpp.html" title="blockchain/StorageTypes.hpp" alt="" coords="1185,647,1378,673"/>
+<area shape="rect" id="node26" href="$hsrcore__lua__api_8h.html" title="glua/hsrcore_lua_api.h" alt="" coords="799,796,951,823"/>
+<area shape="rect" id="node31" href="$hsrcore__lua__lib_8h.html" title="glua/hsrcore_lua_lib.h" alt="" coords="689,721,837,748"/>
+<area shape="rect" id="node41" href="$_block_8hpp.html" title="blockchain/Block.hpp" alt="" coords="860,341,1007,367"/>
+<area shape="rect" id="node42" href="$uint256_8hpp.html" title="utilities/uint256.hpp" alt="" coords="386,796,521,823"/>
+<area shape="rect" id="node47" href="$_transaction_evaluation_state_8hpp.html" title="blockchain/TransactionEvaluation\lState.hpp" alt="" coords="1878,333,2093,375"/>
+</map>

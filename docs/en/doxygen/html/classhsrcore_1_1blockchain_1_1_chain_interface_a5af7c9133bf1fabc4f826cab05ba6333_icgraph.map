@@ -1,0 +1,4 @@
+<map id="hsrcore::blockchain::ChainInterface::get_transaction_fee" name="hsrcore::blockchain::ChainInterface::get_transaction_fee">
+<area shape="rect" id="node2" href="$classhsrcore_1_1lua_1_1api_1_1_glua_chain_api.html#af5feb27d1ca493afb2937fb5778ee657" title="hsrcore::lua::api::\lGluaChainApi::get_transaction_fee" alt="" coords="192,5,415,47"/>
+<area shape="rect" id="node3" href="$classhsrcore_1_1blockchain_1_1_chain_interface.html#ab3941f5c9d2d0a3f84879b8140d83d1e" title="hsrcore::blockchain\l::ChainInterface::~ChainInterface" alt="" coords="198,71,409,112"/>
+</map>

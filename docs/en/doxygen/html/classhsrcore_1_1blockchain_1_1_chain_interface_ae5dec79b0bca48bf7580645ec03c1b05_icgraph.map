@@ -1,0 +1,9 @@
+<map id="hsrcore::blockchain::ChainInterface::get_balanceid" name="hsrcore::blockchain::ChainInterface::get_balanceid">
+<area shape="rect" id="node2" href="$classhsrcore_1_1blockchain_1_1_chain_interface.html#a9b32d979772be384eeb170b7eea43fc3" title="hsrcore::blockchain\l::ChainInterface::withdraw\l_from_contract" alt="" coords="198,13,369,69"/>
+<area shape="rect" id="node4" href="$classhsrcore_1_1blockchain_1_1_chain_interface.html#ab3941f5c9d2d0a3f84879b8140d83d1e" title="hsrcore::blockchain\l::ChainInterface::~ChainInterface" alt="" coords="423,86,633,127"/>
+<area shape="rect" id="node5" href="$structhsrcore_1_1blockchain_1_1_upgrade_contract_operation.html#a5833f1adf224fcac4b4a5ea326aa3434" title="hsrcore::blockchain\l::UpgradeContractOperation\l::evaluate" alt="" coords="192,144,375,200"/>
+<area shape="rect" id="node6" href="$structhsrcore_1_1blockchain_1_1_destroy_contract_operation.html#a481bca0c0e42de1f510e2833149eb6ef" title="hsrcore::blockchain\l::DestroyContractOperation\l::evaluate" alt="" coords="193,224,373,280"/>
+<area shape="rect" id="node7" href="$structhsrcore_1_1blockchain_1_1_on_destroy_operation.html#adbba75f7d5a1a343e7d169e229d7dc47" title="hsrcore::blockchain\l::OnDestroyOperation\l::evaluate" alt="" coords="209,304,357,360"/>
+<area shape="rect" id="node8" href="$classhsrcore_1_1lua_1_1api_1_1_glua_chain_api.html#ac3d1955e1faf148d9470df465d3f8ca0" title="hsrcore::lua::api::\lGluaChainApi::get_contract\l_balance_amount" alt="" coords="193,384,374,440"/>
+<area shape="rect" id="node3" href="$classhsrcore_1_1blockchain_1_1_chain_interface.html#ab12db6dd8bc007dfbfa7d594be03696d" title="hsrcore::blockchain\l::ChainInterface::transfer\l_asset_from_contract" alt="" coords="447,5,609,61"/>
+</map>

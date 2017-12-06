@@ -1,0 +1,11 @@
+<map id="hsrcore::blockchain::Address::AddressToString" name="hsrcore::blockchain::Address::AddressToString">
+<area shape="rect" id="node2" href="$classhsrcore_1_1blockchain_1_1_chain_database.html#aaa8ecc1860941efc0bda3925bdd8d8d6" title="hsrcore::blockchain\l::ChainDatabase::store\l_account_entries_for_sandbox" alt="" coords="236,5,435,61"/>
+<area shape="rect" id="node3" href="$classhsrcore_1_1client_1_1detail_1_1_client_impl.html#a8bb9012ff7b7366ee4d16f9840d0b509" title="hsrcore::client::detail\l::ClientImpl::compile\l_contract_helper" alt="" coords="264,85,407,141"/>
+<area shape="rect" id="node5" href="$classhsrcore_1_1wallet_1_1detail_1_1_wallet_impl.html#ac9c18caccbcaf6078324abe968e917a5" title="hsrcore::wallet::detail\l::WalletImpl::scan_deposit\l_contract" alt="" coords="247,165,423,221"/>
+<area shape="rect" id="node9" href="$classhsrcore_1_1wallet_1_1_wallet.html#afe43d8d43dd4e660522d3be4911e378e" title="hsrcore::wallet::Wallet\l::to_pretty_contract_trx" alt="" coords="257,246,414,287"/>
+<area shape="rect" id="node10" href="$classhsrcore_1_1wallet_1_1_wallet.html#a14056811c69edb56203ccf7375226c4b" title="hsrcore::wallet::Wallet\l::call_contract_offline" alt="" coords="260,311,411,353"/>
+<area shape="rect" id="node4" href="$classhsrcore_1_1client_1_1detail_1_1_client_impl.html#a25c30b8c84686886409e5db40b326396" title="hsrcore::client::detail\l::ClientImpl::sandbox\l_get_contract_address" alt="" coords="505,85,659,141"/>
+<area shape="rect" id="node6" href="$classhsrcore_1_1wallet_1_1detail_1_1_wallet_impl.html#a4d7e2657125be56c63e00d7848ba7ccd" title="hsrcore::wallet::detail\l::WalletImpl::scan_transaction" alt="" coords="483,173,681,214"/>
+<area shape="rect" id="node7" href="$classhsrcore_1_1wallet_1_1detail_1_1_wallet_impl.html#ad6841db3acb81a5addd9a10e9f711ec0" title="hsrcore::wallet::detail\l::WalletImpl::scan_block" alt="" coords="729,173,895,214"/>
+<area shape="rect" id="node8" href="$classhsrcore_1_1wallet_1_1detail_1_1_wallet_impl.html#a3e00e30ab93eea32fb4fe5f6ab85fcba" title="hsrcore::wallet::detail\l::WalletImpl::start_scan_task" alt="" coords="943,173,1135,214"/>
+</map>

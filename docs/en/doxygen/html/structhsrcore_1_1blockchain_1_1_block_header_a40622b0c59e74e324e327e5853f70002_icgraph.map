@@ -1,0 +1,8 @@
+<map id="hsrcore::blockchain::BlockHeader::digest" name="hsrcore::blockchain::BlockHeader::digest">
+<area shape="rect" id="node2" href="$structhsrcore_1_1blockchain_1_1_signed_block_header.html#a09baf7510604854523e701a4123d2c4b" title="hsrcore::blockchain\l::SignedBlockHeader\l::validate_signee" alt="" coords="216,5,360,61"/>
+<area shape="rect" id="node4" href="$structhsrcore_1_1blockchain_1_1_signed_block_header.html#a7dba39b53a0198b3bfe508b63a435e5c" title="hsrcore::blockchain\l::SignedBlockHeader\l::signee" alt="" coords="216,152,360,208"/>
+<area shape="rect" id="node7" href="$structhsrcore_1_1blockchain_1_1_signed_block_header.html#acf984e26292c2dfa9a44f2ff7c1e59d1" title="hsrcore::blockchain\l::SignedBlockHeader::sign" alt="" coords="200,86,376,127"/>
+<area shape="rect" id="node3" href="$classhsrcore_1_1wallet_1_1_wallet.html#a4281be3cd63a250f718809c50399b360" title="hsrcore::wallet::Wallet\l::pow_sign_block" alt="" coords="439,50,590,91"/>
+<area shape="rect" id="node5" href="$classhsrcore_1_1blockchain_1_1detail_1_1_chain_database_impl.html#aeeffbabd2ac37bed5c061837beb8f8c1" title="hsrcore::blockchain\l::detail::ChainDatabaseImpl\l::extend_chain" alt="" coords="424,152,605,208"/>
+<area shape="rect" id="node6" href="$classhsrcore_1_1blockchain_1_1detail_1_1_chain_database_impl.html#afbdbe1d423c95c2fd6f44814300fffe3" title="hsrcore::blockchain\l::detail::ChainDatabaseImpl\l::switch_to_fork" alt="" coords="653,152,835,208"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="hsrcore::net::detail::BlockchainTiedMessageCache::get_message" name="hsrcore::net::detail::BlockchainTiedMessageCache::get_message">
+<area shape="rect" id="node2" href="$classhsrcore_1_1net_1_1detail_1_1_blockchain_tied_message_cache.html#acd1118f1854398c5e86d9f9a7ef693cd" title="hsrcore::net::detail\l::BlockchainTiedMessageCache\l::BlockchainTiedMessageCache" alt="" coords="261,5,469,61"/>
+<area shape="rect" id="node3" href="$classhsrcore_1_1net_1_1detail_1_1_node_impl.html#a580dbb21afac8b8acfc91145b8aabfcf" title="hsrcore::net::detail\l::NodeImpl::get_message\l_for_item" alt="" coords="280,85,451,141"/>
+<area shape="rect" id="node4" href="$classhsrcore_1_1net_1_1detail_1_1_node_impl.html#aa6acde042ce984eb1e40625bdea7491d" title="hsrcore::net::detail\l::NodeImpl::on_fetch\l_items_message" alt="" coords="295,165,436,221"/>
+<area shape="rect" id="node5" href="$classhsrcore_1_1net_1_1detail_1_1_node_impl.html#acf681683f9b0feee4994854571cbf65b" title="hsrcore::net::detail\l::NodeImpl::on_message" alt="" coords="517,173,684,214"/>
+</map>

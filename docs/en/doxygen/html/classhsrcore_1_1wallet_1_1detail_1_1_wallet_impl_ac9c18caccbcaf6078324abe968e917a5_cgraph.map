@@ -1,0 +1,5 @@
+<map id="hsrcore::wallet::detail::WalletImpl::scan_deposit_contract" name="hsrcore::wallet::detail::WalletImpl::scan_deposit_contract">
+<area shape="rect" id="node2" href="$structhsrcore_1_1blockchain_1_1_deposit_contract_operation.html#a5c9992fa0a77c7d3308d5b20b99e7d30" title="hsrcore::blockchain\l::DepositContractOperation\l::balance_id" alt="" coords="231,5,410,61"/>
+<area shape="rect" id="node4" href="$classhsrcore_1_1blockchain_1_1_address.html#ac53c1b8cc5237686f7d84f86d927ed02" title="hsrcore::blockchain\l::Address::AddressToString" alt="" coords="229,86,412,127"/>
+<area shape="rect" id="node3" href="$structhsrcore_1_1blockchain_1_1_withdraw_condition.html#aea0e3f3906595ec3fa1fba2211fbf219" title="hsrcore::blockchain\l::WithdrawCondition\l::get_address" alt="" coords="460,5,599,61"/>
+</map>

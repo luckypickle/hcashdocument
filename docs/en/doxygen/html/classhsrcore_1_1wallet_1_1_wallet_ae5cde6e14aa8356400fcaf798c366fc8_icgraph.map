@@ -1,0 +1,5 @@
+<map id="hsrcore::wallet::Wallet::get_transaction_imessage_fee_coe" name="hsrcore::wallet::Wallet::get_transaction_imessage_fee_coe">
+<area shape="rect" id="node2" href="$classhsrcore_1_1wallet_1_1_wallet.html#a59fa2d89f733f3a0b035fe99e16a7a51" title="hsrcore::wallet::Wallet\l::get_transaction_imessage_fee" alt="" coords="236,43,443,84"/>
+<area shape="rect" id="node3" href="$classhsrcore_1_1wallet_1_1_wallet.html#a552971ec3954f1646e66bbf3eb6fa5db" title="hsrcore::wallet::Wallet\l::transfer_asset_to_address" alt="" coords="491,5,673,47"/>
+<area shape="rect" id="node4" href="$classhsrcore_1_1wallet_1_1_wallet.html#ab10b27056483c1403fc52398a7b3080c" title="hsrcore::wallet::Wallet\l::transfer_asset_to_address\l_without_signature" alt="" coords="491,71,673,127"/>
+</map>

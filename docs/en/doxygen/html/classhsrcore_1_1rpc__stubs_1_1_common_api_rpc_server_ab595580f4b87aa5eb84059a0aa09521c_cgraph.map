@@ -1,0 +1,5 @@
+<map id="hsrcore::rpc_stubs::CommonApiRpcServer::network_add_node_named" name="hsrcore::rpc_stubs::CommonApiRpcServer::network_add_node_named">
+<area shape="rect" id="node2" href="$classhsrcore_1_1rpc__stubs_1_1_common_api_rpc_server.html#a1dd3f241a3ecc519ef20ff9425ba22fc" title="hsrcore::rpc_stubs\l::CommonApiRpcServer\l::verify_json_connection\l_is_authenticated" alt="" coords="242,5,402,76"/>
+<area shape="rect" id="node3" href="$classhsrcore_1_1rpc__stubs_1_1_common_api_rpc_server.html#aeccf0f28cc2af78b93119aacca7ace3c" title="hsrcore::rpc_stubs\l::CommonApiRpcServer\l::get_client" alt="" coords="242,101,402,157"/>
+<area shape="rect" id="node4" href="$classhsrcore_1_1api_1_1_common_api.html#a007b2fe7b9abef6eb536a696238391d1" title="hsrcore::api::CommonApi\l::network_add_node" alt="" coords="237,181,407,223"/>
+</map>

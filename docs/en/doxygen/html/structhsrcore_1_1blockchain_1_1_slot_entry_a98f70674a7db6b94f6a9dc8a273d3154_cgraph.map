@@ -1,0 +1,5 @@
+<map id="hsrcore::blockchain::SlotEntry::remove" name="hsrcore::blockchain::SlotEntry::remove">
+<area shape="rect" id="node2" href="$classhsrcore_1_1blockchain_1_1_chain_interface.html#a98c480a66e8c764c2345a5a33afbd8e1" title="hsrcore::blockchain\l::ChainInterface::get\l_statistics_enabled" alt="" coords="198,5,337,61"/>
+<area shape="rect" id="node4" href="$classhsrcore_1_1blockchain_1_1_chain_interface.html#a70bd3873f1f23b23bb8015da16b99069" title="hsrcore::blockchain\l::ChainInterface::lookup" alt="" coords="188,86,347,127"/>
+<area shape="rect" id="node3" href="$classhsrcore_1_1blockchain_1_1_chain_interface.html#a8210d2d3d2c07977058f4ee1fe3005bf" title="hsrcore::blockchain\l::ChainInterface::get\l_property_entry" alt="" coords="395,5,533,61"/>
+</map>

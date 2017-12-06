@@ -1,0 +1,7 @@
+<map id="hsrcore::rpc_stubs::CommonApiClient::rpc_set_password" name="hsrcore::rpc_stubs::CommonApiClient::rpc_set_password">
+<area shape="rect" id="node2" href="$namespacehsrcore_1_1blockchain.html#a2d604a90c34e5cfbc5252d1596314373" title="hsrcore::blockchain::now" alt="" coords="225,13,392,39"/>
+<area shape="rect" id="node5" href="$classhsrcore_1_1rpc__stubs_1_1_common_api_client.html#a0aba9e3b82d49360ff4a71df43516abb" title="hsrcore::rpc_stubs\l::CommonApiClient::get_impl" alt="" coords="213,64,404,105"/>
+<area shape="rect" id="node6" href="$classhsrcore_1_1api_1_1_common_api.html#a59b62c7b4b46c7367178bada7caa7719" title="hsrcore::api::CommonApi\l::rpc_set_password" alt="" coords="224,129,393,171"/>
+<area shape="rect" id="node3" href="$namespacehsrcore_1_1blockchain.html#a6ab2a224374df515fe76b3799ed648fb" title="hsrcore::blockchain\l::ntp_time" alt="" coords="452,5,587,47"/>
+<area shape="rect" id="node4" href="$namespacehsrcore_1_1blockchain_1_1detail.html#ae5c17ca96b07a1f76c62bc6fd564759c" title="hsrcore::blockchain\l::detail::ntp_service" alt="" coords="635,5,769,47"/>
+</map>

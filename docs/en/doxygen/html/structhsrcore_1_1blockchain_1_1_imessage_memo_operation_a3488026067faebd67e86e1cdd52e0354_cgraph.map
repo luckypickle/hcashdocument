@@ -1,0 +1,5 @@
+<map id="hsrcore::blockchain::ImessageMemoOperation::ImessageMemoOperation" name="hsrcore::blockchain::ImessageMemoOperation::ImessageMemoOperation">
+<area shape="rect" id="node2" href="$structhsrcore_1_1blockchain_1_1_imessage_memo_operation.html#ab3353c2ce650e90a917c477a4ea52733" title="hsrcore::blockchain\l::ImessageMemoOperation\l::evaluate" alt="" coords="232,5,411,61"/>
+<area shape="rect" id="node4" href="$_asset_8hpp.html#ac7901e0a8396a50c202943149e03dc36" title="FC_REFLECT" alt="" coords="269,85,373,112"/>
+<area shape="rect" id="node3" href="$classhsrcore_1_1blockchain_1_1_chain_interface.html#a4a80e4362a4329e589dc5655dbca6354" title="hsrcore::blockchain\l::ChainInterface::get\l_imessage_need_fee" alt="" coords="459,5,603,61"/>
+</map>

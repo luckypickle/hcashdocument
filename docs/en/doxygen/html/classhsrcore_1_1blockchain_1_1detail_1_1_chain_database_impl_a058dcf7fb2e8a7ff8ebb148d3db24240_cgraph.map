@@ -1,0 +1,5 @@
+<map id="hsrcore::blockchain::detail::ChainDatabaseImpl::pay_miner" name="hsrcore::blockchain::detail::ChainDatabaseImpl::pay_miner">
+<area shape="rect" id="node2" href="$structhsrcore_1_1blockchain_1_1_balance_entry.html#a83d0a06306b467b86b457c256337bd4e" title="hsrcore::blockchain\l::BalanceEntry::id" alt="" coords="243,5,377,47"/>
+<area shape="rect" id="node3" href="$structhsrcore_1_1blockchain_1_1_balance_entry.html#adf028df17a56c1eedf09e184628b48d0" title="hsrcore::blockchain\l::BalanceEntry::owner" alt="" coords="235,71,385,112"/>
+<area shape="rect" id="node4" href="$structhsrcore_1_1blockchain_1_1_withdraw_condition.html#a3a73a13b7fe3c0f64a7db48a0eca4708" title="hsrcore::blockchain\l::WithdrawCondition\l::owner" alt="" coords="433,63,572,119"/>
+</map>

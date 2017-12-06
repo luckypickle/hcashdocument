@@ -1,0 +1,8 @@
+<map id="glua::decompile::CloseTable" name="glua::decompile::CloseTable">
+<area shape="rect" id="node2" href="$namespaceglua_1_1decompile.html#a0b1686018ea0805eb38f7f4ceb99b854" title="glua::decompile::RemoveFromList" alt="" coords="239,5,457,32"/>
+<area shape="rect" id="node3" href="$namespaceglua_1_1decompile.html#a4b45f749ec9edeeb6ee2491b6d4fbe48" title="glua::decompile::FindFrom\lListTail" alt="" coords="260,57,436,98"/>
+<area shape="rect" id="node4" href="$namespaceglua_1_1decompile.html#a8861f55369d1a700f9344f4f156412cc" title="glua::decompile::MatchTable" alt="" coords="254,123,442,149"/>
+<area shape="rect" id="node5" href="$namespaceglua_1_1decompile.html#a3f4a7e002c5df509698ddfa4dd686e69" title="glua::decompile::DeleteTable" alt="" coords="253,173,443,200"/>
+<area shape="rect" id="node6" href="$namespaceglua_1_1decompile.html#ab3dbf45fb3502f9b9f6fb5a3c5089a52" title="glua::decompile::ClearList" alt="" coords="523,148,695,175"/>
+<area shape="rect" id="node7" href="$namespaceglua_1_1decompile.html#a0b1c29e3c8fd317795a667f1180fd2fe" title="glua::decompile::ClearTableItem" alt="" coords="505,199,712,225"/>
+</map>

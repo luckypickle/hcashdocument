@@ -1,0 +1,5 @@
+<map id="hsrcore::blockchain::CallContractOperation" name="hsrcore::blockchain::CallContractOperation">
+<area shape="rect" id="node2" href="$structhsrcore_1_1blockchain_1_1_asset.html" title="{hsrcore::blockchain\l::Asset\n|+ amount\l|+ Asset()\l+ Asset()\l+ operator+=()\l+ operator&#45;=()\l+ operator/()\l+ operator&#45;()\l+ operator std::string()\l}" alt="" coords="5,175,156,355"/>
+<area shape="rect" id="node4" href="$structhsrcore_1_1blockchain_1_1_public_key_type.html" title="{hsrcore::blockchain\l::PublicKeyType\n|+ key_data\l|+ PublicKeyType()\l+ PublicKeyType()\l+ PublicKeyType()\l+ PublicKeyType()\l+ operator fc::ecc::public\l_key_data()\l+ operator fc::ecc::public_key()\l+ operator std::string()\l+ is_valid_v1()\l}" alt="" coords="181,160,383,369"/>
+<area shape="rect" id="node6" href="$classhsrcore_1_1blockchain_1_1_address.html" title="a 160 bit hash of a public key " alt="" coords="487,145,637,384"/>
+</map>

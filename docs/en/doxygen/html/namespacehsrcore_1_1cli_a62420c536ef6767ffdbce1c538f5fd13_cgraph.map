@@ -1,0 +1,11 @@
+<map id="hsrcore::cli::pretty_account" name="hsrcore::cli::pretty_account">
+<area shape="rect" id="node2" href="$namespacehsrcore_1_1cli.html#ae872c749e8c92012cfa5cec7701b5609" title="hsrcore::cli::pretty\l_timestamp" alt="" coords="194,5,321,47"/>
+<area shape="rect" id="node3" href="$namespacehsrcore_1_1cli.html#a49dc1930d4718a8a4872e5cd6087501c" title="hsrcore::cli::pretty_age" alt="" coords="180,71,335,98"/>
+<area shape="rect" id="node7" href="$namespacehsrcore_1_1cli.html#ab5a96eace100c9afca665503a2b5ae2b" title="hsrcore::cli::pretty\l_delegate_list" alt="" coords="194,123,321,164"/>
+<area shape="rect" id="node4" href="$namespacehsrcore_1_1blockchain.html#a2d604a90c34e5cfbc5252d1596314373" title="hsrcore::blockchain::now" alt="" coords="383,71,549,98"/>
+<area shape="rect" id="node5" href="$namespacehsrcore_1_1blockchain.html#a6ab2a224374df515fe76b3799ed648fb" title="hsrcore::blockchain\l::ntp_time" alt="" coords="597,64,732,105"/>
+<area shape="rect" id="node6" href="$namespacehsrcore_1_1blockchain_1_1detail.html#ae5c17ca96b07a1f76c62bc6fd564759c" title="hsrcore::blockchain\l::detail::ntp_service" alt="" coords="780,64,915,105"/>
+<area shape="rect" id="node8" href="$namespacehsrcore_1_1cli.html#a8860587f160e9a233dc72f71431779e2" title="hsrcore::cli::pretty_line" alt="" coords="389,122,543,149"/>
+<area shape="rect" id="node9" href="$namespacehsrcore_1_1blockchain.html#a838ee5059f02f5226428d886b74c56c5" title="hsrcore::blockchain\l::get_slot_start_time" alt="" coords="395,173,537,215"/>
+<area shape="rect" id="node10" href="$namespacehsrcore_1_1cli.html#a306ef0e5e2812ddfa177536ae4983c65" title="hsrcore::cli::pretty\l_percent" alt="" coords="403,239,529,280"/>
+</map>

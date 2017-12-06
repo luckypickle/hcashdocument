@@ -1,0 +1,8 @@
+<map id="hsrcore::client::Client::get_chain" name="hsrcore::client::Client::get_chain">
+<area shape="rect" id="node2" href="$classhsrcore_1_1cli_1_1detail_1_1_cli_impl.html#a5a1f1c69c375caaac4214e635c247402" title="hsrcore::cli::detail\l::CliImpl::get_prompt" alt="" coords="221,5,363,47"/>
+<area shape="rect" id="node4" href="$classhsrcore_1_1cli_1_1detail_1_1_cli_impl.html#acc103605961dd29c133b107ea522a246" title="hsrcore::cli::detail\l::CliImpl::execute_command" alt="" coords="199,71,385,112"/>
+<area shape="rect" id="node5" href="$classhsrcore_1_1cli_1_1detail_1_1_cli_impl.html#a287af926ed733e168133d7a27d919c56" title="hsrcore::cli::detail\l::CliImpl::interactive\l_open_sandbox" alt="" coords="225,137,359,193"/>
+<area shape="rect" id="node6" href="$classhsrcore_1_1client_1_1detail_1_1_client_impl.html#a25245303c5dac7772552c61c81b0dfe2" title="hsrcore::client::detail\l::ClientImpl::wallet_http\l_callback" alt="" coords="213,217,371,273"/>
+<area shape="rect" id="node3" href="$classhsrcore_1_1cli_1_1detail_1_1_cli_impl.html#adf20217ea498c65d6336a0c527b411ff" title="hsrcore::cli::detail\l::CliImpl::process_commands" alt="" coords="433,5,628,47"/>
+<area shape="rect" id="node7" href="$namespacehsrcore_1_1client_1_1detail.html#ab8ded1be359af6f93d0e8927c6572929" title="hsrcore::client::detail\l::read_keys" alt="" coords="459,224,602,265"/>
+</map>

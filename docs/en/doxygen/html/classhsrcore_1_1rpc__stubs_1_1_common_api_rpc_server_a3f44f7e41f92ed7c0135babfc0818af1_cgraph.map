@@ -1,0 +1,4 @@
+<map id="hsrcore::rpc_stubs::CommonApiRpcServer::blockchain_list_pending_transactions_named" name="hsrcore::rpc_stubs::CommonApiRpcServer::blockchain_list_pending_transactions_named">
+<area shape="rect" id="node2" href="$classhsrcore_1_1rpc__stubs_1_1_common_api_rpc_server.html#aeccf0f28cc2af78b93119aacca7ace3c" title="hsrcore::rpc_stubs\l::CommonApiRpcServer\l::get_client" alt="" coords="226,5,386,61"/>
+<area shape="rect" id="node3" href="$classhsrcore_1_1api_1_1_common_api.html#a27ad58112a6d5fe5db3065f783d0ffd0" title="hsrcore::api::CommonApi\l::blockchain_list_pending\l_transactions" alt="" coords="221,85,391,141"/>
+</map>

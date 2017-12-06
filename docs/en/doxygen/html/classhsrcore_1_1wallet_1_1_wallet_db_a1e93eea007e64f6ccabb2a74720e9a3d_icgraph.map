@@ -1,0 +1,10 @@
+<map id="hsrcore::wallet::WalletDb::lookup_multisig_balance" name="hsrcore::wallet::WalletDb::lookup_multisig_balance">
+<area shape="rect" id="node2" href="$classhsrcore_1_1wallet_1_1detail_1_1_wallet_impl.html#ad6841db3acb81a5addd9a10e9f711ec0" title="hsrcore::wallet::detail\l::WalletImpl::scan_block" alt="" coords="704,75,869,116"/>
+<area shape="rect" id="node4" href="$classhsrcore_1_1wallet_1_1detail_1_1_wallet_impl.html#aaae5baba4a94a46c1f93a7b22718b442" title="hsrcore::wallet::detail\l::WalletImpl::scan_withdraw" alt="" coords="225,81,409,123"/>
+<area shape="rect" id="node7" href="$classhsrcore_1_1wallet_1_1detail_1_1_wallet_impl.html#a5de6c1289f0e1a00216048838273d634" title="hsrcore::wallet::detail\l::WalletImpl::scan_deposit" alt="" coords="229,16,405,57"/>
+<area shape="rect" id="node8" href="$classhsrcore_1_1wallet_1_1_wallet_db.html#aa67426aad3ee205f42eaaa9300129686" title="hsrcore::wallet::WalletDb\l::store_multisig_balance" alt="" coords="234,203,401,244"/>
+<area shape="rect" id="node9" href="$classhsrcore_1_1wallet_1_1_wallet_db.html#a950dc93a78a4c4a8c646728992236d34" title="hsrcore::wallet::WalletDb\l::remove_multisig_balance" alt="" coords="230,268,405,309"/>
+<area shape="rect" id="node3" href="$classhsrcore_1_1wallet_1_1detail_1_1_wallet_impl.html#a3e00e30ab93eea32fb4fe5f6ab85fcba" title="hsrcore::wallet::detail\l::WalletImpl::start_scan_task" alt="" coords="917,75,1109,116"/>
+<area shape="rect" id="node5" href="$classhsrcore_1_1wallet_1_1detail_1_1_wallet_impl.html#a4d7e2657125be56c63e00d7848ba7ccd" title="hsrcore::wallet::detail\l::WalletImpl::scan_transaction" alt="" coords="457,5,656,47"/>
+<area shape="rect" id="node6" href="$classhsrcore_1_1wallet_1_1detail_1_1_wallet_impl.html#af843ab0663575dc27e678fc79a7b6044" title="hsrcore::wallet::detail\l::WalletImpl::scan_transaction\l_experimental" alt="" coords="457,71,656,127"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="hsrcore::api::CommonApi::blockchain_list_pub_all_address" name="hsrcore::api::CommonApi::blockchain_list_pub_all_address">
+<area shape="rect" id="node2" href="$classhsrcore_1_1rpc__stubs_1_1_common_api_client.html#ad842106b243e5a5f1a96a25af258acb6" title="hsrcore::rpc_stubs\l::CommonApiClient::blockchain\l_list_pub_all_address" alt="" coords="223,5,427,61"/>
+<area shape="rect" id="node3" href="$classhsrcore_1_1rpc__stubs_1_1_common_api_rpc_server.html#ad57c883fa61258640061fc18dad1288b" title="hsrcore::rpc_stubs\l::CommonApiRpcServer\l::blockchain_list_pub\l_all_address_positional" alt="" coords="245,181,405,251"/>
+<area shape="rect" id="node6" href="$classhsrcore_1_1rpc__stubs_1_1_common_api_rpc_server.html#ab0025038725a46bc9dfbc944235ad4ad" title="hsrcore::rpc_stubs\l::CommonApiRpcServer\l::blockchain_list_pub\l_all_address_named" alt="" coords="245,86,405,157"/>
+<area shape="rect" id="node4" href="$classhsrcore_1_1rpc__stubs_1_1_common_api_rpc_server.html#a45cf3aafd35992db4c663115daeeb234" title="hsrcore::rpc_stubs\l::CommonApiRpcServer\l::register_common_api\l_methods" alt="" coords="478,86,638,157"/>
+<area shape="rect" id="node5" href="$classhsrcore_1_1rpc__stubs_1_1_common_api_rpc_server.html#a0188b049d81ec379e3b00e02f4153dc2" title="hsrcore::rpc_stubs\l::CommonApiRpcServer\l::direct_invoke_positional\l_method" alt="" coords="475,181,641,251"/>
+</map>

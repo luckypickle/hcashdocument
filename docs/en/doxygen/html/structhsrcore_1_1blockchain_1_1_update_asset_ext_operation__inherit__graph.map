@@ -1,0 +1,3 @@
+<map id="hsrcore::blockchain::UpdateAssetExtOperation" name="hsrcore::blockchain::UpdateAssetExtOperation">
+<area shape="rect" id="node2" href="$structhsrcore_1_1blockchain_1_1_update_asset_operation.html" title="{hsrcore::blockchain\l::UpdateAssetOperation\n|+ asset_id\l+ name\l+ description\l+ public_data\l+ maximum_share_supply\l+ precision\l+ type\l|+ evaluate()\l}" alt="" coords="15,5,189,185"/>
+</map>

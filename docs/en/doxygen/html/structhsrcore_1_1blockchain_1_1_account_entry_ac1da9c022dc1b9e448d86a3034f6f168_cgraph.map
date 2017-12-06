@@ -1,0 +1,6 @@
+<map id="hsrcore::blockchain::AccountEntry::remove" name="hsrcore::blockchain::AccountEntry::remove">
+<area shape="rect" id="node2" href="$classhsrcore_1_1blockchain_1_1_chain_interface.html#a70bd3873f1f23b23bb8015da16b99069" title="hsrcore::blockchain\l::ChainInterface::lookup" alt="" coords="226,5,385,47"/>
+<area shape="rect" id="node3" href="$structhsrcore_1_1blockchain_1_1_account_entry.html#a079abdecddd8f03081eea5c20ef0c0a3" title="hsrcore::blockchain\l::AccountEntry::active_key" alt="" coords="216,71,395,112"/>
+<area shape="rect" id="node4" href="$structhsrcore_1_1blockchain_1_1_account_entry.html#ae2733529d834bb3f9b31180032ab7b34" title="hsrcore::blockchain\l::AccountEntry::signing_key" alt="" coords="212,136,399,177"/>
+<area shape="rect" id="node5" href="$structhsrcore_1_1blockchain_1_1_account_entry.html#a7571728f24f60177b26680e46f4b4bd2" title="hsrcore::blockchain\l::AccountEntry::is_delegate" alt="" coords="447,136,629,177"/>
+</map>

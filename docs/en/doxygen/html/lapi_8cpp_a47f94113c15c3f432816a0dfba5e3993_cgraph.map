@@ -1,0 +1,8 @@
+<map id="luaL_count_global_variables" name="luaL_count_global_variables">
+<area shape="rect" id="node2" href="$lapi_8cpp.html#a8185a9c46d5930205f95beee4991e9f0" title="lua_getglobal" alt="" coords="253,31,352,57"/>
+<area shape="rect" id="node3" href="$lapi_8cpp.html#aab357fbcb2c389da8685e9b7166b561f" title="luaL_traverse_table" alt="" coords="236,81,369,108"/>
+<area shape="rect" id="node4" href="$lapi_8cpp.html#afbb08ecb69421875494105d4de68e5bf" title="lua_gettop" alt="" coords="427,5,510,32"/>
+<area shape="rect" id="node5" href="$lapi_8cpp.html#a602f61a9b583d69dc1c72c8970bd65e8" title="lua_pushvalue" alt="" coords="417,56,520,83"/>
+<area shape="rect" id="node6" href="$lapi_8cpp.html#a1b4cd0d80f51e5545a97ca6c28c03c50" title="lua_pushnil" alt="" coords="425,107,512,133"/>
+<area shape="rect" id="node7" href="$lapi_8cpp.html#aa8bf464b98335a075732200ad91ce1de" title="lua_next" alt="" coords="433,157,504,184"/>
+</map>

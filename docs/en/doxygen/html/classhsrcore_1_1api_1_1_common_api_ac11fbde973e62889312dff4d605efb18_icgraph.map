@@ -1,0 +1,9 @@
+<map id="hsrcore::api::CommonApi::network_set_advanced_node_parameters" name="hsrcore::api::CommonApi::network_set_advanced_node_parameters">
+<area shape="rect" id="node2" href="$classhsrcore_1_1client_1_1detail_1_1_client_impl.html#abcd060447e76463b400bab714ee13f74" title="hsrcore::client::detail\l::ClientImpl::network\l_broadcast_transactions" alt="" coords="248,5,412,61"/>
+<area shape="rect" id="node3" href="$classhsrcore_1_1rpc__stubs_1_1_common_api_client.html#a07ecf0fd480f58cdf83c4cb76fd8d9c3" title="hsrcore::rpc_stubs\l::CommonApiClient::network\l_set_advanced_node_parameters" alt="" coords="223,85,437,141"/>
+<area shape="rect" id="node5" href="$classhsrcore_1_1rpc__stubs_1_1_common_api_rpc_server.html#a9a22de372be1bd1c34672c8ad253b928" title="hsrcore::rpc_stubs\l::CommonApiRpcServer\l::network_set_advanced\l_node_parameters_positional" alt="" coords="235,261,425,331"/>
+<area shape="rect" id="node8" href="$classhsrcore_1_1rpc__stubs_1_1_common_api_rpc_server.html#a1f2f69d120776c99e363c0ec2b1e8dc2" title="hsrcore::rpc_stubs\l::CommonApiRpcServer\l::network_set_advanced\l_node_parameters_named" alt="" coords="243,166,417,237"/>
+<area shape="rect" id="node4" href="$classhsrcore_1_1client_1_1_client.html#a83d52fbeca46b51b83a51218730769da" title="hsrcore::client::Client\l::configure_from_command_line" alt="" coords="485,93,691,134"/>
+<area shape="rect" id="node6" href="$classhsrcore_1_1rpc__stubs_1_1_common_api_rpc_server.html#a45cf3aafd35992db4c663115daeeb234" title="hsrcore::rpc_stubs\l::CommonApiRpcServer\l::register_common_api\l_methods" alt="" coords="508,166,668,237"/>
+<area shape="rect" id="node7" href="$classhsrcore_1_1rpc__stubs_1_1_common_api_rpc_server.html#a0188b049d81ec379e3b00e02f4153dc2" title="hsrcore::rpc_stubs\l::CommonApiRpcServer\l::direct_invoke_positional\l_method" alt="" coords="505,261,671,331"/>
+</map>

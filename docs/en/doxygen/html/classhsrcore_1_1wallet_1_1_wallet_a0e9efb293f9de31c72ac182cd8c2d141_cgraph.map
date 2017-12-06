@@ -1,0 +1,8 @@
+<map id="hsrcore::wallet::Wallet::create_account" name="hsrcore::wallet::Wallet::create_account">
+<area shape="rect" id="node2" href="$classhsrcore_1_1wallet_1_1_wallet.html#a5fa9d05b99389e596dadae3ddfb4cdf8" title="hsrcore::wallet::Wallet\l::is_open" alt="" coords="621,97,772,138"/>
+<area shape="rect" id="node3" href="$classhsrcore_1_1wallet_1_1_wallet.html#a519c123db91699c6d1432008896c8b23" title="hsrcore::wallet::Wallet\l::is_unlocked" alt="" coords="204,46,355,88"/>
+<area shape="rect" id="node5" href="$classhsrcore_1_1wallet_1_1_wallet.html#a04e91229d8b9dfb9f7fcede847eba954" title="hsrcore::wallet::Wallet\l::list_my_accounts" alt="" coords="204,112,355,153"/>
+<area shape="rect" id="node6" href="$classhsrcore_1_1wallet_1_1_wallet.html#aa63cf5cc03a0c0a7ecbfae335adc5762" title="hsrcore::wallet::Wallet\l::set_last_scanned_block\l_number" alt="" coords="403,163,573,219"/>
+<area shape="rect" id="node7" href="$classhsrcore_1_1wallet_1_1_wallet.html#a0db814e864f2c72fdf1c06586d625795" title="hsrcore::wallet::Wallet\l::set_last_scanned_block\l_number_for_hsr" alt="" coords="403,243,573,299"/>
+<area shape="rect" id="node4" href="$classhsrcore_1_1wallet_1_1_wallet.html#a6e0016a17a8a09a506c9dfa7bbbb5f5d" title="hsrcore::wallet::Wallet\l::is_locked" alt="" coords="413,97,563,138"/>
+</map>

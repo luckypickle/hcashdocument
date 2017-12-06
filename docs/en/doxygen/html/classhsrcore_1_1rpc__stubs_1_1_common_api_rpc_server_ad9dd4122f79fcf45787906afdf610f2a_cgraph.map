@@ -1,0 +1,4 @@
+<map id="hsrcore::rpc_stubs::CommonApiRpcServer::delegate_set_network_min_connection_count_positional" name="hsrcore::rpc_stubs::CommonApiRpcServer::delegate_set_network_min_connection_count_positional">
+<area shape="rect" id="node2" href="$classhsrcore_1_1rpc__stubs_1_1_common_api_rpc_server.html#aeccf0f28cc2af78b93119aacca7ace3c" title="hsrcore::rpc_stubs\l::CommonApiRpcServer\l::get_client" alt="" coords="279,5,439,61"/>
+<area shape="rect" id="node3" href="$classhsrcore_1_1api_1_1_common_api.html#a380d9911ca9f5f0b6c844c3fa512f1ca" title="hsrcore::api::CommonApi\l::delegate_set_network\l_min_connection_count" alt="" coords="275,85,444,141"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="hsrcore::blockchain::detail::ChainDatabaseImpl::clear_pending" name="hsrcore::blockchain::detail::ChainDatabaseImpl::clear_pending">
+<area shape="rect" id="node2" href="$classhsrcore_1_1blockchain_1_1detail_1_1_chain_database_impl.html#aeeffbabd2ac37bed5c061837beb8f8c1" title="hsrcore::blockchain\l::detail::ChainDatabaseImpl\l::extend_chain" alt="" coords="235,5,416,61"/>
+<area shape="rect" id="node3" href="$classhsrcore_1_1blockchain_1_1detail_1_1_chain_database_impl.html#afbdbe1d423c95c2fd6f44814300fffe3" title="hsrcore::blockchain\l::detail::ChainDatabaseImpl\l::switch_to_fork" alt="" coords="464,5,645,61"/>
+</map>

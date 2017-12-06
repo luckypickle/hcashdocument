@@ -1,0 +1,6 @@
+<map id="hsrcore::blockchain::ChainInterface::store_contract_entry" name="hsrcore::blockchain::ChainInterface::store_contract_entry">
+<area shape="rect" id="node2" href="$structhsrcore_1_1blockchain_1_1_on_upgrade_operation.html#a447bca8dcd44751787f765b1829cd789" title="hsrcore::blockchain\l::OnUpgradeOperation\l::evaluate" alt="" coords="233,5,383,61"/>
+<area shape="rect" id="node3" href="$structhsrcore_1_1blockchain_1_1_register_contract_operation.html#a5204bdd08e19b1a191bc40a244674779" title="hsrcore::blockchain\l::RegisterContractOperation\l::evaluate" alt="" coords="217,85,399,141"/>
+<area shape="rect" id="node4" href="$structhsrcore_1_1blockchain_1_1_contract_info_operation.html#a3ea4740150a06913c37f439697076be0" title="hsrcore::blockchain\l::ContractInfoOperation\l::evaluate" alt="" coords="231,165,385,221"/>
+<area shape="rect" id="node5" href="$classhsrcore_1_1blockchain_1_1_chain_interface.html#ab3941f5c9d2d0a3f84879b8140d83d1e" title="hsrcore::blockchain\l::ChainInterface::~ChainInterface" alt="" coords="203,246,413,287"/>
+</map>

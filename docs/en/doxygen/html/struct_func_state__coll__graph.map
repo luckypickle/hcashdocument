@@ -1,0 +1,29 @@
+<map id="FuncState" name="FuncState">
+<area shape="rect" id="node10" href="$struct_lex_state.html" title="{LexState\n|+ current\l+ linenumber\l+ lastline\l+ decpoint\l|}" alt="" coords="482,1763,579,1884"/>
+<area shape="rect" id="node2" href="$struct_proto.html" title="{Proto\n|+ CommonHeader\l+ numparams\l+ is_vararg\l+ maxstacksize\l+ sizeupvalues\l+ sizek\l+ sizecode\l+ sizelineinfo\l+ sizep\l+ sizelocvars\l+ linedefined\l+ lastlinedefined\l+ code\l+ lineinfo\l|}" alt="" coords="431,789,558,1057"/>
+<area shape="rect" id="node6" href="$struct_l_closure.html" title="{LClosure\n|+ ClosureHeader\l|}" alt="" coords="527,1263,646,1340"/>
+<area shape="rect" id="node3" href="$structlua___t_value.html" title="{lua_TValue\n|+ TValuefields\l|}" alt="" coords="1209,5,1313,83"/>
+<area shape="rect" id="node7" href="$struct_up_val.html" title="{UpVal\n|+ refcount\l+ touched\l+ open\l+ u\l|}" alt="" coords="627,862,707,983"/>
+<area shape="rect" id="node17" href="$struct_table.html" title="{Table\n|+ CommonHeader\l+ flags\l+ lsizenode\l+ sizearray\l|}" alt="" coords="1215,577,1342,699"/>
+<area shape="rect" id="node18" href="$struct_node.html" title="{Node\n||}" alt="" coords="1311,351,1363,429"/>
+<area shape="rect" id="node19" href="$union_t_key.html" title="{TKey\n|+ TValuefields\l+ next\l+ nk\l|}" alt="" coords="1265,145,1369,252"/>
+<area shape="rect" id="node21" href="$structlua___state.html" title="{lua_State\n|+ CommonHeader\l+ nci\l+ status\l+ oldpc\l+ errfunc\l+ stacksize\l+ basehookcount\l+ hookcount\l+ nny\l+ nCcalls\land 14 more...\l|}" alt="" coords="849,1189,975,1413"/>
+<area shape="rect" id="node23" href="$structglobal___state.html" title="{global_State\n|+ frealloc\l+ ud\l+ totalbytes\l+ GCdebt\l+ GCmemtrav\l+ GCestimate\l+ seed\l+ currentwhite\l+ gcstate\l+ gckind\l+ gcrunning\l+ gcfinnum\l+ gcpause\l+ gcstepmul\l+ version\l|}" alt="" coords="1065,781,1169,1064"/>
+<area shape="rect" id="node26" href="$struct_call_info.html" title="{CallInfo\n|+ savedpc\l+ l\l+ old_errfunc\l+ ctx\l+ c\l+ u\l+ extra\l+ nresults\l+ callstatus\l|}" alt="" coords="889,1498,986,1693"/>
+<area shape="rect" id="node4" href="$struct_loc_var.html" title="{LocVar\n|+ startpc\l+ endpc\l+ vartype\l|}" alt="" coords="259,585,333,691"/>
+<area shape="rect" id="node5" href="$struct_t_string.html" title="{TString\n|+ CommonHeader\l+ extra\l+ shrlen\l+ hash\l+ lnglen\l+ u\l|}" alt="" coords="277,315,403,465"/>
+<area shape="rect" id="node9" href="$struct_upvaldesc.html" title="{Upvaldesc\n|+ instack\l+ idx\l|}" alt="" coords="458,592,539,684"/>
+<area shape="rect" id="node13" href="$struct_labeldesc.html" title="{Labeldesc\n|+ pc\l+ line\l+ nactvar\l|}" alt="" coords="54,585,135,691"/>
+<area shape="rect" id="node16" href="$union_sem_info.html" title="{SemInfo\n|+ r\l+ i\l|}" alt="" coords="165,592,235,684"/>
+<area shape="rect" id="node24" href="$structstringtable.html" title="{stringtable\n|+ nuse\l+ size\l|}" alt="" coords="791,592,873,684"/>
+<area shape="rect" id="node8" href="$struct_g_c_object.html" title="{GCObject\n|+ CommonHeader\l|}" alt="" coords="967,351,1094,429"/>
+<area shape="rect" id="node11" href="$struct_dyndata.html" title="{Dyndata\n|+ n\l+ size\l+ actvar\l|}" alt="" coords="126,1248,197,1355"/>
+<area shape="rect" id="node12" href="$struct_labellist.html" title="{Labellist\n|+ n\l+ size\l|}" alt="" coords="43,877,114,969"/>
+<area shape="rect" id="node14" href="$struct_vardesc.html" title="{Vardesc\n|+ idx\l|}" alt="" coords="138,884,209,961"/>
+<area shape="rect" id="node15" href="$struct_token.html" title="{Token\n|+ token\l|}" alt="" coords="289,1088,356,1165"/>
+<area shape="rect" id="node20" href="$struct_zio.html" title="{Zio\n|+ n\l+ p\l+ data\l|}" alt="" coords="619,1542,677,1649"/>
+<area shape="rect" id="node22" href="$structlua__longjmp.html" title="{lua_longjmp\n|+ b\l+ status\l|}" alt="" coords="867,877,957,969"/>
+<area shape="rect" id="node25" href="$struct_glua_state_pre_processor_function.html" title="{GluaStatePreProcessorFunction\n|+ args\l+ processor\l|+ operator()()\l}" alt="" coords="1194,877,1403,969"/>
+<area shape="rect" id="node27" href="$struct_mbuffer.html" title="{Mbuffer\n|+ buffer\l+ n\l+ buffsize\l|}" alt="" coords="1094,1542,1173,1649"/>
+<area shape="rect" id="node28" href="$struct_block_cnt.html" title="{BlockCnt\n|+ firstlabel\l+ firstgoto\l+ nactvar\l+ upval\l+ isloop\l|}" alt="" coords="221,1233,304,1369"/>
+</map>

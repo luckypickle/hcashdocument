@@ -1,0 +1,4 @@
+<map id="hsrcore::wallet::KeyData" name="hsrcore::wallet::KeyData">
+<area shape="rect" id="node3" href="$structhsrcore_1_1blockchain_1_1_public_key_type.html" title="{hsrcore::blockchain\l::PublicKeyType\n|+ key_data\l|+ PublicKeyType()\l+ PublicKeyType()\l+ PublicKeyType()\l+ PublicKeyType()\l+ operator fc::ecc::public\l_key_data()\l+ operator fc::ecc::public_key()\l+ operator std::string()\l+ is_valid_v1()\l}" alt="" coords="152,20,355,229"/>
+<area shape="rect" id="node4" href="$classhsrcore_1_1blockchain_1_1_address.html" title="a 160 bit hash of a public key " alt="" coords="379,5,530,244"/>
+</map>

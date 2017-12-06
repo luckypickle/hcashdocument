@@ -1,0 +1,7 @@
+<map id="hsrcore::blockchain::RegisterContractOperation::get_contract_id" name="hsrcore::blockchain::RegisterContractOperation::get_contract_id">
+<area shape="rect" id="node2" href="$structhsrcore_1_1blockchain_1_1_transaction.html#ac03cd40aa39c727ad94dec0deac71fe1" title="hsrcore::blockchain\l::Transaction::register\l_contract" alt="" coords="241,35,389,91"/>
+<area shape="rect" id="node6" href="$classhsrcore_1_1wallet_1_1_wallet.html#afe43d8d43dd4e660522d3be4911e378e" title="hsrcore::wallet::Wallet\l::to_pretty_contract_trx" alt="" coords="236,116,393,157"/>
+<area shape="rect" id="node3" href="$classhsrcore_1_1wallet_1_1_wallet.html#a7ad1cb3de642d70c316ea9781c80d7c6" title="hsrcore::wallet::Wallet\l::register_contract" alt="" coords="453,5,604,47"/>
+<area shape="rect" id="node5" href="$classhsrcore_1_1wallet_1_1_wallet.html#a0944dfd25088f9c0e08e4b13ec05fde0" title="hsrcore::wallet::Wallet\l::register_contract_without\l_signature" alt="" coords="441,71,616,127"/>
+<area shape="rect" id="node4" href="$classhsrcore_1_1wallet_1_1_wallet.html#ae5c409638db6ca344d8b69deadfe775a" title="hsrcore::wallet::Wallet\l::register_contract_testing" alt="" coords="664,5,837,47"/>
+</map>

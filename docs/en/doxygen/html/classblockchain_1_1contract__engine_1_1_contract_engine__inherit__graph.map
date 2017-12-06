@@ -1,0 +1,3 @@
+<map id="blockchain::contract_engine::ContractEngine" name="blockchain::contract_engine::ContractEngine">
+<area shape="rect" id="node2" href="$classglua_1_1_glua_contract_engine.html" title="{glua::GluaContractEngine\n||+ GluaContractEngine()\l+ ~GluaContractEngine()\l+ has_gas_limit()\l+ gas_limit()\l+ gas_used()\l+ set_gas_limit()\l+ set_no_gas_limit()\l+ set_gas_used()\l+ add_gas_used()\l+ stop()\land 11 more...\l}" alt="" coords="5,292,176,516"/>
+</map>

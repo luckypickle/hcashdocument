@@ -1,0 +1,11 @@
+<map id="hsrcore::net::detail::NodeImpl::add_node" name="hsrcore::net::detail::NodeImpl::add_node">
+<area shape="rect" id="node2" href="$classhsrcore_1_1net_1_1detail_1_1_node_impl.html#ad3256e89fddff35598f41654ff0a81c8" title="hsrcore::net::detail\l::NodeImpl::is_blocked\l_endpoint" alt="" coords="219,5,374,61"/>
+<area shape="rect" id="node3" href="$classhsrcore_1_1net_1_1_peer_database.html#abc35c6e29a6d92f15bfe0bdb8b31b4b9" title="hsrcore::net::PeerDatabase\l::lookup_or_create_entry\l_for_endpoint" alt="" coords="206,85,387,141"/>
+<area shape="rect" id="node4" href="$namespacehsrcore_1_1blockchain.html#a2d604a90c34e5cfbc5252d1596314373" title="hsrcore::blockchain::now" alt="" coords="213,165,380,192"/>
+<area shape="rect" id="node7" href="$classhsrcore_1_1net_1_1_peer_database.html#a61979f93d5036235ffddb14f017bb04e" title="hsrcore::net::PeerDatabase\l::update_entry" alt="" coords="206,217,387,258"/>
+<area shape="rect" id="node8" href="$classhsrcore_1_1net_1_1detail_1_1_node_impl.html#a917de3c0d52918c7273aab68054f7c8a" title="hsrcore::net::detail\l::NodeImpl::trigger_p2p\l_network_connect_loop" alt="" coords="217,283,376,339"/>
+<area shape="rect" id="node9" href="$classhsrcore_1_1net_1_1detail_1_1_node_impl.html#a575f20693219f162ed8b91819bc34924" title="hsrcore::net::detail\l::NodeImpl::disconnect\l_from_peer" alt="" coords="219,363,374,419"/>
+<area shape="rect" id="node10" href="$classhsrcore_1_1net_1_1_peer_connection.html#aebb2b5496e61f6b891ba94f59b825eaf" title="hsrcore::net::PeerConnection\l::get_remote_endpoint" alt="" coords="201,443,392,485"/>
+<area shape="rect" id="node5" href="$namespacehsrcore_1_1blockchain.html#a6ab2a224374df515fe76b3799ed648fb" title="hsrcore::blockchain\l::ntp_time" alt="" coords="440,158,575,199"/>
+<area shape="rect" id="node6" href="$namespacehsrcore_1_1blockchain_1_1detail.html#ae5c17ca96b07a1f76c62bc6fd564759c" title="hsrcore::blockchain\l::detail::ntp_service" alt="" coords="623,158,757,199"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="hsrcore::wallet::Wallet::set_delegate_block_production" name="hsrcore::wallet::Wallet::set_delegate_block_production">
+<area shape="rect" id="node2" href="$classhsrcore_1_1wallet_1_1_wallet.html#a5fa9d05b99389e596dadae3ddfb4cdf8" title="hsrcore::wallet::Wallet\l::is_open" alt="" coords="489,65,640,106"/>
+<area shape="rect" id="node3" href="$classhsrcore_1_1wallet_1_1_wallet.html#ab22cd55bc0cbd037a764e1e77f658a14" title="hsrcore::wallet::Wallet\l::get_my_delegates" alt="" coords="277,162,427,204"/>
+<area shape="rect" id="node5" href="$classhsrcore_1_1wallet_1_1_wallet.html#aa568321af493510709e8e21326d4e42b" title="hsrcore::wallet::Wallet\l::get_account" alt="" coords="277,32,427,73"/>
+<area shape="rect" id="node6" href="$classhsrcore_1_1wallet_1_1_wallet.html#a611e085d624f487339949e97093004bb" title="hsrcore::wallet::Wallet\l::set_transaction_scanning" alt="" coords="263,97,441,138"/>
+<area shape="rect" id="node4" href="$classhsrcore_1_1wallet_1_1_wallet.html#a04e91229d8b9dfb9f7fcede847eba954" title="hsrcore::wallet::Wallet\l::list_my_accounts" alt="" coords="489,162,640,204"/>
+</map>

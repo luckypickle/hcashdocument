@@ -1,0 +1,7 @@
+<map id="hsrcore::api::CommonApi::blockchain_get_security_state" name="hsrcore::api::CommonApi::blockchain_get_security_state">
+<area shape="rect" id="node2" href="$classhsrcore_1_1rpc__stubs_1_1_common_api_client.html#ad59699ec1ab6c2cc96fbdd38d5e12a0e" title="hsrcore::rpc_stubs\l::CommonApiClient::blockchain\l_get_security_state" alt="" coords="260,5,464,61"/>
+<area shape="rect" id="node3" href="$classhsrcore_1_1rpc__stubs_1_1_common_api_rpc_server.html#afec328f9f9af4f9e33b7f429365ffac3" title="hsrcore::rpc_stubs\l::CommonApiRpcServer\l::blockchain_get_security\l_state_positional" alt="" coords="277,181,447,251"/>
+<area shape="rect" id="node6" href="$classhsrcore_1_1rpc__stubs_1_1_common_api_rpc_server.html#a95137638268639ca0c8819d2a82891d4" title="hsrcore::rpc_stubs\l::CommonApiRpcServer\l::blockchain_get_security\l_state_named" alt="" coords="277,86,447,157"/>
+<area shape="rect" id="node4" href="$classhsrcore_1_1rpc__stubs_1_1_common_api_rpc_server.html#a45cf3aafd35992db4c663115daeeb234" title="hsrcore::rpc_stubs\l::CommonApiRpcServer\l::register_common_api\l_methods" alt="" coords="515,86,675,157"/>
+<area shape="rect" id="node5" href="$classhsrcore_1_1rpc__stubs_1_1_common_api_rpc_server.html#a0188b049d81ec379e3b00e02f4153dc2" title="hsrcore::rpc_stubs\l::CommonApiRpcServer\l::direct_invoke_positional\l_method" alt="" coords="512,181,679,251"/>
+</map>

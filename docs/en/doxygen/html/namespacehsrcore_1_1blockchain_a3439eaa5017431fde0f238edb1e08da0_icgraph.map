@@ -1,0 +1,4 @@
+<map id="hsrcore::blockchain::get_builtin_genesis_block_config" name="hsrcore::blockchain::get_builtin_genesis_block_config">
+<area shape="rect" id="node2" href="$classhsrcore_1_1blockchain_1_1detail_1_1_chain_database_impl.html#a76ee2e1b30c00bfba11eb44d36e6f4dc" title="hsrcore::blockchain\l::detail::ChainDatabaseImpl\l::initialize_genesis" alt="" coords="195,5,376,61"/>
+<area shape="rect" id="node3" href="$classhsrcore_1_1blockchain_1_1_chain_database.html#a4f9cd217fa3b090c1203fe0e7cdb90de" title="hsrcore::blockchain\l::ChainDatabase::generate\l_snapshot" alt="" coords="197,85,373,141"/>
+</map>

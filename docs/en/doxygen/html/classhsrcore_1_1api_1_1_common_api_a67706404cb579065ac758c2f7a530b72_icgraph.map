@@ -1,0 +1,9 @@
+<map id="hsrcore::api::CommonApi::wallet_set_transaction_fee" name="hsrcore::api::CommonApi::wallet_set_transaction_fee">
+<area shape="rect" id="node2" href="$classhsrcore_1_1client_1_1detail_1_1_client_impl.html#a25245303c5dac7772552c61c81b0dfe2" title="hsrcore::client::detail\l::ClientImpl::wallet_http\l_callback" alt="" coords="245,5,402,61"/>
+<area shape="rect" id="node4" href="$classhsrcore_1_1rpc__stubs_1_1_common_api_client.html#a7ea76628dfd3fc3602311e4ca48ae599" title="hsrcore::rpc_stubs\l::CommonApiClient::wallet\l_set_transaction_fee" alt="" coords="236,85,411,141"/>
+<area shape="rect" id="node5" href="$classhsrcore_1_1rpc__stubs_1_1_common_api_rpc_server.html#afe0ddd7b6fd5f5c3743c52b5fda69d6c" title="hsrcore::rpc_stubs\l::CommonApiRpcServer\l::wallet_set_transaction\l_fee_positional" alt="" coords="243,261,403,331"/>
+<area shape="rect" id="node8" href="$classhsrcore_1_1rpc__stubs_1_1_common_api_rpc_server.html#ac7fb2c869caa149898dbc3685bd7c508" title="hsrcore::rpc_stubs\l::CommonApiRpcServer\l::wallet_set_transaction\l_fee_named" alt="" coords="243,166,403,237"/>
+<area shape="rect" id="node3" href="$namespacehsrcore_1_1client_1_1detail.html#ab8ded1be359af6f93d0e8927c6572929" title="hsrcore::client::detail\l::read_keys" alt="" coords="471,13,613,54"/>
+<area shape="rect" id="node6" href="$classhsrcore_1_1rpc__stubs_1_1_common_api_rpc_server.html#a45cf3aafd35992db4c663115daeeb234" title="hsrcore::rpc_stubs\l::CommonApiRpcServer\l::register_common_api\l_methods" alt="" coords="462,166,622,237"/>
+<area shape="rect" id="node7" href="$classhsrcore_1_1rpc__stubs_1_1_common_api_rpc_server.html#a0188b049d81ec379e3b00e02f4153dc2" title="hsrcore::rpc_stubs\l::CommonApiRpcServer\l::direct_invoke_positional\l_method" alt="" coords="459,261,625,331"/>
+</map>

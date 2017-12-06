@@ -1,0 +1,12 @@
+<map id="hsrcore::blockchain::ChainDatabase::get_next_producible_block_timestamp" name="hsrcore::blockchain::ChainDatabase::get_next_producible_block_timestamp">
+<area shape="rect" id="node2" href="$namespacehsrcore_1_1blockchain.html#a838ee5059f02f5226428d886b74c56c5" title="hsrcore::blockchain\l::get_slot_start_time" alt="" coords="422,5,563,47"/>
+<area shape="rect" id="node3" href="$namespacehsrcore_1_1blockchain.html#a2d604a90c34e5cfbc5252d1596314373" title="hsrcore::blockchain::now" alt="" coords="409,77,576,103"/>
+<area shape="rect" id="node6" href="$classhsrcore_1_1blockchain_1_1_chain_database.html#ae0d7d9d55a4c9a3c9b85aae8c8f35c1b" title="hsrcore::blockchain\l::ChainDatabase::now" alt="" coords="212,59,361,100"/>
+<area shape="rect" id="node7" href="$namespacehsrcore_1_1blockchain.html#aa780b0043275aa87d818bcbbae28a74a" title="hsrcore::blockchain\l::get_slot_number" alt="" coords="425,137,560,179"/>
+<area shape="rect" id="node8" href="$classhsrcore_1_1blockchain_1_1_chain_interface.html#a2552d9a60927a07d56eaebf22189e7fd" title="hsrcore::blockchain\l::ChainInterface::get\l_active_delegates" alt="" coords="217,226,356,282"/>
+<area shape="rect" id="node10" href="$namespaceglua_1_1util.html#a0c3cdace845eb2fe620fa3e69c30cc2e" title="glua::util::find" alt="" coords="237,307,336,334"/>
+<area shape="rect" id="node4" href="$namespacehsrcore_1_1blockchain.html#a6ab2a224374df515fe76b3799ed648fb" title="hsrcore::blockchain\l::ntp_time" alt="" coords="624,69,759,111"/>
+<area shape="rect" id="node5" href="$namespacehsrcore_1_1blockchain_1_1detail.html#ae5c17ca96b07a1f76c62bc6fd564759c" title="hsrcore::blockchain\l::detail::ntp_service" alt="" coords="807,69,941,111"/>
+<area shape="rect" id="node9" href="$classhsrcore_1_1blockchain_1_1_chain_interface.html#a8210d2d3d2c07977058f4ee1fe3005bf" title="hsrcore::blockchain\l::ChainInterface::get\l_property_entry" alt="" coords="423,223,562,279"/>
+<area shape="rect" id="node11" href="$namespaceglua_1_1util.html#a65b8d51308032502f395500ffeacb628" title="glua::util::string\l_lines_count" alt="" coords="437,304,548,345"/>
+</map>

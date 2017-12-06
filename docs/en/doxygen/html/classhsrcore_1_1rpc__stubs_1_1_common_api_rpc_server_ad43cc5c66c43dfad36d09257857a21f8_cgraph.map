@@ -1,0 +1,4 @@
+<map id="hsrcore::rpc_stubs::CommonApiRpcServer::wallet_get_name_positional" name="hsrcore::rpc_stubs::CommonApiRpcServer::wallet_get_name_positional">
+<area shape="rect" id="node2" href="$classhsrcore_1_1rpc__stubs_1_1_common_api_rpc_server.html#aeccf0f28cc2af78b93119aacca7ace3c" title="hsrcore::rpc_stubs\l::CommonApiRpcServer\l::get_client" alt="" coords="247,5,407,61"/>
+<area shape="rect" id="node3" href="$classhsrcore_1_1api_1_1_common_api.html#a46cde9f18a70a33819c0b29ea6399fea" title="hsrcore::api::CommonApi\l::wallet_get_name" alt="" coords="243,86,412,127"/>
+</map>

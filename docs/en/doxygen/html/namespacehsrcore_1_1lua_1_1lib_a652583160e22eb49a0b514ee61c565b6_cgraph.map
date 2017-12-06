@@ -1,0 +1,6 @@
+<map id="hsrcore::lua::lib::close_lua_state" name="hsrcore::lua::lib::close_lua_state">
+<area shape="rect" id="node2" href="$lhsrcorelib_8cpp.html#a23ff4d816d10593b7aea9f677dbe1634" title="luaL_commit_storage\l_changes" alt="" coords="176,37,323,79"/>
+<area shape="rect" id="node5" href="$classhsrcore_1_1lua_1_1api_1_1_i_glua_chain_api.html#aac3804ae24186b52fad9fa6da2ac9c85" title="hsrcore::lua::api::\lIGluaChainApi::release\l_objects_in_pool" alt="" coords="172,103,327,159"/>
+<area shape="rect" id="node3" href="$namespacehsrcore_1_1lua_1_1lib.html#a90ae78316a1c85d4ffbe6f541458691a" title="hsrcore::lua::lib::\lget_lua_state_value_node" alt="" coords="387,5,558,47"/>
+<area shape="rect" id="node4" href="$classhsrcore_1_1lua_1_1api_1_1_i_glua_chain_api.html#ac9c7e42e3ef121c4376f373a81094208" title="hsrcore::lua::api::\lIGluaChainApi::has_exception" alt="" coords="375,71,571,112"/>
+</map>

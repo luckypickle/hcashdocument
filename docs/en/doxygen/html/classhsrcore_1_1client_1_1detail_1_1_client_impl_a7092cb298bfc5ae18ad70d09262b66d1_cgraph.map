@@ -1,0 +1,7 @@
+<map id="hsrcore::client::detail::ClientImpl::save_code_to_file" name="hsrcore::client::detail::ClientImpl::save_code_to_file">
+<area shape="rect" id="node2" href="$namespacehsrcore_1_1utilities.html#adc06a6d9cbfa5ba345800c709d507b4b" title="hsrcore::utilities\l::common_fwrite_int" alt="" coords="225,5,363,47"/>
+<area shape="rect" id="node3" href="$namespacehsrcore_1_1utilities.html#a4b7e9e35f792e1c31e53d133d42219ad" title="hsrcore::utilities\l::common_fwrite_stream" alt="" coords="212,71,376,112"/>
+<area shape="rect" id="node4" href="$classhsrcore_1_1api_1_1_common_api.html#a9adfa1b1549e2554d6a9d9bf41107d71" title="hsrcore::api::CommonApi\l::load_contract_to_file" alt="" coords="209,136,379,177"/>
+<area shape="rect" id="node5" href="$classhsrcore_1_1client_1_1detail_1_1_client_impl.html#a38af8c6ebca1b870d4a17faeb2c4ab92" title="hsrcore::client::detail\l::ClientImpl::get_contract\l_address" alt="" coords="211,202,377,258"/>
+<area shape="rect" id="node6" href="$classhsrcore_1_1blockchain_1_1_address.html#aa5350f7d29eeab827b51c8a7e4bb3964" title="hsrcore::blockchain\l::Address::is_valid" alt="" coords="427,209,561,251"/>
+</map>

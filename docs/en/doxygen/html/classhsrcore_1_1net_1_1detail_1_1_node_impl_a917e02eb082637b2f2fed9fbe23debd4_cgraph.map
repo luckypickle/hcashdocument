@@ -1,0 +1,4 @@
+<map id="hsrcore::net::detail::NodeImpl::on_blockchain_item_ids_inventory_message" name="hsrcore::net::detail::NodeImpl::on_blockchain_item_ids_inventory_message">
+<area shape="rect" id="node2" href="$classhsrcore_1_1net_1_1_peer_connection.html#aebb2b5496e61f6b891ba94f59b825eaf" title="hsrcore::net::PeerConnection\l::get_remote_endpoint" alt="" coords="249,5,440,47"/>
+<area shape="rect" id="node3" href="$classhsrcore_1_1net_1_1detail_1_1_node_impl.html#a3b4dbb30eb23360dbd515e0a6866316e" title="hsrcore::net::detail\l::NodeImpl::calculate\l_unsynced_block_count\l_from_all_peers" alt="" coords="263,71,426,141"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="hsrcore::net::detail::NodeImpl::on_fetch_items_message" name="hsrcore::net::detail::NodeImpl::on_fetch_items_message">
+<area shape="rect" id="node2" href="$classhsrcore_1_1net_1_1_peer_connection.html#aebb2b5496e61f6b891ba94f59b825eaf" title="hsrcore::net::PeerConnection\l::get_remote_endpoint" alt="" coords="203,5,394,47"/>
+<area shape="rect" id="node3" href="$classhsrcore_1_1net_1_1detail_1_1_blockchain_tied_message_cache.html#a1792061c5a73b8ae0bfecee1e0712d67" title="hsrcore::net::detail\l::BlockchainTiedMessageCache\l::get_message" alt="" coords="195,71,403,127"/>
+<area shape="rect" id="node6" href="$structhsrcore_1_1net_1_1_message.html#a367ca2a7e4c9d895287c4317ff2ffbec" title="hsrcore::net::Message::id" alt="" coords="213,151,384,178"/>
+<area shape="rect" id="node4" href="$namespaceglua_1_1util.html#a0c3cdace845eb2fe620fa3e69c30cc2e" title="glua::util::find" alt="" coords="451,86,549,113"/>
+<area shape="rect" id="node5" href="$namespaceglua_1_1util.html#a65b8d51308032502f395500ffeacb628" title="glua::util::string\l_lines_count" alt="" coords="597,79,708,120"/>
+</map>

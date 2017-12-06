@@ -1,0 +1,8 @@
+<map id="hsrcore::blockchain::detail::ChainDatabaseImpl::clear_invalidation_of_future_blocks" name="hsrcore::blockchain::detail::ChainDatabaseImpl::clear_invalidation_of_future_blocks">
+<area shape="rect" id="node2" href="$classhsrcore_1_1db_1_1_level_map.html#a7ac52b8509703b567bef0b2fd6925630" title="hsrcore::db::LevelMap\l::begin" alt="" coords="299,5,448,47"/>
+<area shape="rect" id="node3" href="$namespacehsrcore_1_1blockchain.html#a2d604a90c34e5cfbc5252d1596314373" title="hsrcore::blockchain::now" alt="" coords="290,71,457,98"/>
+<area shape="rect" id="node6" href="$classhsrcore_1_1db_1_1_level_map.html#a60be13f48fd5bdd2ada11d023923de84" title="hsrcore::db::LevelMap\l::remove" alt="" coords="299,123,448,164"/>
+<area shape="rect" id="node7" href="$classhsrcore_1_1blockchain_1_1detail_1_1_chain_database_impl.html#a5ce72342bba209d32a35f3d128737438" title="hsrcore::blockchain\l::detail::ChainDatabaseImpl\l::mark_as_unchecked" alt="" coords="283,189,464,245"/>
+<area shape="rect" id="node4" href="$namespacehsrcore_1_1blockchain.html#a6ab2a224374df515fe76b3799ed648fb" title="hsrcore::blockchain\l::ntp_time" alt="" coords="512,64,647,105"/>
+<area shape="rect" id="node5" href="$namespacehsrcore_1_1blockchain_1_1detail.html#ae5c17ca96b07a1f76c62bc6fd564759c" title="hsrcore::blockchain\l::detail::ntp_service" alt="" coords="695,64,829,105"/>
+</map>

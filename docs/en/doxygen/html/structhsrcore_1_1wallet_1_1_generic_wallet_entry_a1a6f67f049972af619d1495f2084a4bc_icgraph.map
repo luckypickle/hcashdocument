@@ -1,0 +1,5 @@
+<map id="hsrcore::wallet::GenericWalletEntry::as" name="hsrcore::wallet::GenericWalletEntry::as">
+<area shape="rect" id="node2" href="$structstd_1_1hash_3_01hsrcore_1_1wallet_1_1_script_relation_key_01_4.html#abf5f25863f38c4e4aac45764bd954f19" title="std::hash\&lt; hsrcore\l::wallet::ScriptRelationKey\l \&gt;::operator()" alt="" coords="237,5,411,61"/>
+<area shape="rect" id="node3" href="$classhsrcore_1_1wallet_1_1detail_1_1_wallet_db_impl.html#a3d2b508f8967911da8a1cab5a00ec533" title="hsrcore::wallet::detail\l::WalletDbImpl::load_generic_entry" alt="" coords="212,86,436,127"/>
+<area shape="rect" id="node4" href="$classhsrcore_1_1wallet_1_1_wallet_db.html#a59c58be375cc0beaa14008697637dcc8" title="hsrcore::wallet::WalletDb\l::repair_entrys" alt="" coords="241,151,407,193"/>
+</map>

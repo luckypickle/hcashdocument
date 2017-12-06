@@ -1,0 +1,4 @@
+<map id="hsrcore::rpc_stubs::CommonApiRpcServer::delegate_set_block_max_size_named" name="hsrcore::rpc_stubs::CommonApiRpcServer::delegate_set_block_max_size_named">
+<area shape="rect" id="node2" href="$classhsrcore_1_1rpc__stubs_1_1_common_api_rpc_server.html#aeccf0f28cc2af78b93119aacca7ace3c" title="hsrcore::rpc_stubs\l::CommonApiRpcServer\l::get_client" alt="" coords="236,5,396,61"/>
+<area shape="rect" id="node3" href="$classhsrcore_1_1api_1_1_common_api.html#ace4c6bbf4cf29963a1f04a32aad47f77" title="hsrcore::api::CommonApi\l::delegate_set_block_max_size" alt="" coords="213,86,419,127"/>
+</map>

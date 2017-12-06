@@ -1,0 +1,5 @@
+<map id="hsrcore::blockchain::ChainInterface::last_account_id" name="hsrcore::blockchain::ChainInterface::last_account_id">
+<area shape="rect" id="node2" href="$classhsrcore_1_1blockchain_1_1_chain_interface.html#a0a6c976d2e392223bb98d8c10b15f25f" title="hsrcore::blockchain\l::ChainInterface::new\l_account_id" alt="" coords="195,13,337,69"/>
+<area shape="rect" id="node4" href="$classhsrcore_1_1blockchain_1_1_chain_interface.html#ab3941f5c9d2d0a3f84879b8140d83d1e" title="hsrcore::blockchain\l::ChainInterface::~ChainInterface" alt="" coords="385,86,596,127"/>
+<area shape="rect" id="node3" href="$structhsrcore_1_1blockchain_1_1_register_account_operation.html#a227126e9351b05898b2517e02d06a507" title="hsrcore::blockchain\l::RegisterAccountOperation\l::evaluate" alt="" coords="399,5,582,61"/>
+</map>

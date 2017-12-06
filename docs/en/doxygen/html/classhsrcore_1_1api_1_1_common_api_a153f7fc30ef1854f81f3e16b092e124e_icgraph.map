@@ -1,0 +1,7 @@
+<map id="hsrcore::api::CommonApi::delegate_blacklist_remove_transaction" name="hsrcore::api::CommonApi::delegate_blacklist_remove_transaction">
+<area shape="rect" id="node2" href="$classhsrcore_1_1rpc__stubs_1_1_common_api_client.html#a6f6e721b7ae3cc6740ad0976b2425b29" title="hsrcore::rpc_stubs\l::CommonApiClient::delegate\l_blacklist_remove_transaction" alt="" coords="239,5,435,61"/>
+<area shape="rect" id="node3" href="$classhsrcore_1_1rpc__stubs_1_1_common_api_rpc_server.html#a5c71b9682835063e72bb9bcdbea9f3dc" title="hsrcore::rpc_stubs\l::CommonApiRpcServer\l::delegate_blacklist\l_remove_transaction_positional" alt="" coords="236,181,439,251"/>
+<area shape="rect" id="node6" href="$classhsrcore_1_1rpc__stubs_1_1_common_api_rpc_server.html#ab3b87c4ea8c277599d319edc79043af6" title="hsrcore::rpc_stubs\l::CommonApiRpcServer\l::delegate_blacklist\l_remove_transaction_named" alt="" coords="244,86,431,157"/>
+<area shape="rect" id="node4" href="$classhsrcore_1_1rpc__stubs_1_1_common_api_rpc_server.html#a45cf3aafd35992db4c663115daeeb234" title="hsrcore::rpc_stubs\l::CommonApiRpcServer\l::register_common_api\l_methods" alt="" coords="490,86,650,157"/>
+<area shape="rect" id="node5" href="$classhsrcore_1_1rpc__stubs_1_1_common_api_rpc_server.html#a0188b049d81ec379e3b00e02f4153dc2" title="hsrcore::rpc_stubs\l::CommonApiRpcServer\l::direct_invoke_positional\l_method" alt="" coords="487,181,653,251"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="GluaStorageChangeItem" name="GluaStorageChangeItem">
+<area shape="rect" id="node2" href="$struct_glua_storage_value.html" title="{GluaStorageValue\n|+ type\l|+ GluaStorageValue()\l+ try_parse_type()\l+ try_parse_to_int_type()\l+ try_parse_to_number_type()\l+ equals()\l+ from_int()\l+ from_string()\l+ is_same_base_type_with\l_type_parse()\l}" alt="" coords="5,233,201,428"/>
+<area shape="rect" id="node3" href="$union_glua_storage_value_union.html" title="{GluaStorageValueUnion\n|+ int_value\l+ number_value\l+ bool_value\l+ string_value\l+ table_value\l+ userdata_value\l+ pointer_value\l|}" alt="" coords="23,5,183,171"/>
+</map>

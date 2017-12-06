@@ -1,0 +1,3 @@
+<map id="hsrcore::blockchain::SignedTransaction" name="hsrcore::blockchain::SignedTransaction">
+<area shape="rect" id="node2" href="$structhsrcore_1_1blockchain_1_1_transaction.html" title="{hsrcore::blockchain\l::Transaction\n|+ expiration\l+ reserved\l+ hsr_account\l+ hsr_inport_asset\l+ operations\l+ result_trx_type\l+ result_trx_id\l|+ digest()\l+ issue()\l+ define_slate()\l+ withdraw()\l+ withdraw_from_contract()\l+ withdraw_pay()\l+ deposit()\l+ deposit_multisig()\l+ release_escrow()\l+ deposit_to_escrow()\land 15 more...\l}" alt="" coords="12,5,191,332"/>
+</map>

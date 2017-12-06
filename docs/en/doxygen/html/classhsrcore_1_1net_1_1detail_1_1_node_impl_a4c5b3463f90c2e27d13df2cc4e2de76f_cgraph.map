@@ -1,0 +1,25 @@
+<map id="hsrcore::net::detail::NodeImpl::on_check_firewall_message" name="hsrcore::net::detail::NodeImpl::on_check_firewall_message">
+<area shape="rect" id="node2" href="$classhsrcore_1_1net_1_1_peer_connection.html#aebb2b5496e61f6b891ba94f59b825eaf" title="hsrcore::net::PeerConnection\l::get_remote_endpoint" alt="" coords="446,32,637,73"/>
+<area shape="rect" id="node3" href="$classhsrcore_1_1net_1_1_peer_connection.html#a112cdf6147efb6a74b5310c7fe87ec6f" title="hsrcore::net::PeerConnection\l::get_socket" alt="" coords="201,292,392,333"/>
+<area shape="rect" id="node4" href="$classhsrcore_1_1net_1_1detail_1_1_node_impl.html#ab71c8de4be69289114bc516bda4a2a77" title="hsrcore::net::detail\l::NodeImpl::forward_firewall\l_check_to_next_available_peer" alt="" coords="440,319,643,375"/>
+<area shape="rect" id="node6" href="$classhsrcore_1_1net_1_1detail_1_1_node_impl.html#ad75bab963db6e87e65824de76b4c073c" title="hsrcore::net::detail\l::NodeImpl::is_already\l_connected_to_id" alt="" coords="221,358,372,414"/>
+<area shape="rect" id="node7" href="$classhsrcore_1_1net_1_1detail_1_1_node_impl.html#ab449d357acc9a483f519bc95cbb42e7c" title="hsrcore::net::detail\l::NodeImpl::is_connection\l_to_endpoint_in_progress" alt="" coords="211,438,383,494"/>
+<area shape="rect" id="node9" href="$classhsrcore_1_1net_1_1_peer_connection.html#a053a3c811f5391e69a1ea1550e1ed07b" title="hsrcore::net::PeerConnection\l::make_shared" alt="" coords="201,95,392,136"/>
+<area shape="rect" id="node14" href="$classhsrcore_1_1net_1_1detail_1_1_node_impl.html#a3110e4b9c26d0313f5f2d403950e7b22" title="hsrcore::net::detail\l::NodeImpl::initiate\l_connect_to" alt="" coords="231,161,362,217"/>
+<area shape="rect" id="node5" href="$classhsrcore_1_1net_1_1detail_1_1_node_impl.html#a60b6fa6d46f1dae31671ac50197fe866" title="hsrcore::net::detail\l::NodeImpl::get_peer\l_by_node_id" alt="" coords="710,538,853,594"/>
+<area shape="rect" id="node8" href="$classhsrcore_1_1net_1_1detail_1_1_node_impl.html#a3add3759032c20a7d5e2c72af98e07c5" title="hsrcore::net::detail\l::NodeImpl::get_connection\l_to_endpoint" alt="" coords="451,438,631,494"/>
+<area shape="rect" id="node10" href="$classhsrcore_1_1net_1_1_peer_connection.html#a40a9f7d3da42af0bd307f564b070205a" title="hsrcore::net::PeerConnection\l::close_connection" alt="" coords="446,97,637,139"/>
+<area shape="rect" id="node11" href="$namespacehsrcore_1_1blockchain.html#a2d604a90c34e5cfbc5252d1596314373" title="hsrcore::blockchain::now" alt="" coords="698,21,865,47"/>
+<area shape="rect" id="node12" href="$namespacehsrcore_1_1blockchain.html#a6ab2a224374df515fe76b3799ed648fb" title="hsrcore::blockchain\l::ntp_time" alt="" coords="937,5,1072,47"/>
+<area shape="rect" id="node13" href="$namespacehsrcore_1_1blockchain_1_1detail.html#ae5c17ca96b07a1f76c62bc6fd564759c" title="hsrcore::blockchain\l::detail::ntp_service" alt="" coords="1137,5,1272,47"/>
+<area shape="rect" id="node15" href="$classhsrcore_1_1net_1_1detail_1_1_node_impl.html#a51a3303e2df3aae88c795c9ef99f936f" title="hsrcore::net::detail\l::NodeImpl::connect_to_task" alt="" coords="447,239,635,280"/>
+<area shape="rect" id="node16" href="$classhsrcore_1_1net_1_1_peer_database.html#abc35c6e29a6d92f15bfe0bdb8b31b4b9" title="hsrcore::net::PeerDatabase\l::lookup_or_create_entry\l_for_endpoint" alt="" coords="691,231,872,287"/>
+<area shape="rect" id="node17" href="$classhsrcore_1_1net_1_1_peer_database.html#a61979f93d5036235ffddb14f017bb04e" title="hsrcore::net::PeerDatabase\l::update_entry" alt="" coords="691,312,872,353"/>
+<area shape="rect" id="node18" href="$classhsrcore_1_1net_1_1detail_1_1_node_impl.html#a4778810842311ef350655e0ba9d1cff2" title="hsrcore::net::detail\l::NodeImpl::display_current\l_connections" alt="" coords="691,378,871,434"/>
+<area shape="rect" id="node20" href="$classhsrcore_1_1net_1_1detail_1_1_node_impl.html#a917de3c0d52918c7273aab68054f7c8a" title="hsrcore::net::detail\l::NodeImpl::trigger_p2p\l_network_connect_loop" alt="" coords="702,458,861,514"/>
+<area shape="rect" id="node21" href="$classhsrcore_1_1net_1_1detail_1_1_node_impl.html#a449bd7920eb3b189b8c51be826b86cd5" title="hsrcore::net::detail\l::NodeImpl::schedule\l_peer_for_deletion" alt="" coords="709,71,853,127"/>
+<area shape="rect" id="node23" href="$classhsrcore_1_1net_1_1detail_1_1_node_impl.html#a1167a71beea1a7d89541b78b8d54f7e5" title="hsrcore::net::detail\l::NodeImpl::send_hello\l_message" alt="" coords="704,151,859,207"/>
+<area shape="rect" id="node19" href="$classhsrcore_1_1net_1_1detail_1_1_node_impl.html#a068bb07034b951f3dd6f57b230e2fd91" title="hsrcore::net::detail\l::NodeImpl::get_number\l_of_connections" alt="" coords="925,378,1085,434"/>
+<area shape="rect" id="node22" href="$classhsrcore_1_1net_1_1detail_1_1_node_impl.html#af2f2e147f1dfc14f8d6ac83deeec4093" title="hsrcore::net::detail\l::NodeImpl::delayed_peer\l_deletion_task" alt="" coords="920,71,1089,127"/>
+<area shape="rect" id="node24" href="$classhsrcore_1_1net_1_1detail_1_1_node_impl.html#a5e51455f19f013ee7ea2e003480c53a5" title="hsrcore::net::detail\l::NodeImpl::generate\l_hello_user_data" alt="" coords="933,151,1076,207"/>
+</map>

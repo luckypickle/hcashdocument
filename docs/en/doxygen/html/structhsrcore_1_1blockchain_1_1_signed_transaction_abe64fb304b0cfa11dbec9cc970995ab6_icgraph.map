@@ -1,0 +1,6 @@
+<map id="hsrcore::blockchain::SignedTransaction::data_size" name="hsrcore::blockchain::SignedTransaction::data_size">
+<area shape="rect" id="node2" href="$classhsrcore_1_1blockchain_1_1_chain_database.html#a6ebfaeaaf8cd5bb9b7315b310347bf2f" title="hsrcore::blockchain\l::ChainDatabase::generate_block" alt="" coords="191,5,405,47"/>
+<area shape="rect" id="node3" href="$classhsrcore_1_1blockchain_1_1_transaction_evaluation_state.html#a6d600d64b6c2ad43f7966d026b0e1097" title="hsrcore::blockchain\l::TransactionEvaluationState\l::evaluate" alt="" coords="205,71,391,127"/>
+<area shape="rect" id="node5" href="$classhsrcore_1_1client_1_1detail_1_1_client_impl.html#a053fc270374b23de2f20fcb1ed81a4a1" title="hsrcore::client::detail\l::ClientImpl::handle_message" alt="" coords="201,152,395,193"/>
+<area shape="rect" id="node4" href="$structhsrcore_1_1blockchain_1_1_transaction_operation.html#a4e7a8c1706d8b28beccdd566e4f86664" title="hsrcore::blockchain\l::TransactionOperation\l::evaluate" alt="" coords="453,71,607,127"/>
+</map>

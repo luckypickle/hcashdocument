@@ -1,0 +1,4 @@
+<map id="hsrcore::net::detail::NodeImpl::is_wanting_new_connections" name="hsrcore::net::detail::NodeImpl::is_wanting_new_connections">
+<area shape="rect" id="node2" href="$classhsrcore_1_1net_1_1detail_1_1_node_impl.html#a5c200113467e2b8133750516808f3e2a" title="hsrcore::net::detail\l::NodeImpl::p2p_network\l_connect_loop" alt="" coords="207,5,372,61"/>
+<area shape="rect" id="node3" href="$classhsrcore_1_1net_1_1detail_1_1_node_impl.html#a3f9901a46e1b09275b84862c10b3c59a" title="hsrcore::net::detail\l::NodeImpl::connect_to\l_p2p_network" alt="" coords="420,5,576,61"/>
+</map>

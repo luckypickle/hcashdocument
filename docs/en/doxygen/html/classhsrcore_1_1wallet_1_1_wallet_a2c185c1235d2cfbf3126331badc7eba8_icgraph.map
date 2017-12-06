@@ -1,0 +1,7 @@
+<map id="hsrcore::wallet::Wallet::import_private_key" name="hsrcore::wallet::Wallet::import_private_key">
+<area shape="rect" id="node2" href="$classhsrcore_1_1wallet_1_1_wallet.html#a2a4e8f13aa67cfb6dc548839348c751e" title="hsrcore::wallet::Wallet\l::friendly_import_private_key" alt="" coords="204,5,391,47"/>
+<area shape="rect" id="node3" href="$classhsrcore_1_1wallet_1_1_wallet.html#aa3ea92218b00d280e91607ca2e4193ad" title="hsrcore::wallet::Wallet\l::import_wif_private_key" alt="" coords="217,71,377,112"/>
+<area shape="rect" id="node4" href="$classhsrcore_1_1wallet_1_1_wallet.html#a9179c5ddfbe9def6b728f37c3f3932ca" title="hsrcore::wallet::Wallet\l::regenerate_keys" alt="" coords="222,136,373,177"/>
+<area shape="rect" id="node5" href="$classhsrcore_1_1wallet_1_1_wallet.html#a2bc84a4b084923f0643e66f03b319711" title="hsrcore::wallet::Wallet\l::recover_accounts" alt="" coords="222,201,373,243"/>
+<area shape="rect" id="node6" href="$classhsrcore_1_1wallet_1_1_wallet.html#a968f2010ffc98c8feba413bf0b0e2dc9" title="hsrcore::wallet::Wallet\l::update_active_key" alt="" coords="222,267,373,308"/>
+</map>

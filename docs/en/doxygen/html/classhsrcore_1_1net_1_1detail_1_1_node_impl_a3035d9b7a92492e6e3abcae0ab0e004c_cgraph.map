@@ -1,0 +1,4 @@
+<map id="hsrcore::net::detail::NodeImpl::send_sync_block_to_node_delegate" name="hsrcore::net::detail::NodeImpl::send_sync_block_to_node_delegate">
+<area shape="rect" id="node2" href="$classhsrcore_1_1net_1_1detail_1_1_node_impl.html#acd411266f6b65102b8cb1f93c63701fc" title="hsrcore::net::detail\l::NodeImpl::is_hard_fork_block" alt="" coords="223,5,423,47"/>
+<area shape="rect" id="node3" href="$classhsrcore_1_1net_1_1detail_1_1_node_impl.html#a2b836a447940b6042cc04cd67f310364" title="hsrcore::net::detail\l::NodeImpl::get_next\l_known_hard_fork_block\l_number" alt="" coords="241,71,405,141"/>
+</map>

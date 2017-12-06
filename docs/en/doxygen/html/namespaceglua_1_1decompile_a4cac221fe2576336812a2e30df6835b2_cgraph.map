@@ -1,0 +1,6 @@
+<map id="glua::decompile::PrintFunctionOnlyParamsAndUpvalues" name="glua::decompile::PrintFunctionOnlyParamsAndUpvalues">
+<area shape="rect" id="node2" href="$namespaceglua_1_1decompile.html#a06960bb21f9132558fbb028ebb67a7dd" title="glua::decompile::listParams" alt="" coords="256,5,439,32"/>
+<area shape="rect" id="node4" href="$namespaceglua_1_1decompile.html#afc873bf4182431245a106f97d05b1d1c" title="glua::decompile::listUpvalues" alt="" coords="252,56,443,83"/>
+<area shape="rect" id="node3" href="$namespaceglua_1_1decompile.html#aea5c71d9e8b759badff2a351fca45827" title="glua::decompile::getLocalName" alt="" coords="491,5,695,32"/>
+<area shape="rect" id="node5" href="$namespaceglua_1_1decompile.html#a87b5d88db98dd0ced0d0acbd4bbe6851" title="glua::decompile::getUpvalName" alt="" coords="491,56,695,83"/>
+</map>

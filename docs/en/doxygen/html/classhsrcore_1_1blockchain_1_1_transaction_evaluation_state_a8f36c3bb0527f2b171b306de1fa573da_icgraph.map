@@ -1,0 +1,4 @@
+<map id="hsrcore::blockchain::TransactionEvaluationState::origin_trx_basic_verify" name="hsrcore::blockchain::TransactionEvaluationState::origin_trx_basic_verify">
+<area shape="rect" id="node2" href="$classhsrcore_1_1blockchain_1_1_transaction_evaluation_state.html#a6d600d64b6c2ad43f7966d026b0e1097" title="hsrcore::blockchain\l::TransactionEvaluationState\l::evaluate" alt="" coords="240,5,427,61"/>
+<area shape="rect" id="node3" href="$structhsrcore_1_1blockchain_1_1_transaction_operation.html#a4e7a8c1706d8b28beccdd566e4f86664" title="hsrcore::blockchain\l::TransactionOperation\l::evaluate" alt="" coords="475,5,628,61"/>
+</map>
