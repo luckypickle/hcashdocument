@@ -1,0 +1,11 @@
+<map id="hsrcore::wallet::WalletDb::lookup_transaction" name="hsrcore::wallet::WalletDb::lookup_transaction">
+<area shape="rect" id="node2" href="$classhsrcore_1_1wallet_1_1detail_1_1_wallet_impl.html#a0a1d47d0d6c21dcc689f88c486fae920" title="hsrcore::wallet::detail\l::WalletImpl::scan_balances" alt="" coords="441,214,627,255"/>
+<area shape="rect" id="node4" href="$classhsrcore_1_1wallet_1_1detail_1_1_wallet_impl.html#a0089b1c8889648e19537f332efa6384d" title="hsrcore::wallet::detail\l::WalletImpl::upgrade\l_version" alt="" coords="691,265,837,321"/>
+<area shape="rect" id="node6" href="$classhsrcore_1_1wallet_1_1detail_1_1_wallet_impl.html#ad6841db3acb81a5addd9a10e9f711ec0" title="hsrcore::wallet::detail\l::WalletImpl::scan_block" alt="" coords="681,60,847,102"/>
+<area shape="rect" id="node7" href="$classhsrcore_1_1wallet_1_1detail_1_1_wallet_impl.html#a4d7e2657125be56c63e00d7848ba7ccd" title="hsrcore::wallet::detail\l::WalletImpl::scan_transaction" alt="" coords="435,31,633,72"/>
+<area shape="rect" id="node8" href="$classhsrcore_1_1wallet_1_1_wallet_db.html#a6cf9ac7566a34101d7b12ebb8a394216" title="hsrcore::wallet::WalletDb\l::store_transaction" alt="" coords="220,147,387,188"/>
+<area shape="rect" id="node10" href="$classhsrcore_1_1wallet_1_1_wallet_db.html#adb8f2f8322bd3c05dfa427bbd9cfa250" title="hsrcore::wallet::WalletDb\l::remove_transaction" alt="" coords="220,264,387,306"/>
+<area shape="rect" id="node3" href="$classhsrcore_1_1wallet_1_1detail_1_1_wallet_impl.html#a3e00e30ab93eea32fb4fe5f6ab85fcba" title="hsrcore::wallet::detail\l::WalletImpl::start_scan_task" alt="" coords="895,178,1087,219"/>
+<area shape="rect" id="node5" href="$classhsrcore_1_1wallet_1_1detail_1_1_wallet_impl.html#af6899327e54bdb87d3fd8eacf6a0aa99" title="hsrcore::wallet::detail\l::WalletImpl::open_file" alt="" coords="915,272,1066,314"/>
+<area shape="rect" id="node9" href="$classhsrcore_1_1wallet_1_1_wallet_db.html#a59c58be375cc0beaa14008697637dcc8" title="hsrcore::wallet::WalletDb\l::repair_entrys" alt="" coords="451,96,617,138"/>
+</map>

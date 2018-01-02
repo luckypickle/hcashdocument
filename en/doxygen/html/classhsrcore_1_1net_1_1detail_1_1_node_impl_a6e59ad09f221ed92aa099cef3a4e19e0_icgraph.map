@@ -1,0 +1,7 @@
+<map id="hsrcore::net::detail::NodeImpl::start_synchronizing_with_peer" name="hsrcore::net::detail::NodeImpl::start_synchronizing_with_peer">
+<area shape="rect" id="node2" href="$classhsrcore_1_1net_1_1detail_1_1_node_impl.html#a5609e616c92d23765822f42b89b65342" title="hsrcore::net::detail\l::NodeImpl::on_fetch\l_blockchain_item_ids_message" alt="" coords="512,11,719,67"/>
+<area shape="rect" id="node4" href="$classhsrcore_1_1net_1_1detail_1_1_node_impl.html#a88523f107154bc9cdcfb9894ba1df0a3" title="hsrcore::net::detail\l::NodeImpl::start_synchronizing" alt="" coords="259,25,464,66"/>
+<area shape="rect" id="node5" href="$classhsrcore_1_1net_1_1detail_1_1_node_impl.html#a8c26b28871d6babad8d4d0b59f753c99" title="hsrcore::net::detail\l::NodeImpl::new_peer\l_just_added" alt="" coords="288,91,435,147"/>
+<area shape="rect" id="node3" href="$classhsrcore_1_1net_1_1detail_1_1_node_impl.html#acf681683f9b0feee4994854571cbf65b" title="hsrcore::net::detail\l::NodeImpl::on_message" alt="" coords="767,58,933,100"/>
+<area shape="rect" id="node6" href="$classhsrcore_1_1net_1_1detail_1_1_node_impl.html#ac7ae27fc3e5700d4c7aecb422dac174e" title="hsrcore::net::detail\l::NodeImpl::on_address\l_message" alt="" coords="536,91,695,147"/>
+</map>

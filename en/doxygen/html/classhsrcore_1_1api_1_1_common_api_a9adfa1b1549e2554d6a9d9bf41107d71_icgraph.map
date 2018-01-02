@@ -1,0 +1,10 @@
+<map id="hsrcore::api::CommonApi::load_contract_to_file" name="hsrcore::api::CommonApi::load_contract_to_file">
+<area shape="rect" id="node2" href="$classhsrcore_1_1client_1_1detail_1_1_client_impl.html#a7092cb298bfc5ae18ad70d09262b66d1" title="hsrcore::client::detail\l::ClientImpl::save_code\l_to_file" alt="" coords="242,5,398,61"/>
+<area shape="rect" id="node4" href="$classhsrcore_1_1client_1_1detail_1_1_client_impl.html#a25c30b8c84686886409e5db40b326396" title="hsrcore::client::detail\l::ClientImpl::sandbox\l_get_contract_address" alt="" coords="680,39,835,95"/>
+<area shape="rect" id="node5" href="$classhsrcore_1_1rpc__stubs_1_1_common_api_client.html#a34868349a8ac341fb7e87401e419c8d0" title="hsrcore::rpc_stubs\l::CommonApiClient::load\l_contract_to_file" alt="" coords="237,136,403,192"/>
+<area shape="rect" id="node6" href="$classhsrcore_1_1rpc__stubs_1_1_common_api_rpc_server.html#a6d401f3c1ad5fad701f3659261cf916b" title="hsrcore::rpc_stubs\l::CommonApiRpcServer\l::load_contract_to_file\l_positional" alt="" coords="240,297,400,367"/>
+<area shape="rect" id="node9" href="$classhsrcore_1_1rpc__stubs_1_1_common_api_rpc_server.html#a0c8b674467d2f33858eda0202f06965b" title="hsrcore::rpc_stubs\l::CommonApiRpcServer\l::load_contract_to_file_named" alt="" coords="223,216,417,272"/>
+<area shape="rect" id="node3" href="$classhsrcore_1_1client_1_1detail_1_1_client_impl.html#a8bb9012ff7b7366ee4d16f9840d0b509" title="hsrcore::client::detail\l::ClientImpl::compile\l_contract_helper" alt="" coords="477,5,620,61"/>
+<area shape="rect" id="node7" href="$classhsrcore_1_1rpc__stubs_1_1_common_api_rpc_server.html#a45cf3aafd35992db4c663115daeeb234" title="hsrcore::rpc_stubs\l::CommonApiRpcServer\l::register_common_api\l_methods" alt="" coords="469,209,629,279"/>
+<area shape="rect" id="node8" href="$classhsrcore_1_1rpc__stubs_1_1_common_api_rpc_server.html#a0188b049d81ec379e3b00e02f4153dc2" title="hsrcore::rpc_stubs\l::CommonApiRpcServer\l::direct_invoke_positional\l_method" alt="" coords="465,303,632,374"/>
+</map>

@@ -1,0 +1,31 @@
+<map id="hsrcore::wallet::Wallet::get_transaction_fee" name="hsrcore::wallet::Wallet::get_transaction_fee">
+<area shape="rect" id="node2" href="$classhsrcore_1_1wallet_1_1_wallet.html#abd4c59a6218e4beaa5d04eb858713c25" title="hsrcore::wallet::Wallet\l::publish_slate" alt="" coords="221,5,372,47"/>
+<area shape="rect" id="node3" href="$classhsrcore_1_1wallet_1_1_wallet.html#a971216f6877be65aa7c1e4868dc6f319" title="hsrcore::wallet::Wallet\l::publish_version" alt="" coords="221,71,372,112"/>
+<area shape="rect" id="node4" href="$classhsrcore_1_1wallet_1_1_wallet.html#a162d04b50ccf050fdd93d401943c19a8" title="hsrcore::wallet::Wallet\l::collect_account_balances" alt="" coords="207,136,387,177"/>
+<area shape="rect" id="node5" href="$classhsrcore_1_1wallet_1_1_wallet.html#a3f56cba8ee36cd1eb295a526e8cd6655" title="hsrcore::wallet::Wallet\l::set_vote_info" alt="" coords="221,201,372,243"/>
+<area shape="rect" id="node6" href="$classhsrcore_1_1wallet_1_1_wallet.html#a6cb52d3a43901d8db9a78097754ec1f7" title="hsrcore::wallet::Wallet\l::withdraw_delegate_pay" alt="" coords="215,267,379,308"/>
+<area shape="rect" id="node7" href="$classhsrcore_1_1wallet_1_1_wallet.html#a7ad1cb3de642d70c316ea9781c80d7c6" title="hsrcore::wallet::Wallet\l::register_contract" alt="" coords="221,332,372,373"/>
+<area shape="rect" id="node8" href="$classhsrcore_1_1wallet_1_1_wallet.html#ae5c409638db6ca344d8b69deadfe775a" title="hsrcore::wallet::Wallet\l::register_contract_testing" alt="" coords="443,361,616,403"/>
+<area shape="rect" id="node9" href="$classhsrcore_1_1wallet_1_1_wallet.html#a0944dfd25088f9c0e08e4b13ec05fde0" title="hsrcore::wallet::Wallet\l::register_contract_without\l_signature" alt="" coords="209,449,384,505"/>
+<area shape="rect" id="node10" href="$classhsrcore_1_1wallet_1_1_wallet.html#a8c21e6956ba506be20e1b039c9d892bb" title="hsrcore::wallet::Wallet\l::call_contract" alt="" coords="221,529,372,571"/>
+<area shape="rect" id="node11" href="$classhsrcore_1_1wallet_1_1_wallet.html#aff3d2d26c620b0ffaf5f31ddce06366f" title="hsrcore::wallet::Wallet\l::call_contract_testing" alt="" coords="454,559,605,600"/>
+<area shape="rect" id="node12" href="$classhsrcore_1_1wallet_1_1_wallet.html#ad2c6a739e6ddc9c95f57a2594f4be899" title="hsrcore::wallet::Wallet\l::call_contract_without\l_signature" alt="" coords="221,646,373,702"/>
+<area shape="rect" id="node13" href="$classhsrcore_1_1wallet_1_1_wallet.html#a552971ec3954f1646e66bbf3eb6fa5db" title="hsrcore::wallet::Wallet\l::transfer_asset_to_address" alt="" coords="205,727,388,768"/>
+<area shape="rect" id="node14" href="$classhsrcore_1_1wallet_1_1_wallet.html#ab10b27056483c1403fc52398a7b3080c" title="hsrcore::wallet::Wallet\l::transfer_asset_to_address\l_without_signature" alt="" coords="205,793,388,849"/>
+<area shape="rect" id="node15" href="$classhsrcore_1_1wallet_1_1_wallet.html#a911ebde5fcb9e4f81afbeccd027bdc3b" title="hsrcore::wallet::Wallet\l::transfer_asset_to_contract" alt="" coords="205,873,389,915"/>
+<area shape="rect" id="node16" href="$classhsrcore_1_1wallet_1_1_wallet.html#ab99a991e8edd173d071a87992272c2a8" title="hsrcore::wallet::Wallet\l::transfer_asset_to_contract\l_testing" alt="" coords="437,895,621,951"/>
+<area shape="rect" id="node17" href="$classhsrcore_1_1wallet_1_1_wallet.html#a0313c46a37a77a2bdaa87fbfe5d1b788" title="hsrcore::wallet::Wallet\l::transfer_asset_to_contract\l_without_signature" alt="" coords="205,990,389,1046"/>
+<area shape="rect" id="node18" href="$classhsrcore_1_1wallet_1_1_wallet.html#acd60b122647c69a9f40cf62897bad11d" title="hsrcore::wallet::Wallet\l::upgrade_contract_testing" alt="" coords="441,1092,617,1133"/>
+<area shape="rect" id="node19" href="$classhsrcore_1_1wallet_1_1_wallet.html#a4e6ab7c03ba9cec47961502941214cdd" title="hsrcore::wallet::Wallet\l::upgrade_contract" alt="" coords="221,1121,372,1163"/>
+<area shape="rect" id="node20" href="$classhsrcore_1_1wallet_1_1_wallet.html#a961fd01dc15317976c178d4342a4226a" title="hsrcore::wallet::Wallet\l::upgrade_contract_without\l_signature" alt="" coords="207,1187,386,1243"/>
+<area shape="rect" id="node21" href="$classhsrcore_1_1wallet_1_1_wallet.html#a0769ae202a4952ad1a603ee85aa5903f" title="hsrcore::wallet::Wallet\l::destroy_contract_testing" alt="" coords="443,1289,616,1331"/>
+<area shape="rect" id="node22" href="$classhsrcore_1_1wallet_1_1_wallet.html#a916f082791eeb72056c6a8af7d83267e" title="hsrcore::wallet::Wallet\l::destroy_contract" alt="" coords="221,1319,372,1360"/>
+<area shape="rect" id="node23" href="$classhsrcore_1_1wallet_1_1_wallet.html#a5f131b419e6dade4256734ab40fae34a" title="hsrcore::wallet::Wallet\l::destroy_contract_without\l_signatrue" alt="" coords="209,1385,384,1441"/>
+<area shape="rect" id="node24" href="$classhsrcore_1_1wallet_1_1_wallet.html#ad7f031f86233d7822c85ce3fe7c79e86" title="hsrcore::wallet::Wallet\l::transfer_asset_to_many\l_address" alt="" coords="212,1465,381,1521"/>
+<area shape="rect" id="node25" href="$classhsrcore_1_1wallet_1_1_wallet.html#aee4e449b941dddd7905f3b25a359ea66" title="hsrcore::wallet::Wallet\l::register_account" alt="" coords="221,1545,372,1587"/>
+<area shape="rect" id="node26" href="$classhsrcore_1_1wallet_1_1_wallet.html#ad175876af033874575813334dc8c19f3" title="hsrcore::wallet::Wallet\l::create_asset" alt="" coords="221,1611,372,1652"/>
+<area shape="rect" id="node27" href="$classhsrcore_1_1wallet_1_1_wallet.html#a09e18cf6f1c1ca4e4be60a7ce5641021" title="hsrcore::wallet::Wallet\l::issue_asset" alt="" coords="221,1676,372,1717"/>
+<area shape="rect" id="node28" href="$classhsrcore_1_1wallet_1_1_wallet.html#a010875a379c612689f325764ec9c2023" title="hsrcore::wallet::Wallet\l::issue_asset_to_addresses" alt="" coords="204,1741,389,1783"/>
+<area shape="rect" id="node29" href="$classhsrcore_1_1wallet_1_1_wallet.html#af65e9c29325a5f52d9118777a713b423" title="hsrcore::wallet::Wallet\l::asset_can_pay_fee" alt="" coords="221,1807,372,1848"/>
+<area shape="rect" id="node30" href="$classhsrcore_1_1wallet_1_1_wallet.html#ad2d7b3722567f5cbb321a28696627ebc" title="hsrcore::wallet::Wallet\l::get_info" alt="" coords="221,1872,372,1913"/>
+</map>

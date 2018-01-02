@@ -1,0 +1,12 @@
+<map id="hsrcore::net::detail::NodeImpl::delayed_peer_deletion_task" name="hsrcore::net::detail::NodeImpl::delayed_peer_deletion_task">
+<area shape="rect" id="node2" href="$classhsrcore_1_1net_1_1detail_1_1_node_impl.html#a449bd7920eb3b189b8c51be826b86cd5" title="hsrcore::net::detail\l::NodeImpl::schedule\l_peer_for_deletion" alt="" coords="223,71,367,127"/>
+<area shape="rect" id="node3" href="$classhsrcore_1_1net_1_1detail_1_1_node_impl.html#ae272e00c97ca9f2e4b1b28adb541c1b8" title="hsrcore::net::detail\l::NodeImpl::terminate\l_inactive_connections_loop" alt="" coords="651,5,831,61"/>
+<area shape="rect" id="node5" href="$classhsrcore_1_1net_1_1detail_1_1_node_impl.html#ac178afcc3cf7fa1c1d1c47be6289de51" title="hsrcore::net::detail\l::NodeImpl::on_connection\l_closed" alt="" coords="421,71,597,127"/>
+<area shape="rect" id="node6" href="$classhsrcore_1_1net_1_1detail_1_1_node_impl.html#a51a3303e2df3aae88c795c9ef99f936f" title="hsrcore::net::detail\l::NodeImpl::connect_to_task" alt="" coords="415,151,603,193"/>
+<area shape="rect" id="node4" href="$classhsrcore_1_1net_1_1detail_1_1_node_impl.html#a3f9901a46e1b09275b84862c10b3c59a" title="hsrcore::net::detail\l::NodeImpl::connect_to\l_p2p_network" alt="" coords="1297,76,1453,132"/>
+<area shape="rect" id="node7" href="$classhsrcore_1_1net_1_1detail_1_1_node_impl.html#a3110e4b9c26d0313f5f2d403950e7b22" title="hsrcore::net::detail\l::NodeImpl::initiate\l_connect_to" alt="" coords="675,144,806,200"/>
+<area shape="rect" id="node8" href="$classhsrcore_1_1net_1_1detail_1_1_node_impl.html#a4c5b3463f90c2e27d13df2cc4e2de76f" title="hsrcore::net::detail\l::NodeImpl::on_check\l_firewall_message" alt="" coords="883,71,1031,127"/>
+<area shape="rect" id="node10" href="$classhsrcore_1_1net_1_1detail_1_1_node_impl.html#a4767b21f6f0512150d7fe8190ab63d59" title="hsrcore::net::detail\l::NodeImpl::connect_to\l_endpoint" alt="" coords="879,151,1035,207"/>
+<area shape="rect" id="node9" href="$classhsrcore_1_1net_1_1detail_1_1_node_impl.html#acf681683f9b0feee4994854571cbf65b" title="hsrcore::net::detail\l::NodeImpl::on_message" alt="" coords="1083,78,1249,119"/>
+<area shape="rect" id="node11" href="$classhsrcore_1_1net_1_1detail_1_1_node_impl.html#a5c200113467e2b8133750516808f3e2a" title="hsrcore::net::detail\l::NodeImpl::p2p_network\l_connect_loop" alt="" coords="1083,147,1249,203"/>
+</map>

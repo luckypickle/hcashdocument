@@ -1,0 +1,8 @@
+<map id="hsrcore::wallet::detail::WalletImpl::sign_transaction" name="hsrcore::wallet::detail::WalletImpl::sign_transaction">
+<area shape="rect" id="node2" href="$structhsrcore_1_1blockchain_1_1_signed_transaction.html#a7f48cce79e51f42321eef799f2921731" title="hsrcore::blockchain\l::SignedTransaction::sign" alt="" coords="248,5,417,47"/>
+<area shape="rect" id="node4" href="$classhsrcore_1_1wallet_1_1_wallet.html#af3d9cc32af68f0a38c144f8489e2bb15" title="hsrcore::wallet::Wallet\l::get_private_key" alt="" coords="257,71,408,112"/>
+<area shape="rect" id="node3" href="$structhsrcore_1_1blockchain_1_1_transaction.html#ad0ba307b323df7dd1177deb71bad7922" title="hsrcore::blockchain\l::Transaction::digest" alt="" coords="471,5,611,47"/>
+<area shape="rect" id="node5" href="$classhsrcore_1_1wallet_1_1_wallet.html#a5fa9d05b99389e596dadae3ddfb4cdf8" title="hsrcore::wallet::Wallet\l::is_open" alt="" coords="863,117,1013,159"/>
+<area shape="rect" id="node6" href="$classhsrcore_1_1wallet_1_1_wallet.html#a519c123db91699c6d1432008896c8b23" title="hsrcore::wallet::Wallet\l::is_unlocked" alt="" coords="465,125,616,167"/>
+<area shape="rect" id="node7" href="$classhsrcore_1_1wallet_1_1_wallet.html#a6e0016a17a8a09a506c9dfa7bbbb5f5d" title="hsrcore::wallet::Wallet\l::is_locked" alt="" coords="664,176,815,217"/>
+</map>

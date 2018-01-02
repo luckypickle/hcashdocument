@@ -1,0 +1,5 @@
+<map id="UnitTest::Timer::Start" name="UnitTest::Timer::Start">
+<area shape="rect" id="node2" href="$class_unit_test_1_1_test_runner.html#abef5ed23197231f816a6aa63ec0ba535" title="UnitTest::TestRunner\l::TestRunner" alt="" coords="211,5,355,47"/>
+<area shape="rect" id="node3" href="$class_unit_test_1_1_test_runner.html#ad2309a825bc2bd7c023a86ce6fe25558" title="UnitTest::TestRunner\l::GetTestResults" alt="" coords="211,71,355,112"/>
+<area shape="rect" id="node4" href="$class_unit_test_1_1_time_constraint.html#ae6074f2131a1066e94da4631c55c6f63" title="UnitTest::TimeConstraint\l::TimeConstraint" alt="" coords="200,136,365,177"/>
+</map>

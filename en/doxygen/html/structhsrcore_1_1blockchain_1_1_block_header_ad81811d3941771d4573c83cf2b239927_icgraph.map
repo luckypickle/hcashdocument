@@ -1,0 +1,6 @@
+<map id="hsrcore::blockchain::BlockHeader::GetPoWHash" name="hsrcore::blockchain::BlockHeader::GetPoWHash">
+<area shape="rect" id="node2" href="$classhsrcore_1_1blockchain_1_1detail_1_1_chain_database_impl.html#a55121094e325ebd325c4641bb37b9aa8" title="hsrcore::blockchain\l::detail::ChainDatabaseImpl\l::verify_header" alt="" coords="245,5,427,61"/>
+<area shape="rect" id="node5" href="$classhsrcore_1_1wallet_1_1_wallet.html#a316a0f4e57248785156172b53879bd3e" title="hsrcore::wallet::Wallet\l::CheckWork" alt="" coords="261,86,411,127"/>
+<area shape="rect" id="node3" href="$classhsrcore_1_1blockchain_1_1detail_1_1_chain_database_impl.html#aeeffbabd2ac37bed5c061837beb8f8c1" title="hsrcore::blockchain\l::detail::ChainDatabaseImpl\l::extend_chain" alt="" coords="475,5,656,61"/>
+<area shape="rect" id="node4" href="$classhsrcore_1_1blockchain_1_1detail_1_1_chain_database_impl.html#afbdbe1d423c95c2fd6f44814300fffe3" title="hsrcore::blockchain\l::detail::ChainDatabaseImpl\l::switch_to_fork" alt="" coords="704,5,885,61"/>
+</map>

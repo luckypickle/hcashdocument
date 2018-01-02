@@ -1,0 +1,5 @@
+<map id="hsrcore::client::RpcServerConfig::is_valid" name="hsrcore::client::RpcServerConfig::is_valid">
+<area shape="rect" id="node2" href="$classhsrcore_1_1rpc_1_1_rpc_server.html#ace6c11420db33b156d4f3b8f3b51108b" title="hsrcore::rpc::RpcServer\l::configure_rpc" alt="" coords="230,5,389,47"/>
+<area shape="rect" id="node3" href="$classhsrcore_1_1rpc_1_1_rpc_server.html#aed2e5652aa3f393e2b91006ebfda768a" title="hsrcore::rpc::RpcServer\l::configure_http" alt="" coords="230,71,389,112"/>
+<area shape="rect" id="node4" href="$classhsrcore_1_1rpc_1_1_rpc_server.html#a3e113f6b891d115606eb9c0b93e7dd01" title="hsrcore::rpc::RpcServer\l::configure_encrypted_rpc" alt="" coords="224,136,395,177"/>
+</map>

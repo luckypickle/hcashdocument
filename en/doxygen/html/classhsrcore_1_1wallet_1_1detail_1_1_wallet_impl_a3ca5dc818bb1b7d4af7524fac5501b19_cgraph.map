@@ -1,0 +1,5 @@
+<map id="hsrcore::wallet::detail::WalletImpl::is_unique_account" name="hsrcore::wallet::detail::WalletImpl::is_unique_account">
+<area shape="rect" id="node2" href="$classhsrcore_1_1wallet_1_1_wallet_db.html#abecf24f8eb6fc7c69f591496e961ceb5" title="hsrcore::wallet::WalletDb\l::get_accounts" alt="" coords="208,5,375,47"/>
+<area shape="rect" id="node3" href="$classhsrcore_1_1wallet_1_1_wallet_db.html#aeebff19dcd158c1cd84d9cb8fb1d7cd2" title="hsrcore::wallet::WalletDb\l::lookup_account" alt="" coords="208,71,375,112"/>
+<area shape="rect" id="node4" href="$classhsrcore_1_1wallet_1_1_wallet_db.html#ada4c95e346f51d0f8c58ed28f76d7862" title="hsrcore::wallet::WalletDb\l::is_open" alt="" coords="423,71,589,112"/>
+</map>

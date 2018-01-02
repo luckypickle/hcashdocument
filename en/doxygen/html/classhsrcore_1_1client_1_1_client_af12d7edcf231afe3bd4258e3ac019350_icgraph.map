@@ -1,0 +1,5 @@
+<map id="hsrcore::client::Client::get_wallet" name="hsrcore::client::Client::get_wallet">
+<area shape="rect" id="node2" href="$classhsrcore_1_1cli_1_1detail_1_1_cli_impl.html#a5a1f1c69c375caaac4214e635c247402" title="hsrcore::cli::detail\l::CliImpl::get_prompt" alt="" coords="199,5,341,47"/>
+<area shape="rect" id="node4" href="$classhsrcore_1_1cli_1_1detail_1_1_cli_impl.html#a2eed172780e35d550d32c909adabcfb3" title="hsrcore::cli::detail\l::CliImpl::interactive\l_open_wallet" alt="" coords="203,71,337,127"/>
+<area shape="rect" id="node3" href="$classhsrcore_1_1cli_1_1detail_1_1_cli_impl.html#adf20217ea498c65d6336a0c527b411ff" title="hsrcore::cli::detail\l::CliImpl::process_commands" alt="" coords="389,5,584,47"/>
+</map>

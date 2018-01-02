@@ -1,0 +1,6 @@
+<map id="hsrcore::db::LevelMap::close" name="hsrcore::db::LevelMap::close">
+<area shape="rect" id="node2" href="$classhsrcore_1_1db_1_1fast__level__map.html#a828ecfd1f2d6c5769463d0121963eab0" title="hsrcore::db::fast_level\l_map\&lt; uint8_t, hsrcore\l::blockchain::PropertyEntry\l \&gt;::close" alt="" coords="203,5,383,76"/>
+<area shape="rect" id="node3" href="$classhsrcore_1_1db_1_1fast__level__map.html#a766360ff8c44a8e5e5f52d7540429bf5" title="hsrcore::db::fast_level\l_map\&lt; uint8_t, hsrcore\l::blockchain::PropertyEntry\l \&gt;::toggle_leveldb" alt="" coords="203,100,383,171"/>
+<area shape="rect" id="node4" href="$classhsrcore_1_1net_1_1detail_1_1_node_impl.html#ac4ba7321e21a7abb097a578285ce73c6" title="called after a peer finishes handshaking, kicks off syncing " alt="" coords="227,195,358,236"/>
+<area shape="rect" id="node5" href="$classhsrcore_1_1net_1_1detail_1_1_node_impl.html#a17d3f1a7f91e45765d3240e87ebce895" title="hsrcore::net::detail\l::NodeImpl::~NodeImpl" alt="" coords="431,195,585,236"/>
+</map>

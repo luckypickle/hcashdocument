@@ -1,0 +1,7 @@
+<map id="hsrcore::api::CommonApi::delegate_set_transaction_min_fee" name="hsrcore::api::CommonApi::delegate_set_transaction_min_fee">
+<area shape="rect" id="node2" href="$classhsrcore_1_1rpc__stubs_1_1_common_api_client.html#af9ce1e8f569104ccc2038102160c61fe" title="hsrcore::rpc_stubs\l::CommonApiClient::delegate\l_set_transaction_min_fee" alt="" coords="228,5,419,61"/>
+<area shape="rect" id="node3" href="$classhsrcore_1_1rpc__stubs_1_1_common_api_rpc_server.html#a54b1eec448774f5e6ae2cc0d45bb4e9d" title="hsrcore::rpc_stubs\l::CommonApiRpcServer\l::delegate_set_transaction\l_min_fee_positional" alt="" coords="236,181,411,251"/>
+<area shape="rect" id="node6" href="$classhsrcore_1_1rpc__stubs_1_1_common_api_rpc_server.html#a5be6adf1f06d098902ac2af8cdd09337" title="hsrcore::rpc_stubs\l::CommonApiRpcServer\l::delegate_set_transaction\l_min_fee_named" alt="" coords="236,86,411,157"/>
+<area shape="rect" id="node4" href="$classhsrcore_1_1rpc__stubs_1_1_common_api_rpc_server.html#a45cf3aafd35992db4c663115daeeb234" title="hsrcore::rpc_stubs\l::CommonApiRpcServer\l::register_common_api\l_methods" alt="" coords="470,86,630,157"/>
+<area shape="rect" id="node5" href="$classhsrcore_1_1rpc__stubs_1_1_common_api_rpc_server.html#a0188b049d81ec379e3b00e02f4153dc2" title="hsrcore::rpc_stubs\l::CommonApiRpcServer\l::direct_invoke_positional\l_method" alt="" coords="467,181,633,251"/>
+</map>

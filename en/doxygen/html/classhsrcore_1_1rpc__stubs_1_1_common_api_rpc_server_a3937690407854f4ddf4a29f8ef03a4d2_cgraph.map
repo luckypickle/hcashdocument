@@ -1,0 +1,6 @@
+<map id="hsrcore::rpc_stubs::CommonApiRpcServer::wallet_get_pending_transaction_errors_positional" name="hsrcore::rpc_stubs::CommonApiRpcServer::wallet_get_pending_transaction_errors_positional">
+<area shape="rect" id="node2" href="$classhsrcore_1_1rpc__stubs_1_1_common_api_rpc_server.html#a1dd3f241a3ecc519ef20ff9425ba22fc" title="hsrcore::rpc_stubs\l::CommonApiRpcServer\l::verify_json_connection\l_is_authenticated" alt="" coords="273,5,433,76"/>
+<area shape="rect" id="node3" href="$classhsrcore_1_1rpc__stubs_1_1_common_api_rpc_server.html#afa081104615903324ae8c9f447197032" title="hsrcore::rpc_stubs\l::CommonApiRpcServer\l::verify_wallet_is_open" alt="" coords="273,101,433,157"/>
+<area shape="rect" id="node4" href="$classhsrcore_1_1rpc__stubs_1_1_common_api_rpc_server.html#aeccf0f28cc2af78b93119aacca7ace3c" title="hsrcore::rpc_stubs\l::CommonApiRpcServer\l::get_client" alt="" coords="273,181,433,237"/>
+<area shape="rect" id="node5" href="$classhsrcore_1_1api_1_1_common_api.html#ae550cd8e07067ac7ed8307de02637564" title="hsrcore::api::CommonApi\l::wallet_get_pending_transaction\l_errors" alt="" coords="248,261,459,317"/>
+</map>

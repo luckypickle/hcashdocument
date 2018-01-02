@@ -1,0 +1,14 @@
+<map id="glua::parser::GluaTypeChecker::check_syntax_tree_type" name="glua::parser::GluaTypeChecker::check_syntax_tree_type">
+<area shape="rect" id="node2" href="$classglua_1_1parser_1_1_glua_type_checker.html#ac0e7db174745090e20c56728ce11ac23" title="glua::parser::GluaTypeChecker\l::error" alt="" coords="255,5,456,47"/>
+<area shape="rect" id="node3" href="$classglua_1_1parser_1_1_match_result.html#ac2535a719311d488b87b0fae27d37534" title="glua::parser::MatchResult\l::node_name" alt="" coords="270,71,441,112"/>
+<area shape="rect" id="node4" href="$classglua_1_1parser_1_1_match_result.html#a308f8bbb4c0d7ad85e3bf7a8e6c5ae9e" title="glua::parser::MatchResult\l::as_complex" alt="" coords="270,136,441,177"/>
+<area shape="rect" id="node5" href="$classglua_1_1parser_1_1_complex_match_result.html#addeafe4fbb327341e7b8a7adb72209e4" title="glua::parser::ComplexMatch\lResult::get_item" alt="" coords="263,201,448,243"/>
+<area shape="rect" id="node6" href="$classglua_1_1parser_1_1_match_result.html#a44ac5405dedcc1eebf044ee2670044b3" title="glua::parser::MatchResult\l::head_token" alt="" coords="270,267,441,308"/>
+<area shape="rect" id="node7" href="$structglua_1_1parser_1_1_glua_type_info.html#ae75f55f32c83ce4dceacd9b1ae308128" title="glua::parser::GluaTypeInfo\l::is_nil" alt="" coords="269,332,442,373"/>
+<area shape="rect" id="node8" href="$structglua_1_1parser_1_1_glua_type_info.html#af7a020d378ac0aab01ba5d6fdaf41817" title="glua::parser::GluaTypeInfo\l::is_undefined" alt="" coords="269,397,442,439"/>
+<area shape="rect" id="node9" href="$structglua_1_1parser_1_1_glua_type_info.html#a75132afc905056495745e65c1230f7c5" title="glua::parser::GluaTypeInfo\l::is_union" alt="" coords="269,463,442,504"/>
+<area shape="rect" id="node10" href="$classglua_1_1parser_1_1_match_result.html#a9c4e981167beb017d01f286825ee30f1" title="glua::parser::MatchResult\l::is_complex" alt="" coords="270,528,441,569"/>
+<area shape="rect" id="node11" href="$classglua_1_1parser_1_1_complex_match_result.html#acd07a4dc6dff246844785a9096af935c" title="glua::parser::ComplexMatch\lResult::size" alt="" coords="263,593,448,635"/>
+<area shape="rect" id="node12" href="$classglua_1_1parser_1_1_match_result.html#a23adef7911a742ae04cf2e11e564d455" title="glua::parser::MatchResult\l::is_final" alt="" coords="270,659,441,700"/>
+<area shape="rect" id="node13" href="$classglua_1_1parser_1_1_match_result.html#a213120b0290d117c65465a7e14963e14" title="glua::parser::MatchResult\l::as_final" alt="" coords="270,724,441,765"/>
+</map>

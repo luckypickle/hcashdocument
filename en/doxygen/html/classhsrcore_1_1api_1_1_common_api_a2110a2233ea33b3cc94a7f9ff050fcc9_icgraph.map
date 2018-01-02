@@ -1,0 +1,7 @@
+<map id="hsrcore::api::CommonApi::wallet_backup_restore" name="hsrcore::api::CommonApi::wallet_backup_restore">
+<area shape="rect" id="node2" href="$classhsrcore_1_1rpc__stubs_1_1_common_api_client.html#a5b2d766ebae3efac440992d5ecf6c91b" title="hsrcore::rpc_stubs\l::CommonApiClient::wallet\l_backup_restore" alt="" coords="238,5,413,61"/>
+<area shape="rect" id="node3" href="$classhsrcore_1_1rpc__stubs_1_1_common_api_rpc_server.html#adfd702f2c16b07a697d15cd30f9fc197" title="hsrcore::rpc_stubs\l::CommonApiRpcServer\l::wallet_backup_restore\l_positional" alt="" coords="245,166,405,237"/>
+<area shape="rect" id="node6" href="$classhsrcore_1_1rpc__stubs_1_1_common_api_rpc_server.html#a616333d0efe86f4b127b4cc74f946751" title="hsrcore::rpc_stubs\l::CommonApiRpcServer\l::wallet_backup_restore_named" alt="" coords="223,85,428,141"/>
+<area shape="rect" id="node4" href="$classhsrcore_1_1rpc__stubs_1_1_common_api_rpc_server.html#a45cf3aafd35992db4c663115daeeb234" title="hsrcore::rpc_stubs\l::CommonApiRpcServer\l::register_common_api\l_methods" alt="" coords="479,78,639,149"/>
+<area shape="rect" id="node5" href="$classhsrcore_1_1rpc__stubs_1_1_common_api_rpc_server.html#a0188b049d81ec379e3b00e02f4153dc2" title="hsrcore::rpc_stubs\l::CommonApiRpcServer\l::direct_invoke_positional\l_method" alt="" coords="476,173,643,243"/>
+</map>

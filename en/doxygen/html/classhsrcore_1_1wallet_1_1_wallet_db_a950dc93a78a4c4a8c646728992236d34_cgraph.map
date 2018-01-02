@@ -1,0 +1,4 @@
+<map id="hsrcore::wallet::WalletDb::remove_multisig_balance" name="hsrcore::wallet::WalletDb::remove_multisig_balance">
+<area shape="rect" id="node2" href="$classhsrcore_1_1wallet_1_1_wallet_db.html#ada4c95e346f51d0f8c58ed28f76d7862" title="hsrcore::wallet::WalletDb\l::is_open" alt="" coords="448,5,615,47"/>
+<area shape="rect" id="node3" href="$classhsrcore_1_1wallet_1_1_wallet_db.html#a1e93eea007e64f6ccabb2a74720e9a3d" title="hsrcore::wallet::WalletDb\l::lookup_multisig_balance" alt="" coords="228,35,400,76"/>
+</map>

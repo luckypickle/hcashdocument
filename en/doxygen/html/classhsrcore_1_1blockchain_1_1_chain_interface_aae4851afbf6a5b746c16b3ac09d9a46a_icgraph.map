@@ -1,0 +1,13 @@
+<map id="hsrcore::blockchain::ChainInterface::store_property_entry" name="hsrcore::blockchain::ChainInterface::store_property_entry">
+<area shape="rect" id="node2" href="$classhsrcore_1_1blockchain_1_1_chain_database.html#ab246d830a0f6583a9ce84789bf6a3784" title="hsrcore::blockchain\l::ChainDatabase::open" alt="" coords="205,5,359,47"/>
+<area shape="rect" id="node3" href="$classhsrcore_1_1blockchain_1_1_chain_interface.html#a41229869cda7ca7ecdf96b5c97de2127" title="hsrcore::blockchain\l::ChainInterface::new\l_asset_id" alt="" coords="211,71,353,127"/>
+<area shape="rect" id="node5" href="$classhsrcore_1_1blockchain_1_1_chain_interface.html#ab3941f5c9d2d0a3f84879b8140d83d1e" title="hsrcore::blockchain\l::ChainInterface::~ChainInterface" alt="" coords="409,359,620,400"/>
+<area shape="rect" id="node6" href="$classhsrcore_1_1blockchain_1_1_chain_interface.html#a0a6c976d2e392223bb98d8c10b15f25f" title="hsrcore::blockchain\l::ChainInterface::new\l_account_id" alt="" coords="211,151,353,207"/>
+<area shape="rect" id="node8" href="$classhsrcore_1_1blockchain_1_1_chain_interface.html#a2c0e6adcf0dc681f94a596a1b3ef9655" title="hsrcore::blockchain\l::ChainInterface::set\l_active_delegates" alt="" coords="213,522,351,578"/>
+<area shape="rect" id="node9" href="$classhsrcore_1_1blockchain_1_1_chain_interface.html#a5bca476356c543859adcc25cbbd0b2b4" title="hsrcore::blockchain\l::ChainInterface::set\l_chain_id" alt="" coords="213,602,351,658"/>
+<area shape="rect" id="node10" href="$classhsrcore_1_1blockchain_1_1_chain_interface.html#a8f056b511296867aed23f87e55c2350b" title="hsrcore::blockchain\l::ChainInterface::set\l_statistics_enabled" alt="" coords="213,231,351,287"/>
+<area shape="rect" id="node11" href="$classhsrcore_1_1blockchain_1_1_chain_interface.html#a5a7956ed5c7793147521718e6a309b41" title="hsrcore::blockchain\l::ChainInterface::set\l_node_vm_enabled" alt="" coords="213,311,351,367"/>
+<area shape="rect" id="node12" href="$classhsrcore_1_1blockchain_1_1_chain_interface.html#ab441a6fa708bdabee7c2fa34feae6de6" title="hsrcore::blockchain\l::ChainInterface::set\l_required_confirmations" alt="" coords="203,391,361,447"/>
+<area shape="rect" id="node4" href="$structhsrcore_1_1blockchain_1_1_create_asset_operation.html#ac1970bd2114ffb698fbc1c8fb87b86a9" title="hsrcore::blockchain\l::CreateAssetOperation\l::evaluate" alt="" coords="435,71,594,127"/>
+<area shape="rect" id="node7" href="$structhsrcore_1_1blockchain_1_1_register_account_operation.html#a227126e9351b05898b2517e02d06a507" title="hsrcore::blockchain\l::RegisterAccountOperation\l::evaluate" alt="" coords="423,151,606,207"/>
+</map>

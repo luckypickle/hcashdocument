@@ -1,0 +1,5 @@
+<map id="hsrcore::wallet::detail::WalletImpl::scan_balances" name="hsrcore::wallet::detail::WalletImpl::scan_balances">
+<area shape="rect" id="node2" href="$classhsrcore_1_1wallet_1_1detail_1_1_wallet_impl.html#a3e00e30ab93eea32fb4fe5f6ab85fcba" title="hsrcore::wallet::detail\l::WalletImpl::start_scan_task" alt="" coords="240,5,432,47"/>
+<area shape="rect" id="node3" href="$classhsrcore_1_1wallet_1_1detail_1_1_wallet_impl.html#a0089b1c8889648e19537f332efa6384d" title="hsrcore::wallet::detail\l::WalletImpl::upgrade\l_version" alt="" coords="263,71,409,127"/>
+<area shape="rect" id="node4" href="$classhsrcore_1_1wallet_1_1detail_1_1_wallet_impl.html#af6899327e54bdb87d3fd8eacf6a0aa99" title="hsrcore::wallet::detail\l::WalletImpl::open_file" alt="" coords="480,79,631,120"/>
+</map>

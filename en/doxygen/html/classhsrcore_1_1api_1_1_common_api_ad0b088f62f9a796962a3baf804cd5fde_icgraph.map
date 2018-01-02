@@ -1,0 +1,9 @@
+<map id="hsrcore::api::CommonApi::wallet_delegate_withdraw_pay" name="hsrcore::api::CommonApi::wallet_delegate_withdraw_pay">
+<area shape="rect" id="node2" href="$classhsrcore_1_1client_1_1detail_1_1_client_impl.html#a25245303c5dac7772552c61c81b0dfe2" title="hsrcore::client::detail\l::ClientImpl::wallet_http\l_callback" alt="" coords="267,5,424,61"/>
+<area shape="rect" id="node4" href="$classhsrcore_1_1rpc__stubs_1_1_common_api_client.html#aa6f97a312218c32466c25e53f6704bbd" title="hsrcore::rpc_stubs\l::CommonApiClient::wallet\l_delegate_withdraw_pay" alt="" coords="258,85,433,141"/>
+<area shape="rect" id="node5" href="$classhsrcore_1_1rpc__stubs_1_1_common_api_rpc_server.html#a4f9f73aa4d65734a6463f30647b6267d" title="hsrcore::rpc_stubs\l::CommonApiRpcServer\l::wallet_delegate_withdraw\l_pay_positional" alt="" coords="257,261,433,331"/>
+<area shape="rect" id="node8" href="$classhsrcore_1_1rpc__stubs_1_1_common_api_rpc_server.html#aa5ca60641d8c59c6762b58f62d853692" title="hsrcore::rpc_stubs\l::CommonApiRpcServer\l::wallet_delegate_withdraw\l_pay_named" alt="" coords="257,166,433,237"/>
+<area shape="rect" id="node3" href="$namespacehsrcore_1_1client_1_1detail.html#ab8ded1be359af6f93d0e8927c6572929" title="hsrcore::client::detail\l::read_keys" alt="" coords="493,13,636,54"/>
+<area shape="rect" id="node6" href="$classhsrcore_1_1rpc__stubs_1_1_common_api_rpc_server.html#a45cf3aafd35992db4c663115daeeb234" title="hsrcore::rpc_stubs\l::CommonApiRpcServer\l::register_common_api\l_methods" alt="" coords="485,166,645,237"/>
+<area shape="rect" id="node7" href="$classhsrcore_1_1rpc__stubs_1_1_common_api_rpc_server.html#a0188b049d81ec379e3b00e02f4153dc2" title="hsrcore::rpc_stubs\l::CommonApiRpcServer\l::direct_invoke_positional\l_method" alt="" coords="481,261,648,331"/>
+</map>

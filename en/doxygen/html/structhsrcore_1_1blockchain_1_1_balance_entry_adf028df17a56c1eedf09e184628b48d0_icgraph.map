@@ -1,0 +1,6 @@
+<map id="hsrcore::blockchain::BalanceEntry::owner" name="hsrcore::blockchain::BalanceEntry::owner">
+<area shape="rect" id="node2" href="$classhsrcore_1_1blockchain_1_1detail_1_1_chain_database_impl.html#a058dcf7fb2e8a7ff8ebb148d3db24240" title="hsrcore::blockchain\l::detail::ChainDatabaseImpl\l::pay_miner" alt="" coords="204,5,385,61"/>
+<area shape="rect" id="node5" href="$classhsrcore_1_1blockchain_1_1_chain_database.html#a4f9cd217fa3b090c1203fe0e7cdb90de" title="hsrcore::blockchain\l::ChainDatabase::generate\l_snapshot" alt="" coords="207,85,383,141"/>
+<area shape="rect" id="node3" href="$classhsrcore_1_1blockchain_1_1detail_1_1_chain_database_impl.html#aeeffbabd2ac37bed5c061837beb8f8c1" title="hsrcore::blockchain\l::detail::ChainDatabaseImpl\l::extend_chain" alt="" coords="433,5,615,61"/>
+<area shape="rect" id="node4" href="$classhsrcore_1_1blockchain_1_1detail_1_1_chain_database_impl.html#afbdbe1d423c95c2fd6f44814300fffe3" title="hsrcore::blockchain\l::detail::ChainDatabaseImpl\l::switch_to_fork" alt="" coords="663,5,844,61"/>
+</map>

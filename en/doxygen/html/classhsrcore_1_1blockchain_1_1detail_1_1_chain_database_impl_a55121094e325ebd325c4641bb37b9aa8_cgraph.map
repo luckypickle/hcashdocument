@@ -1,0 +1,14 @@
+<map id="hsrcore::blockchain::detail::ChainDatabaseImpl::verify_header" name="hsrcore::blockchain::detail::ChainDatabaseImpl::verify_header">
+<area shape="rect" id="node2" href="$namespacehsrcore_1_1blockchain.html#a2d604a90c34e5cfbc5252d1596314373" title="hsrcore::blockchain::now" alt="" coords="248,37,415,63"/>
+<area shape="rect" id="node5" href="$classhsrcore_1_1blockchain_1_1_chain_database.html#a7fb843c292298254229f2551b4f0e94e" title="hsrcore::blockchain\l::ChainDatabase::CheckProof\lOfStake" alt="" coords="235,182,428,238"/>
+<area shape="rect" id="node6" href="$class_c_big_num.html#a27e3ca82a40ae0c34ac4c059e4d0d66c" title="CBigNum::SetCompact" alt="" coords="476,71,633,98"/>
+<area shape="rect" id="node8" href="$class_c_big_num.html#a0acdf0ee722fe320e961863b792bf609" title="CBigNum::getuint256" alt="" coords="482,362,627,389"/>
+<area shape="rect" id="node11" href="$structhsrcore_1_1blockchain_1_1_block_header.html#ad81811d3941771d4573c83cf2b239927" title="hsrcore::blockchain\l::BlockHeader::GetPoWHash" alt="" coords="235,313,427,355"/>
+<area shape="rect" id="node12" href="$structhsrcore_1_1blockchain_1_1_digest_block.html#a02d74e3151fceb1c8cc61c4e36abb833" title="hsrcore::blockchain\l::DigestBlock::validate\l_digest" alt="" coords="256,379,407,435"/>
+<area shape="rect" id="node13" href="$structhsrcore_1_1blockchain_1_1_digest_block.html#a77c935982afb55067175c510b8b7a589" title="hsrcore::blockchain\l::DigestBlock::validate\l_unique" alt="" coords="256,459,407,515"/>
+<area shape="rect" id="node3" href="$namespacehsrcore_1_1blockchain.html#a6ab2a224374df515fe76b3799ed648fb" title="hsrcore::blockchain\l::ntp_time" alt="" coords="487,5,622,47"/>
+<area shape="rect" id="node4" href="$namespacehsrcore_1_1blockchain_1_1detail.html#ae5c17ca96b07a1f76c62bc6fd564759c" title="hsrcore::blockchain\l::detail::ntp_service" alt="" coords="681,5,816,47"/>
+<area shape="rect" id="node7" href="$classhsrcore_1_1blockchain_1_1_chain_interface.html#a05369dec99193ba95800a39ff349ad00" title="hsrcore::blockchain\l::ChainInterface::get\l_balance_entry" alt="" coords="485,122,624,178"/>
+<area shape="rect" id="node9" href="$classhsrcore_1_1blockchain_1_1_chain_database.html#abf7e1aa7c8ca1cd73d173684f9c53d06" title="hsrcore::blockchain\l::ChainDatabase::get\l_head_block" alt="" coords="483,202,627,258"/>
+<area shape="rect" id="node10" href="$classhsrcore_1_1blockchain_1_1_chain_database.html#ad8db3b22202752233333f9e62d425bed" title="hsrcore::blockchain\l::ChainDatabase::get\l_head_block_modify" alt="" coords="483,282,627,338"/>
+</map>

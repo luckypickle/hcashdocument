@@ -1,0 +1,10 @@
+<map id="hsrcore::blockchain::OnDestroyOperation::evaluate" name="hsrcore::blockchain::OnDestroyOperation::evaluate">
+<area shape="rect" id="node2" href="$classhsrcore_1_1blockchain_1_1_chain_interface.html#a64afd7438006cfd0f9c797ae949e0c85" title="hsrcore::blockchain\l::ChainInterface::get\l_contract_entry" alt="" coords="225,5,364,61"/>
+<area shape="rect" id="node3" href="$classhsrcore_1_1blockchain_1_1_chain_interface.html#ae5dec79b0bca48bf7580645ec03c1b05" title="hsrcore::blockchain\l::ChainInterface::get\l_balanceid" alt="" coords="225,85,364,141"/>
+<area shape="rect" id="node4" href="$classhsrcore_1_1blockchain_1_1_chain_interface.html#a05369dec99193ba95800a39ff349ad00" title="hsrcore::blockchain\l::ChainInterface::get\l_balance_entry" alt="" coords="225,165,364,221"/>
+<area shape="rect" id="node5" href="$classhsrcore_1_1blockchain_1_1_chain_interface.html#a55ff4009828e6fe471fce6890197e711" title="hsrcore::blockchain\l::ChainInterface::now" alt="" coords="223,246,366,287"/>
+<area shape="rect" id="node6" href="$classhsrcore_1_1blockchain_1_1_transaction_evaluation_state.html#a84a5e99558fd463679721837363dd83d" title="hsrcore::blockchain\l::TransactionEvaluationState\l::add_balance" alt="" coords="201,312,388,368"/>
+<area shape="rect" id="node7" href="$classhsrcore_1_1blockchain_1_1_chain_interface.html#a2cf6b127b3f86a606c5b6a2451a51535" title="hsrcore::blockchain\l::ChainInterface::store\l_balance_entry" alt="" coords="220,392,369,448"/>
+<area shape="rect" id="node8" href="$classhsrcore_1_1blockchain_1_1_chain_interface.html#aa2b96ebb8448dceb430ea0fbb61ca6c4" title="hsrcore::blockchain\l::ChainInterface::store" alt="" coords="436,366,585,407"/>
+<area shape="rect" id="node9" href="$structhsrcore_1_1blockchain_1_1_balance_entry.html#a83d0a06306b467b86b457c256337bd4e" title="hsrcore::blockchain\l::BalanceEntry::id" alt="" coords="443,431,578,473"/>
+</map>

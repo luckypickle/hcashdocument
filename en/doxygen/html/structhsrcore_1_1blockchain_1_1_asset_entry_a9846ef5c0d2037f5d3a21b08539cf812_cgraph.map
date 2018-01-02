@@ -1,0 +1,7 @@
+<map id="hsrcore::blockchain::AssetEntry::is_supply_unlimited" name="hsrcore::blockchain::AssetEntry::is_supply_unlimited">
+<area shape="rect" id="node2" href="$structhsrcore_1_1blockchain_1_1_asset_entry.html#a05953fc41f7d7fbe49a095554c1fb7c6" title="hsrcore::blockchain\l::AssetEntry::is_user\l_issued" alt="" coords="221,5,366,61"/>
+<area shape="rect" id="node3" href="$structhsrcore_1_1blockchain_1_1_asset_entry.html#ae66991422878a04b92b43a3ebd3cb2a5" title="hsrcore::blockchain\l::AssetEntry::can_issue" alt="" coords="212,86,375,127"/>
+<area shape="rect" id="node4" href="$structhsrcore_1_1blockchain_1_1_asset_entry.html#aa5dc57dd828770ea4a8b3e718e74f69a" title="hsrcore::blockchain\l::AssetEntry::available\l_shares" alt="" coords="217,152,369,208"/>
+<area shape="rect" id="node5" href="$structhsrcore_1_1blockchain_1_1_asset_entry.html#a621d51181285249570ca8fb1787a752f" title="hsrcore::blockchain\l::AssetEntry::asset\l_from_string" alt="" coords="226,232,361,288"/>
+<area shape="rect" id="node6" href="$structhsrcore_1_1blockchain_1_1_asset_entry.html#a22c1d181357f26df2fb0821be3965ad4" title="hsrcore::blockchain\l::AssetEntry::amount\l_to_string" alt="" coords="220,312,367,368"/>
+</map>

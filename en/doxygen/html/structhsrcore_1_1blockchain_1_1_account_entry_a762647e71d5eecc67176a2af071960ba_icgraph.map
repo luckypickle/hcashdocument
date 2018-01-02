@@ -1,0 +1,4 @@
+<map id="hsrcore::blockchain::AccountEntry::set_active_key" name="hsrcore::blockchain::AccountEntry::set_active_key">
+<area shape="rect" id="node2" href="$structhsrcore_1_1blockchain_1_1_register_account_operation.html#a227126e9351b05898b2517e02d06a507" title="hsrcore::blockchain\l::RegisterAccountOperation\l::evaluate" alt="" coords="188,5,371,61"/>
+<area shape="rect" id="node3" href="$classhsrcore_1_1wallet_1_1_wallet_db.html#ac5235ea5f48075197f2c43047cdd6a6e" title="hsrcore::wallet::WalletDb\l::generate_new_account" alt="" coords="196,86,363,127"/>
+</map>

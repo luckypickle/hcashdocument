@@ -1,0 +1,9 @@
+<map id="luaV_tointeger" name="luaV_tointeger">
+<area shape="rect" id="node2" href="$ltable_8h.html#a61547e63b2d74aa68da53a7fd235e77e" title="luaH_newkey" alt="" coords="159,107,257,133"/>
+<area shape="rect" id="node7" href="$ltable_8h.html#ad2db74e05e39b56bde8e580759ac2144" title="luaH_get" alt="" coords="171,56,245,83"/>
+<area shape="rect" id="node3" href="$ltable_8h.html#aad12092dcea6ae55728aadeeb0210d91" title="luaH_set" alt="" coords="320,56,393,83"/>
+<area shape="rect" id="node5" href="$ltable_8h.html#ac62838e269732b63812012592c454462" title="luaH_setint" alt="" coords="313,157,400,184"/>
+<area shape="rect" id="node6" href="$lvm_8h.html#a3d3a0762316cf81d9fd2eb19edc458f7" title="luaV_finishset" alt="" coords="305,107,408,133"/>
+<area shape="rect" id="node4" href="$llex_8h.html#aa6e79179f823cf156f61899a09239ca6" title="luaX_newstring" alt="" coords="456,56,564,83"/>
+<area shape="rect" id="node8" href="$lvm_8h.html#ace9acb10e32e463083d02c6aaa812f57" title="luaV_finishget" alt="" coords="305,5,408,32"/>
+</map>

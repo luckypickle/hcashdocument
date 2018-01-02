@@ -1,0 +1,4 @@
+<map id="hsrcore::net::detail::NodeImpl::request_sync_items_from_peer" name="hsrcore::net::detail::NodeImpl::request_sync_items_from_peer">
+<area shape="rect" id="node2" href="$classhsrcore_1_1net_1_1detail_1_1_node_impl.html#a547920964ef0a4760fbe9c3788affbc2" title="hsrcore::net::detail\l::NodeImpl::fetch_sync\l_items_loop" alt="" coords="224,5,379,61"/>
+<area shape="rect" id="node3" href="$classhsrcore_1_1net_1_1detail_1_1_node_impl.html#a3f9901a46e1b09275b84862c10b3c59a" title="hsrcore::net::detail\l::NodeImpl::connect_to\l_p2p_network" alt="" coords="427,5,583,61"/>
+</map>

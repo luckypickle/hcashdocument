@@ -1,0 +1,4 @@
+<map id="hsrcore::blockchain::TransactionEvaluationState::transfer_asset_from_contract" name="hsrcore::blockchain::TransactionEvaluationState::transfer_asset_from_contract">
+<area shape="rect" id="node2" href="$classhsrcore_1_1blockchain_1_1_chain_interface.html#ad8f8a2058e4c799f6acf80beba865a98" title="hsrcore::blockchain\l::ChainInterface::transfer\l_asset_from_contract" alt="" coords="252,5,415,61"/>
+<area shape="rect" id="node3" href="$classhsrcore_1_1blockchain_1_1_chain_interface.html#a5be84057c877f3ad9648480dafec0144" title="hsrcore::blockchain\l::ChainInterface::get\l_account_entry" alt="" coords="463,5,601,61"/>
+</map>

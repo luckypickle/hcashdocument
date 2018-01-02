@@ -1,0 +1,8 @@
+<map id="hsrcore::wallet::detail::WalletImpl::set_delegate_slate" name="hsrcore::wallet::detail::WalletImpl::set_delegate_slate">
+<area shape="rect" id="node2" href="$classhsrcore_1_1wallet_1_1detail_1_1_wallet_impl.html#ab9e3b490fe4e9106fe2c6fb1a0ff53f4" title="hsrcore::wallet::detail\l::WalletImpl::get_delegate_slate" alt="" coords="261,5,469,47"/>
+<area shape="rect" id="node4" href="$structhsrcore_1_1blockchain_1_1_slate_entry.html#a99128a109db6ea0ec9cd17efd402ca0d" title="hsrcore::blockchain\l::SlateEntry::id" alt="" coords="298,71,433,112"/>
+<area shape="rect" id="node5" href="$structhsrcore_1_1blockchain_1_1_transaction.html#aeddfaa63d9a287ea61dc668b260982f5" title="hsrcore::blockchain\l::Transaction::define_slate" alt="" coords="278,136,453,177"/>
+<area shape="rect" id="node6" href="$structhsrcore_1_1blockchain_1_1_transaction.html#a2ffe9aab8c21a4f346aecebd5726ce9f" title="hsrcore::blockchain\l::Transaction::set_slates" alt="" coords="283,201,448,243"/>
+<area shape="rect" id="node3" href="$classhsrcore_1_1wallet_1_1_wallet_db.html#abecf24f8eb6fc7c69f591496e961ceb5" title="hsrcore::wallet::WalletDb\l::get_accounts" alt="" coords="517,5,684,47"/>
+<area shape="rect" id="node7" href="$structhsrcore_1_1blockchain_1_1_operation.html#ae9e970293c730f09db61d13eace82941" title="hsrcore::blockchain\l::Operation::as" alt="" coords="533,201,668,243"/>
+</map>

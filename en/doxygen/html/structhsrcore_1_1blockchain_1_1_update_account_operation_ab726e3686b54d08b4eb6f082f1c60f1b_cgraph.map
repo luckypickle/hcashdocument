@@ -1,0 +1,13 @@
+<map id="hsrcore::blockchain::UpdateAccountOperation::evaluate" name="hsrcore::blockchain::UpdateAccountOperation::evaluate">
+<area shape="rect" id="node2" href="$classhsrcore_1_1blockchain_1_1_chain_interface.html#a5be84057c877f3ad9648480dafec0144" title="hsrcore::blockchain\l::ChainInterface::get\l_account_entry" alt="" coords="252,5,391,61"/>
+<area shape="rect" id="node3" href="$classhsrcore_1_1blockchain_1_1_transaction_evaluation_state.html#ac2f347b449c83eb18f2f2258e77cf110" title="hsrcore::blockchain\l::TransactionEvaluationState\l::check_signature" alt="" coords="463,85,649,141"/>
+<area shape="rect" id="node4" href="$classhsrcore_1_1blockchain_1_1_chain_interface.html#a55ff4009828e6fe471fce6890197e711" title="hsrcore::blockchain\l::ChainInterface::now" alt="" coords="250,137,393,178"/>
+<area shape="rect" id="node5" href="$classhsrcore_1_1blockchain_1_1_transaction_evaluation_state.html#aa243f8a057c2d0c1f826d48323dc7a80" title="hsrcore::blockchain\l::TransactionEvaluationState\l::account_has_signed" alt="" coords="228,203,415,259"/>
+<area shape="rect" id="node8" href="$structhsrcore_1_1blockchain_1_1_register_account_operation.html#a1d47d2aade6642ad12dacb21d186d68c" title="hsrcore::blockchain\l::RegisterAccountOperation\l::is_delegate" alt="" coords="230,283,413,339"/>
+<area shape="rect" id="node9" href="$classhsrcore_1_1blockchain_1_1_chain_interface.html#a4fd4884c3c0f0e3971c9f34e120c702c" title="hsrcore::blockchain\l::ChainInterface::get\l_head_block_num" alt="" coords="252,363,391,419"/>
+<area shape="rect" id="node10" href="$classhsrcore_1_1blockchain_1_1_chain_interface.html#a4298f9db77ea7af90e65d623a29e6ced" title="hsrcore::blockchain\l::ChainInterface::get\l_delegate_registration_fee" alt="" coords="235,443,408,499"/>
+<area shape="rect" id="node11" href="$classhsrcore_1_1blockchain_1_1_chain_interface.html#ac6bf041244d446172a5ff07b512444f5" title="hsrcore::blockchain\l::ChainInterface::store\l_account_entry" alt="" coords="247,523,396,579"/>
+<area shape="rect" id="node6" href="$structhsrcore_1_1blockchain_1_1_account_entry.html#a7bc3452b3ddbe55f24ea23c1dec36ea5" title="hsrcore::blockchain\l::AccountEntry::is_retracted" alt="" coords="463,195,649,237"/>
+<area shape="rect" id="node7" href="$structhsrcore_1_1blockchain_1_1_account_entry.html#a079abdecddd8f03081eea5c20ef0c0a3" title="hsrcore::blockchain\l::AccountEntry::active_key" alt="" coords="697,225,876,266"/>
+<area shape="rect" id="node12" href="$classhsrcore_1_1blockchain_1_1_chain_interface.html#aa2b96ebb8448dceb430ea0fbb61ca6c4" title="hsrcore::blockchain\l::ChainInterface::store" alt="" coords="481,530,631,571"/>
+</map>

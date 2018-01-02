@@ -1,0 +1,5 @@
+<map id="hsrcore::blockchain::ChainDatabase::get_block_fork_data" name="hsrcore::blockchain::ChainDatabase::get_block_fork_data">
+<area shape="rect" id="node2" href="$classhsrcore_1_1blockchain_1_1_chain_database.html#a0f23d5b78aaef58ad33f5b85db3f6749" title="hsrcore::blockchain\l::ChainDatabase::push_block" alt="" coords="197,5,389,47"/>
+<area shape="rect" id="node3" href="$classhsrcore_1_1blockchain_1_1_chain_database.html#a1ffc6e18e2fde5273003a9fed2f00372" title="hsrcore::blockchain\l::ChainDatabase::is\l_known_block" alt="" coords="225,71,361,127"/>
+<area shape="rect" id="node4" href="$classhsrcore_1_1blockchain_1_1_chain_database.html#a0ccd918ede287ef923bbb87bbd7fdd52" title="hsrcore::blockchain\l::ChainDatabase::is\l_included_block" alt="" coords="225,151,361,207"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="hsrcore::net::detail::NodeImpl::process_backlog_of_sync_blocks" name="hsrcore::net::detail::NodeImpl::process_backlog_of_sync_blocks">
+<area shape="rect" id="node2" href="$namespaceglua_1_1util.html#a0c3cdace845eb2fe620fa3e69c30cc2e" title="glua::util::find" alt="" coords="279,13,378,39"/>
+<area shape="rect" id="node4" href="$classhsrcore_1_1net_1_1detail_1_1_node_impl.html#a3035d9b7a92492e6e3abcae0ab0e004c" title="hsrcore::net::detail\l::NodeImpl::send_sync\l_block_to_node_delegate" alt="" coords="244,63,413,119"/>
+<area shape="rect" id="node7" href="$classhsrcore_1_1net_1_1detail_1_1_node_impl.html#ab3d64c39165a970e7663ae3a0051d259" title="hsrcore::net::detail\l::NodeImpl::trigger_fetch\l_sync_items_loop" alt="" coords="247,143,410,199"/>
+<area shape="rect" id="node3" href="$namespaceglua_1_1util.html#a65b8d51308032502f395500ffeacb628" title="glua::util::string\l_lines_count" alt="" coords="506,5,617,47"/>
+<area shape="rect" id="node5" href="$classhsrcore_1_1net_1_1detail_1_1_node_impl.html#acd411266f6b65102b8cb1f93c63701fc" title="hsrcore::net::detail\l::NodeImpl::is_hard_fork_block" alt="" coords="461,71,661,112"/>
+<area shape="rect" id="node6" href="$classhsrcore_1_1net_1_1detail_1_1_node_impl.html#a2b836a447940b6042cc04cd67f310364" title="hsrcore::net::detail\l::NodeImpl::get_next\l_known_hard_fork_block\l_number" alt="" coords="479,136,643,207"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="glua::parser::GluaTypeInfo::is_record" name="glua::parser::GluaTypeInfo::is_record">
+<area shape="rect" id="node2" href="$structglua_1_1parser_1_1_glua_type_info.html#ac312ce9c6da427f7f0cdbc686edb9d97" title="glua::parser::GluaTypeInfo\l::is_like_table" alt="" coords="253,5,427,47"/>
+<area shape="rect" id="node3" href="$classglua_1_1parser_1_1_glua_type_checker.html#a413e556b913b2f22d857fb7b2204d152" title="glua::parser::GluaTypeChecker\l::set_in_repl" alt="" coords="501,64,703,105"/>
+<area shape="rect" id="node4" href="$structglua_1_1parser_1_1_glua_type_info.html#ac98d40ccb67f8b28bfdda2bfb7fad5e4" title="glua::parser::GluaTypeInfo\l::is_same_record" alt="" coords="253,123,427,164"/>
+<area shape="rect" id="node5" href="$structglua_1_1parser_1_1_glua_type_info.html#afe6190d9c5785145725ec64a20d356cb" title="glua::parser::GluaTypeInfo\l::put_contract_storage_type\l_to_module_stream" alt="" coords="248,189,432,245"/>
+<area shape="rect" id="node6" href="$classglua_1_1parser_1_1_glua_type_checker.html#a5ecea9acdb50ba99cd3a2594520b2279" title="glua::parser::GluaTypeChecker\l::check_contract_syntax_tree_type" alt="" coords="227,269,453,311"/>
+</map>

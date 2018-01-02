@@ -1,0 +1,9 @@
+<map id="hsrcore::api::CommonApi::wallet_account_update_registration" name="hsrcore::api::CommonApi::wallet_account_update_registration">
+<area shape="rect" id="node2" href="$classhsrcore_1_1client_1_1detail_1_1_client_impl.html#a25245303c5dac7772552c61c81b0dfe2" title="hsrcore::client::detail\l::ClientImpl::wallet_http\l_callback" alt="" coords="240,5,397,61"/>
+<area shape="rect" id="node4" href="$classhsrcore_1_1rpc__stubs_1_1_common_api_client.html#a4570d2a9fcb789bb4dc1a9d07f4770b9" title="hsrcore::rpc_stubs\l::CommonApiClient::wallet\l_account_update_registration" alt="" coords="223,85,415,141"/>
+<area shape="rect" id="node5" href="$classhsrcore_1_1rpc__stubs_1_1_common_api_rpc_server.html#a81087282dd27aff2581b6d79083f470d" title="hsrcore::rpc_stubs\l::CommonApiRpcServer\l::wallet_account_update\l_registration_positional" alt="" coords="237,261,400,331"/>
+<area shape="rect" id="node8" href="$classhsrcore_1_1rpc__stubs_1_1_common_api_rpc_server.html#adcf26557c33ae41e68e5ba2286583e7e" title="hsrcore::rpc_stubs\l::CommonApiRpcServer\l::wallet_account_update\l_registration_named" alt="" coords="237,166,400,237"/>
+<area shape="rect" id="node3" href="$namespacehsrcore_1_1client_1_1detail.html#ab8ded1be359af6f93d0e8927c6572929" title="hsrcore::client::detail\l::read_keys" alt="" coords="475,13,617,54"/>
+<area shape="rect" id="node6" href="$classhsrcore_1_1rpc__stubs_1_1_common_api_rpc_server.html#a45cf3aafd35992db4c663115daeeb234" title="hsrcore::rpc_stubs\l::CommonApiRpcServer\l::register_common_api\l_methods" alt="" coords="466,166,626,237"/>
+<area shape="rect" id="node7" href="$classhsrcore_1_1rpc__stubs_1_1_common_api_rpc_server.html#a0188b049d81ec379e3b00e02f4153dc2" title="hsrcore::rpc_stubs\l::CommonApiRpcServer\l::direct_invoke_positional\l_method" alt="" coords="463,261,629,331"/>
+</map>

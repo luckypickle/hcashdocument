@@ -1,0 +1,10 @@
+<map id="hsrcore::blockchain::ChainDatabase::get_block_signee" name="hsrcore::blockchain::ChainDatabase::get_block_signee">
+<area shape="rect" id="node2" href="$classhsrcore_1_1blockchain_1_1_chain_database.html#a80b724292b5d2e5544180c8d86ff151d" title="hsrcore::blockchain\l::ChainDatabase::get\l_block_signee" alt="" coords="197,85,341,141"/>
+<area shape="rect" id="node9" href="$classhsrcore_1_1blockchain_1_1_chain_database.html#a474285545c30560f055c6d2415430de0" title="hsrcore::blockchain\l::ChainDatabase::get\l_block_id" alt="" coords="197,165,341,221"/>
+<area shape="rect" id="node3" href="$classhsrcore_1_1blockchain_1_1_chain_database.html#a433024c11b618290cf8035fa9a589654" title="hsrcore::blockchain\l::ChainDatabase::get\l_block_header" alt="" coords="401,5,545,61"/>
+<area shape="rect" id="node5" href="$classhsrcore_1_1blockchain_1_1_chain_interface.html#a5be84057c877f3ad9648480dafec0144" title="hsrcore::blockchain\l::ChainInterface::get\l_account_entry" alt="" coords="403,85,542,141"/>
+<area shape="rect" id="node6" href="$namespacehsrcore_1_1blockchain.html#a2d604a90c34e5cfbc5252d1596314373" title="hsrcore::blockchain::now" alt="" coords="389,165,556,192"/>
+<area shape="rect" id="node4" href="$classhsrcore_1_1blockchain_1_1_chain_database.html#a0658aee2ff36f9d0fd34237e02e265ed" title="hsrcore::blockchain\l::ChainDatabase::get_block" alt="" coords="604,13,787,54"/>
+<area shape="rect" id="node7" href="$namespacehsrcore_1_1blockchain.html#a6ab2a224374df515fe76b3799ed648fb" title="hsrcore::blockchain\l::ntp_time" alt="" coords="628,158,763,199"/>
+<area shape="rect" id="node8" href="$namespacehsrcore_1_1blockchain_1_1detail.html#ae5c17ca96b07a1f76c62bc6fd564759c" title="hsrcore::blockchain\l::detail::ntp_service" alt="" coords="835,158,969,199"/>
+</map>

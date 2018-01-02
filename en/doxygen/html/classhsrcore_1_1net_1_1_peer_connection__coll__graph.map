@@ -1,0 +1,4 @@
+<map id="hsrcore::net::PeerConnection" name="hsrcore::net::PeerConnection">
+<area shape="rect" id="node2" href="$classhsrcore_1_1net_1_1_message_oriented_connection_delegate.html" title="{hsrcore::net::MessageOriented\lConnectionDelegate\n||+ on_message()\l+ on_connection_closed()\l}" alt="" coords="5,20,207,127"/>
+<area shape="rect" id="node5" href="$structhsrcore_1_1net_1_1_firewall_check_state_data.html" title="{hsrcore::net::FirewallCheck\lStateData\n|+ expected_node_id\l+ endpoint_to_test\l+ nodes_already_tested\l+ requesting_peer\l|}" alt="" coords="599,5,779,141"/>
+</map>

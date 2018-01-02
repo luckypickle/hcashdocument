@@ -1,0 +1,4 @@
+<map id="hsrcore::blockchain::update_ntp_time" name="hsrcore::blockchain::update_ntp_time">
+<area shape="rect" id="node2" href="$classhsrcore_1_1client_1_1detail_1_1_client_impl.html#ae88b310c43d986a0db5c3928311665c7" title="hsrcore::client::detail\l::ClientImpl::fork_update\l_time_loop" alt="" coords="202,5,365,61"/>
+<area shape="rect" id="node3" href="$classhsrcore_1_1client_1_1detail_1_1_client_impl.html#a4b0bbdc4d1215f44a4be0c098ccabe6f" title="hsrcore::client::detail\l::ClientImpl::handle_ntp_time" alt="" coords="188,86,379,127"/>
+</map>

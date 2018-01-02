@@ -1,0 +1,5 @@
+<map id="hsrcore::blockchain::ContractEntry" name="hsrcore::blockchain::ContractEntry">
+<area shape="rect" id="node2" href="$structhsrcore_1_1blockchain_1_1_code.html" title="{hsrcore::blockchain\l::Code\n|+ abi\l+ offline_abi\l+ events\l+ storage_properties\l+ byte_code\l|+ Code()\l+ Code()\l+ SetApis()\l+ valid()\l+ GetHash()\l}" alt="" coords="145,160,286,369"/>
+<area shape="rect" id="node4" href="$structhsrcore_1_1blockchain_1_1_public_key_type.html" title="{hsrcore::blockchain\l::PublicKeyType\n|+ key_data\l|+ PublicKeyType()\l+ PublicKeyType()\l+ PublicKeyType()\l+ PublicKeyType()\l+ operator fc::ecc::public\l_key_data()\l+ operator fc::ecc::public_key()\l+ operator std::string()\l+ is_valid_v1()\l}" alt="" coords="310,160,513,369"/>
+<area shape="rect" id="node6" href="$classhsrcore_1_1blockchain_1_1_address.html" title="a 160 bit hash of a public key " alt="" coords="644,145,795,384"/>
+</map>

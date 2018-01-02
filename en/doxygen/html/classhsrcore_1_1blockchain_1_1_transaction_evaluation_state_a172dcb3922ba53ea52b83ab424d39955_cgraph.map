@@ -1,0 +1,4 @@
+<map id="hsrcore::blockchain::TransactionEvaluationState::is_contract_trxs_same" name="hsrcore::blockchain::TransactionEvaluationState::is_contract_trxs_same">
+<area shape="rect" id="node2" href="$classhsrcore_1_1blockchain_1_1_transaction_evaluation_state.html#a25b13c0bb9e56632bf4bb1e315ad7c04" title="hsrcore::blockchain\l::TransactionEvaluationState\l::is_contract_op_same" alt="" coords="240,5,427,61"/>
+<area shape="rect" id="node3" href="$structhsrcore_1_1blockchain_1_1_operation.html#ae9e970293c730f09db61d13eace82941" title="hsrcore::blockchain\l::Operation::as" alt="" coords="475,13,609,54"/>
+</map>

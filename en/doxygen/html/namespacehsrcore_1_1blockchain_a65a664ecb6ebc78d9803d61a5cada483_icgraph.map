@@ -1,0 +1,8 @@
+<map id="hsrcore::blockchain::get_storage_base_type" name="hsrcore::blockchain::get_storage_base_type">
+<area shape="rect" id="node2" href="$structhsrcore_1_1blockchain_1_1_storage_data_type.html#a8d515a73503a0da7144ad5bd04bced59" title="hsrcore::blockchain\l::StorageDataType::get\l_storage_data_from_lua\l_storage" alt="" coords="219,78,379,149"/>
+<area shape="rect" id="node3" href="$structhsrcore_1_1blockchain_1_1_storage_data_type.html#ae299eaed39a27e694e041c2bda2215da" title="hsrcore::blockchain\l::StorageDataType::as" alt="" coords="427,93,579,134"/>
+<area shape="rect" id="node4" href="$structhsrcore_1_1blockchain_1_1_storage_operation.html#ae533e14442c6400fd60c1b56781eaac3" title="hsrcore::blockchain\l::StorageOperation::\lupdate_contract_map_storage" alt="" coords="633,5,831,61"/>
+<area shape="rect" id="node5" href="$structhsrcore_1_1blockchain_1_1_storage_data_type.html#a1c37309b9c4f3189a0c99a3f32f59673" title="hsrcore::blockchain\l::StorageDataType::create\l_lua_storage_from_storage_data" alt="" coords="627,85,837,141"/>
+<area shape="rect" id="node6" href="$classhsrcore_1_1lua_1_1api_1_1_glua_chain_api.html#ab49c23b445bb489a62ec0916f4561570" title="hsrcore::lua::api::\lGluaChainApi::get_storage\l_value_from_hsrcore_by_address" alt="" coords="885,85,1100,141"/>
+<area shape="rect" id="node7" href="$classhsrcore_1_1lua_1_1api_1_1_glua_chain_api.html#ab50f791d866fbbcae7044febf2b9a1fc" title="hsrcore::lua::api::\lGluaChainApi::get_storage\l_value_from_hsrcore" alt="" coords="1148,85,1325,141"/>
+</map>

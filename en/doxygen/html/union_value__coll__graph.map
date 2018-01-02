@@ -1,0 +1,15 @@
+<map id="Value" name="Value">
+<area shape="rect" id="node2" href="$struct_g_c_object.html" title="{GCObject\n|+ CommonHeader\l|}" alt="" coords="669,473,795,550"/>
+<area shape="rect" id="node3" href="$structlua___state.html" title="{lua_State\n|+ CommonHeader\l+ nci\l+ status\l+ oldpc\l+ errfunc\l+ stacksize\l+ basehookcount\l+ hookcount\l+ nny\l+ nCcalls\land 14 more...\l|}" alt="" coords="371,664,498,888"/>
+<area shape="rect" id="node7" href="$structglobal___state.html" title="{global_State\n|+ frealloc\l+ ud\l+ totalbytes\l+ GCdebt\l+ GCmemtrav\l+ GCestimate\l+ seed\l+ currentwhite\l+ gcstate\l+ gckind\l+ gcrunning\l+ gcfinnum\l+ gcpause\l+ gcstepmul\l+ version\l|}" alt="" coords="836,980,940,1263"/>
+<area shape="rect" id="node10" href="$struct_table.html" title="{Table\n|+ CommonHeader\l+ flags\l+ lsizenode\l+ sizearray\l|}" alt="" coords="825,715,951,837"/>
+<area shape="rect" id="node14" href="$struct_call_info.html" title="{CallInfo\n|+ savedpc\l+ l\l+ old_errfunc\l+ ctx\l+ c\l+ u\l+ extra\l+ nresults\l+ callstatus\l|}" alt="" coords="261,1024,358,1219"/>
+<area shape="rect" id="node4" href="$struct_up_val.html" title="{UpVal\n|+ refcount\l+ touched\l+ open\l+ u\l|}" alt="" coords="563,291,643,412"/>
+<area shape="rect" id="node5" href="$structlua___t_value.html" title="{lua_TValue\n|+ TValuefields\l|}" alt="" coords="693,5,797,83"/>
+<area shape="rect" id="node11" href="$struct_node.html" title="{Node\n||}" alt="" coords="819,473,871,550"/>
+<area shape="rect" id="node12" href="$union_t_key.html" title="{TKey\n|+ TValuefields\l+ next\l+ nk\l|}" alt="" coords="693,160,797,267"/>
+<area shape="rect" id="node6" href="$structlua__longjmp.html" title="{lua_longjmp\n|+ b\l+ status\l|}" alt="" coords="117,465,208,557"/>
+<area shape="rect" id="node8" href="$structstringtable.html" title="{stringtable\n|+ nuse\l+ size\l|}" alt="" coords="1195,730,1277,822"/>
+<area shape="rect" id="node9" href="$struct_t_string.html" title="{TString\n|+ CommonHeader\l+ extra\l+ shrlen\l+ hash\l+ lnglen\l+ u\l|}" alt="" coords="1050,436,1177,587"/>
+<area shape="rect" id="node13" href="$struct_glua_state_pre_processor_function.html" title="{GluaStatePreProcessorFunction\n|+ args\l+ processor\l|+ operator()()\l}" alt="" coords="317,465,526,557"/>
+</map>

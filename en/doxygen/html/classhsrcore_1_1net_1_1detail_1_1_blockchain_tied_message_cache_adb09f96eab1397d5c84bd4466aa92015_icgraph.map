@@ -1,0 +1,5 @@
+<map id="hsrcore::net::detail::BlockchainTiedMessageCache::get_message_propagation_data" name="hsrcore::net::detail::BlockchainTiedMessageCache::get_message_propagation_data">
+<area shape="rect" id="node2" href="$classhsrcore_1_1net_1_1detail_1_1_blockchain_tied_message_cache.html#acd1118f1854398c5e86d9f9a7ef693cd" title="hsrcore::net::detail\l::BlockchainTiedMessageCache\l::BlockchainTiedMessageCache" alt="" coords="268,5,476,61"/>
+<area shape="rect" id="node3" href="$classhsrcore_1_1net_1_1detail_1_1_node_impl.html#a734595ed699d3cee92a68b39f01a49d3" title="hsrcore::net::detail\l::NodeImpl::get_transaction\l_propagation_data" alt="" coords="281,85,463,141"/>
+<area shape="rect" id="node4" href="$classhsrcore_1_1net_1_1detail_1_1_node_impl.html#ad8fb596b09de97a74eb3a659b6594cd9" title="hsrcore::net::detail\l::NodeImpl::get_block\l_propagation_data" alt="" coords="298,165,446,221"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="hsrcore::db::LevelMap::remove" name="hsrcore::db::LevelMap::remove">
+<area shape="rect" id="node2" href="$classhsrcore_1_1blockchain_1_1detail_1_1_chain_database_impl.html#a6d5fd0cb8bf8d286addeb2281b1b5a5b" title="hsrcore::blockchain\l::detail::ChainDatabaseImpl\l::clear_invalidation_of_future_blocks" alt="" coords="203,5,432,61"/>
+<area shape="rect" id="node4" href="$classhsrcore_1_1blockchain_1_1detail_1_1_chain_database_impl.html#af65a0b5f36811b5ee457c1b772abbfda" title="hsrcore::blockchain\l::detail::ChainDatabaseImpl\l::pop_block" alt="" coords="227,85,408,141"/>
+<area shape="rect" id="node6" href="$classhsrcore_1_1blockchain_1_1detail_1_1_chain_database_impl.html#afee721ebaf3b3f096246fd5e54d18a62" title="hsrcore::blockchain\l::detail::ChainDatabaseImpl\l::repair_block" alt="" coords="227,165,408,221"/>
+<area shape="rect" id="node7" href="$classhsrcore_1_1client_1_1detail_1_1_logging_exception_db.html#a7e751a4866ecc9ad2b8615734dbb55c9" title="hsrcore::client::detail\l::LoggingExceptionDb::\lremove" alt="" coords="239,245,396,301"/>
+<area shape="rect" id="node8" href="$classhsrcore_1_1db_1_1fast__level__map.html#aad67cc81c7a4c41e5f8b3a3ae8927a2a" title="hsrcore::db::fast_level\l_map\&lt; uint8_t, hsrcore\l::blockchain::PropertyEntry\l \&gt;::remove" alt="" coords="227,326,407,397"/>
+<area shape="rect" id="node9" href="$classhsrcore_1_1wallet_1_1detail_1_1_wallet_db_impl.html#afe97c02135c9e9c8624d8498d40d219d" title="hsrcore::wallet::detail\l::WalletDbImpl::remove\l_generic_wallet_entry" alt="" coords="239,421,395,477"/>
+<area shape="rect" id="node3" href="$classhsrcore_1_1blockchain_1_1detail_1_1_chain_database_impl.html#a985c617da22b4404abee2cda5540cf07" title="hsrcore::blockchain\l::detail::ChainDatabaseImpl\l::open_database" alt="" coords="480,5,661,61"/>
+<area shape="rect" id="node5" href="$classhsrcore_1_1blockchain_1_1detail_1_1_chain_database_impl.html#afbdbe1d423c95c2fd6f44814300fffe3" title="hsrcore::blockchain\l::detail::ChainDatabaseImpl\l::switch_to_fork" alt="" coords="480,85,661,141"/>
+</map>

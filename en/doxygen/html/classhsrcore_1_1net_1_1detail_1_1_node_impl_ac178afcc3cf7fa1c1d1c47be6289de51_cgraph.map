@@ -1,0 +1,20 @@
+<map id="hsrcore::net::detail::NodeImpl::on_connection_closed" name="hsrcore::net::detail::NodeImpl::on_connection_closed">
+<area shape="rect" id="node2" href="$classhsrcore_1_1net_1_1_peer_connection.html#a112cdf6147efb6a74b5310c7fe87ec6f" title="hsrcore::net::PeerConnection\l::get_socket" alt="" coords="235,5,426,47"/>
+<area shape="rect" id="node3" href="$classhsrcore_1_1net_1_1_peer_connection.html#a2c26aa44a35ecd41ed9bf014556c47d3" title="hsrcore::net::PeerConnection\l::get_endpoint_for_connecting" alt="" coords="233,71,428,112"/>
+<area shape="rect" id="node4" href="$classhsrcore_1_1net_1_1_peer_database.html#a6c4780d397eac610f3b7f9c0ced11f34" title="hsrcore::net::PeerDatabase\l::lookup_entry_for_endpoint" alt="" coords="240,136,421,177"/>
+<area shape="rect" id="node5" href="$classhsrcore_1_1net_1_1_peer_database.html#a61979f93d5036235ffddb14f017bb04e" title="hsrcore::net::PeerDatabase\l::update_entry" alt="" coords="240,201,421,243"/>
+<area shape="rect" id="node6" href="$namespacehsrcore_1_1blockchain.html#a2d604a90c34e5cfbc5252d1596314373" title="hsrcore::blockchain::now" alt="" coords="247,267,414,294"/>
+<area shape="rect" id="node9" href="$classhsrcore_1_1net_1_1_peer_connection.html#aebb2b5496e61f6b891ba94f59b825eaf" title="hsrcore::net::PeerConnection\l::get_remote_endpoint" alt="" coords="235,319,426,360"/>
+<area shape="rect" id="node10" href="$classhsrcore_1_1net_1_1detail_1_1_node_impl.html#a4778810842311ef350655e0ba9d1cff2" title="hsrcore::net::detail\l::NodeImpl::display_current\l_connections" alt="" coords="241,385,421,441"/>
+<area shape="rect" id="node12" href="$classhsrcore_1_1net_1_1detail_1_1_node_impl.html#a917de3c0d52918c7273aab68054f7c8a" title="hsrcore::net::detail\l::NodeImpl::trigger_p2p\l_network_connect_loop" alt="" coords="251,465,410,521"/>
+<area shape="rect" id="node13" href="$classhsrcore_1_1net_1_1detail_1_1_node_impl.html#ab71c8de4be69289114bc516bda4a2a77" title="hsrcore::net::detail\l::NodeImpl::forward_firewall\l_check_to_next_available_peer" alt="" coords="229,545,432,601"/>
+<area shape="rect" id="node15" href="$classhsrcore_1_1net_1_1detail_1_1_node_impl.html#ab3d64c39165a970e7663ae3a0051d259" title="hsrcore::net::detail\l::NodeImpl::trigger_fetch\l_sync_items_loop" alt="" coords="249,625,412,681"/>
+<area shape="rect" id="node16" href="$classhsrcore_1_1net_1_1detail_1_1_node_impl.html#aba3a5d6f9379ebbd71cced7c6c751d5a" title="hsrcore::net::detail\l::NodeImpl::is_item_in\l_any_peers_inventory" alt="" coords="255,705,406,761"/>
+<area shape="rect" id="node17" href="$classhsrcore_1_1net_1_1detail_1_1_node_impl.html#a65ae5ac12d0cf697bf9c9cab385ea1e8" title="hsrcore::net::detail\l::NodeImpl::trigger_fetch\l_items_loop" alt="" coords="249,785,412,841"/>
+<area shape="rect" id="node18" href="$classhsrcore_1_1net_1_1detail_1_1_node_impl.html#a449bd7920eb3b189b8c51be826b86cd5" title="hsrcore::net::detail\l::NodeImpl::schedule\l_peer_for_deletion" alt="" coords="259,865,403,921"/>
+<area shape="rect" id="node7" href="$namespacehsrcore_1_1blockchain.html#a6ab2a224374df515fe76b3799ed648fb" title="hsrcore::blockchain\l::ntp_time" alt="" coords="497,260,632,301"/>
+<area shape="rect" id="node8" href="$namespacehsrcore_1_1blockchain_1_1detail.html#ae5c17ca96b07a1f76c62bc6fd564759c" title="hsrcore::blockchain\l::detail::ntp_service" alt="" coords="697,260,832,301"/>
+<area shape="rect" id="node11" href="$classhsrcore_1_1net_1_1detail_1_1_node_impl.html#a068bb07034b951f3dd6f57b230e2fd91" title="hsrcore::net::detail\l::NodeImpl::get_number\l_of_connections" alt="" coords="485,385,645,441"/>
+<area shape="rect" id="node14" href="$classhsrcore_1_1net_1_1detail_1_1_node_impl.html#a60b6fa6d46f1dae31671ac50197fe866" title="hsrcore::net::detail\l::NodeImpl::get_peer\l_by_node_id" alt="" coords="493,545,636,601"/>
+<area shape="rect" id="node19" href="$classhsrcore_1_1net_1_1detail_1_1_node_impl.html#af2f2e147f1dfc14f8d6ac83deeec4093" title="hsrcore::net::detail\l::NodeImpl::delayed_peer\l_deletion_task" alt="" coords="480,865,649,921"/>
+</map>

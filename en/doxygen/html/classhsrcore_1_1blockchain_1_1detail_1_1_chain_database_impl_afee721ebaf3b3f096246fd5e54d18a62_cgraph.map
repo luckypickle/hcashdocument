@@ -1,0 +1,4 @@
+<map id="hsrcore::blockchain::detail::ChainDatabaseImpl::repair_block" name="hsrcore::blockchain::detail::ChainDatabaseImpl::repair_block">
+<area shape="rect" id="node2" href="$classhsrcore_1_1blockchain_1_1detail_1_1_chain_database_impl.html#a2f800e47468976215cd57bceaddd1eb0" title="hsrcore::blockchain\l::detail::ChainDatabaseImpl\l::mark_included" alt="" coords="235,5,416,61"/>
+<area shape="rect" id="node3" href="$classhsrcore_1_1db_1_1_level_map.html#a60be13f48fd5bdd2ada11d023923de84" title="hsrcore::db::LevelMap\l::remove" alt="" coords="251,86,400,127"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="luaH_newkey" name="luaH_newkey">
+<area shape="rect" id="node2" href="$ldebug_8cpp.html#a5ef43f05a00bde7ee94539f3d765789c" title="luaG_runerror" alt="" coords="155,28,255,55"/>
+<area shape="rect" id="node7" href="$lvm_8cpp.html#acdf7e8db180808362a373d9b5484452e" title="luaV_tointeger" alt="" coords="152,79,257,105"/>
+<area shape="rect" id="node3" href="$lobject_8cpp.html#aa83fa444a36d79521e846a766fa083d5" title="luaO_pushvfstring" alt="" coords="623,28,747,55"/>
+<area shape="rect" id="node4" href="$ldebug_8cpp.html#a7e1dc7518150bf19bd9aa5dda166a2eb" title="luaG_addinfo" alt="" coords="308,28,405,55"/>
+<area shape="rect" id="node5" href="$lobject_8cpp.html#a4708cca3615b7fafb7ea4631f486983b" title="luaO_chunkid" alt="" coords="465,28,566,55"/>
+<area shape="rect" id="node6" href="$lobject_8cpp.html#a8e224db7123c74d695076a96d1bfda61" title="luaO_pushfstring" alt="" coords="456,79,575,105"/>
+<area shape="rect" id="node8" href="$lobject_8cpp.html#ab1956c979ca7ff39b07534390714505d" title="luaO_str2num" alt="" coords="305,79,408,105"/>
+</map>

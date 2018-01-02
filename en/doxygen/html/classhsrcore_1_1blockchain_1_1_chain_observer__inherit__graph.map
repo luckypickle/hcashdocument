@@ -1,0 +1,3 @@
+<map id="hsrcore::blockchain::ChainObserver" name="hsrcore::blockchain::ChainObserver">
+<area shape="rect" id="node2" href="$classhsrcore_1_1wallet_1_1detail_1_1_wallet_impl.html" title="{hsrcore::wallet::detail\l::WalletImpl\n|+ self\l+ _is_enabled\l+ _wallet_db\l+ _blockchain\l+ _data_directory\l+ _current_wallet_path\l+ _wallet_password\l+ _scheduled_lock_time\l+ _relocker_done\l+ _scan_in_progress\land 18 more...\l+ _login_cleaner_interval\l_seconds\l+ _login_lifetime_seconds\l|+ WalletImpl()\l+ ~WalletImpl()\l+ create_file()\l+ open_file()\l+ reschedule_relocker()\l+ relocker()\l+ state_changed()\l+ block_applied()\l+ scan_balances_experimental()\l+ scan_contracts()\land 40 more...\l}" alt="" coords="5,175,216,604"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="unit_test_check_equal_number" name="unit_test_check_equal_number">
+<area shape="rect" id="node2" href="$lauxlib_8cpp.html#a9f2c941bb5eb7d3a7746f35c4fe3cced" title="luaL_checknumber" alt="" coords="211,5,342,32"/>
+<area shape="rect" id="node4" href="$classhsrcore_1_1lua_1_1api_1_1_i_glua_chain_api.html#aef0b7d9697425c46f53bfd7b9af56d05" title="hsrcore::lua::api::\lIGluaChainApi::throw\l_exception" alt="" coords="205,56,348,112"/>
+<area shape="rect" id="node3" href="$lapi_8cpp.html#a375da41304604b0cba0b8c798499e673" title="lua_tonumberx" alt="" coords="396,5,503,32"/>
+</map>

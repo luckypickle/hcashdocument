@@ -1,0 +1,19 @@
+<map id="F:/hshare_org/Hcash/libraries/client/DelegateApi.cpp" name="F:/hshare_org/Hcash/libraries/client/DelegateApi.cpp">
+<area shape="rect" id="node2" href="$_client_impl_8hpp.html" title="client/ClientImpl.hpp" alt="" coords="1987,109,2125,136"/>
+<area shape="rect" id="node3" href="$_cli_8hpp.html" title="cli/Cli.hpp" alt="" coords="501,199,579,225"/>
+<area shape="rect" id="node14" href="$_notifier_8hpp.html" title="client/Notifier.hpp" alt="" coords="1925,363,2048,389"/>
+<area shape="rect" id="node18" href="$_level_map_8hpp.html" title="db/LevelMap.hpp" alt="" coords="1358,199,1477,225"/>
+<area shape="rect" id="node23" href="$_exception_8hpp.html" title="db/Exception.hpp" alt="" coords="755,288,877,315"/>
+<area shape="rect" id="node30" href="$_chain_server_8hpp.html" title="net/ChainServer.hpp" alt="" coords="136,288,275,315"/>
+<area shape="rect" id="node31" href="$_upnp_8hpp.html" title="net/Upnp.hpp" alt="" coords="2072,363,2171,389"/>
+<area shape="rect" id="node40" href="$hsrcore__lua__api_8h.html" title="glua/hsrcore_lua_api.h" alt="" coords="2981,363,3133,389"/>
+<area shape="rect" id="node48" href="$hsrcore__lua__lib_8h.html" title="glua/hsrcore_lua_lib.h" alt="" coords="3183,288,3331,315"/>
+<area shape="rect" id="node49" href="$_glua_chain_api_8hpp.html" title="blockchain/GluaChainApi.hpp" alt="" coords="2961,199,3153,225"/>
+<area shape="rect" id="node50" href="$_common_api_overrides_8ipp.html" title="rpc_stubs/CommonApiOverrides.ipp" alt="" coords="3279,199,3508,225"/>
+<area shape="rect" id="node4" href="$_api_metadata_8hpp.html" title="api/ApiMetadata.hpp" alt="" coords="512,363,653,389"/>
+<area shape="rect" id="node6" href="$_client_8hpp.html" title="client/Client.hpp" alt="" coords="251,363,365,389"/>
+<area shape="rect" id="node10" href="$_rpc_server_8hpp.html" title="rpc/RpcServer.hpp" alt="" coords="603,288,731,315"/>
+<area shape="rect" id="node7" href="$_chain_database_8hpp.html" title="blockchain/ChainDatabase.hpp" alt="" coords="209,437,410,464"/>
+<area shape="rect" id="node24" href="$_upgrade_leveldb_8hpp.html" title="db/UpgradeLeveldb.hpp" alt="" coords="1502,288,1658,315"/>
+<area shape="rect" id="node41" href="$lprefix_8h.html" title="glua/lprefix.h" alt="" coords="3342,437,3437,464"/>
+</map>

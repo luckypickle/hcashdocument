@@ -1,0 +1,5 @@
+<map id="glua::parser::ParserContext::optional_parser" name="glua::parser::ParserContext::optional_parser">
+<area shape="rect" id="node2" href="$classglua_1_1parser_1_1_parser_context.html#acfcbd10d80d66e1d45394d111c475ec4" title="glua::parser::ParserContext\l::p_or" alt="" coords="235,5,416,47"/>
+<area shape="rect" id="node4" href="$classglua_1_1parser_1_1_parser_context.html#a95aa81523410597b3f39af97ecb5ceff" title="glua::parser::ParserContext\l::empty_parser" alt="" coords="235,71,416,112"/>
+<area shape="rect" id="node3" href="$classglua_1_1parser_1_1_union_parser_functor.html#a3da08171c0868e27c92fd284a5ddfc68" title="glua::parser::UnionParser\lFunctor::parsers" alt="" coords="464,5,633,47"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="hsrcore::api::CommonApi::delegate_set_transaction_canonical_signatures_required" name="hsrcore::api::CommonApi::delegate_set_transaction_canonical_signatures_required">
+<area shape="rect" id="node2" href="$classhsrcore_1_1rpc__stubs_1_1_common_api_client.html#ad687a526f2d2b8635f6058a87e830c74" title="hsrcore::rpc_stubs\l::CommonApiClient::delegate\l_set_transaction_canonical\l_signatures_required" alt="" coords="287,5,478,76"/>
+<area shape="rect" id="node3" href="$classhsrcore_1_1rpc__stubs_1_1_common_api_rpc_server.html#a90b40b9dd5089d4f39a1d7ab4a9cfd4c" title="hsrcore::rpc_stubs\l::CommonApiRpcServer\l::delegate_set_transaction\l_canonical_signatures_required\l_positional" alt="" coords="281,195,485,281"/>
+<area shape="rect" id="node6" href="$classhsrcore_1_1rpc__stubs_1_1_common_api_rpc_server.html#a15e1751bfff6df63ab8d87256ed9c4b2" title="hsrcore::rpc_stubs\l::CommonApiRpcServer\l::delegate_set_transaction\l_canonical_signatures_required_named" alt="" coords="257,100,508,171"/>
+<area shape="rect" id="node4" href="$classhsrcore_1_1rpc__stubs_1_1_common_api_rpc_server.html#a45cf3aafd35992db4c663115daeeb234" title="hsrcore::rpc_stubs\l::CommonApiRpcServer\l::register_common_api\l_methods" alt="" coords="559,104,719,175"/>
+<area shape="rect" id="node5" href="$classhsrcore_1_1rpc__stubs_1_1_common_api_rpc_server.html#a0188b049d81ec379e3b00e02f4153dc2" title="hsrcore::rpc_stubs\l::CommonApiRpcServer\l::direct_invoke_positional\l_method" alt="" coords="556,203,723,273"/>
+</map>

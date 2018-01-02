@@ -1,0 +1,8 @@
+<map id="hsrcore::api::CommonApi::submit_blockex" name="hsrcore::api::CommonApi::submit_blockex">
+<area shape="rect" id="node2" href="$namespacehsrcore_1_1client_1_1detail.html#aef590a52729f6e22b6cff8c9b75d4d89" title="hsrcore::client::detail\l::hex2bin" alt="" coords="243,5,385,47"/>
+<area shape="rect" id="node3" href="$classhsrcore_1_1rpc__stubs_1_1_common_api_client.html#a350197d23e2fd54ebfdba4439ad0becd" title="hsrcore::rpc_stubs\l::CommonApiClient::submit\l_blockex" alt="" coords="223,71,405,127"/>
+<area shape="rect" id="node4" href="$classhsrcore_1_1rpc__stubs_1_1_common_api_rpc_server.html#a86cf7b76c3a718a8d0ca1c5282dc89ab" title="hsrcore::rpc_stubs\l::CommonApiRpcServer\l::submit_blockex_positional" alt="" coords="223,231,405,287"/>
+<area shape="rect" id="node7" href="$classhsrcore_1_1rpc__stubs_1_1_common_api_rpc_server.html#a6f929fed10fb375f126d7b86a35550ee" title="hsrcore::rpc_stubs\l::CommonApiRpcServer\l::submit_blockex_named" alt="" coords="231,151,397,207"/>
+<area shape="rect" id="node5" href="$classhsrcore_1_1rpc__stubs_1_1_common_api_rpc_server.html#a45cf3aafd35992db4c663115daeeb234" title="hsrcore::rpc_stubs\l::CommonApiRpcServer\l::register_common_api\l_methods" alt="" coords="457,144,617,215"/>
+<area shape="rect" id="node6" href="$classhsrcore_1_1rpc__stubs_1_1_common_api_rpc_server.html#a0188b049d81ec379e3b00e02f4153dc2" title="hsrcore::rpc_stubs\l::CommonApiRpcServer\l::direct_invoke_positional\l_method" alt="" coords="453,239,620,309"/>
+</map>

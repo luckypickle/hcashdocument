@@ -1,0 +1,5 @@
+<map id="hsrcore::wallet::WalletDb::store_transaction" name="hsrcore::wallet::WalletDb::store_transaction">
+<area shape="rect" id="node2" href="$classhsrcore_1_1wallet_1_1_wallet_db.html#ada4c95e346f51d0f8c58ed28f76d7862" title="hsrcore::wallet::WalletDb\l::is_open" alt="" coords="435,29,601,71"/>
+<area shape="rect" id="node3" href="$structhsrcore_1_1blockchain_1_1_signed_transaction.html#a1d3e482ad287dbfb537b525c41760cda" title="hsrcore::blockchain\l::SignedTransaction::id" alt="" coords="226,25,381,67"/>
+<area shape="rect" id="node4" href="$classhsrcore_1_1wallet_1_1_wallet_db.html#a6b9749ff427a2dbde80fab0ae21b1458" title="hsrcore::wallet::WalletDb\l::lookup_transaction" alt="" coords="220,91,387,132"/>
+</map>

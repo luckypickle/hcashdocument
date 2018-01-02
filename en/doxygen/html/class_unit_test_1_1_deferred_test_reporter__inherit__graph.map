@@ -1,0 +1,4 @@
+<map id="UnitTest::DeferredTestReporter" name="UnitTest::DeferredTestReporter">
+<area shape="rect" id="node3" href="$class_unit_test_1_1_xml_test_reporter.html" title="{UnitTest::XmlTestReporter\n||+ XmlTestReporter()\l+ ReportSummary()\l}" alt="" coords="19,359,192,451"/>
+<area shape="rect" id="node2" href="$class_unit_test_1_1_test_reporter.html" title="{UnitTest::TestReporter\n||+ ~TestReporter()\l+ ReportTestStart()\l+ ReportFailure()\l+ ReportTestFinish()\l+ ReportSummary()\l}" alt="" coords="29,5,181,141"/>
+</map>

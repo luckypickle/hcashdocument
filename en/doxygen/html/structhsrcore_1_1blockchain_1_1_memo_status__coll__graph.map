@@ -1,0 +1,4 @@
+<map id="hsrcore::blockchain::MemoStatus" name="hsrcore::blockchain::MemoStatus">
+<area shape="rect" id="node2" href="$structhsrcore_1_1blockchain_1_1_extended_memo_data.html" title="{hsrcore::blockchain\l::ExtendedMemoData\n|+ from_signature\l+ message\l+ memo_flags\l+ extra_memo\l|+ set_message()\l+ get_message()\l}" alt="" coords="33,277,181,428"/>
+<area shape="rect" id="node3" href="$structhsrcore_1_1blockchain_1_1_public_key_type.html" title="{hsrcore::blockchain\l::PublicKeyType\n|+ key_data\l|+ PublicKeyType()\l+ PublicKeyType()\l+ PublicKeyType()\l+ PublicKeyType()\l+ operator fc::ecc::public\l_key_data()\l+ operator fc::ecc::public_key()\l+ operator std::string()\l+ is_valid_v1()\l}" alt="" coords="5,5,208,215"/>
+</map>

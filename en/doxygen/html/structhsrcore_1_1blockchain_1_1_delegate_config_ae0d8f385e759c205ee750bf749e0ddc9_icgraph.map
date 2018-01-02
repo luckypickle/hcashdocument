@@ -1,0 +1,5 @@
+<map id="hsrcore::blockchain::DelegateConfig::validate" name="hsrcore::blockchain::DelegateConfig::validate">
+<area shape="rect" id="node2" href="$namespacehsrcore_1_1client_1_1detail.html#ad1bb6b82fba1d1b94ed3013ba8b85007" title="hsrcore::client::detail\l::MilliSleep" alt="" coords="221,5,364,47"/>
+<area shape="rect" id="node3" href="$namespacehsrcore_1_1client_1_1detail.html#aa6e5e8c2f19ad844838194aa68459e68" title="hsrcore::client::detail\l::ThreadStakeMiner" alt="" coords="412,5,555,47"/>
+<area shape="rect" id="node4" href="$classhsrcore_1_1client_1_1detail_1_1_client_impl.html#afce88a14a09f444dd1ce966157c33e03" title="hsrcore::client::detail\l::ClientImpl::GenerateStakes" alt="" coords="603,5,792,47"/>
+</map>

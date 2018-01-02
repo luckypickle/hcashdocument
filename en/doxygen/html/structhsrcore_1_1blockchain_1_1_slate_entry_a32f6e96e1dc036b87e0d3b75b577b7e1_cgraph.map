@@ -1,0 +1,5 @@
+<map id="hsrcore::blockchain::SlateEntry::id_v1" name="hsrcore::blockchain::SlateEntry::id_v1">
+<area shape="rect" id="node2" href="$structhsrcore_1_1blockchain_1_1_slate_entry.html#a0b38170f495248e731d71bdd60580b55" title="hsrcore::blockchain\l::SlateEntry::sanity_check" alt="" coords="188,5,364,47"/>
+<area shape="rect" id="node3" href="$structhsrcore_1_1blockchain_1_1_slate_entry.html#a5c0b59b0a6a90dad0402de5fc7955dd8" title="hsrcore::blockchain\l::SlateEntry::lookup" alt="" coords="207,71,345,112"/>
+<area shape="rect" id="node4" href="$structhsrcore_1_1blockchain_1_1_slate_entry.html#a757a825c6a9d1488bd42a7236b6d5792" title="hsrcore::blockchain\l::SlateEntry::store" alt="" coords="209,136,343,177"/>
+</map>

@@ -1,0 +1,3 @@
+<map id="hsrcore::blockchain::MemoStatus" name="hsrcore::blockchain::MemoStatus">
+<area shape="rect" id="node2" href="$structhsrcore_1_1blockchain_1_1_extended_memo_data.html" title="{hsrcore::blockchain\l::ExtendedMemoData\n|+ from\l+ from_signature\l+ message\l+ memo_flags\l+ extra_memo\l|+ set_message()\l+ get_message()\l}" alt="" coords="5,5,153,171"/>
+</map>

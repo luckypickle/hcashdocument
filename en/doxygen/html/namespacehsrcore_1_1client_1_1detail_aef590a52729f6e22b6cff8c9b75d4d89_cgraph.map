@@ -1,0 +1,10 @@
+<map id="hsrcore::client::detail::hex2bin" name="hsrcore::client::detail::hex2bin">
+<area shape="rect" id="node2" href="$classhsrcore_1_1api_1_1_common_api.html#a2c4dbab37a978ba6b1595ed9430381f8" title="hsrcore::api::CommonApi\l::submit_blockex" alt="" coords="219,5,389,47"/>
+<area shape="rect" id="node3" href="$structhsrcore_1_1blockchain_1_1_block_header.html#aa9991cd55d9b728e54912026861691c6" title="hsrcore::blockchain\l::BlockHeader::GetNoNonceHash" alt="" coords="196,71,412,112"/>
+<area shape="rect" id="node4" href="$classbase__uint.html#ae5e7b7481de91ebead20eebd5d685441" title="base_uint::GetHex" alt="" coords="239,137,369,163"/>
+<area shape="rect" id="node5" href="$classhsrcore_1_1client_1_1detail_1_1_client_impl.html#a59416db3ffb8039d2ec1942a653b75a0" title="hsrcore::client::detail\l::ClientImpl::on_new_block" alt="" coords="215,188,393,229"/>
+<area shape="rect" id="node6" href="$classhsrcore_1_1api_1_1_common_api.html#a179f90bd2ffc441e8c3c594b4ad26931" title="hsrcore::api::CommonApi\l::set_coinbase" alt="" coords="219,253,389,295"/>
+<area shape="rect" id="node7" href="$classhsrcore_1_1api_1_1_common_api.html#ab7aba555bd3ad8a25fff980cbfb5e60d" title="hsrcore::api::CommonApi\l::get_staking_info" alt="" coords="219,319,389,360"/>
+<area shape="rect" id="node8" href="$classhsrcore_1_1client_1_1detail_1_1_client_impl.html#aa41696a3a4d476a86650a7f4eab81ba9" title="hsrcore::client::detail\l::ClientImpl::GetPoSKernelPS" alt="" coords="206,384,402,425"/>
+<area shape="rect" id="node9" href="$classhsrcore_1_1client_1_1detail_1_1_client_impl.html#a750bb1c4353c034dc014ae32343417ce" title="hsrcore::client::detail\l::ClientImpl::GetDiffculty" alt="" coords="460,413,623,455"/>
+</map>

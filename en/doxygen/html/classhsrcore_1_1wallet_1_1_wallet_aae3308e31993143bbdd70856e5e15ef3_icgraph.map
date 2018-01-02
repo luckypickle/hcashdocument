@@ -1,0 +1,12 @@
+<map id="hsrcore::wallet::Wallet::sandbox_get_enough_balances" name="hsrcore::wallet::Wallet::sandbox_get_enough_balances">
+<area shape="rect" id="node2" href="$classhsrcore_1_1wallet_1_1_wallet.html#a7ad1cb3de642d70c316ea9781c80d7c6" title="hsrcore::wallet::Wallet\l::register_contract" alt="" coords="282,8,433,49"/>
+<area shape="rect" id="node4" href="$classhsrcore_1_1wallet_1_1_wallet.html#a8c21e6956ba506be20e1b039c9d892bb" title="hsrcore::wallet::Wallet\l::call_contract" alt="" coords="282,75,433,116"/>
+<area shape="rect" id="node6" href="$classhsrcore_1_1wallet_1_1_wallet.html#a911ebde5fcb9e4f81afbeccd027bdc3b" title="hsrcore::wallet::Wallet\l::transfer_asset_to_contract" alt="" coords="265,144,449,185"/>
+<area shape="rect" id="node8" href="$classhsrcore_1_1wallet_1_1_wallet.html#a4e6ab7c03ba9cec47961502941214cdd" title="hsrcore::wallet::Wallet\l::upgrade_contract" alt="" coords="282,211,433,252"/>
+<area shape="rect" id="node10" href="$classhsrcore_1_1wallet_1_1_wallet.html#a916f082791eeb72056c6a8af7d83267e" title="hsrcore::wallet::Wallet\l::destroy_contract" alt="" coords="282,280,433,321"/>
+<area shape="rect" id="node3" href="$classhsrcore_1_1wallet_1_1_wallet.html#ae5c409638db6ca344d8b69deadfe775a" title="hsrcore::wallet::Wallet\l::register_contract_testing" alt="" coords="503,5,676,47"/>
+<area shape="rect" id="node5" href="$classhsrcore_1_1wallet_1_1_wallet.html#aff3d2d26c620b0ffaf5f31ddce06366f" title="hsrcore::wallet::Wallet\l::call_contract_testing" alt="" coords="514,71,665,112"/>
+<area shape="rect" id="node7" href="$classhsrcore_1_1wallet_1_1_wallet.html#ab99a991e8edd173d071a87992272c2a8" title="hsrcore::wallet::Wallet\l::transfer_asset_to_contract\l_testing" alt="" coords="497,137,681,193"/>
+<area shape="rect" id="node9" href="$classhsrcore_1_1wallet_1_1_wallet.html#acd60b122647c69a9f40cf62897bad11d" title="hsrcore::wallet::Wallet\l::upgrade_contract_testing" alt="" coords="501,217,677,259"/>
+<area shape="rect" id="node11" href="$classhsrcore_1_1wallet_1_1_wallet.html#a0769ae202a4952ad1a603ee85aa5903f" title="hsrcore::wallet::Wallet\l::destroy_contract_testing" alt="" coords="503,283,676,324"/>
+</map>

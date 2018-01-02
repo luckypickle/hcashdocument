@@ -1,0 +1,5 @@
+<map id="glua::decompile::NewTableItem" name="glua::decompile::NewTableItem">
+<area shape="rect" id="node2" href="$namespaceglua_1_1decompile.html#aeec4cddb73b7cb878e230870cefc2429" title="glua::decompile::AddToTable" alt="" coords="256,31,445,57"/>
+<area shape="rect" id="node3" href="$namespaceglua_1_1decompile.html#a8de7895134a62365c02285374c94355f" title="glua::decompile::SetList" alt="" coords="498,5,661,32"/>
+<area shape="rect" id="node4" href="$namespaceglua_1_1decompile.html#ad054bad8178cd3e571f431c7c165b0e2" title="glua::decompile::SetTable" alt="" coords="493,56,665,83"/>
+</map>

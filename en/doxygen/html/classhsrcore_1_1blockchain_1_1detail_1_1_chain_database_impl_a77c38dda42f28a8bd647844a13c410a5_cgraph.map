@@ -1,0 +1,4 @@
+<map id="hsrcore::blockchain::detail::ChainDatabaseImpl::clear_pending" name="hsrcore::blockchain::detail::ChainDatabaseImpl::clear_pending">
+<area shape="rect" id="node2" href="$structhsrcore_1_1blockchain_1_1_signed_transaction.html#a1d3e482ad287dbfb537b525c41760cda" title="hsrcore::blockchain\l::SignedTransaction::id" alt="" coords="464,13,619,54"/>
+<area shape="rect" id="node3" href="$classhsrcore_1_1blockchain_1_1detail_1_1_chain_database_impl.html#a7023c2e4fc8594fb4efe279eedecc790" title="hsrcore::blockchain\l::detail::ChainDatabaseImpl\l::revalidate_pending" alt="" coords="235,37,416,93"/>
+</map>

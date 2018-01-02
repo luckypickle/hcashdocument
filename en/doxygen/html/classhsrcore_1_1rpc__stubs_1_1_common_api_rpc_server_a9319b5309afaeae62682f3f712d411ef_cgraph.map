@@ -1,0 +1,6 @@
+<map id="hsrcore::rpc_stubs::CommonApiRpcServer::network_broadcast_transaction_named" name="hsrcore::rpc_stubs::CommonApiRpcServer::network_broadcast_transaction_named">
+<area shape="rect" id="node2" href="$classhsrcore_1_1rpc__stubs_1_1_common_api_rpc_server.html#a1dd3f241a3ecc519ef20ff9425ba22fc" title="hsrcore::rpc_stubs\l::CommonApiRpcServer\l::verify_json_connection\l_is_authenticated" alt="" coords="335,5,495,76"/>
+<area shape="rect" id="node3" href="$classhsrcore_1_1rpc__stubs_1_1_common_api_rpc_server.html#abc2a369fab60eaab12e48276894a298e" title="hsrcore::rpc_stubs\l::CommonApiRpcServer\l::verify_connected_to\l_network" alt="" coords="335,100,495,171"/>
+<area shape="rect" id="node4" href="$classhsrcore_1_1rpc__stubs_1_1_common_api_rpc_server.html#aeccf0f28cc2af78b93119aacca7ace3c" title="hsrcore::rpc_stubs\l::CommonApiRpcServer\l::get_client" alt="" coords="335,195,495,251"/>
+<area shape="rect" id="node5" href="$classhsrcore_1_1api_1_1_common_api.html#a7c9db0ed9bfbdff2ba611b43ac3d5e1b" title="hsrcore::api::CommonApi\l::network_broadcast_transaction" alt="" coords="309,276,520,317"/>
+</map>

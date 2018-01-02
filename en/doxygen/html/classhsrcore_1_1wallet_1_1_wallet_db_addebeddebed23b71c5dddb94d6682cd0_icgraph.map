@@ -1,0 +1,6 @@
+<map id="hsrcore::wallet::WalletDb::lookup_contact" name="hsrcore::wallet::WalletDb::lookup_contact">
+<area shape="rect" id="node2" href="$classhsrcore_1_1wallet_1_1_wallet_db.html#a485e76992e0b22a81fffdc558eedf809" title="hsrcore::wallet::WalletDb\l::lookup_contact" alt="" coords="220,5,387,47"/>
+<area shape="rect" id="node3" href="$classhsrcore_1_1wallet_1_1_wallet_db.html#a5aedf2f2c8507d480f160878d6517706" title="hsrcore::wallet::WalletDb\l::store_contact" alt="" coords="220,71,387,112"/>
+<area shape="rect" id="node4" href="$classhsrcore_1_1wallet_1_1_wallet_db.html#a94fb4c1b8c44becc40b3d9f6432623d1" title="hsrcore::wallet::WalletDb\l::remove_contact" alt="" coords="220,136,387,177"/>
+<area shape="rect" id="node5" href="$classhsrcore_1_1wallet_1_1_wallet_db.html#a233b8c22e45c57eb24aae3182b782eac" title="hsrcore::wallet::WalletDb\l::remove_contact" alt="" coords="435,136,601,177"/>
+</map>

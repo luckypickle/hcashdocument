@@ -1,0 +1,6 @@
+<map id="hsrcore::blockchain::WithdrawCondition::as" name="hsrcore::blockchain::WithdrawCondition::as">
+<area shape="rect" id="node2" href="$structhsrcore_1_1blockchain_1_1_withdraw_condition.html#aea0e3f3906595ec3fa1fba2211fbf219" title="hsrcore::blockchain\l::WithdrawCondition\l::get_address" alt="" coords="213,5,352,61"/>
+<area shape="rect" id="node3" href="$structhsrcore_1_1blockchain_1_1_withdraw_condition.html#a04f5815b616c0fa443a37a454ff1761c" title="hsrcore::blockchain\l::WithdrawCondition\l::owners" alt="" coords="213,85,352,141"/>
+<area shape="rect" id="node4" href="$structhsrcore_1_1blockchain_1_1_withdraw_condition.html#a3a73a13b7fe3c0f64a7db48a0eca4708" title="hsrcore::blockchain\l::WithdrawCondition\l::owner" alt="" coords="213,165,352,221"/>
+<area shape="rect" id="node5" href="$structhsrcore_1_1blockchain_1_1_withdraw_condition.html#a31547176d78ca53411189cb5b62c9fdf" title="hsrcore::blockchain\l::WithdrawCondition\l::type_label" alt="" coords="213,245,352,301"/>
+</map>

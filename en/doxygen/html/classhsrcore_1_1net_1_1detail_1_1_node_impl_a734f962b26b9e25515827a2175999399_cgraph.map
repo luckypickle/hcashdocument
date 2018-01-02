@@ -1,0 +1,4 @@
+<map id="hsrcore::net::detail::NodeImpl::accept_connection_task" name="hsrcore::net::detail::NodeImpl::accept_connection_task">
+<area shape="rect" id="node2" href="$classhsrcore_1_1net_1_1detail_1_1_node_impl.html#a1167a71beea1a7d89541b78b8d54f7e5" title="hsrcore::net::detail\l::NodeImpl::send_hello\l_message" alt="" coords="287,5,441,61"/>
+<area shape="rect" id="node3" href="$classhsrcore_1_1net_1_1detail_1_1_node_impl.html#a5e51455f19f013ee7ea2e003480c53a5" title="hsrcore::net::detail\l::NodeImpl::generate\l_hello_user_data" alt="" coords="489,5,632,61"/>
+</map>

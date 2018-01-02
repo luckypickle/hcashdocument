@@ -1,0 +1,6 @@
+<map id="hsrcore::blockchain::ChainDatabase::evaluate_transaction" name="hsrcore::blockchain::ChainDatabase::evaluate_transaction">
+<area shape="rect" id="node2" href="$classhsrcore_1_1blockchain_1_1_chain_interface.html#ac0bd964d9ed4de566f3c3c1d88eae9a5" title="hsrcore::blockchain\l::ChainInterface::get\l_node_vm_enabled" alt="" coords="251,5,389,61"/>
+<area shape="rect" id="node4" href="$structhsrcore_1_1blockchain_1_1_signed_transaction.html#a1d3e482ad287dbfb537b525c41760cda" title="hsrcore::blockchain\l::SignedTransaction::id" alt="" coords="243,86,397,127"/>
+<area shape="rect" id="node5" href="$classhsrcore_1_1blockchain_1_1_transaction_evaluation_state.html#a71a01665d2f1392b2e2d8e1580df1c65" title="hsrcore::blockchain\l::TransactionEvaluationState\l::get_fees" alt="" coords="227,152,413,208"/>
+<area shape="rect" id="node3" href="$classhsrcore_1_1blockchain_1_1_chain_interface.html#a8210d2d3d2c07977058f4ee1fe3005bf" title="hsrcore::blockchain\l::ChainInterface::get\l_property_entry" alt="" coords="461,5,600,61"/>
+</map>

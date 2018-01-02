@@ -1,0 +1,4 @@
+<map id="hsrcore::rpc_stubs::CommonApiRpcServer::delegate_set_block_max_transaction_count_positional" name="hsrcore::rpc_stubs::CommonApiRpcServer::delegate_set_block_max_transaction_count_positional">
+<area shape="rect" id="node2" href="$classhsrcore_1_1rpc__stubs_1_1_common_api_rpc_server.html#aeccf0f28cc2af78b93119aacca7ace3c" title="hsrcore::rpc_stubs\l::CommonApiRpcServer\l::get_client" alt="" coords="225,5,385,61"/>
+<area shape="rect" id="node3" href="$classhsrcore_1_1api_1_1_common_api.html#a5b20899ad2f9ffa147a20047157ff5d6" title="hsrcore::api::CommonApi\l::delegate_set_block_max\l_transaction_count" alt="" coords="217,85,392,141"/>
+</map>

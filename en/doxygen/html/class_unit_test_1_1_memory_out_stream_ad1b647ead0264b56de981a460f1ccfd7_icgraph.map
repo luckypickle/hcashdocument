@@ -1,0 +1,11 @@
+<map id="UnitTest::MemoryOutStream::GetText" name="UnitTest::MemoryOutStream::GetText">
+<area shape="rect" id="node2" href="$namespace_unit_test.html#ab29022ead2f6406774f92402924ccba3" title="UnitTest::CheckEqual" alt="" coords="265,5,413,32"/>
+<area shape="rect" id="node3" href="$namespace_unit_test.html#ab81d49d915767894dce832e6c5071506" title="UnitTest::CheckClose" alt="" coords="265,56,413,83"/>
+<area shape="rect" id="node4" href="$namespace_unit_test.html#aaa56e8f524d122497b498ef58775fdb0" title="UnitTest::CheckArrayEqual" alt="" coords="249,107,428,133"/>
+<area shape="rect" id="node5" href="$namespace_unit_test.html#a783fc25abd7eb13b912d91031b59a6aa" title="UnitTest::CheckArrayClose" alt="" coords="249,157,428,184"/>
+<area shape="rect" id="node6" href="$namespace_unit_test.html#aef74a6777382bccfd2fca13457a4171b" title="UnitTest::CheckArray2DClose" alt="" coords="241,208,436,235"/>
+<area shape="rect" id="node7" href="$namespace_unit_test.html#a192e777864b15dad1189fa0953146942" title="UnitTest::ExecuteTest" alt="" coords="263,259,414,285"/>
+<area shape="rect" id="node9" href="$class_unit_test_1_1_test_runner.html#ad2309a825bc2bd7c023a86ce6fe25558" title="UnitTest::TestRunner\l::GetTestResults" alt="" coords="667,277,811,318"/>
+<area shape="rect" id="node10" href="$class_unit_test_1_1_time_constraint.html#af315e8e723ca96003e341488cd5bb65e" title="UnitTest::TimeConstraint\l::~TimeConstraint" alt="" coords="256,361,421,402"/>
+<area shape="rect" id="node8" href="$class_unit_test_1_1_test.html#a8b266c253b945d9552c56012a96a55a2" title="UnitTest::Test::Run" alt="" coords="484,259,619,285"/>
+</map>

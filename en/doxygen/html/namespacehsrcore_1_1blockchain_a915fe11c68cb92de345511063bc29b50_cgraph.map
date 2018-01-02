@@ -1,0 +1,8 @@
+<map id="hsrcore::blockchain::check_balances" name="hsrcore::blockchain::check_balances">
+<area shape="rect" id="node2" href="$classhsrcore_1_1blockchain_1_1_chain_interface.html#a05369dec99193ba95800a39ff349ad00" title="hsrcore::blockchain\l::ChainInterface::get\l_balance_entry" alt="" coords="212,5,351,61"/>
+<area shape="rect" id="node3" href="$classhsrcore_1_1blockchain_1_1_chain_interface.html#a55ff4009828e6fe471fce6890197e711" title="hsrcore::blockchain\l::ChainInterface::now" alt="" coords="210,86,353,127"/>
+<area shape="rect" id="node4" href="$classhsrcore_1_1blockchain_1_1_chain_interface.html#aabf398a48e2ee054a89b53c976b3248e" title="hsrcore::blockchain\l::ChainInterface::get\l_asset_entry" alt="" coords="212,152,351,208"/>
+<area shape="rect" id="node5" href="$classhsrcore_1_1blockchain_1_1_transaction_evaluation_state.html#abf766ab90b7c62f3799014b3b7682b09" title="hsrcore::blockchain\l::TransactionEvaluationState\l::verify_authority" alt="" coords="188,232,375,288"/>
+<area shape="rect" id="node6" href="$classhsrcore_1_1blockchain_1_1_transaction_evaluation_state.html#ac2f347b449c83eb18f2f2258e77cf110" title="hsrcore::blockchain\l::TransactionEvaluationState\l::check_signature" alt="" coords="423,265,609,321"/>
+<area shape="rect" id="node7" href="$namespacehsrcore_1_1blockchain.html#a775fd7ddc1298e8ebf51ad8a3bf0fde8" title="hsrcore::blockchain\l::get_amount_sum" alt="" coords="214,363,349,405"/>
+</map>

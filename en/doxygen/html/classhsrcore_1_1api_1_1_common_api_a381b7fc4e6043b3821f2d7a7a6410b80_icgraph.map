@@ -1,0 +1,7 @@
+<map id="hsrcore::api::CommonApi::blockchain_list_recently_updated_accounts" name="hsrcore::api::CommonApi::blockchain_list_recently_updated_accounts">
+<area shape="rect" id="node2" href="$classhsrcore_1_1rpc__stubs_1_1_common_api_client.html#a35d216a67d00997d1765b4efe00e61ad" title="hsrcore::rpc_stubs\l::CommonApiClient::blockchain\l_list_recently_updated_accounts" alt="" coords="223,5,435,61"/>
+<area shape="rect" id="node3" href="$classhsrcore_1_1rpc__stubs_1_1_common_api_rpc_server.html#a785993a3530c0518ab22c4fdb9376244" title="hsrcore::rpc_stubs\l::CommonApiRpcServer\l::blockchain_list_recently\l_updated_accounts_positional" alt="" coords="230,181,427,251"/>
+<area shape="rect" id="node6" href="$classhsrcore_1_1rpc__stubs_1_1_common_api_rpc_server.html#ae28e8b83afedc6275542936a083901e5" title="hsrcore::rpc_stubs\l::CommonApiRpcServer\l::blockchain_list_recently\l_updated_accounts_named" alt="" coords="238,86,419,157"/>
+<area shape="rect" id="node4" href="$classhsrcore_1_1rpc__stubs_1_1_common_api_rpc_server.html#a45cf3aafd35992db4c663115daeeb234" title="hsrcore::rpc_stubs\l::CommonApiRpcServer\l::register_common_api\l_methods" alt="" coords="486,86,646,157"/>
+<area shape="rect" id="node5" href="$classhsrcore_1_1rpc__stubs_1_1_common_api_rpc_server.html#a0188b049d81ec379e3b00e02f4153dc2" title="hsrcore::rpc_stubs\l::CommonApiRpcServer\l::direct_invoke_positional\l_method" alt="" coords="483,181,649,251"/>
+</map>

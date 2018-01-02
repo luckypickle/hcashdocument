@@ -1,0 +1,7 @@
+<map id="hsrcore::wallet::Wallet::set_account_approval" name="hsrcore::wallet::Wallet::set_account_approval">
+<area shape="rect" id="node2" href="$classhsrcore_1_1wallet_1_1_wallet.html#a5fa9d05b99389e596dadae3ddfb4cdf8" title="hsrcore::wallet::Wallet\l::is_open" alt="" coords="419,5,569,47"/>
+<area shape="rect" id="node3" href="$classhsrcore_1_1wallet_1_1_wallet.html#a738d16d428549f8d2bd0f9d40167a93f" title="hsrcore::wallet::Wallet\l::add_contact_account" alt="" coords="208,64,363,105"/>
+<area shape="rect" id="node4" href="$namespacehsrcore_1_1blockchain.html#a2d604a90c34e5cfbc5252d1596314373" title="hsrcore::blockchain::now" alt="" coords="411,71,577,98"/>
+<area shape="rect" id="node5" href="$namespacehsrcore_1_1blockchain.html#a6ab2a224374df515fe76b3799ed648fb" title="hsrcore::blockchain\l::ntp_time" alt="" coords="625,64,760,105"/>
+<area shape="rect" id="node6" href="$namespacehsrcore_1_1blockchain_1_1detail.html#ae5c17ca96b07a1f76c62bc6fd564759c" title="hsrcore::blockchain\l::detail::ntp_service" alt="" coords="808,64,943,105"/>
+</map>

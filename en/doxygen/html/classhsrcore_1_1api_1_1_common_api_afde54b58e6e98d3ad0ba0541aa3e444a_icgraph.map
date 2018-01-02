@@ -1,0 +1,9 @@
+<map id="hsrcore::api::CommonApi::wallet_scan_transaction" name="hsrcore::api::CommonApi::wallet_scan_transaction">
+<area shape="rect" id="node2" href="$classhsrcore_1_1client_1_1detail_1_1_client_impl.html#a25245303c5dac7772552c61c81b0dfe2" title="hsrcore::client::detail\l::ClientImpl::wallet_http\l_callback" alt="" coords="251,5,409,61"/>
+<area shape="rect" id="node4" href="$classhsrcore_1_1rpc__stubs_1_1_common_api_client.html#a3a107a0c3948fdc50006c3a941af5613" title="hsrcore::rpc_stubs\l::CommonApiClient::wallet\l_scan_transaction" alt="" coords="243,85,417,141"/>
+<area shape="rect" id="node5" href="$classhsrcore_1_1rpc__stubs_1_1_common_api_rpc_server.html#a5ef32f17519cfe927cd6906e4f0c463d" title="hsrcore::rpc_stubs\l::CommonApiRpcServer\l::wallet_scan_transaction\l_positional" alt="" coords="245,246,415,317"/>
+<area shape="rect" id="node8" href="$classhsrcore_1_1rpc__stubs_1_1_common_api_rpc_server.html#ad0a7a1ad3f72dbe869cfc05d15ceee7a" title="hsrcore::rpc_stubs\l::CommonApiRpcServer\l::wallet_scan_transaction_named" alt="" coords="223,165,437,221"/>
+<area shape="rect" id="node3" href="$namespacehsrcore_1_1client_1_1detail.html#ab8ded1be359af6f93d0e8927c6572929" title="hsrcore::client::detail\l::read_keys" alt="" coords="497,13,640,54"/>
+<area shape="rect" id="node6" href="$classhsrcore_1_1rpc__stubs_1_1_common_api_rpc_server.html#a45cf3aafd35992db4c663115daeeb234" title="hsrcore::rpc_stubs\l::CommonApiRpcServer\l::register_common_api\l_methods" alt="" coords="489,158,649,229"/>
+<area shape="rect" id="node7" href="$classhsrcore_1_1rpc__stubs_1_1_common_api_rpc_server.html#a0188b049d81ec379e3b00e02f4153dc2" title="hsrcore::rpc_stubs\l::CommonApiRpcServer\l::direct_invoke_positional\l_method" alt="" coords="485,253,652,323"/>
+</map>

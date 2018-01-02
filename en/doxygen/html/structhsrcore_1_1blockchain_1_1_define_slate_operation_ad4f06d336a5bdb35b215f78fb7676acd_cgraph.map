@@ -1,0 +1,7 @@
+<map id="hsrcore::blockchain::DefineSlateOperation::evaluate" name="hsrcore::blockchain::DefineSlateOperation::evaluate">
+<area shape="rect" id="node2" href="$classhsrcore_1_1blockchain_1_1_chain_interface.html#a5be84057c877f3ad9648480dafec0144" title="hsrcore::blockchain\l::ChainInterface::get\l_account_entry" alt="" coords="211,5,349,61"/>
+<area shape="rect" id="node3" href="$structhsrcore_1_1blockchain_1_1_slate_entry.html#a99128a109db6ea0ec9cd17efd402ca0d" title="hsrcore::blockchain\l::SlateEntry::id" alt="" coords="410,118,545,159"/>
+<area shape="rect" id="node4" href="$classhsrcore_1_1blockchain_1_1_chain_interface.html#a0e165ff264591c5e337474e354c41bec" title="hsrcore::blockchain\l::ChainInterface::get\l_slate_entry" alt="" coords="211,136,349,192"/>
+<area shape="rect" id="node5" href="$classhsrcore_1_1blockchain_1_1_chain_interface.html#a1fe4727454adfcf58def009c8aa62488" title="hsrcore::blockchain\l::ChainInterface::store\l_slate_entry" alt="" coords="205,216,355,272"/>
+<area shape="rect" id="node6" href="$classhsrcore_1_1blockchain_1_1_chain_interface.html#aa2b96ebb8448dceb430ea0fbb61ca6c4" title="hsrcore::blockchain\l::ChainInterface::store" alt="" coords="403,223,552,265"/>
+</map>

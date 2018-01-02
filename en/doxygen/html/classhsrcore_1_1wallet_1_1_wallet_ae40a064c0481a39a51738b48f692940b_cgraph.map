@@ -1,0 +1,6 @@
+<map id="hsrcore::wallet::Wallet::initialize_transaction_creator" name="hsrcore::wallet::Wallet::initialize_transaction_creator">
+<area shape="rect" id="node2" href="$classhsrcore_1_1wallet_1_1_wallet.html#a1b3a26fc4b2eb0ed2a3fcb3813c694d9" title="hsrcore::wallet::Wallet\l::get_public_keys_in_account" alt="" coords="204,5,399,47"/>
+<area shape="rect" id="node5" href="$classhsrcore_1_1blockchain_1_1_transaction_creation_state.html#a70c4ebdfe22c2b9420a3cda5586edbf3" title="hsrcore::blockchain\l::TransactionCreationState\l::add_known_key" alt="" coords="213,71,389,127"/>
+<area shape="rect" id="node3" href="$classhsrcore_1_1wallet_1_1_wallet.html#a7ed6a25339e20ddac90e836c3aa866ec" title="hsrcore::wallet::Wallet\l::get_owner_public_key" alt="" coords="447,5,605,47"/>
+<area shape="rect" id="node4" href="$classhsrcore_1_1wallet_1_1_wallet.html#a5fa9d05b99389e596dadae3ddfb4cdf8" title="hsrcore::wallet::Wallet\l::is_open" alt="" coords="653,5,804,47"/>
+</map>

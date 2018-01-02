@@ -1,0 +1,5 @@
+<map id="hsrcore::rpc_stubs::CommonApiRpcServer::batch_authenticated_named" name="hsrcore::rpc_stubs::CommonApiRpcServer::batch_authenticated_named">
+<area shape="rect" id="node2" href="$classhsrcore_1_1rpc__stubs_1_1_common_api_rpc_server.html#a1dd3f241a3ecc519ef20ff9425ba22fc" title="hsrcore::rpc_stubs\l::CommonApiRpcServer\l::verify_json_connection\l_is_authenticated" alt="" coords="251,5,411,76"/>
+<area shape="rect" id="node3" href="$classhsrcore_1_1rpc__stubs_1_1_common_api_rpc_server.html#aeccf0f28cc2af78b93119aacca7ace3c" title="hsrcore::rpc_stubs\l::CommonApiRpcServer\l::get_client" alt="" coords="251,101,411,157"/>
+<area shape="rect" id="node4" href="$classhsrcore_1_1api_1_1_common_api.html#aab4e947b97c759a0259686e8c8ea35e1" title="hsrcore::api::CommonApi\l::batch_authenticated" alt="" coords="247,181,416,223"/>
+</map>

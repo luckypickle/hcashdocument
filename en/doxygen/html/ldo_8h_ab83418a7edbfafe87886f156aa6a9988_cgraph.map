@@ -1,0 +1,9 @@
+<map id="luaD_growstack" name="luaD_growstack">
+<area shape="rect" id="node2" href="$ldo_8cpp.html#a97706fc4752c2b3ea1ea23ae2b9e2d9a" title="luaD_throw" alt="" coords="187,29,274,56"/>
+<area shape="rect" id="node3" href="$ldo_8cpp.html#af9e1a13760752fc0ba594072b1fef5f3" title="luaD_reallocstack" alt="" coords="168,80,293,107"/>
+<area shape="rect" id="node4" href="$ldebug_8cpp.html#a5ef43f05a00bde7ee94539f3d765789c" title="luaG_runerror" alt="" coords="181,131,281,157"/>
+<area shape="rect" id="node5" href="$lobject_8cpp.html#aa83fa444a36d79521e846a766fa083d5" title="luaO_pushvfstring" alt="" coords="653,156,777,183"/>
+<area shape="rect" id="node6" href="$ldebug_8cpp.html#a7e1dc7518150bf19bd9aa5dda166a2eb" title="luaG_addinfo" alt="" coords="341,156,439,183"/>
+<area shape="rect" id="node7" href="$lobject_8cpp.html#a4708cca3615b7fafb7ea4631f486983b" title="luaO_chunkid" alt="" coords="495,156,597,183"/>
+<area shape="rect" id="node8" href="$lobject_8cpp.html#a8e224db7123c74d695076a96d1bfda61" title="luaO_pushfstring" alt="" coords="487,207,605,233"/>
+</map>

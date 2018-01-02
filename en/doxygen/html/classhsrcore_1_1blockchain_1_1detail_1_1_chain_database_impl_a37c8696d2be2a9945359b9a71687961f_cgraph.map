@@ -1,0 +1,4 @@
+<map id="hsrcore::blockchain::detail::ChainDatabaseImpl::apply_transactions" name="hsrcore::blockchain::detail::ChainDatabaseImpl::apply_transactions">
+<area shape="rect" id="node2" href="$class_thread_pool.html#aa9785f965eb5861749303290e80c9d00" title="ThreadPool::submit" alt="" coords="235,20,369,47"/>
+<area shape="rect" id="node3" href="$classthread__safe__queue.html#ac8f81325b85efe256ad41a946dc6eb66" title="thread_safe_queue::push" alt="" coords="417,20,584,47"/>
+</map>

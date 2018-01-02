@@ -1,0 +1,11 @@
+<map id="hsrcore::blockchain::PendingChainState" name="hsrcore::blockchain::PendingChainState">
+<area shape="rect" id="node2" href="$classhsrcore_1_1blockchain_1_1_chain_interface.html" title="{hsrcore::blockchain\l::ChainInterface\n||+ ~ChainInterface()\l+ now()\l+ is_valid_symbol_name()\l+ is_valid_symbol_name_v1()\l+ is_fraudulent_asset()\l+ get_genesis_timestamp()\l+ get_max_delegate_pay\l_issued_per_block()\l+ get_delegate_registration_fee()\l+ get_asset_registration_fee()\l+ get_imessage_need_fee()\land 76 more...\l+ is_valid_account_name()\l}" alt="" coords="543,145,753,413"/>
+<area shape="rect" id="node3" href="$classhsrcore_1_1blockchain_1_1_property_db_interface.html" title="{hsrcore::blockchain\l::PropertyDbInterface\n||}" alt="" coords="5,5,149,97"/>
+<area shape="rect" id="node4" href="$classhsrcore_1_1blockchain_1_1_account_db_interface.html" title="{hsrcore::blockchain\l::AccountDbInterface\n||}" alt="" coords="174,5,317,97"/>
+<area shape="rect" id="node5" href="$classhsrcore_1_1blockchain_1_1_asset_db_interface.html" title="{hsrcore::blockchain\l::AssetDbInterface\n||}" alt="" coords="341,5,475,97"/>
+<area shape="rect" id="node6" href="$classhsrcore_1_1blockchain_1_1_slate_db_interface.html" title="{hsrcore::blockchain\l::SlateDbInterface\n||}" alt="" coords="499,5,634,97"/>
+<area shape="rect" id="node7" href="$classhsrcore_1_1blockchain_1_1_balance_db_interface.html" title="{hsrcore::blockchain\l::BalanceDbInterface\n||}" alt="" coords="658,5,801,97"/>
+<area shape="rect" id="node8" href="$classhsrcore_1_1blockchain_1_1_transaction_db_interface.html" title="{hsrcore::blockchain\l::TransactionDbInterface\n||}" alt="" coords="825,5,988,97"/>
+<area shape="rect" id="node9" href="$classhsrcore_1_1blockchain_1_1_slot_db_interface.html" title="{hsrcore::blockchain\l::SlotDbInterface\n||}" alt="" coords="1013,5,1147,97"/>
+<area shape="rect" id="node10" href="$classhsrcore_1_1blockchain_1_1_contract_db_interface.html" title="{hsrcore::blockchain\l::ContractDbInterface\n||}" alt="" coords="1172,5,1316,97"/>
+</map>

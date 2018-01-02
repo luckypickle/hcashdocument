@@ -1,0 +1,5 @@
+<map id="hsrcore::net::detail::NodeImpl::fetch_updated_peer_lists_loop" name="hsrcore::net::detail::NodeImpl::fetch_updated_peer_lists_loop">
+<area shape="rect" id="node2" href="$namespacehsrcore_1_1blockchain.html#a2d604a90c34e5cfbc5252d1596314373" title="hsrcore::blockchain::now" alt="" coords="227,20,393,47"/>
+<area shape="rect" id="node3" href="$namespacehsrcore_1_1blockchain.html#a6ab2a224374df515fe76b3799ed648fb" title="hsrcore::blockchain\l::ntp_time" alt="" coords="441,13,576,54"/>
+<area shape="rect" id="node4" href="$namespacehsrcore_1_1blockchain_1_1detail.html#ae5c17ca96b07a1f76c62bc6fd564759c" title="hsrcore::blockchain\l::detail::ntp_service" alt="" coords="624,13,759,54"/>
+</map>

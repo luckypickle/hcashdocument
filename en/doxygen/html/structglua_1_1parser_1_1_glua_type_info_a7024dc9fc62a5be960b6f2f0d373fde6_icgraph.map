@@ -1,0 +1,5 @@
+<map id="glua::parser::GluaTypeInfo::is_narrow_table" name="glua::parser::GluaTypeInfo::is_narrow_table">
+<area shape="rect" id="node2" href="$structglua_1_1parser_1_1_glua_type_info.html#af3aed4a594ea24d6703167bbb18ca58c" title="glua::parser::GluaTypeInfo\l::is_table" alt="" coords="227,5,400,47"/>
+<area shape="rect" id="node3" href="$structglua_1_1parser_1_1_glua_type_info.html#ac312ce9c6da427f7f0cdbc686edb9d97" title="glua::parser::GluaTypeInfo\l::is_like_table" alt="" coords="227,71,400,112"/>
+<area shape="rect" id="node4" href="$classglua_1_1parser_1_1_glua_type_checker.html#a413e556b913b2f22d857fb7b2204d152" title="glua::parser::GluaTypeChecker\l::set_in_repl" alt="" coords="448,100,649,141"/>
+</map>

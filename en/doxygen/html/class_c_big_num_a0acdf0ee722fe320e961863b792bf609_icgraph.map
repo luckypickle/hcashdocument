@@ -1,0 +1,11 @@
+<map id="CBigNum::getuint256" name="CBigNum::getuint256">
+<area shape="rect" id="node2" href="$classhsrcore_1_1blockchain_1_1detail_1_1_chain_database_impl.html#a55121094e325ebd325c4641bb37b9aa8" title="hsrcore::blockchain\l::detail::ChainDatabaseImpl\l::verify_header" alt="" coords="448,5,629,61"/>
+<area shape="rect" id="node5" href="$classhsrcore_1_1blockchain_1_1_chain_database.html#a7fb843c292298254229f2551b4f0e94e" title="hsrcore::blockchain\l::ChainDatabase::CheckProof\lOfStake" alt="" coords="199,71,392,127"/>
+<area shape="rect" id="node7" href="$namespacehsrcore_1_1client_1_1detail.html#ad1bb6b82fba1d1b94ed3013ba8b85007" title="hsrcore::client::detail\l::MilliSleep" alt="" coords="224,151,367,193"/>
+<area shape="rect" id="node10" href="$classhsrcore_1_1wallet_1_1_wallet.html#a316a0f4e57248785156172b53879bd3e" title="hsrcore::wallet::Wallet\l::CheckWork" alt="" coords="220,217,371,258"/>
+<area shape="rect" id="node3" href="$classhsrcore_1_1blockchain_1_1detail_1_1_chain_database_impl.html#aeeffbabd2ac37bed5c061837beb8f8c1" title="hsrcore::blockchain\l::detail::ChainDatabaseImpl\l::extend_chain" alt="" coords="689,5,871,61"/>
+<area shape="rect" id="node4" href="$classhsrcore_1_1blockchain_1_1detail_1_1_chain_database_impl.html#afbdbe1d423c95c2fd6f44814300fffe3" title="hsrcore::blockchain\l::detail::ChainDatabaseImpl\l::switch_to_fork" alt="" coords="923,5,1104,61"/>
+<area shape="rect" id="node6" href="$classhsrcore_1_1blockchain_1_1_chain_database.html#a917efa83b8dc0d56fa722c3138d132f2" title="hsrcore::blockchain\l::ChainDatabase::CheckStake" alt="" coords="440,86,637,127"/>
+<area shape="rect" id="node8" href="$namespacehsrcore_1_1client_1_1detail.html#aa6e5e8c2f19ad844838194aa68459e68" title="hsrcore::client::detail\l::ThreadStakeMiner" alt="" coords="467,151,610,193"/>
+<area shape="rect" id="node9" href="$classhsrcore_1_1client_1_1detail_1_1_client_impl.html#afce88a14a09f444dd1ce966157c33e03" title="hsrcore::client::detail\l::ClientImpl::GenerateStakes" alt="" coords="685,151,875,193"/>
+</map>

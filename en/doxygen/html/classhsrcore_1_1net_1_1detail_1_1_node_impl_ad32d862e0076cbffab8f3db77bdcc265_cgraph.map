@@ -1,0 +1,4 @@
+<map id="hsrcore::net::detail::NodeImpl::set_advanced_node_parameters" name="hsrcore::net::detail::NodeImpl::set_advanced_node_parameters">
+<area shape="rect" id="node2" href="$classhsrcore_1_1net_1_1detail_1_1_node_impl.html#a575f20693219f162ed8b91819bc34924" title="hsrcore::net::detail\l::NodeImpl::disconnect\l_from_peer" alt="" coords="226,5,381,61"/>
+<area shape="rect" id="node3" href="$classhsrcore_1_1net_1_1detail_1_1_node_impl.html#a917de3c0d52918c7273aab68054f7c8a" title="hsrcore::net::detail\l::NodeImpl::trigger_p2p\l_network_connect_loop" alt="" coords="224,85,383,141"/>
+</map>

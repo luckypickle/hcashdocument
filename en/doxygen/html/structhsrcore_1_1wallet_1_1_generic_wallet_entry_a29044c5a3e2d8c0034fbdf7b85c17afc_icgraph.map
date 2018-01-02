@@ -1,0 +1,4 @@
+<map id="hsrcore::wallet::GenericWalletEntry::get_wallet_entry_index" name="hsrcore::wallet::GenericWalletEntry::get_wallet_entry_index">
+<area shape="rect" id="node2" href="$classhsrcore_1_1wallet_1_1detail_1_1_wallet_db_impl.html#a4ed07d63a9372d1285f3c7731ababb25" title="hsrcore::wallet::detail\l::WalletDbImpl::store\l_and_reload_generic_entry" alt="" coords="212,5,389,61"/>
+<area shape="rect" id="node3" href="$classhsrcore_1_1wallet_1_1detail_1_1_wallet_db_impl.html#afe97c02135c9e9c8624d8498d40d219d" title="hsrcore::wallet::detail\l::WalletDbImpl::remove\l_generic_wallet_entry" alt="" coords="223,85,379,141"/>
+</map>

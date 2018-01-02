@@ -1,0 +1,10 @@
+<map id="hsrcore::blockchain::ChainInterface::get_head_block_num" name="hsrcore::blockchain::ChainInterface::get_head_block_num">
+<area shape="rect" id="node2" href="$structhsrcore_1_1blockchain_1_1_register_account_operation.html#a227126e9351b05898b2517e02d06a507" title="hsrcore::blockchain\l::RegisterAccountOperation\l::evaluate" alt="" coords="197,5,380,61"/>
+<area shape="rect" id="node3" href="$structhsrcore_1_1blockchain_1_1_update_account_operation.html#ab726e3686b54d08b4eb6f082f1c60f1b" title="hsrcore::blockchain\l::UpdateAccountOperation\l::evaluate" alt="" coords="201,85,376,141"/>
+<area shape="rect" id="node4" href="$structhsrcore_1_1blockchain_1_1_update_signing_key_operation.html#aaf4e3190f2350fab3c73e16e8969aad6" title="hsrcore::blockchain\l::UpdateSigningKeyOperation\l::evaluate" alt="" coords="192,165,385,221"/>
+<area shape="rect" id="node5" href="$classhsrcore_1_1blockchain_1_1_chain_interface.html#ad86b80e05d0360382a63e8d7c48966fe" title="hsrcore::blockchain\l::ChainInterface::get\l_max_delegate_pay_issued\l_per_block" alt="" coords="197,246,380,317"/>
+<area shape="rect" id="node6" href="$classhsrcore_1_1blockchain_1_1_chain_interface.html#ab3941f5c9d2d0a3f84879b8140d83d1e" title="hsrcore::blockchain\l::ChainInterface::~ChainInterface" alt="" coords="433,298,644,339"/>
+<area shape="rect" id="node7" href="$classhsrcore_1_1lua_1_1api_1_1_glua_chain_api.html#af59d374efe82e029b0038187008819b8" title="hsrcore::lua::api::\lGluaChainApi::get_header\l_block_num" alt="" coords="202,392,375,448"/>
+<area shape="rect" id="node8" href="$classhsrcore_1_1lua_1_1api_1_1_glua_chain_api.html#a5572442f7dc5b4183ca8865612399902" title="hsrcore::lua::api::\lGluaChainApi::wait_for\l_future_random" alt="" coords="212,472,365,528"/>
+<area shape="rect" id="node9" href="$classhsrcore_1_1lua_1_1api_1_1_glua_chain_api.html#a2185cc9f8ccd0d1dbcd6a24b4ee77c18" title="hsrcore::lua::api::\lGluaChainApi::get_waited" alt="" coords="203,553,374,594"/>
+</map>

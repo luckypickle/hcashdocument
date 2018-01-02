@@ -1,0 +1,13 @@
+<map id="hsrcore::net::detail::NodeImpl::~NodeImpl" name="hsrcore::net::detail::NodeImpl::~NodeImpl">
+<area shape="rect" id="node2" href="$classhsrcore_1_1net_1_1_peer_database.html#a6c4780d397eac610f3b7f9c0ced11f34" title="hsrcore::net::PeerDatabase\l::lookup_entry_for_endpoint" alt="" coords="208,5,389,47"/>
+<area shape="rect" id="node3" href="$namespacehsrcore_1_1blockchain.html#a2d604a90c34e5cfbc5252d1596314373" title="hsrcore::blockchain::now" alt="" coords="215,71,382,98"/>
+<area shape="rect" id="node6" href="$classhsrcore_1_1net_1_1_peer_database.html#a61979f93d5036235ffddb14f017bb04e" title="hsrcore::net::PeerDatabase\l::update_entry" alt="" coords="208,123,389,164"/>
+<area shape="rect" id="node7" href="$classhsrcore_1_1net_1_1detail_1_1_node_impl.html#ac4ba7321e21a7abb097a578285ce73c6" title="called after a peer finishes handshaking, kicks off syncing " alt="" coords="233,235,364,276"/>
+<area shape="rect" id="node4" href="$namespacehsrcore_1_1blockchain.html#a6ab2a224374df515fe76b3799ed648fb" title="hsrcore::blockchain\l::ntp_time" alt="" coords="463,40,598,81"/>
+<area shape="rect" id="node5" href="$namespacehsrcore_1_1blockchain_1_1detail.html#ae5c17ca96b07a1f76c62bc6fd564759c" title="hsrcore::blockchain\l::detail::ntp_service" alt="" coords="672,40,807,81"/>
+<area shape="rect" id="node8" href="$classhsrcore_1_1db_1_1_level_map.html#a72936f304d982fda0503e2c3768920b9" title="hsrcore::db::LevelMap\l::close" alt="" coords="456,105,605,147"/>
+<area shape="rect" id="node9" href="$classhsrcore_1_1net_1_1detail_1_1_node_impl.html#a917de3c0d52918c7273aab68054f7c8a" title="hsrcore::net::detail\l::NodeImpl::trigger_p2p\l_network_connect_loop" alt="" coords="451,171,610,227"/>
+<area shape="rect" id="node10" href="$classhsrcore_1_1net_1_1detail_1_1_node_impl.html#ab3d64c39165a970e7663ae3a0051d259" title="hsrcore::net::detail\l::NodeImpl::trigger_fetch\l_sync_items_loop" alt="" coords="449,251,612,307"/>
+<area shape="rect" id="node11" href="$classhsrcore_1_1net_1_1detail_1_1_node_impl.html#a65ae5ac12d0cf697bf9c9cab385ea1e8" title="hsrcore::net::detail\l::NodeImpl::trigger_fetch\l_items_loop" alt="" coords="449,331,612,387"/>
+<area shape="rect" id="node12" href="$classhsrcore_1_1net_1_1detail_1_1_node_impl.html#a8ddb880322e2f7239743888ecc01a703" title="hsrcore::net::detail\l::NodeImpl::trigger_advertise\l_inventory_loop" alt="" coords="437,411,624,467"/>
+</map>

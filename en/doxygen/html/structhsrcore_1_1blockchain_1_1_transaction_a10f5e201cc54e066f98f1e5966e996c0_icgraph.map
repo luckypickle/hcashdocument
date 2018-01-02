@@ -1,0 +1,6 @@
+<map id="hsrcore::blockchain::Transaction::withdraw" name="hsrcore::blockchain::Transaction::withdraw">
+<area shape="rect" id="node2" href="$classhsrcore_1_1blockchain_1_1_transaction_creation_state.html#a8c8e344d615c265d396d3a9377ef5a3e" title="hsrcore::blockchain\l::TransactionCreationState\l::withdraw" alt="" coords="213,5,389,61"/>
+<area shape="rect" id="node3" href="$classhsrcore_1_1wallet_1_1detail_1_1_wallet_impl.html#ab27a12bb717162883fe855b32f7952f5" title="hsrcore::wallet::detail\l::WalletImpl::withdraw\l_to_transaction_by_address" alt="" coords="208,85,393,141"/>
+<area shape="rect" id="node4" href="$classhsrcore_1_1wallet_1_1detail_1_1_wallet_impl.html#aa1a1b3818eaee328e06dd5a9cf9f8166" title="hsrcore::wallet::detail\l::WalletImpl::withdraw\l_to_transaction" alt="" coords="226,165,375,221"/>
+<area shape="rect" id="node5" href="$classhsrcore_1_1wallet_1_1_wallet.html#a162d04b50ccf050fdd93d401943c19a8" title="hsrcore::wallet::Wallet\l::collect_account_balances" alt="" coords="211,246,391,287"/>
+</map>

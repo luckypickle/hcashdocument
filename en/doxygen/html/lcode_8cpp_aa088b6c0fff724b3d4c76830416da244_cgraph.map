@@ -1,0 +1,5 @@
+<map id="luaK_setreturns" name="luaK_setreturns">
+<area shape="rect" id="node2" href="$lcode_8cpp.html#af1190942fb7a557b056ac8bbaa0024a1" title="luaK_reserveregs" alt="" coords="167,5,288,32"/>
+<area shape="rect" id="node3" href="$lcode_8cpp.html#afd941e61245bcb4d05bd3ba5b4ffec3b" title="luaK_checkstack" alt="" coords="336,5,459,32"/>
+<area shape="rect" id="node4" href="$llex_8cpp.html#a1304c5741ab55cca55adb3ea2b3331d8" title="luaX_syntaxerror" alt="" coords="507,5,625,32"/>
+</map>

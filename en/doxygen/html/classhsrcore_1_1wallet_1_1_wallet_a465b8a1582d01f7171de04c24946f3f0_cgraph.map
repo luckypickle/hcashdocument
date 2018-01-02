@@ -1,0 +1,8 @@
+<map id="hsrcore::wallet::Wallet::add_event_handler" name="hsrcore::wallet::Wallet::add_event_handler">
+<area shape="rect" id="node2" href="$classhsrcore_1_1wallet_1_1_wallet.html#a5fa9d05b99389e596dadae3ddfb4cdf8" title="hsrcore::wallet::Wallet\l::is_open" alt="" coords="800,20,951,61"/>
+<area shape="rect" id="node3" href="$classhsrcore_1_1wallet_1_1_wallet.html#a519c123db91699c6d1432008896c8b23" title="hsrcore::wallet::Wallet\l::is_unlocked" alt="" coords="403,49,553,90"/>
+<area shape="rect" id="node5" href="$namespaceglua_1_1util.html#a0c3cdace845eb2fe620fa3e69c30cc2e" title="glua::util::find" alt="" coords="230,174,329,200"/>
+<area shape="rect" id="node7" href="$classhsrcore_1_1wallet_1_1_wallet.html#a98fdbfa31cfd2af31ab9e177fd4a0492" title="hsrcore::wallet::Wallet\l::get_script_entry" alt="" coords="204,108,355,149"/>
+<area shape="rect" id="node4" href="$classhsrcore_1_1wallet_1_1_wallet.html#a6e0016a17a8a09a506c9dfa7bbbb5f5d" title="hsrcore::wallet::Wallet\l::is_locked" alt="" coords="601,49,752,90"/>
+<area shape="rect" id="node6" href="$namespaceglua_1_1util.html#a65b8d51308032502f395500ffeacb628" title="glua::util::string\l_lines_count" alt="" coords="423,166,533,208"/>
+</map>

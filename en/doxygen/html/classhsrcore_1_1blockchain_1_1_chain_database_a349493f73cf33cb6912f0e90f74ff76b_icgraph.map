@@ -1,0 +1,5 @@
+<map id="hsrcore::blockchain::ChainDatabase::scan_balances" name="hsrcore::blockchain::ChainDatabase::scan_balances">
+<area shape="rect" id="node2" href="$classhsrcore_1_1blockchain_1_1_chain_database.html#af714ee993ca16c85c8bbbf89d907e825" title="hsrcore::blockchain\l::ChainDatabase::get\l_balances_for_address" alt="" coords="223,5,378,61"/>
+<area shape="rect" id="node3" href="$classhsrcore_1_1blockchain_1_1_chain_database.html#a125eb67f9e10d70c270e06213cae9f81" title="hsrcore::blockchain\l::ChainDatabase::get\l_balances_for_key" alt="" coords="229,85,373,141"/>
+<area shape="rect" id="node4" href="$classhsrcore_1_1blockchain_1_1_chain_database.html#a849d4794a450727571839e1142fd241b" title="hsrcore::blockchain\l::ChainDatabase::unclaimed\l_genesis" alt="" coords="208,165,393,221"/>
+</map>

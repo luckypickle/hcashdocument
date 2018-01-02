@@ -1,0 +1,7 @@
+<map id="UnitTest::CurrentTest::Results" name="UnitTest::CurrentTest::Results">
+<area shape="rect" id="node2" href="$namespace_unit_test.html#a192e777864b15dad1189fa0953146942" title="UnitTest::ExecuteTest" alt="" coords="206,5,357,32"/>
+<area shape="rect" id="node4" href="$class_unit_test_1_1_test_runner.html#ad2309a825bc2bd7c023a86ce6fe25558" title="UnitTest::TestRunner\l::GetTestResults" alt="" coords="595,23,739,65"/>
+<area shape="rect" id="node5" href="$namespace_unit_test.html#a622ac51066497ac93561d34222655d5b" title="UnitTest::ReportAssert" alt="" coords="204,107,359,133"/>
+<area shape="rect" id="node6" href="$class_unit_test_1_1_time_constraint.html#af315e8e723ca96003e341488cd5bb65e" title="UnitTest::TimeConstraint\l::~TimeConstraint" alt="" coords="199,158,364,199"/>
+<area shape="rect" id="node3" href="$class_unit_test_1_1_test.html#a8b266c253b945d9552c56012a96a55a2" title="UnitTest::Test::Run" alt="" coords="412,5,547,32"/>
+</map>

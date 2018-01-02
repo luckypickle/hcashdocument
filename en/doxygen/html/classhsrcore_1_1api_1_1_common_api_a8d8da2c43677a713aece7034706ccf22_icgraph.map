@@ -1,0 +1,7 @@
+<map id="hsrcore::api::CommonApi::wallet_get_all_approved_accounts" name="hsrcore::api::CommonApi::wallet_get_all_approved_accounts">
+<area shape="rect" id="node2" href="$classhsrcore_1_1rpc__stubs_1_1_common_api_client.html#afedac3681c154ce29c39f1dd73b0d5b9" title="hsrcore::rpc_stubs\l::CommonApiClient::wallet\l_get_all_approved_accounts" alt="" coords="223,5,408,61"/>
+<area shape="rect" id="node3" href="$classhsrcore_1_1rpc__stubs_1_1_common_api_rpc_server.html#a886de98381af07f1b5b4aa212b2e9dd5" title="hsrcore::rpc_stubs\l::CommonApiRpcServer\l::wallet_get_all_approved\l_accounts_positional" alt="" coords="232,181,399,251"/>
+<area shape="rect" id="node6" href="$classhsrcore_1_1rpc__stubs_1_1_common_api_rpc_server.html#adc11e0103e2bcd36248572f1c06c9676" title="hsrcore::rpc_stubs\l::CommonApiRpcServer\l::wallet_get_all_approved\l_accounts_named" alt="" coords="232,86,399,157"/>
+<area shape="rect" id="node4" href="$classhsrcore_1_1rpc__stubs_1_1_common_api_rpc_server.html#a45cf3aafd35992db4c663115daeeb234" title="hsrcore::rpc_stubs\l::CommonApiRpcServer\l::register_common_api\l_methods" alt="" coords="459,86,619,157"/>
+<area shape="rect" id="node5" href="$classhsrcore_1_1rpc__stubs_1_1_common_api_rpc_server.html#a0188b049d81ec379e3b00e02f4153dc2" title="hsrcore::rpc_stubs\l::CommonApiRpcServer\l::direct_invoke_positional\l_method" alt="" coords="456,181,623,251"/>
+</map>

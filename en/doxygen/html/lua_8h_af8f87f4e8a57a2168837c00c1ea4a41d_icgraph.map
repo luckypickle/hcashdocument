@@ -1,0 +1,8 @@
+<map id="lua_isinteger" name="lua_isinteger">
+<area shape="rect" id="node2" href="$lapi_8h.html#a4c4638e137973041d85575bbd697ddf1" title="luaL_traverse_table\l_with_nested" alt="" coords="148,64,281,105"/>
+<area shape="rect" id="node4" href="$lauxlib_8h.html#a7851b9225ae6cf73763109d26d50bd8e" title="lua_type_to_storage\l_value_type_with_nested" alt="" coords="532,8,699,49"/>
+<area shape="rect" id="node6" href="$lauxlib_8h.html#afa916a69134119cd53e3688e34c07dcb" title="lua_table_to_map_traverser\l_with_nested" alt="" coords="747,71,927,112"/>
+<area shape="rect" id="node7" href="$lauxlib_8h.html#aef6da057d1e26ed6449b92177f1f2f5a" title="luaL_tolstring" alt="" coords="165,181,264,207"/>
+<area shape="rect" id="node3" href="$lauxlib_8h.html#abb7fbbf2e52b5529cb928931963da3a7" title="lua_table_to_map_with\l_nested" alt="" coords="329,64,484,105"/>
+<area shape="rect" id="node5" href="$lauxlib_8h.html#ac55421a1f16be38972cfee274ebd3c46" title="lua_type_to_storage\l_value_type" alt="" coords="767,5,906,47"/>
+</map>

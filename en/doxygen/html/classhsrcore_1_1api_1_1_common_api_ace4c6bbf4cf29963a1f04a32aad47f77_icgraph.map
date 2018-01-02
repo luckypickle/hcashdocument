@@ -1,0 +1,7 @@
+<map id="hsrcore::api::CommonApi::delegate_set_block_max_size" name="hsrcore::api::CommonApi::delegate_set_block_max_size">
+<area shape="rect" id="node2" href="$classhsrcore_1_1rpc__stubs_1_1_common_api_client.html#afcb5b820beb6f8c545a4d487d454088d" title="hsrcore::rpc_stubs\l::CommonApiClient::delegate\l_set_block_max_size" alt="" coords="259,5,449,61"/>
+<area shape="rect" id="node3" href="$classhsrcore_1_1rpc__stubs_1_1_common_api_rpc_server.html#a4535862e9943a245a64f638780bd1d9f" title="hsrcore::rpc_stubs\l::CommonApiRpcServer\l::delegate_set_block\l_max_size_positional" alt="" coords="274,181,434,251"/>
+<area shape="rect" id="node6" href="$classhsrcore_1_1rpc__stubs_1_1_common_api_rpc_server.html#aeb4d6f768847f387843d35246b10659f" title="hsrcore::rpc_stubs\l::CommonApiRpcServer\l::delegate_set_block\l_max_size_named" alt="" coords="274,86,434,157"/>
+<area shape="rect" id="node4" href="$classhsrcore_1_1rpc__stubs_1_1_common_api_rpc_server.html#a45cf3aafd35992db4c663115daeeb234" title="hsrcore::rpc_stubs\l::CommonApiRpcServer\l::register_common_api\l_methods" alt="" coords="501,86,661,157"/>
+<area shape="rect" id="node5" href="$classhsrcore_1_1rpc__stubs_1_1_common_api_rpc_server.html#a0188b049d81ec379e3b00e02f4153dc2" title="hsrcore::rpc_stubs\l::CommonApiRpcServer\l::direct_invoke_positional\l_method" alt="" coords="497,181,664,251"/>
+</map>

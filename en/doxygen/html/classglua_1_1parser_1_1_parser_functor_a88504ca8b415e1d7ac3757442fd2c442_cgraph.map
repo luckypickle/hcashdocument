@@ -1,0 +1,5 @@
+<map id="glua::parser::ParserFunctor::set_next_token_types_in_types_or_newline" name="glua::parser::ParserFunctor::set_next_token_types_in_types_or_newline">
+<area shape="rect" id="node2" href="$classglua_1_1parser_1_1_input.html#a43d0e75dfe4c7c8cc62462b5f9ebf87e" title="glua::parser::Input\l::token_after_position" alt="" coords="245,5,392,47"/>
+<area shape="rect" id="node4" href="$classglua_1_1parser_1_1_match_result.html#a43478b2175e7e18325aa1477a0f1f7b7" title="glua::parser::MatchResult\l::last_token" alt="" coords="233,71,404,112"/>
+<area shape="rect" id="node3" href="$namespaceglua_1_1parser.html#a70e3bea435931b79974e5bb38df0ae1b" title="glua::parser::eof_token" alt="" coords="452,13,607,39"/>
+</map>

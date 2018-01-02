@@ -1,0 +1,6 @@
+<map id="hsrcore::blockchain::ChainInterface::new_asset_id" name="hsrcore::blockchain::ChainInterface::new_asset_id">
+<area shape="rect" id="node2" href="$classhsrcore_1_1blockchain_1_1_chain_interface.html#af366bbfe11255fcca8e080997f1f38f8" title="hsrcore::blockchain\l::ChainInterface::last\l_asset_id" alt="" coords="200,5,341,61"/>
+<area shape="rect" id="node4" href="$classhsrcore_1_1blockchain_1_1_chain_interface.html#aae4851afbf6a5b746c16b3ac09d9a46a" title="hsrcore::blockchain\l::ChainInterface::store\l_property_entry" alt="" coords="196,85,345,141"/>
+<area shape="rect" id="node3" href="$classhsrcore_1_1blockchain_1_1_chain_interface.html#a8210d2d3d2c07977058f4ee1fe3005bf" title="hsrcore::blockchain\l::ChainInterface::get\l_property_entry" alt="" coords="399,5,537,61"/>
+<area shape="rect" id="node5" href="$classhsrcore_1_1blockchain_1_1_chain_interface.html#aa2b96ebb8448dceb430ea0fbb61ca6c4" title="hsrcore::blockchain\l::ChainInterface::store" alt="" coords="393,93,543,134"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="hsrcore::blockchain::ChainInterface::transfer_asset_from_contract" name="hsrcore::blockchain::ChainInterface::transfer_asset_from_contract">
+<area shape="rect" id="node2" href="$classhsrcore_1_1blockchain_1_1_transaction_evaluation_state.html#ade7bcfce9ec34eeb0257e23e050f348d" title="hsrcore::blockchain\l::TransactionEvaluationState\l::transfer_asset_from_contract" alt="" coords="222,13,421,69"/>
+<area shape="rect" id="node5" href="$classhsrcore_1_1blockchain_1_1_chain_interface.html#ab3941f5c9d2d0a3f84879b8140d83d1e" title="hsrcore::blockchain\l::ChainInterface::~ChainInterface" alt="" coords="216,93,427,135"/>
+<area shape="rect" id="node3" href="$classhsrcore_1_1lua_1_1api_1_1_glua_chain_api.html#aab0ed129a74416e415e2d82d6833c5a8" title="hsrcore::lua::api::\lGluaChainApi::transfer\l_from_contract_to_address" alt="" coords="475,13,653,69"/>
+<area shape="rect" id="node4" href="$classhsrcore_1_1lua_1_1api_1_1_glua_chain_api.html#a8c73beda4ce8c9b1f0b9c82c51485395" title="hsrcore::lua::api::\lGluaChainApi::transfer\l_from_contract_to_public\l_account" alt="" coords="701,5,868,76"/>
+</map>

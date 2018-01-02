@@ -1,0 +1,8 @@
+<map id="hsrcore::wallet::Wallet::create_transaction_builder" name="hsrcore::wallet::Wallet::create_transaction_builder">
+<area shape="rect" id="node2" href="$classhsrcore_1_1wallet_1_1_wallet.html#a3f56cba8ee36cd1eb295a526e8cd6655" title="hsrcore::wallet::Wallet\l::set_vote_info" alt="" coords="254,5,405,47"/>
+<area shape="rect" id="node3" href="$classhsrcore_1_1wallet_1_1_wallet.html#a4e160a505e540b4cec2fbbd8f1042a93" title="hsrcore::wallet::Wallet\l::update_signing_key" alt="" coords="254,71,405,112"/>
+<area shape="rect" id="node4" href="$classhsrcore_1_1wallet_1_1_wallet.html#a25c771d92e94064d1cb913ff9ded91bd" title="hsrcore::wallet::Wallet\l::update_asset" alt="" coords="254,136,405,177"/>
+<area shape="rect" id="node5" href="$classhsrcore_1_1wallet_1_1_wallet.html#adf8afeb083eca824d21a4046d1b9e114" title="hsrcore::wallet::Wallet\l::update_registered_account" alt="" coords="236,201,423,243"/>
+<area shape="rect" id="node6" href="$classhsrcore_1_1wallet_1_1_wallet.html#a968f2010ffc98c8feba413bf0b0e2dc9" title="hsrcore::wallet::Wallet\l::update_active_key" alt="" coords="254,267,405,308"/>
+<area shape="rect" id="node7" href="$classhsrcore_1_1wallet_1_1_wallet.html#a1fee6b4a0f17ad9027df0c6d87d4adb0" title="hsrcore::wallet::Wallet\l::retract_account" alt="" coords="254,332,405,373"/>
+</map>

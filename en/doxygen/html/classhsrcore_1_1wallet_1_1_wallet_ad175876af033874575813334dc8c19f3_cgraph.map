@@ -1,0 +1,12 @@
+<map id="hsrcore::wallet::Wallet::create_asset" name="hsrcore::wallet::Wallet::create_asset">
+<area shape="rect" id="node2" href="$namespacehsrcore_1_1blockchain.html#a8f0caa3175aa1837a82179df8e24db41" title="hsrcore::blockchain\l::is_power_of_ten" alt="" coords="220,5,355,47"/>
+<area shape="rect" id="node3" href="$classhsrcore_1_1wallet_1_1_wallet.html#a5fa9d05b99389e596dadae3ddfb4cdf8" title="hsrcore::wallet::Wallet\l::is_open" alt="" coords="649,215,800,256"/>
+<area shape="rect" id="node4" href="$classhsrcore_1_1wallet_1_1_wallet.html#a519c123db91699c6d1432008896c8b23" title="hsrcore::wallet::Wallet\l::is_unlocked" alt="" coords="212,203,363,244"/>
+<area shape="rect" id="node6" href="$namespacehsrcore_1_1blockchain.html#a2d604a90c34e5cfbc5252d1596314373" title="hsrcore::blockchain::now" alt="" coords="204,418,371,445"/>
+<area shape="rect" id="node9" href="$classhsrcore_1_1wallet_1_1_wallet.html#a6a506bd3f08711f6fbd0f2bee59b5c2a" title="hsrcore::wallet::Wallet\l::get_transaction_expiration" alt="" coords="419,303,601,344"/>
+<area shape="rect" id="node10" href="$classhsrcore_1_1wallet_1_1_wallet.html#a642e63013a2ff7de99c6dadda4e1e0bf" title="hsrcore::wallet::Wallet\l::get_transaction_fee" alt="" coords="435,368,585,409"/>
+<area shape="rect" id="node11" href="$classhsrcore_1_1wallet_1_1_wallet.html#a7ed6a25339e20ddac90e836c3aa866ec" title="hsrcore::wallet::Wallet\l::get_owner_public_key" alt="" coords="208,71,367,112"/>
+<area shape="rect" id="node5" href="$classhsrcore_1_1wallet_1_1_wallet.html#a6e0016a17a8a09a506c9dfa7bbbb5f5d" title="hsrcore::wallet::Wallet\l::is_locked" alt="" coords="435,185,585,227"/>
+<area shape="rect" id="node7" href="$namespacehsrcore_1_1blockchain.html#a6ab2a224374df515fe76b3799ed648fb" title="hsrcore::blockchain\l::ntp_time" alt="" coords="443,433,577,475"/>
+<area shape="rect" id="node8" href="$namespacehsrcore_1_1blockchain_1_1detail.html#ae5c17ca96b07a1f76c62bc6fd564759c" title="hsrcore::blockchain\l::detail::ntp_service" alt="" coords="657,433,792,475"/>
+</map>

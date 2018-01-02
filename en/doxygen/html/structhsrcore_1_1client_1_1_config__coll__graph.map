@@ -1,0 +1,4 @@
+<map id="hsrcore::client::Config" name="hsrcore::client::Config">
+<area shape="rect" id="node4" href="$structhsrcore_1_1client_1_1_chain_server_config.html" title="{hsrcore::client::ChainServer\lConfig\n|+ enabled\l+ listen_port\l|+ ChainServerConfig()\l}" alt="" coords="311,219,493,325"/>
+<area shape="rect" id="node5" href="$structhsrcore_1_1client_1_1_rpc_server_config.html" title="{hsrcore::client::RpcServer\lConfig\n|+ enable\l+ enable_cache\l+ rpc_endpoint\l+ httpd_endpoint\l+ encrypted_rpc_endpoint\l|+ RpcServerConfig()\l+ is_valid()\l}" alt="" coords="517,189,689,355"/>
+</map>

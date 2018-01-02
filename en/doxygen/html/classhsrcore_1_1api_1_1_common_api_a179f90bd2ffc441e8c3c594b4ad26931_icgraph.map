@@ -1,0 +1,8 @@
+<map id="hsrcore::api::CommonApi::set_coinbase" name="hsrcore::api::CommonApi::set_coinbase">
+<area shape="rect" id="node2" href="$namespacehsrcore_1_1client_1_1detail.html#aef590a52729f6e22b6cff8c9b75d4d89" title="hsrcore::client::detail\l::hex2bin" alt="" coords="236,5,379,47"/>
+<area shape="rect" id="node3" href="$classhsrcore_1_1rpc__stubs_1_1_common_api_client.html#a83f5926206d99d444a95257bbc0a6fcd" title="hsrcore::rpc_stubs\l::CommonApiClient::set\l_coinbase" alt="" coords="227,71,387,127"/>
+<area shape="rect" id="node4" href="$classhsrcore_1_1rpc__stubs_1_1_common_api_rpc_server.html#ac7e6973eef1bdba2162e5a66c3b55844" title="hsrcore::rpc_stubs\l::CommonApiRpcServer\l::set_coinbase_positional" alt="" coords="223,231,392,287"/>
+<area shape="rect" id="node7" href="$classhsrcore_1_1rpc__stubs_1_1_common_api_rpc_server.html#ad55c66cf0ba1bd26c17f45aee15ca6a4" title="hsrcore::rpc_stubs\l::CommonApiRpcServer\l::set_coinbase_named" alt="" coords="227,151,387,207"/>
+<area shape="rect" id="node5" href="$classhsrcore_1_1rpc__stubs_1_1_common_api_rpc_server.html#a45cf3aafd35992db4c663115daeeb234" title="hsrcore::rpc_stubs\l::CommonApiRpcServer\l::register_common_api\l_methods" alt="" coords="443,144,603,215"/>
+<area shape="rect" id="node6" href="$classhsrcore_1_1rpc__stubs_1_1_common_api_rpc_server.html#a0188b049d81ec379e3b00e02f4153dc2" title="hsrcore::rpc_stubs\l::CommonApiRpcServer\l::direct_invoke_positional\l_method" alt="" coords="440,239,607,309"/>
+</map>

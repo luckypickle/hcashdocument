@@ -1,0 +1,4 @@
+<map id="hsrcore::db::try_upgrade_db" name="hsrcore::db::try_upgrade_db">
+<area shape="rect" id="node2" href="$classhsrcore_1_1db_1_1_level_map.html#a41d03216f0b3cd2128a442ae5dd9f137" title="hsrcore::db::LevelMap\l\&lt; uint8_t, hsrcore::blockchain\l::PropertyEntry \&gt;::open" alt="" coords="237,5,432,61"/>
+<area shape="rect" id="node3" href="$classhsrcore_1_1db_1_1level__pod__map.html#a5b4ff7792d78de51bd4a7aa0f30d1a47" title="hsrcore::db::level\l_pod_map\&lt; uint32_t,\l PotentialPeerEntry \&gt;\l::open" alt="" coords="261,86,408,157"/>
+</map>

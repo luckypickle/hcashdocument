@@ -1,0 +1,4 @@
+<map id="hsrcore::client::Client::connect_to_p2p_network" name="hsrcore::client::Client::connect_to_p2p_network">
+<area shape="rect" id="node2" href="$namespacehsrcore_1_1blockchain.html#a8eea44bf7eae1835680e671512be038f" title="hsrcore::blockchain\l::get_list_of_fork_block\l_numbers" alt="" coords="228,13,383,69"/>
+<area shape="rect" id="node3" href="$namespacehsrcore_1_1blockchain_1_1detail.html#a3b845c96702d3c73b2bfd4d2dbb4762c" title="hsrcore::blockchain\l::detail::initialize\l_fork_version_data_if\l_necessary" alt="" coords="431,5,573,76"/>
+</map>

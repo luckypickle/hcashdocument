@@ -1,0 +1,7 @@
+<map id="hsrcore::net::detail::NodeImpl::send_sync_block_to_node_delegate" name="hsrcore::net::detail::NodeImpl::send_sync_block_to_node_delegate">
+<area shape="rect" id="node2" href="$classhsrcore_1_1net_1_1detail_1_1_node_impl.html#a886a64b0cce8c031624a567d8635f503" title="hsrcore::net::detail\l::NodeImpl::process_backlog\l_of_sync_blocks" alt="" coords="223,5,413,61"/>
+<area shape="rect" id="node3" href="$classhsrcore_1_1net_1_1detail_1_1_node_impl.html#a7171a8005ceb34c2b858e0c45e9de09f" title="hsrcore::net::detail\l::NodeImpl::trigger_process\l_backlog_of_sync_blocks" alt="" coords="461,5,643,61"/>
+<area shape="rect" id="node4" href="$classhsrcore_1_1net_1_1detail_1_1_node_impl.html#a466a7e524625adeded311266f5ea548a" title="hsrcore::net::detail\l::NodeImpl::process_block\l_during_sync" alt="" coords="691,5,867,61"/>
+<area shape="rect" id="node5" href="$classhsrcore_1_1net_1_1detail_1_1_node_impl.html#a8c8cae7883811251c7a435de4d914d7d" title="hsrcore::net::detail\l::NodeImpl::process_block\l_message" alt="" coords="915,5,1091,61"/>
+<area shape="rect" id="node6" href="$classhsrcore_1_1net_1_1detail_1_1_node_impl.html#acf681683f9b0feee4994854571cbf65b" title="hsrcore::net::detail\l::NodeImpl::on_message" alt="" coords="1139,13,1305,54"/>
+</map>

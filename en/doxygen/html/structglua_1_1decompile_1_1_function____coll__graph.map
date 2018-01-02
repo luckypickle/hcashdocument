@@ -1,0 +1,15 @@
+<map id="glua::decompile::Function_" name="glua::decompile::Function_">
+<area shape="rect" id="node2" href="$struct_proto.html" title="{Proto\n|+ CommonHeader\l+ numparams\l+ is_vararg\l+ maxstacksize\l+ sizeupvalues\l+ sizek\l+ sizecode\l+ sizelineinfo\l+ sizep\l+ sizelocvars\l+ linedefined\l+ lastlinedefined\l+ code\l+ lineinfo\l|}" alt="" coords="213,631,339,899"/>
+<area shape="rect" id="node6" href="$struct_l_closure.html" title="{LClosure\n|+ ClosureHeader\l|}" alt="" coords="166,1049,285,1127"/>
+<area shape="rect" id="node3" href="$structlua___t_value.html" title="{lua_TValue\n|+ TValuefields\l|}" alt="" coords="5,395,109,473"/>
+<area shape="rect" id="node7" href="$struct_up_val.html" title="{UpVal\n|+ refcount\l+ touched\l+ open\l+ u\l|}" alt="" coords="28,704,108,825"/>
+<area shape="rect" id="node4" href="$struct_loc_var.html" title="{LocVar\n|+ startpc\l+ endpc\l+ vartype\l|}" alt="" coords="239,381,313,487"/>
+<area shape="rect" id="node5" href="$struct_t_string.html" title="{TString\n|+ CommonHeader\l+ extra\l+ shrlen\l+ hash\l+ lnglen\l+ u\l|}" alt="" coords="213,160,339,311"/>
+<area shape="rect" id="node9" href="$struct_upvaldesc.html" title="{Upvaldesc\n|+ instack\l+ idx\l|}" alt="" coords="338,388,419,480"/>
+<area shape="rect" id="node8" href="$struct_g_c_object.html" title="{GCObject\n|+ CommonHeader\l|}" alt="" coords="443,395,570,473"/>
+<area shape="rect" id="node10" href="$classglua_1_1decompile_1_1_ast_statement.html" title="{glua::decompile::AstStatement\n|+ type\l+ line\l+ sub_print_count\l+ comment_print_count\l|+ AstStatement()\l}" alt="" coords="799,373,1001,495"/>
+<area shape="rect" id="node14" href="$structglua_1_1decompile_1_1_loop_item__.html" title="{glua::decompile::LoopItem_\n|+ type\l+ prep\l+ start\l+ body\l+ end\l+ out\l+ indent\l|+ LoopItem_()\l}" alt="" coords="763,682,944,847"/>
+<area shape="rect" id="node11" href="$structglua_1_1decompile_1_1_list_item__.html" title="{glua::decompile::ListItem_\n||+ ListItem_()\l}" alt="" coords="761,5,935,83"/>
+<area shape="rect" id="node13" href="$structglua_1_1decompile_1_1_list__.html" title="{glua::decompile::List_\n|+ size\l|+ List_()\l}" alt="" coords="691,197,840,274"/>
+<area shape="rect" id="node15" href="$structglua_1_1decompile_1_1_int_set__.html" title="{glua::decompile::IntSet_\n|+ mayRepeat\l|}" alt="" coords="680,524,843,601"/>
+</map>

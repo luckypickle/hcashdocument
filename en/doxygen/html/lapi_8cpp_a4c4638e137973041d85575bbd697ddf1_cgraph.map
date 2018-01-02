@@ -1,0 +1,11 @@
+<map id="luaL_traverse_table_with_nested" name="luaL_traverse_table_with_nested">
+<area shape="rect" id="node2" href="$lapi_8cpp.html#afbb08ecb69421875494105d4de68e5bf" title="lua_gettop" alt="" coords="202,5,285,32"/>
+<area shape="rect" id="node3" href="$lapi_8cpp.html#a28bdc8c01771ec2524b329a409a08040" title="lua_len" alt="" coords="212,56,275,83"/>
+<area shape="rect" id="node4" href="$lapi_8cpp.html#af81c9a68425546e1f8c6354728c95170" title="lua_tointegerx" alt="" coords="192,107,295,133"/>
+<area shape="rect" id="node5" href="$lapi_8cpp.html#adcec46ff05dfee9a3c4c05828b40c213" title="lua_pushinteger" alt="" coords="187,157,300,184"/>
+<area shape="rect" id="node6" href="$lapi_8cpp.html#a631ebda324b6a0f382ab6b9314917384" title="lua_geti" alt="" coords="210,208,277,235"/>
+<area shape="rect" id="node7" href="$lapi_8cpp.html#a602f61a9b583d69dc1c72c8970bd65e8" title="lua_pushvalue" alt="" coords="192,259,295,285"/>
+<area shape="rect" id="node8" href="$lapi_8cpp.html#a1b4cd0d80f51e5545a97ca6c28c03c50" title="lua_pushnil" alt="" coords="200,309,287,336"/>
+<area shape="rect" id="node9" href="$lapi_8cpp.html#aa8bf464b98335a075732200ad91ce1de" title="lua_next" alt="" coords="208,360,279,387"/>
+<area shape="rect" id="node10" href="$lapi_8cpp.html#aba53e83eb1fff94b5ed96203bb52d8ae" title="lua_isinteger" alt="" coords="196,411,291,437"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="hsrcore::blockchain::ChainInterface::get_limit" name="hsrcore::blockchain::ChainInterface::get_limit">
+<area shape="rect" id="node2" href="$structhsrcore_1_1blockchain_1_1_upgrade_contract_operation.html#a5833f1adf224fcac4b4a5ea326aa3434" title="hsrcore::blockchain\l::UpgradeContractOperation\l::evaluate" alt="" coords="237,5,419,61"/>
+<area shape="rect" id="node3" href="$structhsrcore_1_1blockchain_1_1_destroy_contract_operation.html#a481bca0c0e42de1f510e2833149eb6ef" title="hsrcore::blockchain\l::DestroyContractOperation\l::evaluate" alt="" coords="238,85,418,141"/>
+<area shape="rect" id="node4" href="$structhsrcore_1_1blockchain_1_1_register_contract_operation.html#a5204bdd08e19b1a191bc40a244674779" title="hsrcore::blockchain\l::RegisterContractOperation\l::evaluate" alt="" coords="237,165,419,221"/>
+<area shape="rect" id="node5" href="$structhsrcore_1_1blockchain_1_1_call_contract_operation.html#abf1992522005d7f8cbcd4f6c23e8b7c4" title="hsrcore::blockchain\l::CallContractOperation\l::evaluate" alt="" coords="249,245,407,301"/>
+<area shape="rect" id="node6" href="$structhsrcore_1_1blockchain_1_1_transfer_contract_operation.html#ad2c0cd001bb3508d2efbe1a20d8131d5" title="hsrcore::blockchain\l::TransferContractOperation\l::evaluate" alt="" coords="237,325,419,381"/>
+<area shape="rect" id="node7" href="$classhsrcore_1_1blockchain_1_1_chain_interface.html#ab3941f5c9d2d0a3f84879b8140d83d1e" title="hsrcore::blockchain\l::ChainInterface::~ChainInterface" alt="" coords="223,406,433,447"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="base_uint::SetHex" name="base_uint::SetHex">
+<area shape="rect" id="node2" href="$classbase__uint.html#afe3600e6ae4e9f69e1c036581a2716c8" title="base_uint::SetHex" alt="" coords="183,5,312,32"/>
+<area shape="rect" id="node3" href="$classuint160.html#a17be565c999f678e47d12e694446e0c4" title="uint160::uint160" alt="" coords="190,56,305,83"/>
+<area shape="rect" id="node4" href="$classuint256.html#a4078e4911984722778f19581865462b9" title="uint256::uint256" alt="" coords="190,107,305,133"/>
+<area shape="rect" id="node5" href="$classuint512.html#a407d2a7a59005a57e848327014c7d2b5" title="uint512::uint512" alt="" coords="190,157,305,184"/>
+</map>

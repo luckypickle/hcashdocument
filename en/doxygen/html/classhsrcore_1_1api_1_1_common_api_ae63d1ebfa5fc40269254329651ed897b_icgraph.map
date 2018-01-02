@@ -1,0 +1,9 @@
+<map id="hsrcore::api::CommonApi::wallet_transfer_to_contract_testing" name="hsrcore::api::CommonApi::wallet_transfer_to_contract_testing">
+<area shape="rect" id="node2" href="$classhsrcore_1_1client_1_1detail_1_1_client_impl.html#a8bb9012ff7b7366ee4d16f9840d0b509" title="hsrcore::client::detail\l::ClientImpl::compile\l_contract_helper" alt="" coords="263,5,405,61"/>
+<area shape="rect" id="node4" href="$classhsrcore_1_1rpc__stubs_1_1_common_api_client.html#a0ef301487efe95fb87eed5afe88e5e0f" title="hsrcore::rpc_stubs\l::CommonApiClient::wallet\l_transfer_to_contract_testing" alt="" coords="239,85,429,141"/>
+<area shape="rect" id="node5" href="$classhsrcore_1_1rpc__stubs_1_1_common_api_rpc_server.html#a44d911b4650a2e36e1ce1763f93369d4" title="hsrcore::rpc_stubs\l::CommonApiRpcServer\l::wallet_transfer_to\l_contract_testing_positional" alt="" coords="242,261,426,331"/>
+<area shape="rect" id="node8" href="$classhsrcore_1_1rpc__stubs_1_1_common_api_rpc_server.html#a5b1ea45e8e9d687cecd19a9a32517cca" title="hsrcore::rpc_stubs\l::CommonApiRpcServer\l::wallet_transfer_to\l_contract_testing_named" alt="" coords="250,166,418,237"/>
+<area shape="rect" id="node3" href="$classhsrcore_1_1client_1_1detail_1_1_client_impl.html#a25c30b8c84686886409e5db40b326396" title="hsrcore::client::detail\l::ClientImpl::sandbox\l_get_contract_address" alt="" coords="483,5,638,61"/>
+<area shape="rect" id="node6" href="$classhsrcore_1_1rpc__stubs_1_1_common_api_rpc_server.html#a45cf3aafd35992db4c663115daeeb234" title="hsrcore::rpc_stubs\l::CommonApiRpcServer\l::register_common_api\l_methods" alt="" coords="481,166,641,237"/>
+<area shape="rect" id="node7" href="$classhsrcore_1_1rpc__stubs_1_1_common_api_rpc_server.html#a0188b049d81ec379e3b00e02f4153dc2" title="hsrcore::rpc_stubs\l::CommonApiRpcServer\l::direct_invoke_positional\l_method" alt="" coords="477,261,644,331"/>
+</map>

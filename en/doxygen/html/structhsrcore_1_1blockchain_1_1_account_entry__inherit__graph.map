@@ -1,0 +1,4 @@
+<map id="hsrcore::blockchain::AccountEntry" name="hsrcore::blockchain::AccountEntry">
+<area shape="rect" id="node2" href="$structhsrcore_1_1wallet_1_1_account_data.html" title="{hsrcore::wallet::AccountData\n|+ is_my_account\l+ approved\l+ is_favorite\l+ block_production_enabled\l+ last_used_gen_sequence\l+ private_data\l|}" alt="" coords="5,541,195,692"/>
+<area shape="rect" id="node3" href="$structhsrcore_1_1wallet_1_1_account_address_data.html" title="{hsrcore::wallet::Account\lAddressData\n|+ owner_address\l+ active_address\l|+ AccountAddressData()\l+ AccountAddressData()\l}" alt="" coords="17,740,183,861"/>
+</map>

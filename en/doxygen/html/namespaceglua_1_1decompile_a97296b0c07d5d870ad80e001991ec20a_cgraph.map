@@ -1,0 +1,6 @@
+<map id="glua::decompile::StartTable" name="glua::decompile::StartTable">
+<area shape="rect" id="node2" href="$namespaceglua_1_1decompile.html#a2cbc08232794fd7fcff7cfc9cc564532" title="glua::decompile::NewTable" alt="" coords="249,31,427,57"/>
+<area shape="rect" id="node5" href="$namespaceglua_1_1decompile.html#a3073776b8885aa6ef89e0b95975c7f07" title="glua::decompile::AddToListHead" alt="" coords="233,81,443,108"/>
+<area shape="rect" id="node3" href="$namespaceglua_1_1decompile.html#a744081c573680ed9ce2581495cad96f1" title="glua::decompile::InitList" alt="" coords="491,5,649,32"/>
+<area shape="rect" id="node4" href="$lobject_8cpp.html#a343c0628f26c31dfeb37043a67d7cc63" title="luaO_fb2int" alt="" coords="527,56,613,83"/>
+</map>

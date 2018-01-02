@@ -1,0 +1,5 @@
+<map id="hsrcore::net::PeerConnection::busy" name="hsrcore::net::PeerConnection::busy">
+<area shape="rect" id="node2" href="$classhsrcore_1_1net_1_1_peer_connection.html#aaf4604746b8341a48c7d3c832aa25d29" title="hsrcore::net::PeerConnection\l::idle" alt="" coords="244,13,435,54"/>
+<area shape="rect" id="node3" href="$classhsrcore_1_1net_1_1detail_1_1_node_impl.html#a8c8cae7883811251c7a435de4d914d7d" title="hsrcore::net::detail\l::NodeImpl::process_block\l_message" alt="" coords="483,5,659,61"/>
+<area shape="rect" id="node4" href="$classhsrcore_1_1net_1_1detail_1_1_node_impl.html#acf681683f9b0feee4994854571cbf65b" title="hsrcore::net::detail\l::NodeImpl::on_message" alt="" coords="707,13,873,54"/>
+</map>

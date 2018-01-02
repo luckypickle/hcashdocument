@@ -1,0 +1,6 @@
+<map id="hsrcore::net::ChainDownloader::ChainDownloader" name="hsrcore::net::ChainDownloader::ChainDownloader">
+<area shape="rect" id="node2" href="$classhsrcore_1_1net_1_1_chain_downloader.html#a257c3547735a5d7825e3521a52987b8d" title="Add several chain_servers to the list of chain servers. " alt="" coords="252,5,451,47"/>
+<area shape="rect" id="node3" href="$classhsrcore_1_1net_1_1_chain_downloader.html#a2ab31b4daa6b424d007182003176a8d2" title="Add a single chain_server to the list of chain servers. " alt="" coords="499,5,697,47"/>
+<area shape="rect" id="node4" href="$namespaceglua_1_1util.html#a0c3cdace845eb2fe620fa3e69c30cc2e" title="glua::util::find" alt="" coords="745,13,844,39"/>
+<area shape="rect" id="node5" href="$namespaceglua_1_1util.html#a65b8d51308032502f395500ffeacb628" title="glua::util::string\l_lines_count" alt="" coords="892,5,1003,47"/>
+</map>

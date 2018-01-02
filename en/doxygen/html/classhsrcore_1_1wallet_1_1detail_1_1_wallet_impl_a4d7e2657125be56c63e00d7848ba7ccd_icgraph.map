@@ -1,0 +1,4 @@
+<map id="hsrcore::wallet::detail::WalletImpl::scan_transaction" name="hsrcore::wallet::detail::WalletImpl::scan_transaction">
+<area shape="rect" id="node2" href="$classhsrcore_1_1wallet_1_1detail_1_1_wallet_impl.html#ad6841db3acb81a5addd9a10e9f711ec0" title="hsrcore::wallet::detail\l::WalletImpl::scan_block" alt="" coords="252,5,417,47"/>
+<area shape="rect" id="node3" href="$classhsrcore_1_1wallet_1_1detail_1_1_wallet_impl.html#a3e00e30ab93eea32fb4fe5f6ab85fcba" title="hsrcore::wallet::detail\l::WalletImpl::start_scan_task" alt="" coords="465,5,657,47"/>
+</map>

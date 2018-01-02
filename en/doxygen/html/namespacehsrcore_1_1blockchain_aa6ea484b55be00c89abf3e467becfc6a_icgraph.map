@@ -1,0 +1,6 @@
+<map id="hsrcore::blockchain::is_contract_has_method" name="hsrcore::blockchain::is_contract_has_method">
+<area shape="rect" id="node2" href="$structhsrcore_1_1blockchain_1_1_upgrade_contract_operation.html#a5833f1adf224fcac4b4a5ea326aa3434" title="hsrcore::blockchain\l::UpgradeContractOperation\l::evaluate" alt="" coords="225,5,408,61"/>
+<area shape="rect" id="node3" href="$structhsrcore_1_1blockchain_1_1_destroy_contract_operation.html#a481bca0c0e42de1f510e2833149eb6ef" title="hsrcore::blockchain\l::DestroyContractOperation\l::evaluate" alt="" coords="227,85,407,141"/>
+<area shape="rect" id="node4" href="$structhsrcore_1_1blockchain_1_1_call_contract_operation.html#abf1992522005d7f8cbcd4f6c23e8b7c4" title="hsrcore::blockchain\l::CallContractOperation\l::evaluate" alt="" coords="238,165,395,221"/>
+<area shape="rect" id="node5" href="$structhsrcore_1_1blockchain_1_1_transfer_contract_operation.html#ad2c0cd001bb3508d2efbe1a20d8131d5" title="hsrcore::blockchain\l::TransferContractOperation\l::evaluate" alt="" coords="226,245,407,301"/>
+</map>

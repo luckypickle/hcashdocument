@@ -1,0 +1,12 @@
+<map id="hsrcore::blockchain::ChainDatabase::get_block_header" name="hsrcore::blockchain::ChainDatabase::get_block_header">
+<area shape="rect" id="node2" href="$classhsrcore_1_1blockchain_1_1_chain_database.html#ab246d830a0f6583a9ce84789bf6a3784" title="hsrcore::blockchain\l::ChainDatabase::open" alt="" coords="225,5,380,47"/>
+<area shape="rect" id="node3" href="$classhsrcore_1_1blockchain_1_1_chain_database.html#a80b724292b5d2e5544180c8d86ff151d" title="hsrcore::blockchain\l::ChainDatabase::get\l_block_signee" alt="" coords="231,71,375,127"/>
+<area shape="rect" id="node6" href="$classhsrcore_1_1blockchain_1_1_chain_database.html#a21fd1c0574f7cc47bde9703adafa39f0" title="hsrcore::blockchain\l::ChainDatabase::get\l_block_header" alt="" coords="231,151,375,207"/>
+<area shape="rect" id="node7" href="$classhsrcore_1_1blockchain_1_1_chain_database.html#aa6121c12f5311ec56cb08c33fd5503f1" title="hsrcore::blockchain\l::ChainDatabase::find\l_block_num" alt="" coords="229,231,376,287"/>
+<area shape="rect" id="node8" href="$classhsrcore_1_1blockchain_1_1_chain_database.html#accd4980c2c2889d2f71a4f00c21064c3" title="hsrcore::blockchain\l::ChainDatabase::get\l_average_delegate_participation" alt="" coords="199,311,406,367"/>
+<area shape="rect" id="node9" href="$classhsrcore_1_1blockchain_1_1_chain_database.html#a079a480eaf1ffb34a70dd901c333add0" title="hsrcore::blockchain\l::ChainDatabase::GetLastBlock\lHeader" alt="" coords="200,391,405,447"/>
+<area shape="rect" id="node10" href="$classhsrcore_1_1blockchain_1_1_chain_database.html#afce739f57052c0b98e97e66dc103a2d2" title="hsrcore::blockchain\l::ChainDatabase::GetNextTarget\lRequired" alt="" coords="197,471,408,527"/>
+<area shape="rect" id="node4" href="$classhsrcore_1_1blockchain_1_1_chain_database.html#a6a5fae83ada26d2d02a1273bd7ebc185" title="hsrcore::blockchain\l::ChainDatabase::get\l_block_signee" alt="" coords="491,31,635,87"/>
+<area shape="rect" id="node5" href="$classhsrcore_1_1blockchain_1_1_chain_database.html#aa84d18c41a7d1f8702b99d1c30a3bdd0" title="hsrcore::blockchain\l::ChainDatabase::get\l_forks_list" alt="" coords="491,111,635,167"/>
+<area shape="rect" id="node11" href="$classhsrcore_1_1blockchain_1_1_chain_database.html#a6ebfaeaaf8cd5bb9b7315b310347bf2f" title="hsrcore::blockchain\l::ChainDatabase::generate_block" alt="" coords="456,479,671,520"/>
+</map>

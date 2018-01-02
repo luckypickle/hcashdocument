@@ -1,0 +1,6 @@
+<map id="hsrcore::wallet::WalletDb::new_wallet_entry_index" name="hsrcore::wallet::WalletDb::new_wallet_entry_index">
+<area shape="rect" id="node2" href="$classhsrcore_1_1wallet_1_1_wallet_db.html#a681bb15c8be63c209b15d00f19d1ef66" title="hsrcore::wallet::WalletDb\l::set_property" alt="" coords="220,13,387,54"/>
+<area shape="rect" id="node5" href="$classhsrcore_1_1wallet_1_1_wallet_db.html#a82e8c9983416a57e09bbf6d620bbf11c" title="hsrcore::wallet::WalletDb\l::store_setting" alt="" coords="220,78,387,119"/>
+<area shape="rect" id="node3" href="$classhsrcore_1_1wallet_1_1_wallet_db.html#a4864072af0f3033ee97bc5b959bb0a4b" title="hsrcore::wallet::WalletDb\l::set_last_wallet_child\l_key_index" alt="" coords="435,5,601,61"/>
+<area shape="rect" id="node4" href="$classhsrcore_1_1wallet_1_1_wallet_db.html#ac5235ea5f48075197f2c43047cdd6a6e" title="hsrcore::wallet::WalletDb\l::generate_new_account" alt="" coords="649,13,816,54"/>
+</map>

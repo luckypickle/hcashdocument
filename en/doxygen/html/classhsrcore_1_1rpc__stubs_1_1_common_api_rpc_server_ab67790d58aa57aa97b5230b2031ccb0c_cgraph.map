@@ -1,0 +1,7 @@
+<map id="hsrcore::rpc_stubs::CommonApiRpcServer::wallet_remove_transaction_named" name="hsrcore::rpc_stubs::CommonApiRpcServer::wallet_remove_transaction_named">
+<area shape="rect" id="node2" href="$classhsrcore_1_1rpc__stubs_1_1_common_api_rpc_server.html#a1dd3f241a3ecc519ef20ff9425ba22fc" title="hsrcore::rpc_stubs\l::CommonApiRpcServer\l::verify_json_connection\l_is_authenticated" alt="" coords="293,5,453,76"/>
+<area shape="rect" id="node3" href="$classhsrcore_1_1rpc__stubs_1_1_common_api_rpc_server.html#afa081104615903324ae8c9f447197032" title="hsrcore::rpc_stubs\l::CommonApiRpcServer\l::verify_wallet_is_open" alt="" coords="293,101,453,157"/>
+<area shape="rect" id="node4" href="$classhsrcore_1_1rpc__stubs_1_1_common_api_rpc_server.html#aeb8a1ee798cbe6a7bbf02f9fc9d1a046" title="hsrcore::rpc_stubs\l::CommonApiRpcServer\l::verify_wallet_is_unlocked" alt="" coords="285,181,460,237"/>
+<area shape="rect" id="node5" href="$classhsrcore_1_1rpc__stubs_1_1_common_api_rpc_server.html#aeccf0f28cc2af78b93119aacca7ace3c" title="hsrcore::rpc_stubs\l::CommonApiRpcServer\l::get_client" alt="" coords="293,261,453,317"/>
+<area shape="rect" id="node6" href="$classhsrcore_1_1api_1_1_common_api.html#ad7e310b5c8dccc890d27306fa9c8894a" title="hsrcore::api::CommonApi\l::wallet_remove_transaction" alt="" coords="281,341,464,383"/>
+</map>

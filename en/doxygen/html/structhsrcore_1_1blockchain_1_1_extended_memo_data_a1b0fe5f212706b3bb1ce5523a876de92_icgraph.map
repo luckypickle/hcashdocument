@@ -1,0 +1,6 @@
+<map id="hsrcore::blockchain::ExtendedMemoData::set_message" name="hsrcore::blockchain::ExtendedMemoData::set_message">
+<area shape="rect" id="node2" href="$structhsrcore_1_1blockchain_1_1_withdraw_with_signature.html#add22d4e565a203199258efc6746d50cf" title="hsrcore::blockchain\l::WithdrawWithSignature\l::encrypt_memo_data" alt="" coords="209,45,376,101"/>
+<area shape="rect" id="node3" href="$structhsrcore_1_1blockchain_1_1_transaction.html#a1923a434fb06ec228f770b7f39af02ff" title="hsrcore::blockchain\l::Transaction::deposit\l_to_account" alt="" coords="439,5,585,61"/>
+<area shape="rect" id="node5" href="$classhsrcore_1_1blockchain_1_1_transaction_creation_state.html#a8ee8d6530141d9427c4f945e907b498c" title="hsrcore::blockchain\l::TransactionCreationState\l::deposit" alt="" coords="424,85,600,141"/>
+<area shape="rect" id="node4" href="$classhsrcore_1_1wallet_1_1_wallet.html#a162d04b50ccf050fdd93d401943c19a8" title="hsrcore::wallet::Wallet\l::collect_account_balances" alt="" coords="648,13,828,54"/>
+</map>

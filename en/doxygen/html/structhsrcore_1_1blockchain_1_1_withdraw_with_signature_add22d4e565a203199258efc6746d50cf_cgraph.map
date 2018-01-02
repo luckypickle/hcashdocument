@@ -1,0 +1,4 @@
+<map id="hsrcore::blockchain::WithdrawWithSignature::encrypt_memo_data" name="hsrcore::blockchain::WithdrawWithSignature::encrypt_memo_data">
+<area shape="rect" id="node2" href="$structhsrcore_1_1blockchain_1_1_memo_data.html#a8157c22b9af2512a8594d45b70839f3f" title="hsrcore::blockchain\l::MemoData::set_message" alt="" coords="220,5,399,47"/>
+<area shape="rect" id="node3" href="$structhsrcore_1_1blockchain_1_1_extended_memo_data.html#a1b0fe5f212706b3bb1ce5523a876de92" title="hsrcore::blockchain\l::ExtendedMemoData::\lset_message" alt="" coords="231,71,387,127"/>
+</map>

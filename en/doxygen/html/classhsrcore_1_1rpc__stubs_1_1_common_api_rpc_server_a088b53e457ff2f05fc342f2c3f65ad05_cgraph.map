@@ -1,0 +1,4 @@
+<map id="hsrcore::rpc_stubs::CommonApiRpcServer::blockchain_get_info_named" name="hsrcore::rpc_stubs::CommonApiRpcServer::blockchain_get_info_named">
+<area shape="rect" id="node2" href="$classhsrcore_1_1rpc__stubs_1_1_common_api_rpc_server.html#aeccf0f28cc2af78b93119aacca7ace3c" title="hsrcore::rpc_stubs\l::CommonApiRpcServer\l::get_client" alt="" coords="249,5,409,61"/>
+<area shape="rect" id="node3" href="$classhsrcore_1_1api_1_1_common_api.html#a4fb497a9397e9acd7b89ee80a1208251" title="hsrcore::api::CommonApi\l::blockchain_get_info" alt="" coords="244,86,413,127"/>
+</map>

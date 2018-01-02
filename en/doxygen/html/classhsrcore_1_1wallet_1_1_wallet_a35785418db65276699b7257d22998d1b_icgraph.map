@@ -1,0 +1,5 @@
+<map id="hsrcore::wallet::Wallet::get_active_private_key" name="hsrcore::wallet::Wallet::get_active_private_key">
+<area shape="rect" id="node2" href="$classhsrcore_1_1wallet_1_1_wallet.html#a15aeb2a3d3d3f77b886a5f414ec31eb2" title="hsrcore::wallet::Wallet\l::sign_hash" alt="" coords="229,5,380,47"/>
+<area shape="rect" id="node3" href="$classhsrcore_1_1wallet_1_1_wallet.html#a552971ec3954f1646e66bbf3eb6fa5db" title="hsrcore::wallet::Wallet\l::transfer_asset_to_address" alt="" coords="213,71,396,112"/>
+<area shape="rect" id="node4" href="$classhsrcore_1_1wallet_1_1_wallet.html#ad7f031f86233d7822c85ce3fe7c79e86" title="hsrcore::wallet::Wallet\l::transfer_asset_to_many\l_address" alt="" coords="220,137,389,193"/>
+</map>

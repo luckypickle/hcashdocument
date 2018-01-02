@@ -1,0 +1,6 @@
+<map id="Dyndata" name="Dyndata">
+<area shape="rect" id="node2" href="$struct_labellist.html" title="{Labellist\n|+ n\l+ size\l|}" alt="" coords="33,388,104,480"/>
+<area shape="rect" id="node3" href="$struct_labeldesc.html" title="{Labeldesc\n|+ pc\l+ line\l+ nactvar\l|}" alt="" coords="28,219,109,325"/>
+<area shape="rect" id="node4" href="$struct_t_string.html" title="{TString\n|+ CommonHeader\l+ extra\l+ shrlen\l+ hash\l+ lnglen\l+ u\l|}" alt="" coords="5,5,132,156"/>
+<area shape="rect" id="node5" href="$struct_vardesc.html" title="{Vardesc\n|+ idx\l|}" alt="" coords="128,395,199,473"/>
+</map>

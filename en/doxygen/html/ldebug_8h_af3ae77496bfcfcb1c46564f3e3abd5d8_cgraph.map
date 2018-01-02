@@ -1,0 +1,7 @@
+<map id="luaG_typeerror" name="luaG_typeerror">
+<area shape="rect" id="node2" href="$ldebug_8cpp.html#a5ef43f05a00bde7ee94539f3d765789c" title="luaG_runerror" alt="" coords="160,5,260,32"/>
+<area shape="rect" id="node3" href="$lobject_8cpp.html#aa83fa444a36d79521e846a766fa083d5" title="luaO_pushvfstring" alt="" coords="620,31,744,57"/>
+<area shape="rect" id="node4" href="$ldebug_8cpp.html#a7e1dc7518150bf19bd9aa5dda166a2eb" title="luaG_addinfo" alt="" coords="308,31,405,57"/>
+<area shape="rect" id="node5" href="$lobject_8cpp.html#a4708cca3615b7fafb7ea4631f486983b" title="luaO_chunkid" alt="" coords="462,31,563,57"/>
+<area shape="rect" id="node6" href="$lobject_8cpp.html#a8e224db7123c74d695076a96d1bfda61" title="luaO_pushfstring" alt="" coords="453,81,572,108"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="hsrcore::lua::api::GluaChainApi::release_objects_in_pool" name="hsrcore::lua::api::GluaChainApi::release_objects_in_pool">
+<area shape="rect" id="node2" href="$namespacehsrcore_1_1lua_1_1lib.html#a90ae78316a1c85d4ffbe6f541458691a" title="hsrcore::lua::lib::\lget_lua_state_value_node" alt="" coords="204,5,375,47"/>
+<area shape="rect" id="node3" href="$namespacehsrcore_1_1lua_1_1lib.html#a2355fef8258fe97d37be4223ee04bf10" title="hsrcore::lua::lib::\lset_lua_state_value" alt="" coords="221,71,357,112"/>
+</map>

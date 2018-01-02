@@ -1,0 +1,8 @@
+<map id="hsrcore::client::detail::ClientImpl::handle_message" name="hsrcore::client::detail::ClientImpl::handle_message">
+<area shape="rect" id="node2" href="$structhsrcore_1_1net_1_1_message.html#a7785e4c7d0d092d1fbdab8d662584b13" title="hsrcore::net::Message::as" alt="" coords="247,5,421,32"/>
+<area shape="rect" id="node3" href="$structhsrcore_1_1blockchain_1_1_full_block.html#acf38e5015b783a68e469bfbf06be812d" title="hsrcore::blockchain\l::FullBlock::block_size" alt="" coords="257,57,411,98"/>
+<area shape="rect" id="node4" href="$structhsrcore_1_1net_1_1_message.html#a367ca2a7e4c9d895287c4317ff2ffbec" title="hsrcore::net::Message::id" alt="" coords="249,123,419,149"/>
+<area shape="rect" id="node5" href="$structhsrcore_1_1blockchain_1_1_signed_block_header.html#af524cbb5fd071ad8b20477d6686793c1" title="hsrcore::blockchain\l::SignedBlockHeader::id" alt="" coords="253,174,415,215"/>
+<area shape="rect" id="node6" href="$structhsrcore_1_1blockchain_1_1_signed_transaction.html#abe64fb304b0cfa11dbec9cc970995ab6" title="hsrcore::blockchain\l::SignedTransaction\l::data_size" alt="" coords="265,240,403,296"/>
+<area shape="rect" id="node7" href="$structhsrcore_1_1blockchain_1_1_signed_transaction.html#a1d3e482ad287dbfb537b525c41760cda" title="hsrcore::blockchain\l::SignedTransaction::id" alt="" coords="257,321,411,362"/>
+</map>

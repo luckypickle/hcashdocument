@@ -1,0 +1,4 @@
+<map id="hsrcore::rpc_stubs::CommonApiRpcServer::blockchain_broadcast_transaction_named" name="hsrcore::rpc_stubs::CommonApiRpcServer::blockchain_broadcast_transaction_named">
+<area shape="rect" id="node2" href="$classhsrcore_1_1rpc__stubs_1_1_common_api_rpc_server.html#aeccf0f28cc2af78b93119aacca7ace3c" title="hsrcore::rpc_stubs\l::CommonApiRpcServer\l::get_client" alt="" coords="218,5,378,61"/>
+<area shape="rect" id="node3" href="$classhsrcore_1_1api_1_1_common_api.html#aace5a8f29e61475beb774111f07e7116" title="hsrcore::api::CommonApi\l::blockchain_broadcast\l_transaction" alt="" coords="213,85,383,141"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="hsrcore::wallet::Wallet::get_account_approval" name="hsrcore::wallet::Wallet::get_account_approval">
+<area shape="rect" id="node2" href="$classhsrcore_1_1wallet_1_1_wallet.html#a6287c9534411b1becc54feb9736c3b53" title="hsrcore::wallet::Wallet\l::get_all_approved_accounts" alt="" coords="208,5,395,47"/>
+<area shape="rect" id="node3" href="$classhsrcore_1_1wallet_1_1_wallet.html#a50543e63f5fd6ea64b05c509ee2c8b9a" title="hsrcore::wallet::Wallet\l::clear_account_approval" alt="" coords="219,71,384,112"/>
+</map>

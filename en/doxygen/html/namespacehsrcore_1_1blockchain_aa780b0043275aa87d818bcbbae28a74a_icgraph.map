@@ -1,0 +1,11 @@
+<map id="hsrcore::blockchain::get_slot_number" name="hsrcore::blockchain::get_slot_number">
+<area shape="rect" id="node2" href="$classhsrcore_1_1blockchain_1_1_chain_database.html#a54305211d3e4e38d75c5f216a69c0bee" title="hsrcore::blockchain\l::ChainDatabase::get\l_slot_signee" alt="" coords="203,13,347,69"/>
+<area shape="rect" id="node3" href="$classhsrcore_1_1blockchain_1_1_chain_database.html#ac7ec52eb5e5a4bd75ed6ca78db2f7099" title="hsrcore::blockchain\l::ChainDatabase::get\l_next_producible_block\l_timestamp" alt="" coords="435,5,593,76"/>
+<area shape="rect" id="node4" href="$classhsrcore_1_1blockchain_1_1_chain_database.html#ae0d7d9d55a4c9a3c9b85aae8c8f35c1b" title="hsrcore::blockchain\l::ChainDatabase::now" alt="" coords="201,144,350,185"/>
+<area shape="rect" id="node9" href="$namespacehsrcore_1_1blockchain.html#addc1b2f9cc511278ac1cb34a47e88cac" title="hsrcore::blockchain\l::get_slot_start_time" alt="" coords="205,209,346,251"/>
+<area shape="rect" id="node10" href="$classhsrcore_1_1client_1_1detail_1_1_client_impl.html#ab0666bbff9d37e5923ddbd71a4ec5e36" title="hsrcore::client::detail\l::ClientImpl::delegate_loop" alt="" coords="188,275,363,316"/>
+<area shape="rect" id="node5" href="$classhsrcore_1_1blockchain_1_1detail_1_1_chain_database_impl.html#a584330f5e8e4358ae24e2e1f6b59c455" title="hsrcore::blockchain\l::detail::ChainDatabaseImpl\l::populate_indexes" alt="" coords="423,101,605,157"/>
+<area shape="rect" id="node6" href="$classhsrcore_1_1blockchain_1_1_chain_database.html#ab246d830a0f6583a9ce84789bf6a3784" title="hsrcore::blockchain\l::ChainDatabase::open" alt="" coords="437,181,591,223"/>
+<area shape="rect" id="node7" href="$classhsrcore_1_1blockchain_1_1_chain_database.html#accd4980c2c2889d2f71a4f00c21064c3" title="hsrcore::blockchain\l::ChainDatabase::get\l_average_delegate_participation" alt="" coords="411,247,617,303"/>
+<area shape="rect" id="node8" href="$classhsrcore_1_1blockchain_1_1_chain_database.html#a4f9cd217fa3b090c1203fe0e7cdb90de" title="hsrcore::blockchain\l::ChainDatabase::generate\l_snapshot" alt="" coords="426,327,602,383"/>
+</map>

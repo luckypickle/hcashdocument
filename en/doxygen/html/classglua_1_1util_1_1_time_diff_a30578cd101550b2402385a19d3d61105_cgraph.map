@@ -1,0 +1,6 @@
+<map id="glua::util::TimeDiff::diff_time" name="glua::util::TimeDiff::diff_time">
+<area shape="rect" id="node2" href="$classglua_1_1util_1_1_time_diff.html#a033a90e4ee08a5c986bae53cfa4c26a9" title="glua::util::TimeDiff::end" alt="" coords="179,13,333,39"/>
+<area shape="rect" id="node3" href="$namespacehsrcore_1_1blockchain.html#a2d604a90c34e5cfbc5252d1596314373" title="hsrcore::blockchain::now" alt="" coords="381,13,548,39"/>
+<area shape="rect" id="node4" href="$namespacehsrcore_1_1blockchain.html#a6ab2a224374df515fe76b3799ed648fb" title="hsrcore::blockchain\l::ntp_time" alt="" coords="596,5,731,47"/>
+<area shape="rect" id="node5" href="$namespacehsrcore_1_1blockchain_1_1detail.html#ae5c17ca96b07a1f76c62bc6fd564759c" title="hsrcore::blockchain\l::detail::ntp_service" alt="" coords="779,5,913,47"/>
+</map>

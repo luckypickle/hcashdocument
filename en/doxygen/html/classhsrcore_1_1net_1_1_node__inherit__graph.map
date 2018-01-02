@@ -1,0 +1,3 @@
+<map id="hsrcore::net::Node" name="hsrcore::net::Node">
+<area shape="rect" id="node3" href="$classhsrcore_1_1net_1_1_simulated_network.html" title="{hsrcore::net::SimulatedNetwork\n||+ ~SimulatedNetwork()\l+ SimulatedNetwork()\l+ listen_to_p2p_network()\l+ connect_to_p2p_network()\l+ connect_to_endpoint()\l+ get_actual_listening\l_endpoint()\l+ sync_from()\l+ broadcast()\l+ add_node_delegate()\l+ get_connection_count()\l}" alt="" coords="5,417,209,641"/>
+</map>

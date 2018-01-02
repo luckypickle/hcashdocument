@@ -1,0 +1,7 @@
+<map id="hsrcore::blockchain::AccountEntry::signing_key" name="hsrcore::blockchain::AccountEntry::signing_key">
+<area shape="rect" id="node2" href="$structhsrcore_1_1blockchain_1_1_account_entry.html#a2fe2bbd59409d9711d5608ae2584c753" title="hsrcore::blockchain\l::AccountEntry::set\l_signing_key" alt="" coords="252,5,387,61"/>
+<area shape="rect" id="node4" href="$structhsrcore_1_1blockchain_1_1_account_entry.html#ae8993fff4920403a97aab8e90707e104" title="hsrcore::blockchain\l::AccountEntry::signing\l_address" alt="" coords="240,85,399,141"/>
+<area shape="rect" id="node5" href="$structhsrcore_1_1blockchain_1_1_account_entry.html#ad549bc6aab743e41e995e6cfa5bbc48b" title="hsrcore::blockchain\l::AccountEntry::store" alt="" coords="246,166,393,207"/>
+<area shape="rect" id="node6" href="$structhsrcore_1_1blockchain_1_1_account_entry.html#ac1da9c022dc1b9e448d86a3034f6f168" title="hsrcore::blockchain\l::AccountEntry::remove" alt="" coords="240,231,399,273"/>
+<area shape="rect" id="node3" href="$structhsrcore_1_1blockchain_1_1_register_account_operation.html#a227126e9351b05898b2517e02d06a507" title="hsrcore::blockchain\l::RegisterAccountOperation\l::evaluate" alt="" coords="447,5,629,61"/>
+</map>

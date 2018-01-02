@@ -1,0 +1,5 @@
+<map id="hsrcore::client::Client::string_to_endpoint" name="hsrcore::client::Client::string_to_endpoint">
+<area shape="rect" id="node2" href="$classhsrcore_1_1client_1_1_client.html#a8a677a383c7ea5e52e90b78470250325" title="hsrcore::client::Client\l::add_node" alt="" coords="199,5,344,47"/>
+<area shape="rect" id="node4" href="$classhsrcore_1_1client_1_1_client.html#a9180c8fa9bf4f47122d7492d9e7f06eb" title="hsrcore::client::Client\l::connect_to_peer" alt="" coords="199,71,344,112"/>
+<area shape="rect" id="node3" href="$classhsrcore_1_1client_1_1_client.html#a83d52fbeca46b51b83a51218730769da" title="hsrcore::client::Client\l::configure_from_command_line" alt="" coords="392,39,597,80"/>
+</map>

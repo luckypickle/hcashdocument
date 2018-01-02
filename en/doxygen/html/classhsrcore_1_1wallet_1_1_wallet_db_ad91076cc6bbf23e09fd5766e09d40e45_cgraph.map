@@ -1,0 +1,5 @@
+<map id="hsrcore::wallet::WalletDb::change_password" name="hsrcore::wallet::WalletDb::change_password">
+<area shape="rect" id="node2" href="$classhsrcore_1_1wallet_1_1_wallet_db.html#ada4c95e346f51d0f8c58ed28f76d7862" title="hsrcore::wallet::WalletDb\l::is_open" alt="" coords="220,5,387,47"/>
+<area shape="rect" id="node3" href="$classhsrcore_1_1wallet_1_1_wallet_db.html#a1f71db829d11c6e722e5ec06ebfaf339" title="hsrcore::wallet::WalletDb\l::set_master_key" alt="" coords="220,71,387,112"/>
+<area shape="rect" id="node4" href="$structhsrcore_1_1wallet_1_1_master_key.html#affef67f5c05fe7b3e509d2dbd2e11eec" title="hsrcore::wallet::MasterKey\l::encrypt_key" alt="" coords="435,71,612,112"/>
+</map>

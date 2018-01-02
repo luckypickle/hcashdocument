@@ -1,0 +1,6 @@
+<map id="hsrcore::blockchain::Transaction::deposit" name="hsrcore::blockchain::Transaction::deposit">
+<area shape="rect" id="node2" href="$classhsrcore_1_1blockchain_1_1_chain_interface.html#ab12db6dd8bc007dfbfa7d594be03696d" title="hsrcore::blockchain\l::ChainInterface::transfer\l_asset_from_contract" alt="" coords="210,5,373,61"/>
+<area shape="rect" id="node3" href="$classhsrcore_1_1blockchain_1_1_transaction_creation_state.html#a8ee8d6530141d9427c4f945e907b498c" title="hsrcore::blockchain\l::TransactionCreationState\l::deposit" alt="" coords="203,85,379,141"/>
+<area shape="rect" id="node4" href="$classhsrcore_1_1wallet_1_1_wallet.html#a6cb52d3a43901d8db9a78097754ec1f7" title="hsrcore::wallet::Wallet\l::withdraw_delegate_pay" alt="" coords="209,166,373,207"/>
+<area shape="rect" id="node5" href="$classhsrcore_1_1wallet_1_1_wallet.html#ab10b27056483c1403fc52398a7b3080c" title="hsrcore::wallet::Wallet\l::transfer_asset_to_address\l_without_signature" alt="" coords="200,232,383,288"/>
+</map>

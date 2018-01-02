@@ -1,0 +1,12 @@
+<map id="hsrcore::net::detail::NodeImpl::start_synchronizing" name="hsrcore::net::detail::NodeImpl::start_synchronizing">
+<area shape="rect" id="node2" href="$classhsrcore_1_1net_1_1detail_1_1_node_impl.html#a6e59ad09f221ed92aa099cef3a4e19e0" title="hsrcore::net::detail\l::NodeImpl::start_synchronizing\l_with_peer" alt="" coords="259,96,464,152"/>
+<area shape="rect" id="node3" href="$classhsrcore_1_1net_1_1detail_1_1_node_impl.html#a9d3a5d1f064574a42a9e4381bf804cfc" title="hsrcore::net::detail\l::NodeImpl::fetch_next\l_batch_of_item_ids_from_peer" alt="" coords="512,96,711,152"/>
+<area shape="rect" id="node4" href="$classhsrcore_1_1net_1_1detail_1_1_node_impl.html#a9b9783121b76e9cf22d78faa14c562d9" title="hsrcore::net::detail\l::NodeImpl::create_blockchain\l_synopsis_for_peer" alt="" coords="759,5,956,61"/>
+<area shape="rect" id="node5" href="$classhsrcore_1_1net_1_1_peer_connection.html#aebb2b5496e61f6b891ba94f59b825eaf" title="hsrcore::net::PeerConnection\l::get_remote_endpoint" alt="" coords="1004,137,1195,178"/>
+<area shape="rect" id="node6" href="$namespacehsrcore_1_1blockchain.html#a2d604a90c34e5cfbc5252d1596314373" title="hsrcore::blockchain::now" alt="" coords="1481,131,1648,157"/>
+<area shape="rect" id="node9" href="$classhsrcore_1_1net_1_1_peer_connection.html#a7df3085418a209bb7dd08e092b7cd2de" title="hsrcore::net::PeerConnection\l::send_message" alt="" coords="762,187,953,229"/>
+<area shape="rect" id="node7" href="$namespacehsrcore_1_1blockchain.html#a6ab2a224374df515fe76b3799ed648fb" title="hsrcore::blockchain\l::ntp_time" alt="" coords="1696,123,1831,165"/>
+<area shape="rect" id="node8" href="$namespacehsrcore_1_1blockchain_1_1detail.html#ae5c17ca96b07a1f76c62bc6fd564759c" title="hsrcore::blockchain\l::detail::ntp_service" alt="" coords="1879,123,2013,165"/>
+<area shape="rect" id="node10" href="$classhsrcore_1_1net_1_1_peer_connection.html#aef3ea55a755e36cda5805bd337bde8cf" title="hsrcore::net::PeerConnection\l::send_queueable_message" alt="" coords="1004,202,1195,243"/>
+<area shape="rect" id="node11" href="$classhsrcore_1_1net_1_1_peer_connection.html#a40a9f7d3da42af0bd307f564b070205a" title="hsrcore::net::PeerConnection\l::close_connection" alt="" coords="1243,169,1433,210"/>
+</map>

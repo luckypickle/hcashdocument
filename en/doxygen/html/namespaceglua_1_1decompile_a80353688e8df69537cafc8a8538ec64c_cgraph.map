@@ -1,0 +1,6 @@
+<map id="glua::decompile::NewFunction" name="glua::decompile::NewFunction">
+<area shape="rect" id="node2" href="$namespaceglua_1_1decompile.html#a744081c573680ed9ce2581495cad96f1" title="glua::decompile::InitList" alt="" coords="716,5,875,32"/>
+<area shape="rect" id="node3" href="$namespaceglua_1_1decompile.html#aea0b347c558b47b9ba4d4935ff88ee89" title="glua::decompile::NewIntSet" alt="" coords="259,31,439,57"/>
+<area shape="rect" id="node5" href="$namespaceglua_1_1decompile.html#a3cafc981f9655f4e781275005ed19170" title="glua::decompile::NewLoopItem" alt="" coords="249,81,448,108"/>
+<area shape="rect" id="node4" href="$namespaceglua_1_1decompile.html#af08d1100c87f961ee5dbadcafeba4af6" title="glua::decompile::InitIntSet" alt="" coords="496,31,668,57"/>
+</map>

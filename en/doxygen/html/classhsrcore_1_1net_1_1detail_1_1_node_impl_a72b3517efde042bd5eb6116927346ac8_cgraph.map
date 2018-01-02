@@ -1,0 +1,4 @@
+<map id="hsrcore::net::detail::NodeImpl::merge_address_info_with_potential_peer_database" name="hsrcore::net::detail::NodeImpl::merge_address_info_with_potential_peer_database">
+<area shape="rect" id="node2" href="$classhsrcore_1_1net_1_1_peer_database.html#abc35c6e29a6d92f15bfe0bdb8b31b4b9" title="hsrcore::net::PeerDatabase\l::lookup_or_create_entry\l_for_endpoint" alt="" coords="235,5,416,61"/>
+<area shape="rect" id="node3" href="$classhsrcore_1_1net_1_1_peer_database.html#a61979f93d5036235ffddb14f017bb04e" title="hsrcore::net::PeerDatabase\l::update_entry" alt="" coords="235,86,416,127"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="hsrcore::db::LevelMap::store" name="hsrcore::db::LevelMap::store">
+<area shape="rect" id="node2" href="$classhsrcore_1_1blockchain_1_1detail_1_1_chain_database_impl.html#a52366df8646e6e98455acd6d0c60945a" title="hsrcore::blockchain\l::detail::ChainDatabaseImpl\l::store_and_index" alt="" coords="205,5,387,61"/>
+<area shape="rect" id="node3" href="$classhsrcore_1_1blockchain_1_1detail_1_1_chain_database_impl.html#aeeffbabd2ac37bed5c061837beb8f8c1" title="hsrcore::blockchain\l::detail::ChainDatabaseImpl\l::extend_chain" alt="" coords="205,85,387,141"/>
+<area shape="rect" id="node5" href="$classhsrcore_1_1client_1_1detail_1_1_logging_exception_db.html#aca5669005bce03d326dbbf6b9fcee217" title="hsrcore::client::detail\l::LoggingExceptionDb::store" alt="" coords="203,166,389,207"/>
+<area shape="rect" id="node6" href="$classhsrcore_1_1db_1_1fast__level__map.html#acb9f32158d53e1ad5d466737a14d49b0" title="hsrcore::db::fast_level\l_map\&lt; uint8_t, hsrcore\l::blockchain::PropertyEntry\l \&gt;::store" alt="" coords="206,231,386,302"/>
+<area shape="rect" id="node7" href="$classhsrcore_1_1wallet_1_1detail_1_1_wallet_db_impl.html#a4ed07d63a9372d1285f3c7731ababb25" title="hsrcore::wallet::detail\l::WalletDbImpl::store\l_and_reload_generic_entry" alt="" coords="207,327,385,383"/>
+<area shape="rect" id="node4" href="$classhsrcore_1_1blockchain_1_1detail_1_1_chain_database_impl.html#afbdbe1d423c95c2fd6f44814300fffe3" title="hsrcore::blockchain\l::detail::ChainDatabaseImpl\l::switch_to_fork" alt="" coords="437,85,619,141"/>
+</map>

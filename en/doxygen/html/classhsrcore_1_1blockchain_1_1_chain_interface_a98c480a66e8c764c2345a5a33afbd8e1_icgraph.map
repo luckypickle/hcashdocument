@@ -1,0 +1,9 @@
+<map id="hsrcore::blockchain::ChainInterface::get_statistics_enabled" name="hsrcore::blockchain::ChainInterface::get_statistics_enabled">
+<area shape="rect" id="node2" href="$classhsrcore_1_1blockchain_1_1detail_1_1_chain_database_impl.html#a52366df8646e6e98455acd6d0c60945a" title="hsrcore::blockchain\l::detail::ChainDatabaseImpl\l::store_and_index" alt="" coords="207,5,388,61"/>
+<area shape="rect" id="node3" href="$classhsrcore_1_1blockchain_1_1_chain_database.html#aa84d18c41a7d1f8702b99d1c30a3bdd0" title="hsrcore::blockchain\l::ChainDatabase::get\l_forks_list" alt="" coords="225,85,369,141"/>
+<area shape="rect" id="node4" href="$classhsrcore_1_1blockchain_1_1_chain_database.html#a917efa83b8dc0d56fa722c3138d132f2" title="hsrcore::blockchain\l::ChainDatabase::CheckStake" alt="" coords="199,166,396,207"/>
+<area shape="rect" id="node5" href="$structhsrcore_1_1blockchain_1_1_slot_entry.html#ab9cd8a01dab1961e4fe6923a3a716035" title="hsrcore::blockchain\l::SlotEntry::lookup" alt="" coords="230,231,365,273"/>
+<area shape="rect" id="node6" href="$structhsrcore_1_1blockchain_1_1_slot_entry.html#ac04e7b8a4e49e704ffb1477127abd25e" title="hsrcore::blockchain\l::SlotEntry::store" alt="" coords="230,297,365,338"/>
+<area shape="rect" id="node7" href="$structhsrcore_1_1blockchain_1_1_slot_entry.html#a98f70674a7db6b94f6a9dc8a273d3154" title="hsrcore::blockchain\l::SlotEntry::remove" alt="" coords="230,362,365,403"/>
+<area shape="rect" id="node8" href="$classhsrcore_1_1blockchain_1_1_chain_interface.html#ab3941f5c9d2d0a3f84879b8140d83d1e" title="hsrcore::blockchain\l::ChainInterface::~ChainInterface" alt="" coords="192,427,403,469"/>
+</map>

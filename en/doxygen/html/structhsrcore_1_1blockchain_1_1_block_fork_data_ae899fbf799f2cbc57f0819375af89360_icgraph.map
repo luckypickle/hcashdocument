@@ -1,0 +1,4 @@
+<map id="hsrcore::blockchain::BlockForkData::can_link" name="hsrcore::blockchain::BlockForkData::can_link">
+<area shape="rect" id="node2" href="$classhsrcore_1_1blockchain_1_1detail_1_1_chain_database_impl.html#a52366df8646e6e98455acd6d0c60945a" title="hsrcore::blockchain\l::detail::ChainDatabaseImpl\l::store_and_index" alt="" coords="231,5,412,61"/>
+<area shape="rect" id="node3" href="$classhsrcore_1_1blockchain_1_1_chain_database.html#a0f23d5b78aaef58ad33f5b85db3f6749" title="hsrcore::blockchain\l::ChainDatabase::push_block" alt="" coords="225,86,417,127"/>
+</map>

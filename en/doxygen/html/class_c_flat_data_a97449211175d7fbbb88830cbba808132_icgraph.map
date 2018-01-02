@@ -1,0 +1,9 @@
+<map id="CFlatData::Serialize" name="CFlatData::Serialize">
+<area shape="rect" id="node2" href="$serialize_8h.html#a5748d9d17982b234b10a4b9e6f8e9f53" title="WrapVarInt" alt="" coords="241,5,327,32"/>
+<area shape="rect" id="node3" href="$serialize_8h.html#aafb4b2795cb998fdcf76b19a959a1ae1" title="Serialize_impl" alt="" coords="233,56,335,83"/>
+<area shape="rect" id="node4" href="$serialize_8h.html#a4abc2780ddc1498c4a390f1fb88cfea8" title="Serialize" alt="" coords="248,107,320,133"/>
+<area shape="rect" id="node5" href="$serialize_8h.html#a776251b2973c5c9242ac3478ac1512a5" title="SerReadWrite" alt="" coords="233,157,335,184"/>
+<area shape="rect" id="node6" href="$class_c_size_computer.html#a03a29c76f82dca1559e7922b35bebd0d" title="CSizeComputer::operator\&lt;\&lt;" alt="" coords="192,208,376,235"/>
+<area shape="rect" id="node7" href="$class_c_data_stream.html#af47c6d4051064a226f529ee4d7c13ad7" title="CDataStream::operator\&lt;\&lt;" alt="" coords="199,259,369,285"/>
+<area shape="rect" id="node8" href="$class_c_auto_file.html#a8e194596d1f8f64059247724b25df82c" title="CAutoFile::operator\&lt;\&lt;" alt="" coords="209,309,359,336"/>
+</map>

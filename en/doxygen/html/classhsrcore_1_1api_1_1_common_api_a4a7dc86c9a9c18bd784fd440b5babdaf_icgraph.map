@@ -1,0 +1,9 @@
+<map id="hsrcore::api::CommonApi::wallet_list_my_accounts" name="hsrcore::api::CommonApi::wallet_list_my_accounts">
+<area shape="rect" id="node2" href="$classhsrcore_1_1client_1_1detail_1_1_client_impl.html#a25245303c5dac7772552c61c81b0dfe2" title="hsrcore::client::detail\l::ClientImpl::wallet_http\l_callback" alt="" coords="256,5,413,61"/>
+<area shape="rect" id="node4" href="$classhsrcore_1_1rpc__stubs_1_1_common_api_client.html#a02835f24d26751c9be001cdd68825b4c" title="hsrcore::rpc_stubs\l::CommonApiClient::wallet\l_list_my_accounts" alt="" coords="247,85,422,141"/>
+<area shape="rect" id="node5" href="$classhsrcore_1_1rpc__stubs_1_1_common_api_rpc_server.html#a883936269c6697f6ebc16b5e2dfaf83b" title="hsrcore::rpc_stubs\l::CommonApiRpcServer\l::wallet_list_my_accounts\l_positional" alt="" coords="249,246,421,317"/>
+<area shape="rect" id="node8" href="$classhsrcore_1_1rpc__stubs_1_1_common_api_rpc_server.html#ae349e3c0d425c86aca95c248600578ff" title="hsrcore::rpc_stubs\l::CommonApiRpcServer\l::wallet_list_my_accounts_named" alt="" coords="225,165,444,221"/>
+<area shape="rect" id="node3" href="$namespacehsrcore_1_1client_1_1detail.html#ab8ded1be359af6f93d0e8927c6572929" title="hsrcore::client::detail\l::read_keys" alt="" coords="504,13,647,54"/>
+<area shape="rect" id="node6" href="$classhsrcore_1_1rpc__stubs_1_1_common_api_rpc_server.html#a45cf3aafd35992db4c663115daeeb234" title="hsrcore::rpc_stubs\l::CommonApiRpcServer\l::register_common_api\l_methods" alt="" coords="495,158,655,229"/>
+<area shape="rect" id="node7" href="$classhsrcore_1_1rpc__stubs_1_1_common_api_rpc_server.html#a0188b049d81ec379e3b00e02f4153dc2" title="hsrcore::rpc_stubs\l::CommonApiRpcServer\l::direct_invoke_positional\l_method" alt="" coords="492,253,659,323"/>
+</map>

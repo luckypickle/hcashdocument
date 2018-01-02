@@ -1,0 +1,9 @@
+<map id="luaL_newstate" name="luaL_newstate">
+<area shape="rect" id="node2" href="$namespacehsrcore_1_1lua_1_1lib.html#ab19fe14f45809c3ce339925edf1e3ced" title="hsrcore::lua::lib::\lcreate_lua_state" alt="" coords="159,89,277,131"/>
+<area shape="rect" id="node8" href="$lua_8cpp.html#add88c94542c667d7c49095a53a53fbc4" title="main1" alt="" coords="189,155,247,182"/>
+<area shape="rect" id="node3" href="$classhsrcore_1_1lua_1_1lib_1_1_glua_state_scope.html#af499c97f1f631282fad25616a454902d" title="hsrcore::lua::lib::\lGluaStateScope::GluaStateScope" alt="" coords="325,5,545,47"/>
+<area shape="rect" id="node4" href="$cdemo1_8cpp.html#aed23575960b7604d039d9976cd4512d8" title="GTEST" alt="" coords="403,71,467,98"/>
+<area shape="rect" id="node5" href="$cdemo1_8cpp.html#a8517bf9d79a0b9648e5ea7ffcf3c39cc" title="simple_tests" alt="" coords="387,122,483,149"/>
+<area shape="rect" id="node7" href="$classhsrcore_1_1lua_1_1lib_1_1_glua_byte_stream.html#a4d8c048a6f18df1d5c1c1307aadc0f58" title="hsrcore::lua::lib::\lGluaByteStream::equals" alt="" coords="353,173,517,215"/>
+<area shape="rect" id="node6" href="$cdemo1_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="593,122,644,149"/>
+</map>

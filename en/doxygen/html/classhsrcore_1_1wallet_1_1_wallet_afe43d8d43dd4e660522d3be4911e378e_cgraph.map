@@ -1,0 +1,6 @@
+<map id="hsrcore::wallet::Wallet::to_pretty_contract_trx" name="hsrcore::wallet::Wallet::to_pretty_contract_trx">
+<area shape="rect" id="node2" href="$structhsrcore_1_1blockchain_1_1_signed_transaction.html#a1d3e482ad287dbfb537b525c41760cda" title="hsrcore::blockchain\l::SignedTransaction::id" alt="" coords="225,5,379,47"/>
+<area shape="rect" id="node3" href="$structhsrcore_1_1blockchain_1_1_register_contract_operation.html#afdeaed1384a02be4706b85869ff2a4e4" title="hsrcore::blockchain\l::RegisterContractOperation\l::get_contract_id" alt="" coords="211,71,393,127"/>
+<area shape="rect" id="node4" href="$classhsrcore_1_1blockchain_1_1_address.html#ac53c1b8cc5237686f7d84f86d927ed02" title="hsrcore::blockchain\l::Address::AddressToString" alt="" coords="211,152,393,193"/>
+<area shape="rect" id="node5" href="$structhsrcore_1_1blockchain_1_1_withdraw_condition.html#a3a73a13b7fe3c0f64a7db48a0eca4708" title="hsrcore::blockchain\l::WithdrawCondition\l::owner" alt="" coords="233,218,371,274"/>
+</map>

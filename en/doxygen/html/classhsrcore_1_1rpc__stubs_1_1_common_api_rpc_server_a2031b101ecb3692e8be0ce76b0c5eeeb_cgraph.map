@@ -1,0 +1,4 @@
+<map id="hsrcore::rpc_stubs::CommonApiRpcServer::get_contract_balance_named" name="hsrcore::rpc_stubs::CommonApiRpcServer::get_contract_balance_named">
+<area shape="rect" id="node2" href="$classhsrcore_1_1rpc__stubs_1_1_common_api_rpc_server.html#aeccf0f28cc2af78b93119aacca7ace3c" title="hsrcore::rpc_stubs\l::CommonApiRpcServer\l::get_client" alt="" coords="258,5,418,61"/>
+<area shape="rect" id="node3" href="$classhsrcore_1_1api_1_1_common_api.html#a00994c328c2022e17a9c73910b382641" title="hsrcore::api::CommonApi\l::get_contract_balance" alt="" coords="253,86,423,127"/>
+</map>

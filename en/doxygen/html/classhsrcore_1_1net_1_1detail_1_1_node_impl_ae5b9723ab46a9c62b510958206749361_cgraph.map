@@ -1,0 +1,17 @@
+<map id="hsrcore::net::detail::NodeImpl::process_block_during_normal_operation" name="hsrcore::net::detail::NodeImpl::process_block_during_normal_operation">
+<area shape="rect" id="node2" href="$namespacehsrcore_1_1blockchain.html#a2d604a90c34e5cfbc5252d1596314373" title="hsrcore::blockchain::now" alt="" coords="250,17,417,43"/>
+<area shape="rect" id="node5" href="$classhsrcore_1_1net_1_1_peer_connection.html#aebb2b5496e61f6b891ba94f59b825eaf" title="hsrcore::net::PeerConnection\l::get_remote_endpoint" alt="" coords="238,71,429,112"/>
+<area shape="rect" id="node6" href="$namespaceglua_1_1util.html#a0c3cdace845eb2fe620fa3e69c30cc2e" title="glua::util::find" alt="" coords="284,137,383,163"/>
+<area shape="rect" id="node8" href="$classhsrcore_1_1net_1_1detail_1_1_node_impl.html#ac4f61e7284b275a45736fa19328499e1" title="hsrcore::net::detail\l::NodeImpl::broadcast" alt="" coords="259,188,408,229"/>
+<area shape="rect" id="node14" href="$classhsrcore_1_1net_1_1detail_1_1_blockchain_tied_message_cache.html#a4302cd0db3dc4b35670b0bb5df4532a1" title="hsrcore::net::detail\l::BlockchainTiedMessageCache\l::block_accepted" alt="" coords="229,254,437,310"/>
+<area shape="rect" id="node15" href="$classhsrcore_1_1net_1_1detail_1_1_node_impl.html#acd411266f6b65102b8cb1f93c63701fc" title="hsrcore::net::detail\l::NodeImpl::is_hard_fork_block" alt="" coords="233,335,433,376"/>
+<area shape="rect" id="node16" href="$classhsrcore_1_1net_1_1detail_1_1_node_impl.html#a2b836a447940b6042cc04cd67f310364" title="hsrcore::net::detail\l::NodeImpl::get_next\l_known_hard_fork_block\l_number" alt="" coords="251,400,415,471"/>
+<area shape="rect" id="node3" href="$namespacehsrcore_1_1blockchain.html#a6ab2a224374df515fe76b3799ed648fb" title="hsrcore::blockchain\l::ntp_time" alt="" coords="522,5,657,47"/>
+<area shape="rect" id="node4" href="$namespacehsrcore_1_1blockchain_1_1detail.html#ae5c17ca96b07a1f76c62bc6fd564759c" title="hsrcore::blockchain\l::detail::ntp_service" alt="" coords="741,5,876,47"/>
+<area shape="rect" id="node7" href="$namespaceglua_1_1util.html#a65b8d51308032502f395500ffeacb628" title="glua::util::string\l_lines_count" alt="" coords="534,71,645,112"/>
+<area shape="rect" id="node9" href="$structhsrcore_1_1net_1_1_message.html#a7785e4c7d0d092d1fbdab8d662584b13" title="hsrcore::net::Message::as" alt="" coords="502,137,677,163"/>
+<area shape="rect" id="node10" href="$structhsrcore_1_1blockchain_1_1_signed_transaction.html#a1d3e482ad287dbfb537b525c41760cda" title="hsrcore::blockchain\l::SignedTransaction::id" alt="" coords="512,188,667,229"/>
+<area shape="rect" id="node11" href="$structhsrcore_1_1net_1_1_message.html#a367ca2a7e4c9d895287c4317ff2ffbec" title="hsrcore::net::Message::id" alt="" coords="504,254,675,281"/>
+<area shape="rect" id="node12" href="$classhsrcore_1_1net_1_1detail_1_1_blockchain_tied_message_cache.html#a4bbe4b097db98f9248a87032ffd0c484" title="hsrcore::net::detail\l::BlockchainTiedMessageCache\l::cache_message" alt="" coords="485,305,693,361"/>
+<area shape="rect" id="node13" href="$classhsrcore_1_1net_1_1detail_1_1_node_impl.html#a8ddb880322e2f7239743888ecc01a703" title="hsrcore::net::detail\l::NodeImpl::trigger_advertise\l_inventory_loop" alt="" coords="496,385,683,441"/>
+</map>

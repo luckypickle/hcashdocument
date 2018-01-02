@@ -1,0 +1,4 @@
+<map id="hsrcore::client::detail::ClientImpl::get_chain_id" name="hsrcore::client::detail::ClientImpl::get_chain_id">
+<area shape="rect" id="node2" href="$namespacehsrcore_1_1blockchain.html#adaed6ece3bd7e8e877b5e6ece617f698" title="hsrcore::blockchain\l::estimate_last_known\l_fork_from_git_revision\l_timestamp" alt="" coords="221,5,375,76"/>
+<area shape="rect" id="node3" href="$namespacehsrcore_1_1blockchain_1_1detail.html#a3b845c96702d3c73b2bfd4d2dbb4762c" title="hsrcore::blockchain\l::detail::initialize\l_fork_version_data_if\l_necessary" alt="" coords="423,5,565,76"/>
+</map>

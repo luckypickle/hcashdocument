@@ -1,0 +1,5 @@
+<map id="hsrcore::blockchain::detail::ChainDatabaseImpl::mark_as_unchecked" name="hsrcore::blockchain::detail::ChainDatabaseImpl::mark_as_unchecked">
+<area shape="rect" id="node2" href="$classhsrcore_1_1blockchain_1_1detail_1_1_chain_database_impl.html#a6d5fd0cb8bf8d286addeb2281b1b5a5b" title="hsrcore::blockchain\l::detail::ChainDatabaseImpl\l::clear_invalidation_of_future_blocks" alt="" coords="235,5,464,61"/>
+<area shape="rect" id="node4" href="$classhsrcore_1_1blockchain_1_1detail_1_1_chain_database_impl.html#a52366df8646e6e98455acd6d0c60945a" title="hsrcore::blockchain\l::detail::ChainDatabaseImpl\l::store_and_index" alt="" coords="259,85,440,141"/>
+<area shape="rect" id="node3" href="$classhsrcore_1_1blockchain_1_1detail_1_1_chain_database_impl.html#a985c617da22b4404abee2cda5540cf07" title="hsrcore::blockchain\l::detail::ChainDatabaseImpl\l::open_database" alt="" coords="512,5,693,61"/>
+</map>

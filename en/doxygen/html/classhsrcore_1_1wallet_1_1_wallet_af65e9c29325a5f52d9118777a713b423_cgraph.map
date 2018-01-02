@@ -1,0 +1,4 @@
+<map id="hsrcore::wallet::Wallet::asset_can_pay_fee" name="hsrcore::wallet::Wallet::asset_can_pay_fee">
+<area shape="rect" id="node2" href="$classhsrcore_1_1wallet_1_1_wallet.html#a642e63013a2ff7de99c6dadda4e1e0bf" title="hsrcore::wallet::Wallet\l::get_transaction_fee" alt="" coords="204,5,355,47"/>
+<area shape="rect" id="node3" href="$classhsrcore_1_1wallet_1_1_wallet.html#a5fa9d05b99389e596dadae3ddfb4cdf8" title="hsrcore::wallet::Wallet\l::is_open" alt="" coords="403,5,553,47"/>
+</map>

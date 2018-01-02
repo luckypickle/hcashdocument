@@ -1,0 +1,8 @@
+<map id="hsrcore::api::CommonApi::network_list_potential_peers" name="hsrcore::api::CommonApi::network_list_potential_peers">
+<area shape="rect" id="node2" href="$classhsrcore_1_1client_1_1detail_1_1_client_impl.html#abcd060447e76463b400bab714ee13f74" title="hsrcore::client::detail\l::ClientImpl::network\l_broadcast_transactions" alt="" coords="259,5,423,61"/>
+<area shape="rect" id="node3" href="$classhsrcore_1_1rpc__stubs_1_1_common_api_client.html#a71efe5bbf52aaf02916d968ce0621494" title="hsrcore::rpc_stubs\l::CommonApiClient::network\l_list_potential_peers" alt="" coords="248,85,435,141"/>
+<area shape="rect" id="node4" href="$classhsrcore_1_1rpc__stubs_1_1_common_api_rpc_server.html#a326652642c06660b8dfa37bc4b4af660" title="hsrcore::rpc_stubs\l::CommonApiRpcServer\l::network_list_potential\l_peers_positional" alt="" coords="261,261,421,331"/>
+<area shape="rect" id="node7" href="$classhsrcore_1_1rpc__stubs_1_1_common_api_rpc_server.html#a042a4bea6654b0dcae1a038e0d5e39e1" title="hsrcore::rpc_stubs\l::CommonApiRpcServer\l::network_list_potential\l_peers_named" alt="" coords="261,166,421,237"/>
+<area shape="rect" id="node5" href="$classhsrcore_1_1rpc__stubs_1_1_common_api_rpc_server.html#a45cf3aafd35992db4c663115daeeb234" title="hsrcore::rpc_stubs\l::CommonApiRpcServer\l::register_common_api\l_methods" alt="" coords="486,166,646,237"/>
+<area shape="rect" id="node6" href="$classhsrcore_1_1rpc__stubs_1_1_common_api_rpc_server.html#a0188b049d81ec379e3b00e02f4153dc2" title="hsrcore::rpc_stubs\l::CommonApiRpcServer\l::direct_invoke_positional\l_method" alt="" coords="483,261,649,331"/>
+</map>

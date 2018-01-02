@@ -1,0 +1,14 @@
+<map id="lua_State" name="lua_State">
+<area shape="rect" id="node5" href="$structglobal___state.html" title="{global_State\n|+ frealloc\l+ ud\l+ totalbytes\l+ GCdebt\l+ GCmemtrav\l+ GCestimate\l+ seed\l+ currentwhite\l+ gcstate\l+ gckind\l+ gcrunning\l+ gcfinnum\l+ gcpause\l+ gcstepmul\l+ version\l|}" alt="" coords="504,980,608,1263"/>
+<area shape="rect" id="node13" href="$struct_call_info.html" title="{CallInfo\n|+ savedpc\l+ l\l+ old_errfunc\l+ ctx\l+ c\l+ u\l+ extra\l+ nresults\l+ callstatus\l|}" alt="" coords="982,1024,1079,1219"/>
+<area shape="rect" id="node2" href="$struct_up_val.html" title="{UpVal\n|+ refcount\l+ touched\l+ open\l+ u\l|}" alt="" coords="804,291,884,412"/>
+<area shape="rect" id="node3" href="$structlua___t_value.html" title="{lua_TValue\n|+ TValuefields\l|}" alt="" coords="601,5,705,83"/>
+<area shape="rect" id="node8" href="$struct_table.html" title="{Table\n|+ CommonHeader\l+ flags\l+ lsizenode\l+ sizearray\l|}" alt="" coords="59,715,186,837"/>
+<area shape="rect" id="node9" href="$struct_node.html" title="{Node\n||}" alt="" coords="97,473,149,550"/>
+<area shape="rect" id="node10" href="$union_t_key.html" title="{TKey\n|+ TValuefields\l+ next\l+ nk\l|}" alt="" coords="79,160,183,267"/>
+<area shape="rect" id="node4" href="$structlua__longjmp.html" title="{lua_longjmp\n|+ b\l+ status\l|}" alt="" coords="1145,465,1236,557"/>
+<area shape="rect" id="node6" href="$structstringtable.html" title="{stringtable\n|+ nuse\l+ size\l|}" alt="" coords="425,730,508,822"/>
+<area shape="rect" id="node7" href="$struct_t_string.html" title="{TString\n|+ CommonHeader\l+ extra\l+ shrlen\l+ hash\l+ lnglen\l+ u\l|}" alt="" coords="409,436,535,587"/>
+<area shape="rect" id="node11" href="$struct_g_c_object.html" title="{GCObject\n|+ CommonHeader\l|}" alt="" coords="258,473,385,550"/>
+<area shape="rect" id="node12" href="$struct_glua_state_pre_processor_function.html" title="{GluaStatePreProcessorFunction\n|+ args\l+ processor\l|+ operator()()\l}" alt="" coords="743,465,953,557"/>
+</map>

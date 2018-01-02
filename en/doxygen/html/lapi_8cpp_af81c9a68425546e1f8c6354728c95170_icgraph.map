@@ -1,0 +1,14 @@
+<map id="lua_tointegerx" name="lua_tointegerx">
+<area shape="rect" id="node2" href="$lapi_8h.html#a4c4638e137973041d85575bbd697ddf1" title="luaL_traverse_table\l_with_nested" alt="" coords="156,5,289,47"/>
+<area shape="rect" id="node4" href="$lauxlib_8h.html#a7851b9225ae6cf73763109d26d50bd8e" title="lua_type_to_storage\l_value_type_with_nested" alt="" coords="540,64,707,105"/>
+<area shape="rect" id="node7" href="$lauxlib_8h.html#a4fab48acb62fbf5344ff26e482afaab2" title="luaL_checkinteger" alt="" coords="159,147,286,174"/>
+<area shape="rect" id="node13" href="$lauxlib_8h.html#ac9d38b77e425247b630afdb212401a05" title="luaL_len" alt="" coords="187,198,258,225"/>
+<area shape="rect" id="node3" href="$lauxlib_8h.html#abb7fbbf2e52b5529cb928931963da3a7" title="lua_table_to_map_with\l_nested" alt="" coords="337,5,492,47"/>
+<area shape="rect" id="node5" href="$lauxlib_8h.html#ac55421a1f16be38972cfee274ebd3c46" title="lua_type_to_storage\l_value_type" alt="" coords="775,71,914,112"/>
+<area shape="rect" id="node6" href="$lauxlib_8h.html#afa916a69134119cd53e3688e34c07dcb" title="lua_table_to_map_traverser\l_with_nested" alt="" coords="755,5,935,47"/>
+<area shape="rect" id="node8" href="$lauxlib_8h.html#aeb7f0d9ff0b8244215c2a5950a168bb8" title="luaL_optinteger" alt="" coords="359,223,470,250"/>
+<area shape="rect" id="node9" href="$lnetlib_8h.html#aefe21b2a0f67ed490726b96c81b54149" title="lualib_net_listen" alt="" coords="357,274,472,301"/>
+<area shape="rect" id="node11" href="$lnetlib_8h.html#acbccb6e16e1f36f38b723a49746da7dc" title="lualib_net_connect" alt="" coords="349,122,480,149"/>
+<area shape="rect" id="node12" href="$lnetlib_8h.html#a3f879e624e3ecab849ce0c5fda124e2b" title="lualib_net_read" alt="" coords="360,173,469,199"/>
+<area shape="rect" id="node10" href="$structglua_1_1net_1_1_uri.html#a0c7fecf529dd057d09676afdb73be1cf" title="glua::net::Uri::query\l_string_str" alt="" coords="555,165,691,207"/>
+</map>

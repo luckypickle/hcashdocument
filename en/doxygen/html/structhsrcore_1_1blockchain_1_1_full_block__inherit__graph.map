@@ -1,0 +1,4 @@
+<map id="hsrcore::blockchain::FullBlock" name="hsrcore::blockchain::FullBlock">
+<area shape="rect" id="node2" href="$structhsrcore_1_1blockchain_1_1_signed_block_header.html" title="{hsrcore::blockchain\l::SignedBlockHeader\n|+ delegate_signature\l|+ id()\l+ validate_signee()\l+ signee()\l+ sign()\l}" alt="" coords="8,365,152,501"/>
+<area shape="rect" id="node3" href="$structhsrcore_1_1blockchain_1_1_block_header.html" title="{hsrcore::blockchain\l::BlockHeader\n|+ previous\l+ block_num\l+ transaction_digest\l+ coin_base\l+ is_coinstake\l+ is_multisig_account\l+ reserver_data\l+ nbits\l+ sbits\l+ reserver_data1\l+ timestamp\l+ nNonce\l+ extra_nonce\l+ reserver_data2\l|+ digest()\l+ GetPoWHash()\l+ GetNoNonceHash()\l}" alt="" coords="5,5,155,317"/>
+</map>

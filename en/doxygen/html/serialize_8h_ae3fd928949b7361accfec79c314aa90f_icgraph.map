@@ -1,0 +1,6 @@
+<map id="ReadCompactSize" name="ReadCompactSize">
+<area shape="rect" id="node2" href="$serialize_8h.html#aa688c53c27044d715917e33769b4f415" title="Unserialize" alt="" coords="199,5,286,32"/>
+<area shape="rect" id="node3" href="$serialize_8h.html#ae8594814bba47036e603e447fbfd79ac" title="Unserialize_impl" alt="" coords="184,56,301,83"/>
+<area shape="rect" id="node4" href="$serialize_8h.html#a5748d9d17982b234b10a4b9e6f8e9f53" title="WrapVarInt" alt="" coords="349,31,436,57"/>
+<area shape="rect" id="node5" href="$serialize_8h.html#aefdf63d8c997767d3e3535a54f35025c" title="Unserialize" alt="" coords="349,81,436,108"/>
+</map>

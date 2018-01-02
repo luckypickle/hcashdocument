@@ -1,0 +1,14 @@
+<map id="hsrcore::blockchain::SignedBlockHeader::id" name="hsrcore::blockchain::SignedBlockHeader::id">
+<area shape="rect" id="node2" href="$classhsrcore_1_1blockchain_1_1detail_1_1_chain_database_impl.html#aeeffbabd2ac37bed5c061837beb8f8c1" title="hsrcore::blockchain\l::detail::ChainDatabaseImpl\l::extend_chain" alt="" coords="224,5,405,61"/>
+<area shape="rect" id="node4" href="$classhsrcore_1_1blockchain_1_1_chain_database.html#a0f23d5b78aaef58ad33f5b85db3f6749" title="hsrcore::blockchain\l::ChainDatabase::push_block" alt="" coords="219,86,411,127"/>
+<area shape="rect" id="node5" href="$classhsrcore_1_1blockchain_1_1_chain_database.html#a917efa83b8dc0d56fa722c3138d132f2" title="hsrcore::blockchain\l::ChainDatabase::CheckStake" alt="" coords="216,151,413,193"/>
+<area shape="rect" id="node6" href="$classhsrcore_1_1client_1_1detail_1_1_client_impl.html#ab0666bbff9d37e5923ddbd71a4ec5e36" title="hsrcore::client::detail\l::ClientImpl::delegate_loop" alt="" coords="227,217,402,258"/>
+<area shape="rect" id="node7" href="$classhsrcore_1_1client_1_1detail_1_1_client_impl.html#a053fc270374b23de2f20fcb1ed81a4a1" title="hsrcore::client::detail\l::ClientImpl::handle_message" alt="" coords="218,282,411,323"/>
+<area shape="rect" id="node8" href="$namespacehsrcore_1_1client_1_1detail.html#aa6e5e8c2f19ad844838194aa68459e68" title="hsrcore::client::detail\l::ThreadStakeMiner" alt="" coords="243,347,386,389"/>
+<area shape="rect" id="node10" href="$classhsrcore_1_1wallet_1_1detail_1_1_wallet_impl.html#ad6841db3acb81a5addd9a10e9f711ec0" title="hsrcore::wallet::detail\l::WalletImpl::scan_block" alt="" coords="232,413,397,454"/>
+<area shape="rect" id="node12" href="$classhsrcore_1_1wallet_1_1detail_1_1_wallet_impl.html#ae9f30be7ca4c44518a13257c208c7686" title="hsrcore::wallet::detail\l::WalletImpl::scan_block\l_experimental" alt="" coords="232,479,397,535"/>
+<area shape="rect" id="node13" href="$classhsrcore_1_1wallet_1_1_wallet.html#a316a0f4e57248785156172b53879bd3e" title="hsrcore::wallet::Wallet\l::CheckWork" alt="" coords="239,559,390,601"/>
+<area shape="rect" id="node3" href="$classhsrcore_1_1blockchain_1_1detail_1_1_chain_database_impl.html#afbdbe1d423c95c2fd6f44814300fffe3" title="hsrcore::blockchain\l::detail::ChainDatabaseImpl\l::switch_to_fork" alt="" coords="467,5,648,61"/>
+<area shape="rect" id="node9" href="$classhsrcore_1_1client_1_1detail_1_1_client_impl.html#afce88a14a09f444dd1ce966157c33e03" title="hsrcore::client::detail\l::ClientImpl::GenerateStakes" alt="" coords="463,347,652,389"/>
+<area shape="rect" id="node11" href="$classhsrcore_1_1wallet_1_1detail_1_1_wallet_impl.html#a3e00e30ab93eea32fb4fe5f6ab85fcba" title="hsrcore::wallet::detail\l::WalletImpl::start_scan_task" alt="" coords="461,413,653,454"/>
+</map>

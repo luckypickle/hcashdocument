@@ -1,0 +1,7 @@
+<map id="hsrcore::api::CommonApi::rpc_set_password" name="hsrcore::api::CommonApi::rpc_set_password">
+<area shape="rect" id="node2" href="$classhsrcore_1_1rpc__stubs_1_1_common_api_client.html#af2304f0f037982cca046bbed0ff98cc5" title="hsrcore::rpc_stubs\l::CommonApiClient::rpc\l_set_password" alt="" coords="241,5,401,61"/>
+<area shape="rect" id="node3" href="$classhsrcore_1_1rpc__stubs_1_1_common_api_rpc_server.html#abdb506fd3837b203b0ce5ea75c6bad87" title="hsrcore::rpc_stubs\l::CommonApiRpcServer\l::rpc_set_password_positional" alt="" coords="223,165,420,221"/>
+<area shape="rect" id="node6" href="$classhsrcore_1_1rpc__stubs_1_1_common_api_rpc_server.html#ac969420386c67a540100d0e43cce14b9" title="hsrcore::rpc_stubs\l::CommonApiRpcServer\l::rpc_set_password_named" alt="" coords="231,85,412,141"/>
+<area shape="rect" id="node4" href="$classhsrcore_1_1rpc__stubs_1_1_common_api_rpc_server.html#a45cf3aafd35992db4c663115daeeb234" title="hsrcore::rpc_stubs\l::CommonApiRpcServer\l::register_common_api\l_methods" alt="" coords="471,78,631,149"/>
+<area shape="rect" id="node5" href="$classhsrcore_1_1rpc__stubs_1_1_common_api_rpc_server.html#a0188b049d81ec379e3b00e02f4153dc2" title="hsrcore::rpc_stubs\l::CommonApiRpcServer\l::direct_invoke_positional\l_method" alt="" coords="468,173,635,243"/>
+</map>

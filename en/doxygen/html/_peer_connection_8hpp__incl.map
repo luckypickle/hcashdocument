@@ -1,0 +1,20 @@
+<map id="F:/hshare_org/Hcash/libraries/include/net/PeerConnection.hpp" name="F:/hshare_org/Hcash/libraries/include/net/PeerConnection.hpp">
+<area shape="rect" id="node2" href="$_node_8hpp.html" title="net/Node.hpp" alt="" coords="2410,273,2509,300"/>
+<area shape="rect" id="node4" href="$net_2_config_8hpp.html" title="net/Config.hpp" alt="" coords="3160,505,3265,531"/>
+<area shape="rect" id="node31" href="$_peer_database_8hpp.html" title="net/PeerDatabase.hpp" alt="" coords="1613,423,1764,449"/>
+<area shape="rect" id="node34" href="$_message_oriented_connection_8hpp.html" title="net/MessageOrientedConnection.hpp" alt="" coords="2824,117,3060,143"/>
+<area shape="rect" id="node36" href="$_stcp_socket_8hpp.html" title="net/StcpSocket.hpp" alt="" coords="3084,117,3221,143"/>
+<area shape="rect" id="node38" href="$_messages_8hpp.html" title="client/Messages.hpp" alt="" coords="2388,117,2531,143"/>
+<area shape="rect" id="node3" href="$_core_messages_8hpp.html" title="net/CoreMessages.hpp" alt="" coords="2439,423,2595,449"/>
+<area shape="rect" id="node17" href="$_message_8hpp.html" title="net/Message.hpp" alt="" coords="2727,423,2850,449"/>
+<area shape="rect" id="node22" href="$_transaction_8hpp.html" title="blockchain/Transaction.hpp" alt="" coords="829,423,1009,449"/>
+<area shape="rect" id="node30" href="$_block_8hpp.html" title="blockchain/Block.hpp" alt="" coords="2167,348,2314,375"/>
+<area shape="rect" id="node23" href="$_account_entry_8hpp.html" title="blockchain/AccountEntry.hpp" alt="" coords="1031,505,1223,531"/>
+<area shape="rect" id="node24" href="$_operations_8hpp.html" title="blockchain/Operations.hpp" alt="" coords="725,587,901,613"/>
+<area shape="rect" id="node25" href="$_storage_operations_8hpp.html" title="blockchain/StorageOperations.hpp" alt="" coords="205,505,426,531"/>
+<area shape="rect" id="node26" href="$_event_operations_8hpp.html" title="blockchain/EventOperations.hpp" alt="" coords="501,505,709,531"/>
+<area shape="rect" id="node27" href="$_balance_operations_8hpp.html" title="blockchain/BalanceOperations.hpp" alt="" coords="733,505,956,531"/>
+<area shape="rect" id="node28" href="$_withdraw_types_8hpp.html" title="blockchain/WithdrawTypes.hpp" alt="" coords="925,587,1127,613"/>
+<area shape="rect" id="node29" href="$_slate_entry_8hpp.html" title="blockchain/SlateEntry.hpp" alt="" coords="5,505,180,531"/>
+<area shape="rect" id="node39" href="$_client_8hpp.html" title="client/Client.hpp" alt="" coords="2402,199,2517,225"/>
+</map>

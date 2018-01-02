@@ -1,0 +1,7 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$structhsrcore_1_1blockchain_1_1_block_header.html" title="hsrcore::blockchain\l::BlockHeader" alt="" coords="5,39,140,80"/>
+<area shape="rect" id="node2" href="$structhsrcore_1_1blockchain_1_1_signed_block_header.html" title="hsrcore::blockchain\l::SignedBlockHeader" alt="" coords="188,39,332,80"/>
+<area shape="rect" id="node3" href="$structhsrcore_1_1blockchain_1_1_digest_block.html" title="hsrcore::blockchain\l::DigestBlock" alt="" coords="380,5,515,47"/>
+<area shape="rect" id="node5" href="$structhsrcore_1_1blockchain_1_1_full_block.html" title="hsrcore::blockchain\l::FullBlock" alt="" coords="380,71,515,112"/>
+<area shape="rect" id="node4" href="$structhsrcore_1_1blockchain_1_1_block_entry.html" title="hsrcore::blockchain\l::BlockEntry" alt="" coords="563,5,697,47"/>
+</map>

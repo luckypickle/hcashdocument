@@ -1,0 +1,5 @@
+<map id="hsrcore::client::detail::ClientImpl::get_head_block_id" name="hsrcore::client::detail::ClientImpl::get_head_block_id">
+<area shape="rect" id="node2" href="$namespacehsrcore_1_1client_1_1detail.html#ad1bb6b82fba1d1b94ed3013ba8b85007" title="hsrcore::client::detail\l::MilliSleep" alt="" coords="201,13,344,54"/>
+<area shape="rect" id="node3" href="$namespacehsrcore_1_1client_1_1detail.html#aa6e5e8c2f19ad844838194aa68459e68" title="hsrcore::client::detail\l::ThreadStakeMiner" alt="" coords="392,13,535,54"/>
+<area shape="rect" id="node4" href="$classhsrcore_1_1client_1_1detail_1_1_client_impl.html#afce88a14a09f444dd1ce966157c33e03" title="hsrcore::client::detail\l::ClientImpl::GenerateStakes" alt="" coords="583,13,772,54"/>
+</map>

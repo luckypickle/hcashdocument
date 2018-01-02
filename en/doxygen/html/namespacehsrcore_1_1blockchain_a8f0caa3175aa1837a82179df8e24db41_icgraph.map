@@ -1,0 +1,7 @@
+<map id="hsrcore::blockchain::is_power_of_ten" name="hsrcore::blockchain::is_power_of_ten">
+<area shape="rect" id="node2" href="$structhsrcore_1_1blockchain_1_1_asset_entry.html#a8bd41e111a894c93f35c1fca14973ab2" title="hsrcore::blockchain\l::AssetEntry::sanity_check" alt="" coords="189,5,369,47"/>
+<area shape="rect" id="node3" href="$structhsrcore_1_1blockchain_1_1_create_asset_operation.html#ac1970bd2114ffb698fbc1c8fb87b86a9" title="hsrcore::blockchain\l::CreateAssetOperation\l::evaluate" alt="" coords="199,71,358,127"/>
+<area shape="rect" id="node4" href="$structhsrcore_1_1blockchain_1_1_update_asset_operation.html#afce8a78e1d6608177d0f46dd5ad8fc4c" title="hsrcore::blockchain\l::UpdateAssetOperation\l::evaluate" alt="" coords="198,151,359,207"/>
+<area shape="rect" id="node5" href="$structhsrcore_1_1blockchain_1_1_update_asset_ext_operation.html#a557662937b41684d5f61601605f161be" title="hsrcore::blockchain\l::UpdateAssetExtOperation\l::evaluate" alt="" coords="188,231,369,287"/>
+<area shape="rect" id="node6" href="$classhsrcore_1_1wallet_1_1_wallet.html#ad175876af033874575813334dc8c19f3" title="hsrcore::wallet::Wallet\l::create_asset" alt="" coords="203,312,354,353"/>
+</map>

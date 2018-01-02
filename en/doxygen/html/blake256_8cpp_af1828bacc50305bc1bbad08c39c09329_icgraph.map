@@ -1,0 +1,5 @@
+<map id="blake256_update" name="blake256_update">
+<area shape="rect" id="node2" href="$blake256_8cpp.html#a86484617d38115d27c02d5223c5a0b3f" title="blake256_final" alt="" coords="173,5,277,32"/>
+<area shape="rect" id="node3" href="$blake256_8cpp.html#abba43f5b6e80901c8ae4dcc065f5ae3f" title="blake256_hash" alt="" coords="325,31,435,57"/>
+<area shape="rect" id="node4" href="$hash_8hpp.html#a27dbc93c8ca4f08f3f1ed34764ddca8d" title="HashR14" alt="" coords="483,31,557,57"/>
+</map>

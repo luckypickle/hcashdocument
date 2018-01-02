@@ -1,0 +1,5 @@
+<map id="hsrcore::net::detail::NodeImpl::save_node_configuration" name="hsrcore::net::detail::NodeImpl::save_node_configuration">
+<area shape="rect" id="node2" href="$classhsrcore_1_1net_1_1detail_1_1_node_impl.html#aec106e5a44d3d4e250591cf6305dbf09" title="hsrcore::net::detail\l::NodeImpl::listen_on\l_endpoint" alt="" coords="230,5,374,61"/>
+<area shape="rect" id="node3" href="$classhsrcore_1_1net_1_1detail_1_1_node_impl.html#a68c32d63276a68af3df346f3eed44767" title="hsrcore::net::detail\l::NodeImpl::accept_incoming\l_connections" alt="" coords="207,85,397,141"/>
+<area shape="rect" id="node4" href="$classhsrcore_1_1net_1_1detail_1_1_node_impl.html#af54c89fe8b7b64892e0f333cfab47289" title="hsrcore::net::detail\l::NodeImpl::listen_on_port" alt="" coords="215,166,389,207"/>
+</map>

@@ -1,0 +1,12 @@
+<map id="hsrcore::wallet::Wallet::friendly_import_private_key" name="hsrcore::wallet::Wallet::friendly_import_private_key">
+<area shape="rect" id="node2" href="$classhsrcore_1_1wallet_1_1_wallet.html#af3d9cc32af68f0a38c144f8489e2bb15" title="hsrcore::wallet::Wallet\l::get_private_key" alt="" coords="240,52,391,93"/>
+<area shape="rect" id="node6" href="$classhsrcore_1_1wallet_1_1_wallet.html#a2c185c1235d2cfbf3126331badc7eba8" title="hsrcore::wallet::Wallet\l::import_private_key" alt="" coords="240,144,391,185"/>
+<area shape="rect" id="node3" href="$classhsrcore_1_1wallet_1_1_wallet.html#a5fa9d05b99389e596dadae3ddfb4cdf8" title="hsrcore::wallet::Wallet\l::is_open" alt="" coords="865,52,1016,93"/>
+<area shape="rect" id="node4" href="$classhsrcore_1_1wallet_1_1_wallet.html#a519c123db91699c6d1432008896c8b23" title="hsrcore::wallet::Wallet\l::is_unlocked" alt="" coords="445,52,596,93"/>
+<area shape="rect" id="node5" href="$classhsrcore_1_1wallet_1_1_wallet.html#a6e0016a17a8a09a506c9dfa7bbbb5f5d" title="hsrcore::wallet::Wallet\l::is_locked" alt="" coords="659,52,809,93"/>
+<area shape="rect" id="node7" href="$structhsrcore_1_1wallet_1_1_key_data.html#ab5f12b5ccf9e187e75710677daa77773" title="hsrcore::wallet::KeyData\l::encrypt_private_key" alt="" coords="439,286,603,328"/>
+<area shape="rect" id="node8" href="$namespacehsrcore_1_1blockchain.html#a2d604a90c34e5cfbc5252d1596314373" title="hsrcore::blockchain::now" alt="" coords="651,227,817,254"/>
+<area shape="rect" id="node11" href="$classhsrcore_1_1wallet_1_1_wallet.html#a738d16d428549f8d2bd0f9d40167a93f" title="hsrcore::wallet::Wallet\l::add_contact_account" alt="" coords="443,169,598,210"/>
+<area shape="rect" id="node9" href="$namespacehsrcore_1_1blockchain.html#a6ab2a224374df515fe76b3799ed648fb" title="hsrcore::blockchain\l::ntp_time" alt="" coords="873,220,1008,261"/>
+<area shape="rect" id="node10" href="$namespacehsrcore_1_1blockchain_1_1detail.html#ae5c17ca96b07a1f76c62bc6fd564759c" title="hsrcore::blockchain\l::detail::ntp_service" alt="" coords="1064,220,1199,261"/>
+</map>

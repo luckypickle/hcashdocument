@@ -1,0 +1,5 @@
+<map id="hsrcore::client::detail::ClientImpl::fork_update_time_loop" name="hsrcore::client::detail::ClientImpl::fork_update_time_loop">
+<area shape="rect" id="node2" href="$namespacehsrcore_1_1blockchain.html#abb5edfde6100a1abc60f04b2b5f5e1c2" title="hsrcore::blockchain\l::update_ntp_time" alt="" coords="216,5,351,47"/>
+<area shape="rect" id="node4" href="$_common_api_overrides_8ipp.html#a8cd80c67e5e5a85c1c8be1ff5134a20a" title="wallet_get_account\l_owner_publickey" alt="" coords="217,71,350,112"/>
+<area shape="rect" id="node3" href="$namespacehsrcore_1_1blockchain_1_1detail.html#ae5c17ca96b07a1f76c62bc6fd564759c" title="hsrcore::blockchain\l::detail::ntp_service" alt="" coords="399,5,533,47"/>
+</map>

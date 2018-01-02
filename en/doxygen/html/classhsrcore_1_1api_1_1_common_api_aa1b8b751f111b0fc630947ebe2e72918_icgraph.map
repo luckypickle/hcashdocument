@@ -1,0 +1,7 @@
+<map id="hsrcore::api::CommonApi::delegate_set_soft_max_imessage_length" name="hsrcore::api::CommonApi::delegate_set_soft_max_imessage_length">
+<area shape="rect" id="node2" href="$classhsrcore_1_1rpc__stubs_1_1_common_api_client.html#a18402e612ca72e64a69bb8b33fc30cfd" title="hsrcore::rpc_stubs\l::CommonApiClient::delegate\l_set_soft_max_imessage_length" alt="" coords="223,5,435,61"/>
+<area shape="rect" id="node3" href="$classhsrcore_1_1rpc__stubs_1_1_common_api_rpc_server.html#a8682eb8e32ff774f8a222fca16ff7de2" title="hsrcore::rpc_stubs\l::CommonApiRpcServer\l::delegate_set_soft_max\l_imessage_length_positional" alt="" coords="234,181,423,251"/>
+<area shape="rect" id="node6" href="$classhsrcore_1_1rpc__stubs_1_1_common_api_rpc_server.html#a08b6a73fbcf4e4d284b6da804f38819a" title="hsrcore::rpc_stubs\l::CommonApiRpcServer\l::delegate_set_soft_max\l_imessage_length_named" alt="" coords="242,86,415,157"/>
+<area shape="rect" id="node4" href="$classhsrcore_1_1rpc__stubs_1_1_common_api_rpc_server.html#a45cf3aafd35992db4c663115daeeb234" title="hsrcore::rpc_stubs\l::CommonApiRpcServer\l::register_common_api\l_methods" alt="" coords="486,86,646,157"/>
+<area shape="rect" id="node5" href="$classhsrcore_1_1rpc__stubs_1_1_common_api_rpc_server.html#a0188b049d81ec379e3b00e02f4153dc2" title="hsrcore::rpc_stubs\l::CommonApiRpcServer\l::direct_invoke_positional\l_method" alt="" coords="483,181,649,251"/>
+</map>

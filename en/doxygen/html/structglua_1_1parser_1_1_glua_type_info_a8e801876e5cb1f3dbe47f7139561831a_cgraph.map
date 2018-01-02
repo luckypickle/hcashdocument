@@ -1,0 +1,8 @@
+<map id="glua::parser::GluaTypeInfo::contains_literal_item_type" name="glua::parser::GluaTypeInfo::contains_literal_item_type">
+<area shape="rect" id="node2" href="$structglua_1_1parser_1_1_glua_type_info.html#ac85531e48eece2fb44550285d302674b" title="glua::parser::GluaTypeInfo\l::is_literal_type" alt="" coords="235,5,408,47"/>
+<area shape="rect" id="node3" href="$structglua_1_1parser_1_1_glua_type_info.html#a56a85f42a022d06e607fe7e5a29a1ce9" title="glua::parser::GluaTypeInfo\l::is_literal_item_type" alt="" coords="235,173,408,215"/>
+<area shape="rect" id="node4" href="$structglua_1_1parser_1_1_glua_type_info.html#af479a64fb60af038310ad1d64739ff94" title="glua::parser::GluaTypeInfo\l::is_string" alt="" coords="456,67,629,108"/>
+<area shape="rect" id="node5" href="$structglua_1_1parser_1_1_glua_type_info.html#a9d1e2f79026fc660d73fe17186ae7c08" title="glua::parser::GluaTypeInfo\l::is_number" alt="" coords="456,133,629,175"/>
+<area shape="rect" id="node6" href="$structglua_1_1parser_1_1_glua_type_info.html#a477fbe6cb0a1f8452a41795b8f14bb8d" title="glua::parser::GluaTypeInfo\l::is_bool" alt="" coords="456,201,629,243"/>
+<area shape="rect" id="node7" href="$structglua_1_1parser_1_1_glua_type_info.html#ae75f55f32c83ce4dceacd9b1ae308128" title="glua::parser::GluaTypeInfo\l::is_nil" alt="" coords="456,272,629,313"/>
+</map>

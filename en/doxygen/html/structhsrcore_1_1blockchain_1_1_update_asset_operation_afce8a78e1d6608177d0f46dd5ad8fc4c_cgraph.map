@@ -1,0 +1,9 @@
+<map id="hsrcore::blockchain::UpdateAssetOperation::evaluate" name="hsrcore::blockchain::UpdateAssetOperation::evaluate">
+<area shape="rect" id="node2" href="$classhsrcore_1_1blockchain_1_1_chain_interface.html#aabf398a48e2ee054a89b53c976b3248e" title="hsrcore::blockchain\l::ChainInterface::get\l_asset_entry" alt="" coords="239,5,377,61"/>
+<area shape="rect" id="node3" href="$classhsrcore_1_1blockchain_1_1_transaction_evaluation_state.html#abf766ab90b7c62f3799014b3b7682b09" title="hsrcore::blockchain\l::TransactionEvaluationState\l::verify_authority" alt="" coords="215,85,401,141"/>
+<area shape="rect" id="node5" href="$namespacehsrcore_1_1blockchain.html#a8f0caa3175aa1837a82179df8e24db41" title="hsrcore::blockchain\l::is_power_of_ten" alt="" coords="241,166,375,207"/>
+<area shape="rect" id="node6" href="$classhsrcore_1_1blockchain_1_1_chain_interface.html#a55ff4009828e6fe471fce6890197e711" title="hsrcore::blockchain\l::ChainInterface::now" alt="" coords="237,231,379,273"/>
+<area shape="rect" id="node7" href="$classhsrcore_1_1blockchain_1_1_chain_interface.html#aff4288ed331a12e90e55039f25bda265" title="hsrcore::blockchain\l::ChainInterface::store\l_asset_entry" alt="" coords="233,297,383,353"/>
+<area shape="rect" id="node4" href="$classhsrcore_1_1blockchain_1_1_transaction_evaluation_state.html#ac2f347b449c83eb18f2f2258e77cf110" title="hsrcore::blockchain\l::TransactionEvaluationState\l::check_signature" alt="" coords="449,85,636,141"/>
+<area shape="rect" id="node8" href="$classhsrcore_1_1blockchain_1_1_chain_interface.html#aa2b96ebb8448dceb430ea0fbb61ca6c4" title="hsrcore::blockchain\l::ChainInterface::store" alt="" coords="468,305,617,346"/>
+</map>

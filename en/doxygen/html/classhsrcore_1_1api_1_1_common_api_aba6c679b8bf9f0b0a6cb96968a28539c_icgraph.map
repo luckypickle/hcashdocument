@@ -1,0 +1,9 @@
+<map id="hsrcore::api::CommonApi::blockchain_is_synced" name="hsrcore::api::CommonApi::blockchain_is_synced">
+<area shape="rect" id="node2" href="$namespacehsrcore_1_1client_1_1detail.html#aa6e5e8c2f19ad844838194aa68459e68" title="hsrcore::client::detail\l::ThreadStakeMiner" alt="" coords="253,5,396,47"/>
+<area shape="rect" id="node4" href="$classhsrcore_1_1rpc__stubs_1_1_common_api_client.html#a6e54a4c200bc47a20a9fc27eba7d7bac" title="hsrcore::rpc_stubs\l::CommonApiClient::blockchain\l_is_synced" alt="" coords="223,71,427,127"/>
+<area shape="rect" id="node5" href="$classhsrcore_1_1rpc__stubs_1_1_common_api_rpc_server.html#a81a8b75826d164e4f3936f188d3dd4fd" title="hsrcore::rpc_stubs\l::CommonApiRpcServer\l::blockchain_is_synced\l_positional" alt="" coords="245,232,405,303"/>
+<area shape="rect" id="node8" href="$classhsrcore_1_1rpc__stubs_1_1_common_api_rpc_server.html#a2f9e4d2e536932af581d8db67692b931" title="hsrcore::rpc_stubs\l::CommonApiRpcServer\l::blockchain_is_synced_named" alt="" coords="223,151,427,207"/>
+<area shape="rect" id="node3" href="$classhsrcore_1_1client_1_1detail_1_1_client_impl.html#afce88a14a09f444dd1ce966157c33e03" title="hsrcore::client::detail\l::ClientImpl::GenerateStakes" alt="" coords="475,5,664,47"/>
+<area shape="rect" id="node6" href="$classhsrcore_1_1rpc__stubs_1_1_common_api_rpc_server.html#a45cf3aafd35992db4c663115daeeb234" title="hsrcore::rpc_stubs\l::CommonApiRpcServer\l::register_common_api\l_methods" alt="" coords="489,144,649,215"/>
+<area shape="rect" id="node7" href="$classhsrcore_1_1rpc__stubs_1_1_common_api_rpc_server.html#a0188b049d81ec379e3b00e02f4153dc2" title="hsrcore::rpc_stubs\l::CommonApiRpcServer\l::direct_invoke_positional\l_method" alt="" coords="486,239,653,309"/>
+</map>

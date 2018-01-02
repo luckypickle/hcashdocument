@@ -1,0 +1,32 @@
+<map id="F:/hshare_org/Hcash/libraries/include/client/Messages.hpp" name="F:/hshare_org/Hcash/libraries/include/client/Messages.hpp">
+<area shape="rect" id="node2" href="$_block_8hpp.html" title="blockchain/Block.hpp" alt="" coords="1017,632,1164,659"/>
+<area shape="rect" id="node25" href="$_client_8hpp.html" title="client/Client.hpp" alt="" coords="1100,109,1214,136"/>
+<area shape="rect" id="node3" href="$_transaction_8hpp.html" title="blockchain/Transaction.hpp" alt="" coords="2022,707,2202,733"/>
+<area shape="rect" id="node19" href="$uint256_8hpp.html" title="utilities/uint256.hpp" alt="" coords="1063,707,1198,733"/>
+<area shape="rect" id="node4" href="$_account_entry_8hpp.html" title="blockchain/AccountEntry.hpp" alt="" coords="3194,781,3386,808"/>
+<area shape="rect" id="node6" href="$_operations_8hpp.html" title="blockchain/Operations.hpp" alt="" coords="1732,856,1908,883"/>
+<area shape="rect" id="node7" href="$_storage_operations_8hpp.html" title="blockchain/StorageOperations.hpp" alt="" coords="1709,781,1930,808"/>
+<area shape="rect" id="node8" href="$_event_operations_8hpp.html" title="blockchain/EventOperations.hpp" alt="" coords="1477,781,1685,808"/>
+<area shape="rect" id="node14" href="$_balance_operations_8hpp.html" title="blockchain/BalanceOperations.hpp" alt="" coords="2006,781,2228,808"/>
+<area shape="rect" id="node15" href="$_withdraw_types_8hpp.html" title="blockchain/WithdrawTypes.hpp" alt="" coords="2128,856,2330,883"/>
+<area shape="rect" id="node16" href="$_slate_entry_8hpp.html" title="blockchain/SlateEntry.hpp" alt="" coords="2456,781,2631,808"/>
+<area shape="rect" id="node9" href="$_types_8hpp.html" title="blockchain/Types.hpp" alt="" coords="2422,931,2570,957"/>
+<area shape="rect" id="node10" href="$_address_8hpp.html" title="blockchain/Address.hpp" alt="" coords="764,1005,926,1032"/>
+<area shape="rect" id="node11" href="$_pts_address_8hpp.html" title="blockchain/PtsAddress.hpp" alt="" coords="713,1080,894,1107"/>
+<area shape="rect" id="node26" href="$api_2_common_api_8hpp.html" title="api/CommonApi.hpp" alt="" coords="1113,259,1252,285"/>
+<area shape="rect" id="node30" href="$_chain_database_8hpp.html" title="blockchain/ChainDatabase.hpp" alt="" coords="2563,408,2764,435"/>
+<area shape="rect" id="node40" href="$_node_8hpp.html" title="net/Node.hpp" alt="" coords="425,333,524,360"/>
+<area shape="rect" id="node43" href="$_wallet_8hpp.html" title="wallet/Wallet.hpp" alt="" coords="1322,333,1443,360"/>
+<area shape="rect" id="node44" href="$_seed_nodes_8hpp.html" title="client/SeedNodes.hpp" alt="" coords="945,184,1094,211"/>
+<area shape="rect" id="node45" href="$_rpc_client_api_8hpp.html" title="rpc/RpcClientApi.hpp" alt="" coords="336,259,480,285"/>
+<area shape="rect" id="node47" href="$_common_api_client_8hpp.html" title="rpc_stubs/CommonApiClient.hpp" alt="" coords="708,184,920,211"/>
+<area shape="rect" id="node27" href="$_api_metadata_8hpp.html" title="api/ApiMetadata.hpp" alt="" coords="548,333,689,360"/>
+<area shape="rect" id="node28" href="$_asset_entry_8hpp.html" title="blockchain/AssetEntry.hpp" alt="" coords="2354,632,2533,659"/>
+<area shape="rect" id="node29" href="$_block_entry_8hpp.html" title="blockchain/BlockEntry.hpp" alt="" coords="1271,557,1448,584"/>
+<area shape="rect" id="node33" href="$_wallet_entrys_8hpp.html" title="wallet/WalletEntrys.hpp" alt="" coords="2808,632,2967,659"/>
+<area shape="rect" id="node35" href="$_mining_types_8hpp.html" title="blockchain/MiningTypes.hpp" alt="" coords="1468,333,1654,360"/>
+<area shape="rect" id="node41" href="$wallet_2_pretty_8hpp.html" title="wallet/Pretty.hpp" alt="" coords="1298,408,1416,435"/>
+<area shape="rect" id="node42" href="$_transaction_builder_8hpp.html" title="wallet/TransactionBuilder.hpp" alt="" coords="1678,557,1868,584"/>
+<area shape="rect" id="node31" href="$_chain_interface_8hpp.html" title="blockchain/ChainInterface.hpp" alt="" coords="2473,483,2668,509"/>
+<area shape="rect" id="node32" href="$_delegate_config_8hpp.html" title="blockchain/DelegateConfig.hpp" alt="" coords="2920,781,3120,808"/>
+</map>

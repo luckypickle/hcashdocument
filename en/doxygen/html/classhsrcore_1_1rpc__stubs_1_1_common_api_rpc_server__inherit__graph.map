@@ -1,0 +1,3 @@
+<map id="hsrcore::rpc_stubs::CommonApiRpcServer" name="hsrcore::rpc_stubs::CommonApiRpcServer">
+<area shape="rect" id="node2" href="$classhsrcore_1_1rpc_1_1detail_1_1_rpc_server_impl.html" title="{hsrcore::rpc::detail\l::RpcServerImpl\n|+ _config\l+ _client\l+ _httpd\l+ _tcp_serv\l+ _stcp_serv\l+ _accept_loop_complete\l+ _encrypted_accept_loop\l_complete\l+ _self\l+ _on_quit_promise\l+ _thread\land 9 more...\l|+ RpcServerImpl()\l+ shutdown_rpc_server()\l+ get_client()\l+ verify_json_connection\l_is_authenticated()\l+ verify_wallet_is_open()\l+ verify_wallet_is_unlocked()\l+ verify_sandbox_is_open()\l+ verify_connected_to\l_network()\l+ store_method_metadata()\l+ help()\land 29 more...\l}" alt="" coords="5,365,192,795"/>
+</map>
